@@ -1,0 +1,72 @@
+﻿l_russian:
+  
+ #saielaian Loc 
+ saielaian_religion: "Saielaian" #Машинный перевод 30.06.2023
+ saielaian_religion_adj: "Saielaian" #Машинный перевод 30.06.2023
+ saielaian_religion_adjerent: "Saielaian" #Машинный перевод 30.06.2023
+ saielaian_religion_adherent_plural: "сайелайцы" #Машинный перевод 30.06.2023
+ saielaian_religion_desc: "Разнообразные религиозные выражения народа сайелаи имеют тенденцию к формам поклонения предкам, при этом ожидается, что каждая большая семья будет содержать святыню, посвященную каждому умершему поколению. [magi|E] с возможностью контакта с духами пользуются большим спросом у тех, кто может позволить себе их услуги. Сайелаанский пантеон богов является прямым продолжением частной веры, а легендарные Десять Матерей Сайелаи считаются прародительницами своего народа. Легенды гласят, что эти десять матриархов-предков путешествовали через Восточное море в поисках убежища на далекой родине, теперь затерянной под волнами." #Машинный перевод 30.06.2023
+ saielaian_high_god_name: "Хоат Дрит" #Машинный перевод 30.06.2023
+ saielaian_high_god_name_possessive: "Хоат Дрит" #Машинный перевод 30.06.2023
+ saielaian_high_god_name_alternate: "Десять сестер" #Машинный перевод 30.06.2023
+ saielaian_high_god_name_alternate_possessive: "Десять сестер" #Машинный перевод 30.06.2023
+ saielaian_devil_name: "Mặdet tajrăng" #Машинный перевод 30.06.2023
+ saielaian_devil_name_possessive: "Mặdet tajrăng" #Машинный перевод 30.06.2023
+ saielaian_death_deity_name: "Mặdet tajrăng" #Машинный перевод 30.06.2023
+ saielaian_death_deity_name_possessive: "Mặdet tajrăn" #Машинный перевод 30.06.2023
+  
+  
+  
+ saielaian_house_of_worship: "Храм" #Машинный перевод 30.06.2023
+ saielaian_house_of_worship_plural: "Святыни" #Машинный перевод 30.06.2023
+ saielaian_religious_symbol: "Будьин" #Машинный перевод 30.06.2023
+ saielaian_religious_text: "Путешествия" #Машинный перевод 30.06.2023
+  
+ saielaian_religious_head_title: "Первосвященник" #Машинный перевод 30.06.2023
+ saielaian_religious_head_title_name: ""
+ saielaian_devotee_male: "поклоняющийся" #Машинный перевод 30.06.2023
+ saielaian_devotee_male_plural: "поклонники" #Машинный перевод 30.06.2023
+ saielaian_devotee_female: "поклоняющийся" #Машинный перевод 30.06.2023
+ saielaian_devotee_female_plural: "поклонники" #Машинный перевод 30.06.2023
+ saielaian_devotee_neuter: "поклоняющийся" #Машинный перевод 30.06.2023
+ saielaian_devotee_neuter_plural: "поклонники" #Машинный перевод 30.06.2023
+ saielaian_priest_male: "священник" #Машинный перевод 30.06.2023
+ saielaian_priest_male_plural: "священники" #Машинный перевод 30.06.2023
+ saielaian_priest_female: "жрица" #Машинный перевод 30.06.2023
+ saielaian_priest_female_plural: "жрицы" #Машинный перевод 30.06.2023
+ saielaian_priest_alternate_plural: "священник" #Машинный перевод 30.06.2023
+ saielaian_bishop: "священник" #Машинный перевод 30.06.2023
+ saielaian_bishop_plural: "священник" #Машинный перевод 30.06.2023
+ saielaian_positive_afterlife: "Загробная жизнь" #Машинный перевод 30.06.2023
+ saielaian_negative_afterlife: "Загробная жизнь" #Машинный перевод 30.06.2023
+  
+ saielaian_creator_god_name: "$saielaian_high_god_name$" #Машинный перевод 30.06.2023
+ saielaian_creator_god_name_possessive: "$saielaian_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ saielaian_health_god_name: "Бабушка Киен" #Машинный перевод 30.06.2023
+ saielaian_health_god_name_possessive: "Бабушка Киен" #Машинный перевод 30.06.2023
+ saielaian_fertility_god_name: "$saielaian_high_god_name$" #Машинный перевод 30.06.2023
+ saielaian_fertility_god_name_possessive: "$saielaian_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ saielaian_wealth_god_name: "$saielaian_high_god_name$" #Машинный перевод 30.06.2023
+ saielaian_wealth_god_name_possessive: "$saielaian_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ saielaian_household_god_name: "$saielaian_health_god_name$" #Машинный перевод 30.06.2023
+ saielaian_household_god_name_possessive: "$saielaian_health_god_name_possessive$" #Машинный перевод 30.06.2023
+ saielaian_fate_god_name: "$saielaian_high_god_name$" #Машинный перевод 30.06.2023
+ saielaian_fate_god_name_possessive: "$saielaian_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ saielaian_knowledge_god_name: "$saielaian_high_god_name$" #Машинный перевод 30.06.2023
+ saielaian_knowledge_god_name_possessive: "$saielaian_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ saielaian_war_god_name: "$saielaian_high_god_name$" #Машинный перевод 30.06.2023
+ saielaian_war_god_name_possessive: "$saielaian_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ saielaian_trickster_god_name: "Фортуна" #Машинный перевод 30.06.2023
+ saielaian_trickster_god_name_possessive: "Фортуна" #Машинный перевод 30.06.2023
+ saielaian_night_god_name: "$saielaian_high_god_name$" #Машинный перевод 30.06.2023
+ saielaian_night_god_name_possessive: "$saielaian_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ saielaian_water_god_name: "$saielaian_health_god_name$" #Машинный перевод 30.06.2023
+ saielaian_water_god_name_possessive: "$saielaian_health_god_name_possessive$" #Машинный перевод 30.06.2023
+ saielaian_witch_god_name: "Йохан" #Машинный перевод 30.06.2023
+ saielaian_witch_god_name_possessive: "Йохана" #Машинный перевод 30.06.2023
+  
+ bayn_huac: "Байн Хуак Дрим" #Машинный перевод 30.06.2023
+ bayn_huac_adj: "Байн Хуак Дрим" #Машинный перевод 30.06.2023
+ bayn_huac_adherent: "Поклонник" #Машинный перевод 30.06.2023
+ bayn_huac_desc: "Вера, найденная на давно завоеванной, но всегда беспокойной территории Сайелаи, Байн Хуак Дрием, по сути, является формой матриархального поклонения предкам. Ожидается, что приверженцы сохранят святыни в честь происхождения своих матерей и бабушек, а более богатые покровители должны будут делать более сложные подношения. В частности, в почете высоко ценятся реалистичные портреты и скульптуры, в результате чего Сайелаи произвел на свет одних из самых известных художников-портретистов и скульпторов Востока. Их лучшая работа, конечно же, всегда была направлена ​​на почитание святынь своих матерей." #Машинный перевод 30.06.2023
+ bayn_huac_adherent_plural: "поклонники" #Машинный перевод 30.06.2023

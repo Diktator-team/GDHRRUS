@@ -1,0 +1,90 @@
+﻿l_russian:
+ councillor_court_magi: "Court [magi|E]"
+ councillor_court_magi_possessive: "Court [magi|E]'s"
+ councillor_court_magi_desc: "Придворные волхвы" #Машинный перевод 30.06.2023
+ game_concept_court_magi: "Придворные волхвы" #Машинный перевод 30.06.2023
+ game_concept_court_magi_desc: "Придворные волхвы" #Машинный перевод 30.06.2023
+  
+ councillor_quartermaster: "квартирмейстер" #Машинный перевод 30.06.2023
+ councillor_quartermaster_possessive: "Квартирмейстерский" #Машинный перевод 30.06.2023
+ councillor_quartermaster_desc: "Квартирмейстер отвечает за управление всеми логистическими частями вашего флота, такими как организация рейдов, поддержание порядка в команде и продажа украденных товаров." #Машинный перевод 30.06.2023
+ game_concept_quartermaster: "квартирмейстер" #Машинный перевод 30.06.2023
+ game_concept_quartermaster_desc: "Квартирмейстер отвечает за управление всеми логистическими частями вашего флота, такими как организация рейдов, поддержание порядка в команде и продажа украденных товаров." #Машинный перевод 30.06.2023
+  
+ task_court_magi_boost_magic_power: "Повышение магической силы" #Машинный перевод 30.06.2023
+ task_court_magi_boost_magic_power_desc: ""
+ task_court_magi_boost_magic_power_effect_desc: "Перенесет #positive_value [SCOPE.ScriptValue('court_magi_transfer_value')|1]#!@magic_icon!from своих ежемесячных #E Magic#! в ваш собственный пул." #Машинный перевод 30.06.2023
+ task_court_magi_boost_magic_power_modifier: "Магическая сила от придворных волхвов" #Машинный перевод 30.06.2023
+  
+ task_court_magi_tutor_magic: "Репетитор Ребенок" #Машинный перевод 30.06.2023
+ task_court_magi_tutor_magic_desc: ""
+ task_court_magi_tutor_magic_effect_desc: "Будет обучать детей тайным искусствам, постепенно повышая уровень их магического образования." #Машинный перевод 30.06.2023
+  
+ task_court_magi_cast_spells: "Заклинания" #Машинный перевод 30.06.2023
+ task_court_magi_cast_spells_desc: "С их помощью можно будет использовать заклинания, ограниченные собственным запасом магии и навыками." #Машинный перевод 30.06.2023
+ task_court_magi_cast_spells_effect_desc: "С их помощью можно будет использовать заклинания, ограниченные собственным запасом магии и навыками." #Машинный перевод 30.06.2023
+  
+ I_MUST_BE_A_MAGI: "Я должен быть [Concept('magi' 'магом'|Е] чтобы быть сделать это."
+ I_AM_NOT_A_MAGI: "Я не [Concept('magi' 'маг'|Е]."
+ THEY_MUST_BE_A_MAGI: "[magi|E]" #Машинный перевод 30.06.2023
+ THEY_ARE_NOT_A_MAGI: "[magi|E]" #Машинный перевод 30.06.2023
+  
+  
+  ####################### 
+  # QUARTERMASTER TASKS # 
+  ####################### 
+  
+ task_manage_crew: "Управление командой" #Машинный перевод 30.06.2023
+ task_manage_crew_effect_desc: "[councillor.GetModifierDescForTask('task_manage_crew')]\nПолучите дополнительную добычу во время рейда" #Машинный перевод 30.06.2023
+ task_manage_crew_recruitment_drive: "\n$EFFECT_LIST_BULLET$#P Набор персонала#!" #Машинный перевод 30.06.2023
+ task_manage_crew_tall_tales_spread: "\n$EFFECT_LIST_BULLET$#P Распространение славы#!" #Машинный перевод 30.06.2023
+ task_manage_crew_disorganized_crew: "\n$EFFECT_LIST_BULLET$#N Дезорганизованная команда#!" #Машинный перевод 30.06.2023
+ task_manage_crew_mutiny: "\n$EFFECT_LIST_BULLET$#N Мятеж#!" #Машинный перевод 30.06.2023
+ task_manage_crew_tooltip: "От $task_manage_crew$" #Машинный перевод 30.06.2023
+  
+ task_commerce_raid: "Рейдовая коммерция" #Машинный перевод 30.06.2023
+  
+ task_commerce_raid_desc: "Нападайте на торговлю и коммерцию по всей вашей империи. Нажмите на это задание, чтобы увидеть вашу текущую область рейдов, затем нажмите на любое графство в этой области, чтобы начать рейды на них все." #Машинный перевод 30.06.2023
+ task_commerce_raid_effect_desc_1: "\nВ настоящее время вы можете зарабатывать @gold_icon!#P [raiding_balance_income|E]#! [gold|E] в месяц на торговых рейдах" #Машинный перевод 30.06.2023
+ task_commerce_raid_effect_desc_2: "\nВ настоящее время вы можете зарабатывать @gold_icon!#P [raiding_balance_cap|E]#! [gold|E] из возможных @gold_icon!#P [raiding_balance_income|E]#! [gold|E] в месяц за счет торговых рейдеров. Установите больше [shadow_ports|E], чтобы поднять шапку." #Машинный перевод 30.06.2023
+ task_commerce_raid_straits_income: "\n[GetScriptedGui('commerce_raiding_straits_income_scripted_gui').BuildTooltip(GuiScope.SetRoot(GetPlayer.MakeScope).End)]" #Машинный перевод 30.06.2023
+ commerce_raiding_strait_income_intro_tt: "Дополнительный доход от основного [straits|E]:" #Машинный перевод 30.06.2023
+ commerce_raiding_strait_income_tt: "[THIS.Var('strait_name').GetFlagName]: @gold_icon!#P [THIS.ScriptValue('total_income_from_strait_value')]#!" #Машинный перевод 30.06.2023
+ no_owned_straits: "Вы не контролируете торговые слияния" #Машинный перевод 30.06.2023
+  
+ testing_tooltip: "[THIS.ScriptValue('fingers_crossed')]" #Машинный перевод 30.06.2023
+  
+ commerce_raiding_competition_exists: "#X Уменьшено вдвое из-за конкуренции#!" #Машинный перевод 30.06.2023
+ commerce_raiding_competition_does_not_exist: ""
+ task_commerce_raid_capture_ship: "\n$EFFECT_LIST_BULLET$#P Захват корабля с сокровищами#!" #Машинный перевод 30.06.2023
+ task_commerce_raid_kidnap_captives: "\n$EFFECT_LIST_BULLET$#P Похищение пленников#!" #Машинный перевод 30.06.2023
+ task_commerce_raid_failed_raids: "\n$EFFECT_LIST_BULLET$#N Неудачные рейды#!" #Машинный перевод 30.06.2023
+ task_commerce_raid_anger_ruler: "\n$EFFECT_LIST_BULLET$#N Повелители гнева#!" #Машинный перевод 30.06.2023
+  
+ task_establish_shadow_port: "Установить теневой порт" #Машинный перевод 30.06.2023
+ task_establish_shadow_port_desc: "#S В #V 100%#!#!:\n$TAB$Opportunity для создания [shadow_port|E]" #Машинный перевод 30.06.2023
+ task_establish_shadow_port_control_desc: "\nУровень контроля [county.GetNameNoTier]: [SCOPE.ScriptValue('quartermaster_county_control_level')]\nДополнительная способность совершать набеги на торговлю: [SCOPE.ScriptValue('quartermaster_county_raid_cap')]" #Машинный перевод 30.06.2023
+ possible_side_effects: "\n#P Жадный портовый чиновник#!\n#N Разъяренная цель#!\n#N Неподкупный инспектор#!" #Машинный перевод 30.06.2023
+  
+  
+  
+ world_ga_imperial_isle_income_tt: "[GetGeographicalRegion('world_ga_imperial_isle').GetName]: @gold_icon!#P [SCOPE.ScriptValue('world_ga_imperial_isle_value')]#!" #Машинный перевод 30.06.2023
+ world_ga_marcher_kingdoms_income_tt: "[GetGeographicalRegion('world_ga_marcher_kingdoms').GetName]: @gold_icon!#P [SCOPE.ScriptValue('world_ga_marcher_kingdoms_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_imperial_strait_income_tt: "[GetGeographicalRegion('trade_confluence_imperial_strait').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_imperial_strait_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_helvian_delta_income_tt: "[GetGeographicalRegion('trade_confluence_helvian_delta').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_helvian_delta_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_evimos_strait_income_tt: "[GetGeographicalRegion('trade_confluence_evimos_strait').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_evimos_strait_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_bay_of_swords_income_tt: "[GetGeographicalRegion('trade_confluence_bay_of_swords').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_bay_of_swords_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_varhara_channel_income_tt: "[GetGeographicalRegion('trade_confluence_varhara_channel').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_varhara_channel_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_mouth_of_tarsuria_income_tt: "[GetGeographicalRegion('trade_confluence_mouth_of_tarsuria').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_mouth_of_tarsuria_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_the_watched_channel_income_tt: "[GetGeographicalRegion('trade_confluence_the_watched_channel').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_the_watched_channel_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_kratemezin_rim_income_tt: "[GetGeographicalRegion('trade_confluence_kratemezin_rim').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_kratemezin_rim_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_krehejad_income_tt: "[GetGeographicalRegion('trade_confluence_krehejad').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_krehejad_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_the_pirate_coast_income_tt: "[GetGeographicalRegion('trade_confluence_the_pirate_coast').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_the_pirate_coast_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_teltheans_strait_income_tt: "[GetGeographicalRegion('trade_confluence_teltheans_strait').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_teltheans_strait_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_ageotaros_income_tt: "[GetGeographicalRegion('trade_confluence_ageotaros').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_ageotaros_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_korvion_strait_income_tt: "[GetGeographicalRegion('trade_confluence_korvion_strait').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_korvion_strait_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_volos_pathway_income_tt: "[GetGeographicalRegion('trade_confluence_volos_pathway').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_volos_pathway_value')]#!" #Машинный перевод 30.06.2023
+ trade_confluence_pathos_tower_income_tt: "[GetGeographicalRegion('trade_confluence_pathos_tower').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_pathos_tower_value')]#!" #Машинный перевод 30.06.2023
+  
+  
+ quartermaster_task_angered_ruler_opinion: "Незаконное пиратство" #Машинный перевод 30.06.2023

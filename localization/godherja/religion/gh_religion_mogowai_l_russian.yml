@@ -1,0 +1,98 @@
+﻿l_russian:
+  
+ #mogowai Loc 
+ mogowai_religion: "Маговаи"
+ mogowai_religion_adj: "Маговаи"
+ mogowai_religion_adherent: "Маговаи"
+ mogowai_religion_adherent_plural: "Маговаи"
+ mogowai_religion_desc: "Моговаи верят, что их бог, известный только как Всевышний, когда-то имел физический аватар, который ходил по Аэрасу и общался с просителями. Однако на него напала армия неверующих, которые сожгли его храмы, уничтожили его жертвоприношения и даже убили его. Его тело было увезено в неизвестные места, и долг Моговаев ("Искателей" на их языке) - разыскать это тело и провести над ним надлежащие последние обряды, после чего Всевышний родится в новом теле, и мир вернется в мир"
+ mogowai_high_god_name: "Тот, кто был самым высоким"
+ mogowai_high_god_name_possessive: "Его"
+ mogowai_high_god_name_alternate: "Мертвый Бог"
+ mogowai_high_god_name_alternate_possessive: "The Dead God's"
+ mogowai_death_deity_name: "Всевышний"
+ mogowai_death_deity_name_possessive: "Всевышнего"
+ mogowai_devil_name: "Сжигатель храмов"
+ mogowai_devil_name_possessive: "Сжигатель храмов"
+  
+ mogowai_house_of_worship: "Храм"
+ mogowai_house_of_worship_plural: "Храмы"
+ mogowai_religious_symbol: "Карта небес"
+ mogowai_religious_text: "Гимны небес"
+  
+ mogowai_religious_head_title: "Кихинет"
+ mogowai_religious_head_title_name: "Кихинети Моготада"
+ mogowai_devotee_male: "Маговаи"
+ mogowai_devotee_male_plural: "Маговаи"
+ mogowai_devotee_female: "Маговаи"
+ mogowai_devotee_female_plural: "Маговаи"
+ mogowai_devotee_neuter: "Маговаи"
+ mogowai_devotee_neuter_plural: "Маговаи"
+ mogowai_priest: "Ekagīb"
+ mogowai_priest_plural: "Ekagībs"
+ mogowai_priest_alternate: "Siiret"
+ mogowai_priest_alternate_plural: "Siirets"
+ mogowai_bishop: "Aminet"
+ mogowai_bishop_plural: "Аминец"
+ mogowai_positive_afterlife: "Воссоединение с мертвым богом"
+ mogowai_negative_afterlife: "Пустые небеса"
+  
+ mogowai_creator_god_name: "$mogowai_high_god_name$"
+ mogowai_creator_god_name_possessive: "$mogowai_high_god_name_possessive$"
+ mogowai_health_god_name: "$mogowai_high_god_name_alternate$"
+ mogowai_health_god_name_possessive: "$mogowai_high_god_name_alternate_possessive$"
+ mogowai_fertility_god_name: "$mogowai_high_god_name$"
+ mogowai_fertility_god_name_possessive: "$mogowai_high_god_name_possessive$"
+ mogowai_wealth_god_name: "$mogowai_high_god_name$"
+ mogowai_wealth_god_name_possessive: "$mogowai_high_god_name_possessive$"
+ mogowai_household_god_name: "$mogowai_high_god_name_alternate$"
+ mogowai_household_god_name_possessive: "$mogowai_high_god_name_alternate_possessive$"
+ mogowai_fate_god_name: "$mogowai_high_god_name_alternate$"
+ mogowai_fate_god_name_possessive: "$mogowai_high_god_name_alternate_possessive$"
+ mogowai_knowledge_god_name: "$mogowai_high_god_name$"
+ mogowai_knowledge_god_name_possessive: "$mogowai_high_god_name_possessive$"
+ mogowai_war_god_name: "$mogowai_high_god_name_alternate$"
+ mogowai_war_god_name_possessive: "$mogowai_high_god_name_alternate_possessive$"
+ mogowai_trickster_god_name: "Сжигатель храмов"
+ mogowai_trickster_god_name_possessive: "Сжигатель храмов"
+ mogowai_night_god_name: "Темный"
+ mogowai_night_god_name_possessive: "the Dark's"
+ mogowai_water_god_name: "Всевышний"
+ mogowai_water_god_name_possessive: "Его"
+ mogowai_witch_god_name: "$mogowai_death_god_name$" #Машинный перевод 30.06.2023
+ mogowai_witch_god_name_possessive: "$mogowai_death_god_name_possessive$" #Машинный перевод 30.06.2023
+  
+ #mogowai loc 
+ mogowai: "Моговаи"
+ mogowai_adj: "Моговаи"
+ mogowai_adherent: "Моговаи"
+ mogowai_adherent_plural: "Моговаи"
+ mogowai_desc: "Основное течение моговай, кодифицированное в [Concept('karururi_chorus','Карурури-хорус')|E], относятся к своей задаче найти тело Всевышнего невероятно серьезно. Многие просто молятся, чтобы Он привел Своих последователей к месту Своего последнего упокоения, но другие вынуждены сами отправляться в мир и искать. Они повторяют старые пути, считавшиеся тупиковыми, или ищут в совершенно неизведанных местах, преследуют любую зацепку о священном месте захоронения в надежде выполнить свою единственную цель. Считается, что, когда они найдут его, он снова воскреснет и превратит мир в рай."
+  
+ #bekashai loc 
+ bekashai: "Бекашай"
+ bekashai_adj: "Бекашай"
+ bekashai_adherent: "Бекашай"
+ bekashai_adherent_plural: "Бекашай"
+ bekashai_desc: "Бекашаи считают, что те, кто убил Всевышнего, должны предстать перед судом, полагая, что только через месть можно найти Его тело. Они перенаправили свои усилия на поиски по всему миру, игнорируя поиски Его тела и вместо этого разыскивая Его убийц, надеясь однажды отомстить за свой древний грех. Было предложено множество теорий относительно Его смерти, но большинство из них сводится к тому, чтобы просто обвинить своих нынешних врагов в трагедии давних лет"
+  
+  #nitsafai loc 
+ nitsafai: "Nitsafai"
+ nitsafai_adj: "Ницафаи"
+ nitsafai_adherent: "Nitsafai"
+ nitsafai_adherent_plural: "Ницафаи"
+ nitsafai_desc: "Ницафаи считают, что основные моговаи сбились с пути, в основном из-за вмешательства светских лидеров в религиозные дела. Они настаивают на буквальном толковании Небесных гимнов и добиваются переориентации веры до возобновления поисков, опасаясь, что коррупция помешает когда-либо обнаружить Его тело. Эта преданность заставляет их отстаивать свою ортодоксальность превыше всего, и любое отклонение от их истины жестоко карается."
+  
+  #marefai loc 
+ marefai: "Marefai"
+ marefai_adj: "Марефаи"
+ marefai_adherent: "Marefai"
+ marefai_adherent_plural: "Марефай"
+ marefai_desc: "В то время как другие деноминации верят в централизованные усилия по поиску Его тела, марефаи полностью отвергают центральную религиозную власть, считая, что простые смертные недостойны диктовать приказы Всевышнего. Они призывают всех жить в соответствии с собственным толкованием Гимнов и считают узурпаторами тех, кто пытается возглавить веру. Несмотря на разнообразие их убеждений, поиск Его гробницы остается первостепенным, как и большинство других основных постулатов."
+  
+  #waharai loc 
+ waharai: "Вахарай"
+ waharai_adj: "Вахарай"
+ waharai_adherent: "Waharai"
+ waharai_adherent_plural: "Вахарай"
+ waharai_desc: "Вахараи считают, что смерть Всевышнего была лишь Его вознесением, и что Он ожидает на небесах тех, кто принимает эту истину. Их отношение к благочестию гораздо мягче, чем у их собратьев: для вахараев ваши действия на Аэрасе не имеют значения, поскольку лишь вера во Всевышнего принесет вам награду. В результате правила, которым они следуют, менее формальны и структурированы, с гораздо большей свободой действий, предоставляемой людям, которые были бы наказаны другими конфессиями, до тех пор, пока они сохраняют свои убеждения."

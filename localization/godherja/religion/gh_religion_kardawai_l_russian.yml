@@ -1,0 +1,85 @@
+﻿l_russian:
+  
+ #kardawai Loc 
+ kardawai_religion: "Кардавайманизм"
+ kardawai_religion_adj: "Кардавайманск"
+ kardawai_religion_adjerent: "Кардавайнист"
+ kardawai_religion_adherent_plural: "Кардавайнисты"
+ kardawai_religion_desc: "Согласно кардавайской легенде, великий титан Мавлок правил миром железным кулаком. Его сыновья голодали, когда он заставлял их делать огромные статуи самого себя. Его слуги, Лодброки, смеялись, избивая сыновей Мавлока кнутами. Пока однажды старший сын Кардвен не восстал против своих жестоких хозяев и не пожрал Лодброков. Кардвен обрел силу Лотброков и повел свой народ к победе над жестоким Титаном. Кардвен разделил труп Титана между своими многочисленными сыновьями, и те, кто принял его, стали богами мира."
+ kardawai_high_god_name: "Кардвен" #Машинный перевод 30.06.2023
+ kardawai_high_god_name_possessive: "Кардвен" #Машинный перевод 30.06.2023
+ kardawai_high_god_name_alternate: "Верховный король Кардвен" #Машинный перевод 30.06.2023
+ kardawai_high_god_name_alternate_possessive: "Верховный король Кардвен" #Машинный перевод 30.06.2023
+ kardawai_devil_name: "$kardawai_death_deity_name$" #Машинный перевод 30.06.2023
+ kardawai_devil_name_possessive: "$kardawai_death_deity_name_possessive$" #Машинный перевод 30.06.2023
+ kardawai_death_deity_name: "Дедгюльтиод" #Машинный перевод 30.06.2023
+ kardawai_death_deity_name_possessive: "Дедгюльтиода" #Машинный перевод 30.06.2023
+  
+  
+  
+ kardawai_house_of_worship: "Залбет" #Машинный перевод 30.06.2023
+ kardawai_house_of_worship_plural: "Залбец" #Машинный перевод 30.06.2023
+ kardawai_religious_symbol: "Клинок Кардвен" #Машинный перевод 30.06.2023
+ kardawai_religious_text: "Сага о Кардвен" #Машинный перевод 30.06.2023
+  
+ kardawai_religious_head_title: "Великий Луквар" #Машинный перевод 30.06.2023
+ kardawai_religious_head_title_name: "Великий Лукварате" #Машинный перевод 30.06.2023
+ kardawai_devotee_male: "Кардавай" #Машинный перевод 30.06.2023
+ kardawai_devotee_male_plural: "Кардавай" #Машинный перевод 30.06.2023
+ kardawai_devotee_female: "Кардавай" #Машинный перевод 30.06.2023
+ kardawai_devotee_female_plural: "Кардавай" #Машинный перевод 30.06.2023
+ kardawai_devotee_neuter: "Кардавай" #Машинный перевод 30.06.2023
+ kardawai_devotee_neuter_plural: "Кардавай" #Машинный перевод 30.06.2023
+ kardawai_priest_male: "Луквар" #Машинный перевод 30.06.2023
+ kardawai_priest_male_plural: "Лукварс" #Машинный перевод 30.06.2023
+ kardawai_priest_female: "Луквар" #Машинный перевод 30.06.2023
+ kardawai_priest_female_plural: "Лукварс" #Машинный перевод 30.06.2023
+ kardawai_priest_alternate_plural: "Луквари" #Машинный перевод 30.06.2023
+ kardawai_bishop: "Высокий Луквар" #Машинный перевод 30.06.2023
+ kardawai_bishop_plural: "Высокие луквары" #Машинный перевод 30.06.2023
+ kardawai_positive_afterlife: "Пиршественный зал Кардвен" #Машинный перевод 30.06.2023
+ kardawai_negative_afterlife: "Мавлок" #Машинный перевод 30.06.2023
+  
+ kardawai_religion_creator_god_name: "$kardawai_religion_high_god_name$"
+ kardawai_religion_creator_god_name_possessive: "$kardawai_religion_high_god_name_possessive$"
+ kardawai_health_god_name: "$kardawai_fertility_god_name$" #Машинный перевод 30.06.2023
+ kardawai_health_god_name_possessive: "$kardawai_fertility_god_name_possessive$" #Машинный перевод 30.06.2023
+ kardawai_fertility_god_name: "Фрукейт" #Машинный перевод 30.06.2023
+ kardawai_fertility_god_name_possessive: "Фрюкит" #Машинный перевод 30.06.2023
+ kardawai_wealth_god_name: "Рейтум" #Машинный перевод 30.06.2023
+ kardawai_wealth_god_name_possessive: "Рейтума" #Машинный перевод 30.06.2023
+ kardawai_household_god_name: "Гестаон" #Машинный перевод 30.06.2023
+ kardawai_household_god_name_possessive: "Гестаона" #Машинный перевод 30.06.2023
+ kardawai_fate_god_name: "Хауальт" #Машинный перевод 30.06.2023
+ kardawai_fate_god_name_possessive: "Haualt's" #Машинный перевод 30.06.2023
+ kardawai_knowledge_god_name: "Кеннтмелс" #Машинный перевод 30.06.2023
+ kardawai_knowledge_god_name_possessive: "Кеннтмелс" #Машинный перевод 30.06.2023
+ kardawai_war_god_name: "Кригтиген" #Машинный перевод 30.06.2023
+ kardawai_war_god_name_possessive: "Кригтигена" #Машинный перевод 30.06.2023
+ kardawai_trickster_god_name: "Нахстер" #Машинный перевод 30.06.2023
+ kardawai_trickster_god_name_possessive: "Нахстера" #Машинный перевод 30.06.2023
+ kardawai_night_god_name: "$kardawai_trickster_god_name$" #Машинный перевод 30.06.2023
+ kardawai_night_god_name_possessive: "$kardawai_trickster_god_name_possessive$" #Машинный перевод 30.06.2023
+ kardawai_water_god_name: "Вассельт" #Машинный перевод 30.06.2023
+ kardawai_water_god_name_possessive: "Вассельта" #Машинный перевод 30.06.2023
+ kardawai_witch_god_name: "$kardawai_fate_god_name$" #Машинный перевод 30.06.2023
+ kardawai_witch_god_name_possessive: "$kardawai_fate_god_name_possessive$" #Машинный перевод 30.06.2023
+  
+  
+  #kardawai loc 
+ kardawai: "Кардавайманизм"
+ kardawai_adj: "Кардавайманск"
+ kardawai_adjerent: "Кардавайнист"
+ kardawai_adherent_plural: "Кардавайнисты"
+ kardawai_desc: "Кардаваи прибыли в этот мир вместе с вторжением Сьялволки. Хотя кардавайцев считают варварами-каннибалами, они готовят и едят куски мяса своих павших врагов в честь победы бога Кардвена и его братьев над их жестоким отцом Мавлоком. Кардавайцы верят, что после смерти только те, кто сможет предъявить доказательства того, что при жизни они убили врагов, смогут пировать вместе с богами за столом Кардвена."
+ kardawai_old: "Старый Кардавайманизм"
+ kardawai_old_adj: "Старый Кардавайманск"
+ kardawai_old_adherent: "Старый Кардавайнист"
+ kardawai_old_adherent_plural: "Старые Кардавайнисты"
+  
+  #benkassai loc 
+ benkassai: "Бенкассай" #Машинный перевод 30.06.2023
+ benkassai_adj: "Бенкассай" #Машинный перевод 30.06.2023
+ benkassai_adjerent: "Бенкассай" #Машинный перевод 30.06.2023
+ benkassai_adherent_plural: "Бенкассай" #Машинный перевод 30.06.2023
+ benkassai_desc: "Бенкассаи верят, что, хотя Кардвен требует, чтобы мясо было съедено, поскольку это священный акт, мясо нельзя получить насильственными средствами. Эта откровенно еретическая секта так и не разрослась, но некоторые общины Бенкассаи по-прежнему упорно следуют своему каннибальскому пацифизму, несмотря на отвращение как со стороны кардаваев, так и со стороны неверных." #Машинный перевод 30.06.2023

@@ -1,0 +1,47 @@
+﻿l_russian:
+  # No tooltip versions 
+ knight_aversarian_no_tooltip:0 "Гепразитос" 
+ knight_aversarian_no_tooltip_plural:0 "Гепраситои" 
+
+ knight_marcher_no_tooltip:0 "Шевалье" 
+ knight_marcher_no_tooltip_plural:0 "Шевалье" 
+
+ knight_mubaaizun_no_tooltip:0 "Mubaaizun" 
+ knight_mubaaizun_no_tooltip_plural:0 "Мубаризуны" 
+
+ knight_sjalvolki_no_tooltip:0 "Хускарл" 
+ knight_sjalvolki_no_tooltip_plural:0 "Хускарлы" 
+
+  # Lowercase versions
+ knight_aversarian_no_tooltip_lowercase:0 "гепразитос" 
+ knight_aversarian_no_tooltip_lowercase_plural:0 "гепраситои" 
+ knight_aversarian_no_tooltip_lowercase_plural_possessive:0 "гепраситон" 
+ knight_aversarian_no_tooltip_lowercase_adjective:0 "гепраситикос" 
+
+ knight_marcher_no_tooltip_lowercase:0 "шевалье" 
+ knight_marcher_no_tooltip_lowercase_plural:0 "шевалье" 
+ knight_marcher_no_tooltip_lowercase_plural_possessive:0 "шевалье" 
+ knight_marcher_no_tooltip_lowercase_adjective:0 "шевальеск" 
+
+ knight_mubaaizun_no_tooltip_lowercase:0 "мубаризуны" 
+ knight_mubaaizun_no_tooltip_lowercase_plural:0 "мубаризун" 
+ knight_mubaaizun_no_tooltip_lowercase_plural_possessive:0 "мубаризуны" 
+ knight_mubaaizun_no_tooltip_lowercase_adjective:0 "мубаризунский" 
+
+ knight_sjalvolki_no_tooltip_lowercase:0 "хускарл" 
+ knight_sjalvolki_no_tooltip_lowercase_plural:0 "хускарлы" 
+ knight_sjalvolki_no_tooltip_lowercase_plural_possessive:0 "хускарлы" 
+ knight_sjalvolki_no_tooltip_lowercase_adjective:0 "хускарлский" 
+
+  #Game Concept versions
+ knight_aversarian:0 "[Concept( 'knight', '$knight_aversarian_no_tooltip$' )|E]" 
+ knight_aversarian_plural:0 "[Concept( 'knight', '$knight_aversarian_no_tooltip_plural$' )|E]" 
+
+ knight_marcher:0 "[Concept( 'knight', '$knight_marcher_no_tooltip$' )|E]" 
+ knight_marcher_plural:0 "[Concept( 'knight', '$knight_marcher_no_tooltip_plural$' )|E]" 
+
+ knight_mubaaizun:0 "[Concept( 'knight', '$knight_mubaaizun_no_tooltip$' )|E]" 
+ knight_mubaaizun_plural:0 "[Concept( 'knight', '$knight_mubaaizun_no_tooltip_plural$' )|E]" 
+
+ knight_sjalvolki:0 "[Concept( 'knight', '$knight_sjalvolki_no_tooltip$' )|E]" 
+ knight_sjalvolki_plural:0 "[Concept( 'knight', '$knight_sjalvolki_no_tooltip_plural$' )|E]" 

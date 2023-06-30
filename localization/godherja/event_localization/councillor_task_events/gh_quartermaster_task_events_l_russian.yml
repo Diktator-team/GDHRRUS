@@ -1,0 +1,19 @@
+﻿l_russian:
+  
+ quartermaster_task.0001.notification: "Additional Loot Procured"
+ quartermaster_task.0011.notification: "Disorganized Crew"
+ quartermaster_task.0021.notification: "Mutiny in [county.GetNameNoTier]"
+ quartermaster_task.0031.notification: "Recruitment Drive"
+ quartermaster_task.0111.notification: "Tales of Glory Spread"
+ quartermaster_task.0041.notification: "Quartermaster Spreads Fame"
+ quartermaster_task.0051.notification: "Quartermaster Captures Treasure Ship"
+ quartermaster_task.0071.notification: "Quartermaster Fails Raid"
+ quartermaster_task.0081.notification: "Quartermaster Angers Ruler"
+  ############# 
+  # MODIFIERS # 
+  ############# 
+  
+ quartermaster_task_disorganized_crew_modifier: "Disorganized Crew"
+ quartermaster_task_recruitment_drive_modifier: "Recruitment Drive"
+ quartermaster_task_mutiny_modifier: "Mutiny"
+ quartermaster_task_mutiny_modifier_desc: "Soldiers in full mutiny are marauding across this county."

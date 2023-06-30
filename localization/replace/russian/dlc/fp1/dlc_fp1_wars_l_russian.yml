@@ -1,0 +1,13 @@
+﻿l_russian:
+ VIKING_ARMY_MEN_NAME: "Армия северян"
+ VIKING_ARMY_WOMEN_NAME: "Армия северянок"
+ VIKING_ARMY_NEUTRAL_NAME: "Северная армия"
+ scandi_adventurer_event_troops: "Викинги-авантюристы"
+ fp1_scandi_adventurer_conquest: "Викинг-авантюрист"
+ fp1_jomsvikings_event_troops: "Волонтеры-путеводители" #Машинный перевод 30.06.2023
+ fp1_mann_event_troops: "Пиратские полчища"
+  
+ fp1_varangian_adventurer_conquest: "Варяжский искатель приключений"
+ FP1_VARANGIAN_ADVENTURER_CB_NAME: "[varangian_adventure|E] против [DEFENDER.GetPrimaryTitle.GetNameNoTier]"
+ FP1_VARANGIAN_ADVENTURER_CB_SPECIFIC_NAME: "[varangian_adventure|E] против владения [DEFENDER.GetPrimaryTitle.GetBaseNameNoTier]"
+ FP1_VARANGIAN_ADVENTURER_WAR_NAME: "$ORDER$ #L [ATTACKER.GetPrimaryTitle.GetAdjective]ое#! [varangian_adventure|El], а с другой стороны — [DEFENDER.GetPrimaryTitle.GetNameNoTier]"

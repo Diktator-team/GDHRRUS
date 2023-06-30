@@ -1,0 +1,77 @@
+﻿l_russian:
+  
+ graveright_religion: "Мрогилпраноизм"
+ graveright_religion_adj: "Мрогилпраноманск"
+ graveright_religion_adherent: "Мрогилпранист"
+ graveright_religion_adherent_plural: "Мрогилпранисты"
+ graveright_religion_desc: "Мрогилпрано, часто переводимое как Граверайт, - это древняя вера ойычайнцев северных земель. Некогда доминирующая вера на территории нынешних Лихдомов, Граверайт основывается на вере в то, что душа остается с телом в загробной жизни. Когда душа переселяется, она присматривает за окружающими и защищает их до тех пор, пока тело тоже защищено и к нему относятся с уважением. В лучшие времена поклоняющиеся Грейврайту хранили тела умерших в огромных некрополях по всем городам севера, гарантируя, что все ушедшие из жизни горожане смогут вечно служить надзирателями для своих потомков, как это делали для них живые.\n\nЭто, конечно, оказалось пороховой бочкой, и теперь Грейврайт - почти мертвая религия. Даже там, где она сохранилась, ее постулаты редко практикуются, а концепция хранения мертвых вместо их сожжения считается безумием."
+ graveright_high_god_name: "Отступники" #Машинный перевод 30.06.2023
+ graveright_high_god_name_possessive: "Ушедших" #Машинный перевод 30.06.2023
+ graveright_high_god_name_alternate: "Те, кто ушел раньше" #Машинный перевод 30.06.2023
+ graveright_high_god_name_alternate_possessive: "Те, кто ушел раньше" #Машинный перевод 30.06.2023
+ graveright_devil_name: "Лихеи" #Машинный перевод 30.06.2023
+ graveright_devil_name_possessive: "Лычи" #Машинный перевод 30.06.2023
+ graveright_death_deity_name: "Смерть" #Машинный перевод 30.06.2023
+ graveright_death_deity_name_possessive: "Летальные исходы" #Машинный перевод 30.06.2023
+  
+  
+  
+ graveright_house_of_worship: "Змалигрод" #Машинный перевод 30.06.2023
+ graveright_house_of_worship_plural: "Змалигродие" #Машинный перевод 30.06.2023
+ graveright_religious_symbol: "Украшенные кости" #Машинный перевод 30.06.2023
+ graveright_religious_text: "Писмо Смиери" #Машинный перевод 30.06.2023
+  
+ graveright_religious_head_title: "Велкий Мрогилопик" #Машинный перевод 30.06.2023
+ graveright_religious_head_title_name: "Велкий Мрогилопики" #Машинный перевод 30.06.2023
+ graveright_devotee_male: "могильщик" #Машинный перевод 30.06.2023
+ graveright_devotee_male_plural: "Могильщики" #Машинный перевод 30.06.2023
+ graveright_devotee_female: "могильщик" #Машинный перевод 30.06.2023
+ graveright_devotee_female_plural: "Могильщики" #Машинный перевод 30.06.2023
+ graveright_devotee_neuter: "могильщик" #Машинный перевод 30.06.2023
+ graveright_devotee_neuter_plural: "Могильщики" #Машинный перевод 30.06.2023
+ graveright_priest_male: "бальзамировщик" #Машинный перевод 30.06.2023
+ graveright_priest_male_plural: "бальзамировщики" #Машинный перевод 30.06.2023
+ graveright_priest_female: "бальзамировщик" #Машинный перевод 30.06.2023
+ graveright_priest_female_plural: "бальзамировщики" #Машинный перевод 30.06.2023
+ graveright_priest_alternate_plural: "бальзамировщики" #Машинный перевод 30.06.2023
+ graveright_bishop: "надзиратель" #Машинный перевод 30.06.2023
+ graveright_bishop_plural: "надзиратели" #Машинный перевод 30.06.2023
+ graveright_positive_afterlife: "Кролидуш" #Машинный перевод 30.06.2023
+ graveright_negative_afterlife: "Запомнить" #Машинный перевод 30.06.2023
+  
+ graveright_creator_god_name: "$graveright_high_god_name$" #Машинный перевод 30.06.2023
+ graveright_creator_god_name_possessive: "$graveright_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ graveright_health_god_name: "$graveright_high_god_name$" #Машинный перевод 30.06.2023
+ graveright_health_god_name_possessive: "$graveright_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ graveright_fertility_god_name: "$graveright_high_god_name$" #Машинный перевод 30.06.2023
+ graveright_fertility_god_name_possessive: "$graveright_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ graveright_wealth_god_name: "$graveright_high_god_name$" #Машинный перевод 30.06.2023
+ graveright_wealth_god_name_possessive: "$graveright_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ graveright_household_god_name: "$graveright_health_god_name$" #Машинный перевод 30.06.2023
+ graveright_household_god_name_possessive: "$graveright_health_god_name_possessive$" #Машинный перевод 30.06.2023
+ graveright_fate_god_name: "$graveright_high_god_name$" #Машинный перевод 30.06.2023
+ graveright_fate_god_name_possessive: "$graveright_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ graveright_knowledge_god_name: "$graveright_high_god_name$" #Машинный перевод 30.06.2023
+ graveright_knowledge_god_name_possessive: "$graveright_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ graveright_war_god_name: "$graveright_high_god_name$" #Машинный перевод 30.06.2023
+ graveright_war_god_name_possessive: "$graveright_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ graveright_trickster_god_name: "$graveright_devil_name$" #Машинный перевод 30.06.2023
+ graveright_trickster_god_name_possessive: "$graveright_devil_name_possessive$" #Машинный перевод 30.06.2023
+ graveright_night_god_name: "$graveright_high_god_name$" #Машинный перевод 30.06.2023
+ graveright_night_god_name_possessive: "$graveright_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ graveright_water_god_name: "$graveright_health_god_name$" #Машинный перевод 30.06.2023
+ graveright_water_god_name_possessive: "$graveright_health_god_name_possessive$" #Машинный перевод 30.06.2023
+ graveright_witch_god_name: "$graveright_devil_name$" #Машинный перевод 30.06.2023
+ graveright_witch_god_name_possessive: "$graveright_devil_name_possessive$" #Машинный перевод 30.06.2023
+  
+ graveright: "Граверайтизм"
+ graveright_adj: "Граверайтманск"
+ graveright_adherent: "Граверайтнист"
+ graveright_adherent_plural: "Граверайтнисты"
+ graveright_desc: "Граверайт - это древняя вера ойычайнцев северных земель. Некогда доминирующая вера на территории нынешних Лихдов, Граверайт (или Мрогилпрано для ойычайнов), сосредоточен на вере в то, что душа остается со своим телом в загробной жизни. Когда душа переселяется, она присматривает за окружающими и защищает их до тех пор, пока тело тоже защищено и к нему относятся с уважением. В лучшие времена поклоняющиеся Грейврайту хранили тела умерших в огромных некрополях по всем городам севера, гарантируя, что все ушедшие из жизни горожане смогут вечно служить надзирателями для своих потомков, как это делали для них живые.\n\nЭто, конечно, оказалось пороховой бочкой, и теперь Грейврайт - почти мертвая религия. Даже там, где она сохранилась, ее постулаты редко практикуются, а концепция хранения мертвых вместо их сожжения считается безумием."
+  
+ gravewatch: "Грейвордонизм"
+ gravewatch_adj: "Грейвордоманск"
+ gravewatch_adherent: "Грейвордонист"
+ gravewatch_adherent_plural: "Грейвордонисты"
+ gravewatch_desc: "Могильщики - это те, кто поклоняется модернизированной версии Граверайт, созданной в попытке обеспечить выживание Граверайт в современном мире. Вместо комплексов некрополей, где хранятся мертвые, и зданий из их костей, за мертвыми присматривают в течение недели, пока жрецы проводят ритуалы очищения и упокоения. Смотрители могил утверждают, что эти обряды позволяют душам по-прежнему охранять территорию, пока они продолжают помнить о них и строить памятники, отмечающие их смерть. Эти места захоронений строго охраняются храмовыми стражами, за каждым отдельным телом присматривает группа охранников, которые следят за тем, чтобы их не потревожили.\n\nХотя для современных глаз они гораздо более приемлемы, им с трудом удается найти новообращенных среди Марчей или убедить старых верующих в своей концепции, и они с трудом приживаются."

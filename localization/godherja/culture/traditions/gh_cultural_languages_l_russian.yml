@@ -1,0 +1,109 @@
+﻿l_russian:
+ language_aversarian_name: "Аверсарианский"
+ language_kholmvolki_name: "Кхолмволкский"
+ language_rekvolki_name: "Релкволкский"
+ language_marcher_name: "Марчерский"
+ language_damotan_name: "Дамотский"
+ language_goan_name: "Гонский"
+ language_dezhunic_name: "Дежунский"
+ language_aekershaani_name: "Аэкершаанский"
+ language_arapa_name: "Арапский"
+ language_marmaladid_name: "Мармаладский"
+ language_vhanavid_name: "Ванавидский"
+ language_thalite_name: "Талитский"
+ language_amsari_name: "Амсарский"
+ language_hixite_name: "Хикситский"
+ language_siral_name: "Сиралский"
+ language_sarth_name: "Сартский"
+ language_thyssaen_name: "Тиссэнский"
+ language_koshar_name: "Кошарский"
+ language_sycharceg_name: "Сичарчегский"
+ language_samojitian_name: "Самойитанский"
+ language_madikirib_name: "Мадикрибский"
+ language_haraja_name: "Хараджский"
+ language_chordhan_name: "Чордханский"
+ language_dayatemi_name: "Дайатемский"
+ language_konijkmener_name: "Конийкстаалский"
+ language_aevakori_name: "Аэвакорский"
+ language_kevaali_name: "Кеваалский"
+ language_ojyczayn_name: "Ойикзанский"
+ language_gallieni_name: "Галлиенский"
+ language_sarminian_name: "Сарминианский"
+ language_nakahanii_name: "Накаханский"
+ language_khalai_name: "Кхаланский"
+ language_emanhi_name: "Еманский"
+ language_adhata_name: "Адхатский"
+ language_partic_name: "Партикский"
+ language_canian_name: "Каньянский"
+ language_anandrasi_name: "Анандрикский"
+ language_shamrania_name: "Шамранский"
+ language_asariyna_name: "Асариянский"
+ language_aembarisa_name: "Аэмбарисский"
+ language_veparstva_name: "Вепарстский"
+ language_afoseniai_name: "Афосеньянский"
+ language_daidenos_name: "Дайденосский"
+ language_skoronyk_name: "Скороник" #Машинный перевод 30.06.2023
+ language_guillater_name: "Гильятер" #Машинный перевод 30.06.2023
+ language_kelthiunai_name: "Келтиюнайский"
+ language_oghainos_name: "Огхайносский"
+ language_zonthawa_name: "Зонтавский"
+ language_margur_name: "Маргурский"
+ language_athacaya_name: "Атакайский"
+ language_rekhala_name: "Рекхалский"
+ language_karzarad_name: "Карзарадский"
+ language_huegodoc_name: "Хьегодокий"
+ language_likarkho_name: "Ликаркхский"
+ language_agnala_name: "Агналаий"
+ language_khokhuud_name: "Кхокхудийский"
+ language_xajirkel_name: "Хаджиркелский"
+ language_tlakalak_name: "Тлакалакский"
+ language_daravani_name: "Дараванский"
+ language_aafarzay_name: "Аафарзайский"
+ language_kemsari_name: "Кемсари" #Машинный перевод 30.06.2023
+ language_mondecny_name: "Мондский"
+ language_yylaxxaz_name: "Зизз'икс'п'никский"
+ language_rivarisian_name: "Риварспадский"
+ language_sunakari_name: "Сунакарский"
+ language_astilik_name: "Астиликский"
+ language_kaledonic_name: "Каледоникский"
+ language_luskosvai_name: "Лускос'Валский"
+ language_aygaeri_name: "Айгарский"
+ language_tsetnera_name: "Тсетнерский"
+ language_amaghvelian_name: "Амагхмелианский"
+ language_drimniak_name: "Дримникский"
+ language_kardwen_name: "Кардвен" #Машинный перевод 30.06.2023
+ language_sarridian_name: "Саррадонский"
+ language_cavetribe_name: "Туннельный язык"
+ language_takopara_name: "Такокский"
+ language_zanaumaures_name: "Занауский"
+ language_saradari_name: "Айарский"
+ language_yevamarai_name: "Йевамарайский"
+ language_theugombrian_name: "Гобликский"
+ language_hadiyan_name: "Хадийанский"
+ language_redlander_name: "Рэдлэндерский"
+ language_fog_eaters_name: "Туманный"
+ language_abadelos_name: "Абаделосский"
+ language_agadari_name: "Агадарский"
+ language_wasteland_name: "Нет"
+ language_varnigitiai_name: "Варнигитиай" #Машинный перевод 30.06.2023
+ language_tiemanam_name: "Тиеманам" #Машинный перевод 30.06.2023
+ language_dubadin_name: "Дубадин" #Машинный перевод 30.06.2023
+ language_easterner_name: "житель Востока" #Машинный перевод 30.06.2023
+ language_saielaian_name: "Saielaian" #Машинный перевод 30.06.2023
+ language_mtuwe_name: "Мтуве" #Машинный перевод 30.06.2023
+ language_nihare_name: "Нихаре" #Машинный перевод 30.06.2023
+ language_dergi_name: "Дерги" #Машинный перевод 30.06.2023
+ language_enynanthari_name: "Энинантари" #Машинный перевод 30.06.2023
+ language_marndeoticeni_name: "Марндеотичени" #Машинный перевод 30.06.2023
+ language_iseni_name: "Исеньи" #Машинный перевод 30.06.2023
+ aesthetics_erimatos_name: "Эриматос" #Машинный перевод 30.06.2023
+ language_sceyfish_name: "морской рак" #Машинный перевод 30.06.2023
+ language_bricotaves_name: "Брикози" #Машинный перевод 30.06.2023
+ language_ardothanes_name: "Ардотан" #Машинный перевод 30.06.2023
+ language_ordikin_name: "Ордикин" #Машинный перевод 30.06.2023
+ language_corvosnari_name: "Корвоснари" #Машинный перевод 30.06.2023
+ language_ouwabadin_name: "Увабадин" #Машинный перевод 30.06.2023
+ language_ashkeschi_name: "Ашкески" #Машинный перевод 30.06.2023
+ language_dadkawji_name: "Дадкауджесе" #Машинный перевод 30.06.2023
+ language_narodlek_name: "Леки" #Машинный перевод 30.06.2023
+ language_sagadavian_name: "сагадавский" #Машинный перевод 30.06.2023

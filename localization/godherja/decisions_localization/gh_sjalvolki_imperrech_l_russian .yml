@@ -1,0 +1,12 @@
+﻿l_russian:
+ gh_disband_the_imperrech_decision: "Расспустить империю"
+ gh_disband_the_imperrech_decision_desc: "Миграция закончилась. Я победил остатки [Concept('aversaria','Аверсарианских')|E] господ и поселил народы Империи на плодородных новых землях, свободных от угрозы [Concept('fog','тумана')|E]. В Высшем Королевстве больше нет нужды, и поэтому оно должно быть распущено, чтобы племена могли сами вершить свою судьбу. "
+ gh_disband_the_imperrech_decision_tooltip: "Я соберу вождей, чтобы объявить об окончании Имперреча."
+ gh_disband_the_imperrech_decision_effect_tt: "Все не созданные де-юре королевства в вашем королевстве будут предоставлены самому могущественному правителю в королевстве."
+ gh_disband_the_imperrech_decision_effect2_tt: "Все королевства в составе Империи получат всех своих вассалов де-юре."
+ gh_disband_the_imperrech_decision_effect3_tt: "Все ваши не-де-юре вассалы станут независимыми"
+ gh_disband_the_imperrech_decision_confirm: "Расспустить империю"
+  
+ gh_disband_the_imperrech_must_be_liege_of_oraispol_desc: "Любой вассал владеет Орайполем"
+ gh_disband_the_imperrech_must_be_liege_of_tinitida_desc: "Любой вассал владеет Тинитидой"
+ gh_disband_the_imperrech_must_be_liege_of_asiupoli_desc: "Любой вассал владеет Асиуполи"

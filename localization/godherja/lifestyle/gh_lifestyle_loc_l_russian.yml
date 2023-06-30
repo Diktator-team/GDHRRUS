@@ -1,0 +1,168 @@
+﻿l_russian:
+ magic_lifestyle_living_name: "Магия Жизни"
+ magic_lifestyle_living_desc: "Концентрация на изучении секретов магии. Великая сила доступна лишь избранному меньшинству, имя которому [Concept('magi','маги')|E]."
+ magic_lifestyle_living_highlight_desc: "Благодаря вашему Магическому [Concept('education','образованию')|E], вы получаете боьше опыта в этом образе жизни."
+  
+ magic_lifestyle_dead_name: "Магия Смерти"
+ magic_lifestyle_dead_desc: "Концентрация на изучении секретов магии. Великая сила доступна лишь избранному меньшинству, имя которому [Concept('magi','маги')|E]."
+ magic_lifestyle_dead_highlight_desc: "Благодаря вашему Магическому [Concept('education','образованию')|E], вы получаете боьше опыта в этом образе жизни."
+  
+ magic_lifestyle_mixed_name: "Смешанная Магия"
+ magic_lifestyle_mixed_desc: "Концентрация на изучении секретов магии. Великая сила доступна лишь избранному меньшинству, имя которому [Concept('magi','маги')|E]."
+ magic_lifestyle_mixed_highlight_desc: "Благодаря вашему Магическому [Concept('education','образованию')|E], вы получаете боьше опыта в этом образе жизни."
+  
+ monthly_magic_lifestyle_living_xp_gain_mult: "Ежемесячный опыт [Concept('lifestyle','пути')|E] [Concept('living_magic','Магии жизни')|E]"
+ monthly_magic_lifestyle_dead_xp_gain_mult: "Ежемесячный опыт [Concept('lifestyle','пути')|E] [Concept('dead_magic','Магии смерти')|E]"
+ monthly_magic_lifestyle_mixed_xp_gain_mult: "Ежемесячный опыт [Concept('lifestyle','пути')|E] [Concept('mixed_magic','Смешанной магии')|E]"
+  
+ magic_scholarship_focus_living: "Путь Арканолога"
+ magic_scholarship_focus_living_desc: "Во имя новых знаний изучение магии куда эффективнее."
+ magic_scholarship_focus_desc: "Во имя новых знаний изучение магии  куда эффективнее."
+ magic_scholarship_focus_living_effect_desc: "Путь Арканолога даёт:"
+ magic_power_focus_living: "Путь Силы"
+ magic_power_focus_living_desc: "Магие есть дорога к безграничной силе... и разрушению."
+ magic_power_focus_desc: "Магия есть дорога к безграничной силе... и разрушению."
+ magic_power_focus_living_effect_desc: "Путь Силы даёт:\n\n#E Magic#!:@magic_icon!#positive_value; +20%#!"
+ magic_sustainment_focus_living: "Путь Постоянства"
+ magic_sustainment_focus_living_desc: "Настоящие мастера магии должны всегда быть бдительны супротив её искушений."
+ magic_sustainment_focus_desc: "Настоящие мастера магии должны всегда быть бдительны супротив её искушений."
+ magic_sustainment_focus_living_effect_desc: "Путь Постоянства даёт:"
+  
+ magic_scholarship_focus_dead: "Путь Арканолога"
+ magic_scholarship_focus_dead_desc: "Во имя новых знаний изучение магии  куда эффективнее."
+ magic_scholarship_focus_dead_effect_desc: "Путь Арканолога даёт:"
+ magic_power_focus_dead: "Путь Силы"
+ magic_power_focus_dead_desc: "Магия есть дорога к безграничной силе... и разрушению."
+ magic_power_focus_dead_effect_desc: "Путь Силы даёт:\n\n#E Magic#!:@magic_icon!#positive_value; +20%#!"
+ magic_sustainment_focus_dead: "Путь Постоянства"
+ magic_sustainment_focus_dead_desc: "Настоящие мастера магии должны всегда быть бдительны супротив её искушений."
+ magic_sustainment_focus_dead_effect_desc: "Путь Постоянства даёт:"
+  
+ magic_scholarship_focus_mixed: "Путь Арканолога"
+ magic_scholarship_focus_mixed_desc: "Во имя новых знаний изучение магии  куда эффективнее."
+ magic_scholarship_focus_mixed_effect_desc: "Путь Арканолога даёт:"
+ magic_power_focus_mixed: "Путь Силы"
+ magic_power_focus_mixed_desc: "Магия есть дорога к безграничной силе... и разрушению."
+ magic_power_focus_mixed_effect_desc: "Путь Силы даёт:"
+ magic_sustainment_focus_mixed: "Путь Постоянства"
+ magic_sustainment_focus_mixed_desc: "Настоящие мастера магии должны всегда быть бдительны супротив её искушений."
+ magic_sustainment_focus_mixed_effect_desc: "Путь Постоянства даёт:"
+  
+ has_living_magic_education_prereq: "Требуется владение [Concept('living_magic','магией жизни')|E]."
+ has_dead_magic_education_prereq: "Требуется владение [Concept('dead_magic','магией смерти')|E]."
+ has_mixed_magic_education_prereq: "Требуется владение [Concept('mixed_magic','смешанной магией')|E]."
+  
+ livingmagic_tree1_name: "Магия Крови"
+ livingmagic_perk1_tree1_name: "Кровь"
+ livingmagic_perk2_tree1_name: "Обманчивое присутствие"
+ livingmagic_perk3_tree1_name: "Эссенция Жизни"
+ livingmagic_perk4_tree1_name: "Темные Слуги"
+ livingmagic_perk5_tree1_name: "Отравление"
+ livingmagic_perk6_tree1_name: "Контроль Разума"
+ livingmagic_perk7_tree1_name: "Усиление Духа"
+ livingmagic_perk8_tree1_name: "Необходимая Жертва"
+ livingmagic_perk9_tree1_name: "Повелитель Жизни"
+  
+ livingmagic_tree2_name: "Живое Разрушение"
+ livingmagic_perk1_tree2_name: "Дыхание Дракона"
+ livingmagic_perk2_tree2_name: "Истощение"
+ livingmagic_perk3_tree2_name: "Сила Природы"
+ livingmagic_perk4_tree2_name: "Дар Стремительности"
+ livingmagic_perk5_tree2_name: "Наполнение Силой"
+ livingmagic_perk6_tree2_name: "Садизм"
+ livingmagic_perk7_tree2_name: "Аннигиляция"
+ livingmagic_perk8_tree2_name: "Ярость Воина"
+ livingmagic_perk9_tree2_name: "Искусство Войны"
+  
+ livingmagic_tree3_name: "Магия Природы"
+ livingmagic_perk1_tree3_name: "Обряд Плодородия"
+ livingmagic_perk2_tree3_name: "Дар Природы"
+ livingmagic_perk3_tree3_name: "Предвиденье"
+ livingmagic_perk4_tree3_name: "Оберег Жизни"
+ livingmagic_perk5_tree3_name: "Обилие Плоти"
+ livingmagic_perk6_tree3_name: "Очищающие Воды"
+ livingmagic_perk7_tree3_name: "Сила Земли"
+ livingmagic_perk8_tree3_name: "Места Силы"
+ livingmagic_perk9_tree3_name: "Искусство Природы"
+  
+ deadmagic_tree1_name: "Магия Тьмы"
+ deadmagic_perk1_tree1_name: "Тело"
+ deadmagic_perk2_tree1_name: "Почва Аэраса"
+ deadmagic_perk3_tree1_name: "Кости Аэраса"
+ deadmagic_perk4_tree1_name: "Дары Мертвецов"
+ deadmagic_perk5_tree1_name: "Ритуалы Некромантии"
+ deadmagic_perk6_tree1_name: "Слово силы:Смерть"
+ deadmagic_perk7_tree1_name: "Скорее мёртв чем жив"
+ deadmagic_perk8_tree1_name: "Тело из Камня"
+ deadmagic_perk9_tree1_name: "Искусство Смерти"
+  
+ deadmagic_tree2_name: "Магия Аэрвалр"
+ deadmagic_perk1_tree2_name: "Линии Аэрвалра"
+ deadmagic_perk2_tree2_name: "Магия Металла"
+ deadmagic_perk3_tree2_name: "Квинтессенция Аэрвалра"
+ deadmagic_perk4_tree2_name: "Чары Лунного Камня"
+ deadmagic_perk5_tree2_name: "Тайные Традиции"
+ deadmagic_perk6_tree2_name: "Воины Луны"
+ deadmagic_perk7_tree2_name: "Звезда Бури"
+ deadmagic_perk8_tree2_name: "Предвестники Аэрвалр"
+ deadmagic_perk9_tree2_name: "Силы Хаоса"
+  
+ deadmagic_tree3_name: "Магия Земли"
+ deadmagic_perk1_tree3_name: "Копатель Могил"
+ deadmagic_perk2_tree3_name: "Свернуть горы"
+ deadmagic_perk3_tree3_name: "Стальной панцирь"
+ deadmagic_perk4_tree3_name: "Георазведка"
+ deadmagic_perk5_tree3_name: "в Порошок"
+ deadmagic_perk6_tree3_name: "Пещерные Тропы"
+ deadmagic_perk7_tree3_name: "Внимание к Деталям"
+ deadmagic_perk8_tree3_name: "Изобилие Аэраса"
+ deadmagic_perk9_tree3_name: "Излом Аэраса"
+  
+ mixedmagic_tree1_name: "Магия Тумана"
+ mixedmagic_perk1_tree1_name: "Тихое Помешательство"
+ mixedmagic_perk2_tree1_name: "Учение Безумия"
+ mixedmagic_perk3_tree1_name: "Взгляд в Туман"
+ mixedmagic_perk4_tree1_name: "Хор Отчаяния"
+ mixedmagic_perk5_tree1_name: "Призыв Тумана"
+ mixedmagic_perk6_tree1_name: "Заклинатель Тумана"
+ mixedmagic_perk7_tree1_name: "Призыв Безумства"
+ mixedmagic_perk8_tree1_name: "Взгляд в [Concept('rift','разлом')|E]"
+ mixedmagic_perk9_tree1_name: "Третье око"
+  
+ mixedmagic_tree2_name: "Провидец Эфира"
+ mixedmagic_perk1_tree2_name: "Обряды Преисподней"
+ mixedmagic_perk2_tree2_name: "Призрачное Присутствие"
+ mixedmagic_perk3_tree2_name: "Видения Эфира"
+ mixedmagic_perk4_tree2_name: "Бестелесный Облик"
+ mixedmagic_perk5_tree2_name: "Сила Эфира"
+ mixedmagic_perk6_tree2_name: "Обереги Эфира"
+ mixedmagic_perk7_tree2_name: "Сплетение Духов"
+ mixedmagic_perk8_tree2_name: "Барьер между Мирами"
+ mixedmagic_perk9_tree2_name: "Control the Twixt and Twaines"
+  
+ mixedmagic_tree3_name: "Снотворец"
+ mixedmagic_perk1_tree3_name: "Ходьба во Снах"
+ mixedmagic_perk2_tree3_name: "Сны [Concept('rift','о бездне')|E] "
+ mixedmagic_perk3_tree3_name: "Кража Мысли"
+ mixedmagic_perk4_tree3_name: "Обнаружение Снов"
+ mixedmagic_perk5_tree3_name: "Порочный Транс"
+ mixedmagic_perk6_tree3_name: "Обереги Снов"
+ mixedmagic_perk7_tree3_name: "Очищение Разума"
+ mixedmagic_perk8_tree3_name: "По Ту Сторону"
+ mixedmagic_perk9_tree3_name: "Уничтожение Вечного Сознания"
+  
+ adventure_lifestyle_tree1_name: "Авантюрист" #Машинный перевод 30.06.2023
+  
+ adventure_lifestyle_tree2_name: "Ремесленник" #Машинный перевод 30.06.2023
+  
+ adventure_lifestyle_tree3_name: "Истребительница" #Машинный перевод 30.06.2023
+ beasthunter_perk_name: "Охотник на зверей" #Машинный перевод 30.06.2023
+ home_turf_perk_name: "Старые угодья" #Машинный перевод 30.06.2023
+ adept_tracker_perk_name: "Опытный следопыт" #Машинный перевод 30.06.2023
+ grizzled_perk_name: "Седой" #Машинный перевод 30.06.2023
+ skilled_forager_perk_name: "Опытный собиратель" #Машинный перевод 30.06.2023
+ proficiency_perk_name: "мастерство" #Машинный перевод 30.06.2023
+ trophy_collector_perk_name: "Коллекционер трофеев" #Машинный перевод 30.06.2023
+ unconventional_game_perk_name: "Нетрадиционная игра" #Машинный перевод 30.06.2023
+ professional_monster_slayer_perk_name: "Профессиональный истребитель монстров" #Машинный перевод 30.06.2023
+ falconer_perk_name: "Дрессировщик соколов" #Машинный перевод 30.06.2023

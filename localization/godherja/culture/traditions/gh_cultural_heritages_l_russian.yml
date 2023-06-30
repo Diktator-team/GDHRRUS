@@ -1,0 +1,210 @@
+﻿l_russian:
+ heritage_aversarian_name: "Аверсарианск"
+ heritage_aversarian_collective_noun: "Аверсариане"
+ heritage_sjalvolki_name: "Сьялволкск"
+ heritage_sjalvolki_collective_noun: "Сьялволки"
+ heritage_marcher_name: "Марчерск"
+ heritage_marcher_collective_noun: "Марчеры"
+ heritage_konijkmener_name: "Конийкменерск"
+ heritage_konijkmener_collective_noun: "Конийкменеры"
+ heritage_vhanavid_name: "Ванавидск"
+ heritage_vhanavid_collective_noun: "Ванавиды"
+ heritage_kikarsag_name: "Кикарсагск"
+ heritage_kikarsag_collective_noun: "Кикарсаги"
+ heritage_sarminian_name: "Сарминианск"
+ heritage_sarminian_collective_noun: "Сарминианы"
+ heritage_sarradonian_name: "Саррадонск"
+ heritage_sarradonian_collective_noun: "Саррадоны"
+ heritage_damotan_name: "Дамотанск"
+ heritage_damotan_collective_noun: "Дамотаны"
+ heritage_kashiryan_name: "Каширианск"
+ heritage_kashiryan_collective_noun: "Кашириане"
+ heritage_goan_name: "Гонск"
+ heritage_goan_collective_noun: "Гоны"
+ heritage_dezhunic_name: "Дежуникск"
+ heritage_dezhunic_collective_noun: "Дежуны"
+ heritage_aekershaani_name: "Аэкаршаанск"
+ heritage_aekershaani_collective_noun: "Аэкаршааны"
+ heritage_arapa_name: "Арапск"
+ heritage_arapa_collective_noun: "Арапы"
+ heritage_marmaladid_name: "Мармаладидск"
+ heritage_marmaladid_collective_noun: "Мармаладиды"
+ heritage_zarasadari_name: "Зарасадарск"
+ heritage_zarasadari_collective_noun: "Зарасадары"
+ heritage_thyssae_name: "Тисса" #Машинный перевод 30.06.2023
+ heritage_thyssae_collective_noun: "Тиссен" #Машинный перевод 30.06.2023
+ heritage_kosharan_name: "Кошаранск"
+ heritage_kosharan_collective_noun: "Кошараны"
+ heritage_samojitian_name: "Самоийтянск"
+ heritage_samojitian_collective_noun: "Самоийтяны"
+ heritage_kemsar_name: "Кемсар" #Машинный перевод 30.06.2023
+ heritage_kemsar_collective_noun: "Кемсар" #Машинный перевод 30.06.2023
+ heritage_madikirib_name: "Мадикрибск"
+ heritage_madikirib_collective_noun: "Мадикрибы"
+ heritage_haraja_name: "Хараджск"
+ heritage_haraja_collective_noun: "Хараджи"
+ heritage_chordhan_name: "Чордханск"
+ heritage_chordhan_collective_noun: "Чордханы"
+ heritage_dayatemi_name: "Даятемск"
+ heritage_dayatemi_collective_noun: "Даятеми"
+ heritage_konijkmener_name: "Конийкменерск"
+ heritage_konijkmener_collective_noun: "Конийкменеры"
+ heritage_aevakori_name: "Эвакорск"
+ heritage_aevakori_collective_noun: "Эвакоры"
+ heritage_kevaali_name: "Кеваалск"
+ heritage_kevaali_collective_noun: "Кеваалы"
+ heritage_easterner_name: "Катунск"
+ heritage_easterner_collective_noun: "Катуны"
+ heritage_ojyczaynz_name: "Ойкшайнск"
+ heritage_ojyczaynz_collective_noun: "Ойкшайны"
+ heritage_gallieni_name: "Галлиенск"
+ heritage_gallieni_collective_noun: "Галлиены"
+ heritage_iyrossi_name: "Айросск"
+ heritage_iyrossi_collective_noun: "Айроссы"
+ heritage_nakahanii_name: "Накаханск"
+ heritage_nakahanii_collective_noun: "Накаханы"
+ heritage_khalai_name: "Кхалайск"
+ heritage_khalai_collective_noun: "Кхалаи"
+ heritage_kharadamatian_name: "Кхарадаматанск"
+ heritage_kharadamatian_collective_noun: "Кхарадаматаны"
+ heritage_karzarad_name: "Карзарадск"
+ heritage_karzarad_collective_noun: "Карзарады"
+ heritage_kemsari_name: "Кемсари" #Машинный перевод 30.06.2023
+ heritage_kemsari_collective_noun: "Кемсарис" #Машинный перевод 30.06.2023
+ heritage_huegodoc_name: "Хуегодокск"
+ heritage_huegodoc_collective_noun: "Хуегодоки"
+ heritage_hadiyan_name: "Хадийанск"
+ heritage_hadiyan_collective_noun: "Хадийане"
+ heritage_adhata_name: "Адхатск"
+ heritage_adhata_collective_noun: "Адхаты"
+ heritage_partic_name: "Партикск"
+ heritage_partic_collective_noun: "Партики"
+ heritage_emanhi_name: "Еманхск"
+ heritage_emanhi_collective_noun: "Еманхи"
+ heritage_aembarisa_name: "Аэмбарисск"
+ heritage_aembarisa_collective_noun: "Аэмбарисанск"
+ heritage_canian_name: "Канианск"
+ heritage_canian_collective_noun: "Каниане"
+ heritage_anandrasi_name: "Анандрасск"
+ heritage_anandrasi_collective_noun: "Анандрасы"
+ heritage_shamrania_name: "Шамранск"
+ heritage_shamrania_collective_noun: "Шамране"
+ heritage_aembarisa_collective_noun: "Аэмбарисанск"
+ heritage_canian_name: "Канианск"
+ heritage_canian_collective_noun: "Каниане"
+ heritage_asariyna_name: "Асариянск"
+ heritage_asariyna_collective_noun: "Асарияне"
+ heritage_veparstva_name: "Вепартск"
+ heritage_veparstva_collective_noun: "Вепарсты"
+ heritage_afoseniai_name: "Афосенианск"
+ heritage_afoseniai_collective_noun: "Афосениане"
+ heritage_daidenos_name: "Дайденосск"
+ heritage_daidenos_collective_noun: "Дайденосы"
+ heritage_skoronyk_name: "Скороник" #Машинный перевод 30.06.2023
+ heritage_skoronyk_collective_noun: "Скороны" #Машинный перевод 30.06.2023
+ heritage_guillater_name: "Гильятер" #Машинный перевод 30.06.2023
+ heritage_guillater_collective_noun: "Гилатерс" #Машинный перевод 30.06.2023
+ heritage_kelthiunai_name: "Келтунайск"
+ heritage_kelthiunai_collective_noun: "Келтунаи"
+ heritage_oghainos_name: "Огхайносск"
+ heritage_oghainos_collective_noun: "Огханойсы"
+ heritage_zonthawa_name: "Зонтавск"
+ heritage_zonthawa_collective_noun: "Зонтавы"
+ heritage_margur_name: "Маргурск"
+ heritage_margur_collective_noun: "Маргуры"
+ heritage_athacaya_name: "Атакайск"
+ heritage_athacaya_collective_noun: "Атакаи"
+ heritage_rekhala_name: "Рекхалск"
+ heritage_rekhala_collective_noun: "Рекхалы"
+ heritage_likarkho_name: "Ликархск"
+ heritage_likarkho_collective_noun: "Ликархи"
+ heritage_agnala_name: "Агналск"
+ heritage_agnala_collective_noun: "Агналы"
+ heritage_khokhuud_name: "Кхохуудск"
+ heritage_khokhuud_collective_noun: "Кхохууды"
+ heritage_xajirkel_name: "Хаджиркелск"
+ heritage_xajirkel_collective_noun: "Хаджиркелы"
+ heritage_tlakalak_name: "Тлакалакск"
+ heritage_tlakalak_collective_noun: "Тлакалы"
+ heritage_daravani_name: "Дараванск"
+ heritage_daravani_collective_noun: "Дарване"
+ heritage_aafarzay_name: "Аафарзайск"
+ heritage_aafarzay_collective_noun: "Аафарзаи"
+ heritage_kemsari_name: "Кемсари" #Машинный перевод 30.06.2023
+ heritage_kemsari_collective_noun: "Кемсарис" #Машинный перевод 30.06.2023
+ heritage_huegodoc_name: "Хуегодокск"
+ heritage_huegodoc_collective_noun: "Хуегодоки"
+ heritage_mondecny_name: "Мондечск"
+ heritage_mondecny_collective_noun: "Мондечи"
+ heritage_lerrardin_name: "Леррардинск"
+ heritage_lerrardin_collective_noun: "Леррардины"
+ heritage_kherkeloi_name: "Кхеркелойск"
+ heritage_kherkeloi_collective_noun: "Кхеркелои"
+ heritage_sarridian_name: "Сарридианск"
+ heritage_sarridian_collective_noun: "Сарридиане"
+ heritage_kardwen_name: "Кардвенск"
+ heritage_kardwen_collective_noun: "Кардвены"
+ heritage_dawic_name: "Давикск"
+ heritage_dawic_collective_noun: "Давики"
+ heritage_cavetribe_name: "Пещерно Племенск"
+ heritage_cavetribe_collective_noun: "Пещерные люди"
+ heritage_takopara_name: "Такопарск"
+ heritage_takopara_collective_noun: "Такопары"
+ heritage_zanaumaures_name: "Занавмарск"
+ heritage_zanaumaures_collective_noun: "Занвмары"
+ heritage_saradari_name: "Сарадарск"
+ heritage_saradari_collective_noun: "Сарадары"
+ heritage_theugombrian_name: "Тевгомбрианск"
+ heritage_theugombrian_collective_noun: "Тевгомбриане"
+ heritage_redlander_name: "Редлэндерск"
+ heritage_redlander_collective_noun: "Редлэндеры"
+ heritage_fog_eaters_name: "Туманск"
+ heritage_fog_eaters_collective_noun: "Туманщики"
+ heritage_abadelos_name: "Абаделосск"
+ heritage_abadelos_collective_noun: "Абаделосы"
+ heritage_agadari_name: "Агадари" #Машинный перевод 30.06.2023
+ heritage_agadari_collective_noun: "Агадари" #Машинный перевод 30.06.2023
+ heritage_tiemanam_name: "Тиеманам" #Машинный перевод 30.06.2023
+ heritage_tiemanam_collective_noun: "Тиеманам" #Машинный перевод 30.06.2023
+ heritage_dubadin_name: "Дубадин" #Машинный перевод 30.06.2023
+ heritage_dubadin_collective_noun: "Дубадин" #Машинный перевод 30.06.2023
+ heritage_saielaian_name: "Saielaian" #Машинный перевод 30.06.2023
+ heritage_saielaian_collective_noun: "сайелайцы" #Машинный перевод 30.06.2023
+ heritage_dergi_name: "Дерги" #Машинный перевод 30.06.2023
+ heritage_dergi_collective_noun: "Дерги" #Машинный перевод 30.06.2023
+ heritage_enynanthari_name: "Энинантари" #Машинный перевод 30.06.2023
+ heritage_enynanthari_collective_noun: "Энинантари" #Машинный перевод 30.06.2023
+ heritage_marndeoticeni_name: "Марндеотичени" #Машинный перевод 30.06.2023
+ heritage_marndeoticeni_collective_noun: "Марндеотичени" #Машинный перевод 30.06.2023
+ heritage_iseni_name: "Исеньи" #Машинный перевод 30.06.2023
+ heritage_iseni_collective_noun: "Исеньи" #Машинный перевод 30.06.2023
+ heritage_lonely_lighter_name: "Одинокая зажигалка" #Машинный перевод 30.06.2023
+ heritage_lonely_lighter_collective_noun: "Одинокие зажигалки" #Машинный перевод 30.06.2023
+ heritage_wasteland_name: "Нету"
+ heritage_wasteland_collective_noun: "Нету"
+ heritage_balarid_name: "Баларид" #Машинный перевод 30.06.2023
+ heritage_balarid_collective_noun: "балариды" #Машинный перевод 30.06.2023
+ heritage_mtuwe_name: "Мтуве" #Машинный перевод 30.06.2023
+ heritage_mtuwe_collective_noun: "Мтуве" #Машинный перевод 30.06.2023
+ heritage_daikheni_name: "Дайхэни" #Машинный перевод 30.06.2023
+ heritage_daikheni_name_collective_noun: "Дайхэни" #Машинный перевод 30.06.2023
+ heritage_sceyfig_lighter_name: "Зажигалка Scæyfig" #Машинный перевод 30.06.2023
+ heritage_sceyfig_lighter_noun: "Зажигалки Scæyfig" #Машинный перевод 30.06.2023
+ heritage_bricotaves_name: "Брикотавиш" #Машинный перевод 30.06.2023
+ heritage_bricotaves_collection_noun: "Брикотавы" #Машинный перевод 30.06.2023
+ heritage_ardothanes_name: "Ардотан" #Машинный перевод 30.06.2023
+ heritage_ardothanes_collective_noun: "Ардотан" #Машинный перевод 30.06.2023
+ heritage_corvosnari_name: "Корвоснари" #Машинный перевод 30.06.2023
+ heritage_corvosnari_collective_noun: "Корвоснари" #Машинный перевод 30.06.2023
+ heritage_ordikin_name: "Ордикин" #Машинный перевод 30.06.2023
+ heritage_ordikin_collective_noun: "Ордикин" #Машинный перевод 30.06.2023
+ heritage_ouwabadin_name: "Увабадин" #Машинный перевод 30.06.2023
+ heritage_ouwabadin_collective_noun: "Увабадин" #Машинный перевод 30.06.2023
+ heritage_ashkeschi_name: "Ашкески" #Машинный перевод 30.06.2023
+ heritage_ashkeschi_collective_noun: "Ашкески" #Машинный перевод 30.06.2023
+ heritage_dadkawji_name: "Дадкавджи" #Машинный перевод 30.06.2023
+ heritage_dadkawji_collective_noun: "Дадкавджи" #Машинный перевод 30.06.2023
+ heritage_narodlek_name: "Народлек" #Машинный перевод 30.06.2023
+ heritage_narodlek_collective_noun: "Народлеки" #Машинный перевод 30.06.2023
+ heritage_sagadavian_name: "сагадавский" #Машинный перевод 30.06.2023
+ heritage_sagadavian_collective_noun: "Сагадавцы" #Машинный перевод 30.06.2023

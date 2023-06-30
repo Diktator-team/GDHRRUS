@@ -1,0 +1,15 @@
+﻿l_russian:
+ first_person: "Я"
+ third_person: "[ROOT.GetCharacter.GetFirstNameNoTooltip]"
+  
+ first_person_is: ""
+ third_person_is: ""
+  
+ third_person_has: ""
+ first_person_have: ""
+  
+ third_person_is: ""
+ first_person_am: ""
+  
+ third_person_my: ""
+ first_person_my: "[ROOT.GetCharacter.GetFirstNameNoTooltip]"

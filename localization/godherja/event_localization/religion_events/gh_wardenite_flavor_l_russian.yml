@@ -1,0 +1,73 @@
+﻿l_russian:
+ wardenite_yearly.0001.t: "Столкновение Тусуфны"
+ wardenite_yearly.0001.desc: "Две главные Тусуфны [tusuffna_dispute_county.GetNameNoTier] все чаще вцепляются друг другу в глотки. [ROOT.Char.Custom('TusuffnaPersonalStance')]\n\nЛидеры двух фракций предстали перед моим судом, и каждый изложил свою позицию. Хотя их ссора едва ли важна или имеет большое моральное значение, я все же должен тщательно обдумать свой образ действий."
+ wardenite_yearly.0001.a: "Наверняка можно найти какой-то компромисс?"
+ wardenite_yearly.0001.b: "Только не делай так больше, ладно?"
+ wardenite_yearly.0001.b.cynical: "Эти фанатики меня не касаются."
+ wardenite_yearly.0001.b.arrogant: "Эти отбросы меня не касаются."
+ wardenite_yearly.0001.c.wrathful: "Прекратите эту чушь, СЕЙЧАС!"
+ wardenite_yearly.0001.c: "Немедленно прекратите это, иначе."
+ wardenite_yearly.0001.d: "[tusuffna_leader_one.GetFirstName] прав."
+ wardenite_yearly.0001.e: "I'm on [tusuffna_leader_two.GetFirstName]'s side!"
+ wardenite_yearly.0001.f: "Возможно, вы бы #BOL оба#! захотели работать на меня?"
+ wardenite_yearly.0001.g: "Я #BOL#! найду другой путь..."
+ wardenite_yearly.0001.h: "Ваша ссора не имеет библейского основания."
+ wardenite_yearly.0001.a.tt_success: "Тусуфна соглашается решить проблему"
+ wardenite_yearly.0001.a.tt_failure: "Тусуфна продолжают свой конфликт"
+ wardenite_yearly.0001.c.tt_success: "Тусуфна запугана"
+ wardenite_yearly.0001.c.tt_failure: "Тусуфна не запугана"
+ wardenite_yearly.0001.f.tt_success: "Вы успешно наняли обоих лидеров Тусуфны."
+ wardenite_yearly.0001.f.tt_partial_success_one: "Вы успешно набираете [tusuffna_leader_one.GetFirstName]"
+ wardenite_yearly.0001.f.tt_partial_success_two: "Вы успешно набираете [tusuffna_leader_two.GetFirstName]"
+ wardenite_yearly.0001.f.tt_failure: "Ни один из лидеров Тусуфны не соглашается присоединиться к вам."
+ wardenite_yearly.0001.h.tt_success: "Тусуфна поддалась моим юридическим аргументам"
+ wardenite_yearly.0001.h.tt_failure: "Тусуфна не поддалась моим юридическим аргументам"
+  
+ wardenite_yearly.0011.t: "Опасности искушения"
+ wardenite_yearly.0011.desc: "Казалось бы, мой [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('decadent_child'))], [decadent_child.GetFirstName], начал связываться с группой минбирийских радикалов, возглавляемой неким [minbiria_friend.GetFirstName] что они, по-видимому, очень полюбили. Хотя минбири'а якобы является серьезной, хотя и радикальной школой юриспруденции Варденитов, они, тем не менее, по праву несут клеймо за свои... неортодоксальные и часто гедонистические подходы.\n\nВо многих отношениях членство в них считается достойным сожаления, хотя распространен среди молодежи.[ROOT.Char.Custom('WasMemberOfMinbiriaRemark')] Хотя это не было бы верхом благочестия, я мог бы просто не обращать на это внимания и позволить [decadent_child.GetFirstName] вырасти из этого."
+ wardenite_yearly.0011.desc.zealous: "С каждым днем ​​меня все больше и больше тревожит компания, в которой я живу. [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('decadent_child'))], [decadent_child.GetFirstName], стал держать. Минбири'а, они называют себя, но я назову их теми, кто они есть - негодяями, отступниками и блудницами!\n\nПоздно ночью я нахожу [decadent_child.GetFirstName] смешавшись с этими «свободомыслящими», участвуя в [ROOT.Char.GetFaith.HighGodName] знает что за ересь и разврат. Один из этих подонков [decadent_child.GetSheHe] кажется, особенно сблизился с каким-то шарлатаном по имени [minbiria_friend.GetFirstName]. [ROOT.Char.Custom('WasMemberOfMinbiriaRemarkZealous')]\n\nЯ должен что-то с этим сделать!"
+ wardenite_yearly.0011.a: "Я запрещаю эту чушь!"
+ wardenite_yearly.0011.b: "Это просто фаза."
+ wardenite_yearly.0011.c.cynical: "Хорошо, [decadent_child.GetSheHe] следует сохранять непредвзятость."
+ wardenite_yearly.0011.c: "Пусть [decadent_child.Custom('GetLadLass')] [decadent_child.GetHerHis] веселится!"
+ wardenite_yearly.0011.d: "Эта мразь научится держаться подальше."
+ wardenite_yearly.0011.a.tt_success: "[decadent_child.GetFirstName] прекращает общение с минбири"
+ wardenite_yearly.0011.a.tt_failure: "[decadent_child.GetFirstName] продолжает тайно встречаться с минбири"
+  
+ wardenschools.0001.t: "Юридический хаос!"
+ wardenschools.0001.desc: "Мои судьи и я весь день горячо спорили после заявления моего сюзерена. [ROOT.GetCharacter.GetLiege.GetName] объявляет о новой серии правовых стандартов, соответствующих новой юридической школе. Пока это полностью в пределах [ROOT.GetCharacter.GetLiege.GetHerHis] правильно. Я также имею полное право отказаться от обеспечения того, чтобы это было установлено на моей территории."
+ wardenschools.0001.a: "Учредить изменения"
+ wardenschools.0001.a.tt: "Это изменит вашу школу, чтобы она соответствовала школе вашего сюзерена. #P положительно повлияет на ваши отношения.#!"
+ wardenschools.0001.b: "Отклонить изменения"
+ wardenschools.0001.b.tt: "Ваша школа не изменится, но #N ваш сюзерен этого не оценит.!#"
+ wardenschools.0002.t: "Правовая реформа"
+ wardenschools.0002.desc: "Я только что получил известие, что мой сюзерен, наконец, принял юридические предложения, предложенные моей конкретной школой. Это может быть только предвестником хороших событий."
+ wardenschools.0002.a: "Ну наконец то!"
+ wardenschools.0003.t: "юридическая причудливость"
+ wardenschools.0003.desc: "Я только что закончил удостоверяться, что мои местные суды получили мое письмо, когда приходит письмо из столицы. Мой сюзерен, во имя которого я только что оттолкнул половину своих судей, мертв. У меня, честно говоря, нет слов. Я не могу забрать свои послания обратно..."
+ wardenschools.0003.a: "Это похоже на знак..."
+ wardenschools.0003.a.tt: "ну это смущает"
+  
+  ####################### 
+  # CUSTOM LOCALIZATION # 
+  ####################### 
+  
+ tusuffna_stance_positive: "Хотя их часто высмеивают как простых головорезов, Тусуфна представляют собой религиозные братства, чаще всего праведные в своем рвении, но заблуждающиеся и скованные отсутствием надлежащей организации. Две такие группы в округе допустили эскалацию вражды до неприемлемого уровня насилия, и я должен вмешаться."
+ tusuffna_stance_neutral: "Этим религиозным братствам — или, реже, сестричествам — не хватает атрибутов надлежащей организованной силы, они больше напоминают уличную банду и, что неудивительно, часто враждуют друг с другом. Однако спор в округе перерос в насилие до такой степени, что ожидается мое собственное вмешательство."
+ tusuffna_stance_negative: "Хотя мелкие споры этих фанатичных головорезов обычно не замечают люди моего уровня, конфликт, о котором идет речь, недавно обострился до уровня насилия, требующего моего вмешательства."
+ was_member_of_minbiria_yes: "В конце концов, я сам был «членом» одного из них в молодости..." #Машинный перевод 30.06.2023
+ was_member_of_minbiria_no: ""
+ was_member_of_minbiria_zealous_yes: "Мне до сих пор стыдно, что в моем юношеском безумии я сам когда-то был членом одной из этих групп."
+ was_member_of_minbiria_zealous_no: ""
+ lad: "lad"
+ lass: "lass"
+  
+  ############ 
+  # OPINIONS # 
+  ############ 
+  
+ recruited_tusuffna_leader_opinion: "завербовал меня"
+ resentment_opinion: "Негодование"
+ permissive_parent_opinion: "Разрешающий родитель"
+ open_minded_parent_opinion: "Непредубежденный родитель"
+ vicious_parent_opinion: "порочный родитель"

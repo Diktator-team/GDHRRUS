@@ -1,0 +1,68 @@
+﻿l_russian:
+  
+ ehatm: "Э'хат'м"
+ ehatm_adj: "Э'хат'м"
+ ehatm_adherent: "E'hat'mian"
+ ehatm_adherent_plural: "E'hat'mians"
+ ehatm_desc: "Некогда доминирующая вера островов Крехеджад, Э'хат'м - это вера в "сестру-мать", Корихот и Корикет, сестру человечества и мать человечества, которые являются отдельными сущностями и одновременно двумя аспектами одной и той же божественности. Корикет, приняв форму солнца, создала бесконечное море, а затем создала свою дочь Корихот (принявшую форму [aervalr|E]). Корихот подняла сушу из моря, чтобы они могли разделить свое творение, и, желая, чтобы у ее дочери была компания, когда она перейдет на другую сторону их планеты, Корикет создала все живое и позволила Корихот присматривать за ними ночью, пока она делала это днем.\n\n\nМатриархальная и морская культура, Э'хат'м когда-то были известны как ужасные пираты, угрожавшие судоходству на юге, которые совершали набеги вплоть до [aversaria|E] до ее образования. У э'хат'м женщины управляют морем, поскольку оно было создано богами-женщинами, а мужчины должны следить за безопасностью земли, чтобы женщины могли лучше приносить щедрость моря. С этой целью большинство пиратских судов э'хат'миан были полностью укомплектованы женщинами-воинами, что послужило основой для многих басен, которые затем вошли в мифологию Аверсарии и многих других культур.\n\n\nЭ'хат'ми мигрировали в качестве веры на Кират, когда аверсарийцы наконец сочли, что постоянное пиратство и попытки колонизации э'хат'миан стали серьезной помехой для империи. Аатократия Палеас приказал предать народ э'хат'м мечу, чтобы расплатиться за многовековые набеги, а те из людей, кто выжил, бежали в свои разрозненные колонии на юго-западе. С тех пор вера приспособилась к новому дому, хотя верующие все еще тоскуют по родине и верят, что разрушение Аэрвалра в [фродброкна|E] было результатом их изгнания."
+  
+ ehatm_religion: "E'hat'm"
+ ehatm_religion_adj: "Krehejadic"
+  
+ ehatm_high_god_name: "Корихот"
+ ehatm_high_god_name_possessive: "Corihot's"
+ ehatm_high_god_name_alternate: "$ehatm_high_god_name$" #Машинный перевод 30.06.2023
+ ehatm_high_god_name_alternate_possessive: "$ehatm_high_god_name$_притяжательный" #Машинный перевод 30.06.2023
+ ehatm_devil_name: "Зверь"
+ ehatm_devil_name_possessive: "The Beast's"
+ ehatm_death_deity_name: "$ehatm_high_god_name$" #Машинный перевод 30.06.2023
+ ehatm_death_deity_name_possessive: "$ehatm_high_god_name_possessive$" #Машинный перевод 30.06.2023
+  
+ ehatm_house_of_worship: "храм"
+ ehatm_house_of_worship_plural: "храмы"
+ ehatm_religious_symbol: "Сестры" #Машинный перевод 30.06.2023
+ ehatm_religious_text: "История сестер" #Машинный перевод 30.06.2023
+  
+ ehatm_religious_head_title: "ehatm_religious_head_title" #Машинный перевод 30.06.2023
+ ehatm_religious_head_title_name: "ehatm_religious_head_title_name" #Машинный перевод 30.06.2023
+ ehatm_devotee_male: "Эхатмиан" #Машинный перевод 30.06.2023
+ ehatm_devotee_male_plural: "Эхатмианс" #Машинный перевод 30.06.2023
+ ehatm_devotee_female: "Эхатмиан" #Машинный перевод 30.06.2023
+ ehatm_devotee_female_plural: "Эхатмианс" #Машинный перевод 30.06.2023
+ ehatm_devotee_neuter: "Эхатмиан" #Машинный перевод 30.06.2023
+ ehatm_devotee_neuter_plural: "Эхатмианс" #Машинный перевод 30.06.2023
+ ehatm_priest_male: "Э'бед" #Машинный перевод 30.06.2023
+ ehatm_priest_male_plural: "Эбедим" #Машинный перевод 30.06.2023
+ ehatm_priest_female: "Мат" #Машинный перевод 30.06.2023
+ ehatm_priest_female_plural: "Матим" #Машинный перевод 30.06.2023
+ ehatm_priest_alternate: "Мат" #Машинный перевод 30.06.2023
+ ehatm_priest_alternate_plural: "Матим" #Машинный перевод 30.06.2023
+ ehatm_bishop: "Микимель" #Машинный перевод 30.06.2023
+ ehatm_bishop_plural: "Микимелим" #Машинный перевод 30.06.2023
+ ehatm_positive_afterlife: "Мерез" #Машинный перевод 30.06.2023
+ ehatm_negative_afterlife: "Молк" #Машинный перевод 30.06.2023
+  
+ ehatm_creator_god_name: "$ehatm_high_god_name$" #Машинный перевод 30.06.2023
+ ehatm_creator_god_name_possessive: "$ehatm_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ ehatm_health_god_name: "$ehatm_high_god_name$" #Машинный перевод 30.06.2023
+ ehatm_health_god_name_possessive: "$ehatm_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ ehatm_fertility_god_name: "$ehatm_high_god_name$" #Машинный перевод 30.06.2023
+ ehatm_fertility_god_name_possessive: "$ehatm_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ ehatm_wealth_god_name: "Coryqet"
+ ehatm_wealth_god_name_possessive: "Coryqet's"
+ ehatm_household_god_name: "$ehatm_wealth_god_name$" #Машинный перевод 30.06.2023
+ ehatm_household_god_name_possessive: "$ehatm_wealth_god_name_possessive$" #Машинный перевод 30.06.2023
+ ehatm_fate_god_name: "$ehatm_high_god_name$" #Машинный перевод 30.06.2023
+ ehatm_fate_god_name_possessive: "$ehatm_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ ehatm_knowledge_god_name: "$ehatm_high_god_name$" #Машинный перевод 30.06.2023
+ ehatm_knowledge_god_name_possessive: "$ehatm_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ ehatm_war_god_name: "$ehatm_devil_name$" #Машинный перевод 30.06.2023
+ ehatm_war_god_name_possessive: "$ehatm_devil_name_possessive$" #Машинный перевод 30.06.2023
+ ehatm_trickster_god_name: "Балам"
+ ehatm_trickster_god_name_possessive: "Balam's"
+ ehatm_night_god_name: "$ehatm_devil_name$" #Машинный перевод 30.06.2023
+ ehatm_night_god_name_possessive: "$ehatm_devil_name_possessive$" #Машинный перевод 30.06.2023
+ ehatm_water_god_name: "$ehatm_high_god_name$" #Машинный перевод 30.06.2023
+ ehatm_water_god_name_possessive: "Дериа" #Машинный перевод 30.06.2023
+ ehatm_witch_god_name: "$ehatm_devil_name$" #Машинный перевод 30.06.2023
+ ehatm_witch_god_name_possessive: "$ehatm_devil_name_possessive$" #Машинный перевод 30.06.2023

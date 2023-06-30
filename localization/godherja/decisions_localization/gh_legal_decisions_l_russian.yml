@@ -1,0 +1,14 @@
+﻿l_russian:
+ begin_practicing_law_decision_name: "Начать изучение права"
+ continue_practicing_law_decision_name: "Продолжить изучение права"
+ begin_practicing_law_decision_desc: "Тонкости [GetPlayer.GetFaith.GetReligion.GetAdjectiveNoTooltip] закона на овладение мастерством уходит целая жизнь, а начать изучение даже базовых основ — задача непростая. [SelectLocalization(GetPlayer.HasTrait(GetTrait('arrogant').Self),'хотя у такого блестящего правителя, как я, не должно быть проблем в этом отношении и',SelectLocalization(GetPlayer.HasTrait(GetTrait('zealous').Self),'хотя мое благочестие заставляет меня исследовать догматы моей веры ','but'))] если я буду настойчив, блага могут оказаться существенными."
+ continue_practicing_law_decision_desc: "Я достаточно долго пренебрегал юридическими исследованиями. Пришло время стряхнуть пыль со старого тома."
+ begin_practicing_law_decision_tooltip: "Я буду изучать сложный мир [GetPlayer.GetFaith.GetReligion.GetAdjectiveNoTooltip] закона."
+ begin_practicing_law_decision_confirm: "Начать учебу"
+ begin_practicing_law_decision_effect_tt: "Вы начнете получать события, которые могут дать #E Судебные навыки#! за стресс."
+  
+ found_barrow_decision_name: "Подготовьте тачку"
+ found_barrow_decision_desc: "Моя душа однажды покинет эту смертную оболочку, и для человека моего положения ожидается, что я воздвигну место захоронения, достойное того, чтобы стать моим последним пристанищем."
+ found_barrow_decision_tooltip: "Я приготовлю курган, достойный великого правителя."
+ found_barrow_decision_confirm: "Начните составлять планы"
+ found_barrow_decision_effect_tt: "Вы сможете выбрать объем и размер Кургана, и каждый уровень будет давать все большие бонусы."

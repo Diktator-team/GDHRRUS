@@ -1,0 +1,6 @@
+﻿l_russian:
+  
+ force_join_clique_interaction: "Заставить присоединиться к Клике"
+ force_join_clique_interaction_desc: "Использовать [hook|E] на [recipient.GetShortUIName], чтобы заставить присоединиться к моей Клике"
+ force_join_clique_interaction_notification: "Вынужден присоединиться к Клике"
+ FORCE_JOIN_CLIQUE_NOTIFICATION: "Я решил использовать свое влияние на вас, чтобы заставить вас присоединиться к моей Клике."

@@ -1,0 +1,10 @@
+﻿l_russian:
+ corridor: "corridor"
+ cellar: "cellar"
+ courtyard: "courtyard"
+ alleyway: "alleyway"
+ bedroom: "bedroom"
+  
+  #Error Prevention 
+ success: "success"
+ failure: "failure"

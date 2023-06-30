@@ -1,0 +1,520 @@
+﻿l_russian:
+ cn_orispolj: "Орисполий"
+ cn_orispolj_adj: "Ориспольск"
+ cn_kistrenjon: "Кистренжон"
+ cn_kistrenjon_adj: "Кистренск"
+ cn_pecenija: "Пецения"
+ cn_pecenija_adj: "Пеценск"
+ cn_amarija: "Амариджа"
+ cn_amarija_adj: "Амариск"
+ cn_tis: "Тис"
+ cn_tis_adj: "Тисовск"
+ cn_cernipoje: "Чернипожье"
+ cn_cernipoje_adj: "Чернипожск"
+ cn_sestira_oz_more: "Сестира из Моря"
+ cn_sestira_oz_more_adj: "Сестироизморск"
+ cn_hilon: "Хилон"
+ cn_hilon_adj: "Хилонск"
+ cn_medegrad: "Медеград"
+ cn_medegrad_adj: "Медеградск"
+ cn_milecanaj: "Милецанай"
+ cn_melacanaj_adj: "Милецанайск"
+ cn_belij_kaminj: "Белый Каминь"
+ cn_belij_kaminj_adj: "Бело-Каминьск"
+ cn_edom: "Эдом"
+ cn_edom_adj: "Эдомск"
+ cn_cenwirovce: "Кенвировц"
+ cn_cenwirovce_adj: "Кенвировск"
+ cn_lizomolj: "Лизомолдж"
+ cn_lizomolj_adj: "Лизомолдск"
+ cn_lisen_ban: "Лизен Бан"
+ cn_lisen_ban_adj: "Лизенбанск"
+ cn_lentapiz: "Лентапиз"
+ cn_lentapiz_adj: "Лентапизск"
+ cn_tilan: "Тилан"
+ cn_tilan_adj: "Тиланск"
+ cn_zelipir: "Зелипир"
+ cn_zelipir_adj: "Зелипирск"
+ cn_galisjuma: "Галишума"
+ cn_galisjuma_adj: "Галишумск"
+ cn_runiz: "Руниз"
+ cn_runiz_adj: "Рунизск"
+ cn_knid: "Книд"
+ cn_knid_adj: "Книдск"
+ cn_kormakos: "Кормакос"
+ cn_kormakos_adj: "Кормакосск"
+ cn_bus: "Малый Бус"
+ cn_bus_adj: "Малобуск"
+ cn_nadvin: "Надвин"
+ cn_nadvin_adj: "НАдвинск"
+ cn_zirinsel: "Зиринзел"
+ cn_zirinsel_adj: "Зиринзелск"
+ cn_viren: "Вирен"
+ cn_viren_adj: "Виренск"
+ cn_tarinje: "Таринж"
+ cn_tarinje_adj: "Таринск"
+ cn_metrisel: "Метризел"
+ cn_metrisel_adj: "Метризелск"
+ cn_bjilazborca: "Билазборца"
+ cn_bjilazborca_adj: "Билазборск"
+ cn_irac: "Ирац"
+ cn_irac_adj: "Ирацк"
+ cn_patrilije: "Патрилие"
+ cn_patrilije_adj: "Патрильск"
+ cn_sjalarina: "Сьяларина"
+ cn_sjalarina_adj: "Сьяларинск"
+ cn_gudrijev_stolac: "Гудриев Столац"
+ cn_gudrijev_stolac_adj: "Гудриевостолацк"
+ cn_klozentilj: "Клозентиль"
+ cn_klozentilj_adj: "Клозентильск"
+ cn_didon: "Дидон"
+ cn_didon_adj: "Дидонск"
+ cn_indira: "Индира"
+ cn_indira_adj: "Индирск"
+ cn_sozal: "Созэл"
+ cn_sozal_adj: "Созэлск"
+ cn_himidar: "Химидар"
+ cn_himidar_adj: "Химидарск"
+ cn_golek: "Голек"
+ cn_golek_adj: "Голецк"
+ cn_desingrad: "Дезинград"
+ cn_desingrad_adj: "Дезинградск"
+ cn_pizon: "Пизон"
+ cn_pizon_adj: "Пизонск"
+ cn_ovkinje: "Овкинье"
+ cn_ovkinje_adj: "Овкинск"
+ cn_jeluri: "Джелури"
+ cn_jeluri_adj: "Джелуриск"
+ cn_kodinstol: "Кодинстол"
+ cn_kodinstol_adj: "Кодинстольск"
+ cn_godren: "Годрин"
+ cn_godren_adj: "Годринск"
+ cn_sumbor: "Сумбор"
+ cn_sumbor_adj: "Сумборск"
+ cn_vis: "Виш"
+ cn_vis_adj: "Вишск"
+ cn_olbrinje: "Олбринье"
+ cn_olbrinje_adj: "Олбриньск"
+ cn_pcelicvat: "Пчелицват"
+ cn_pcelicvat_adj: "Пчелицватск"
+ cn_socvica: "Сочвица"
+ cn_socvica_adj: "Сочвинск"
+ cn_sestira: "Сестира"
+ cn_sestira_adj: "Сестирск"
+ cn_vukidol: "Вукидол"
+ cn_vukidol_adj: "Вукидольск"
+ cn_bledi_kuc: "Бледный Кот"
+ cn_bledi_kuc_adj: "Бледнокотск"
+ cn_grombol: "Громбол"
+ cn_grombol_adj: "Громбольск"
+ cn_rumnegija: "Румнегидж"
+ cn_rumnegija_adj: "Румнегиджск"
+ cn_laporevc: "Лапоревк"
+ cn_laporevc_adj: "Лапоревецкий"
+ cn_aftek: "Афтек"
+ cn_aftek_adj: "Афтецк"
+ cn_ajfelis: "Айфелис"
+ cn_ajfelis_adj: "Айфелиск"
+ cn_dajsor: "Дэйсор"
+ cn_dajsor_adj: "Дэйсорск"
+ cn_zorlik: "Зорлик"
+ cn_zorlik_adj: "Зорликск"
+ cn_kanaj: "Канаж"
+ cn_kanaj_adj: "Канажск"
+ cn_mjeslinka: "Мжеслинка"
+ cn_mjeslinka_adj: "Мжеслинск"
+ cn_silpir: "Силпир"
+ cn_silpir_adj: "Силпирск"
+ cn_gnostek: "Гностек"
+ cn_gnostek_adj: "Гностецк"
+ cn_vidri_plaz: "Видри Плаз"
+ cn_vidri_plaz_adj: "Видриплажск"
+ cn_krabejvoda: "Крабейвода"
+ cn_krabejvoda_adj: "Крабейводск"
+ cn_starej_pir: "Старый Пирс"
+ cn_starej_pir_adj: "Старопирск"
+ cn_gisos: "Гисос"
+ cn_gisos_adj: "Гисск"
+ cn_zalivgrad: "Заливград"
+ cn_zalivgrad_adj: "Заливградск"
+ cn_severejdrom: "Север-дрём"
+ cn_severejdrom_adj: "Северо-дрёмск"
+ cn_nikos: "Никос"
+ cn_nikos_adj: "Никосск"
+ cn_baron: "Барон"
+ cn_baron_adj: "Баронск"
+ cn_falcin: "Фалцин"
+ cn_falcin_adj: "Фалцинск"
+ cn_dalinop: "Далиноп"
+ cn_dalinop_adj: "Далинопск"
+ cn_kanimpost: "Канимпост"
+ cn_kanimpost_adj: "Канимпостск"
+ cn_fokilos: "Фокилос"
+ cn_fokilos_adj: "Фокилосск"
+ cn_bublis: "Бублиш"
+ cn_bublis_adj: "Бублисск"
+ cn_gubejdol: "Губейдол"
+ cn_gubejdol_adj: "Губейдольск"
+ cn_visika_stinja: "Висика Стинья"
+ cn_visika_stinja_adj: "Висикостинск"
+ cn_vodovrtijk: "Водовортийк"
+ cn_vodovrtijk_adj: "Водовортийск"
+ cn_cenvirejev_pir: "Кенвиреев Пир"
+ cn_cenvirejev_pir_adj: "Кенвирпирск"
+ cn_kirid: "Кирид"
+ cn_kirid_adj: "Киридск"
+ cn_gorejrevan: "Гореджреван"
+ cn_gorejrevan_adj: "Гореджреванск"
+ cn_kajron: "Кайрон"
+ cn_kajron_adj: "Кайронск"
+ cn_tepljivolna: "Тепливольна"
+ cn_tepljivolna_adj: "Тепливольнск"
+ cn_vecir: "Вечир"
+ cn_vecir_adj: "Вечирск"
+ cn_kipelsel: "Кипельсель"
+ cn_kipelsel_adj: "Кипельсельск"
+ cn_servijpisak: "Сервийписак"
+ cn_servijpisak_adj: "Сервийписакск"
+ cn_himand: "Химанд"
+ cn_himand_adj: "Химандск"
+ cn_budrerika: "Будрерика"
+ cn_budrerika_adj: "Будрерицк"
+ cn_fruktika: "Фруктика"
+ cn_fruktika_adj: "Фруктикск"
+ cn_rizek: "Ризек"
+ cn_rizek_adj: "Ризекск"
+ cn_atokratirmost: "Атократирмост"
+ cn_atokratirmost_adj: "Атократирмостск"
+ cn_zjacenica: "Зяченица"
+ cn_zjacenica_adj: "Зяченицк"
+ cn_vinejpol: "Винейпол"
+ cn_vinejpol_adj: "Винейполск"
+ cn_tarodosija: "Тародосия"
+ cn_tarodosija_adj: "Тародосийск"
+ cn_kotva: "Котва"
+ cn_kotva_adj: "Котвийск"
+ cn_lamor: "Ламор"
+ cn_lamor_adj: "Ламорск"
+ cn_teodineja: "Теодинея"
+ cn_teodineja_adj: "Теодинейск"
+ cn_gonis: "Гонис"
+ cn_gonis_adj: "Гонисск"
+ cn_novij_pir: "Новий Пир"
+ cn_novij_pir_adj: "Новопирск"
+ cn_sjanokos: "Сжанокос"
+ cn_sjanokos_adj: "Сжанокосск"
+ cn_velosevij: "Велосевий"
+ cn_velosevij_adj: "Велосевск"
+ cn_grencovcij: "Гренчовцы"
+ cn_grencovcij_adj: "Гренчовск"
+ cn_andris: "Андриш"
+ cn_andris_adj: "Андришск"
+ cn_tacanijk: "Тачайник"
+ cn_tacanijk_adj: "Тачайницк"
+ cn_gungir: "Гунгир"
+ cn_gungir_adj: "Гунгирск"
+ cn_konjobit: "Конжобит"
+ cn_konjobit_adj: "Конжобитск"
+ cn_pinjuh: "Пинжун"
+ cn_pinjuh_adj: "Пинжунск"
+ cn_velikij_bus: "Великий Буш"
+ cn_velikij_bus_adj: "Великобушск"
+ cn_sjakirovcij: "Сякировций"
+ cn_sjakirovcij_adj: "Сякировцийск"
+ cn_milkobreg: "Милкобрег"
+ cn_milkobreg_adj: "Милкобрежск"
+ cn_okrzen: "Окжен"
+ cn_okrzen_adj: "Окженск"
+ cn_ilicin: "Илицин"
+ cn_ilicin_adj: "Илицинск"
+ cn_flosen: "Флосен"
+ cn_flosen_adj: "Флосенск"
+ cn_kjeljijbredo: "Кьелийбредо"
+ cn_kjeljijbredo_adj: "Кьелийбредск"
+ cn_krosnjostek: "Кросньостек"
+ cn_krosnjostek_adj: "Кросньостекск"
+ cn_bisopolj: "Бисополж"
+ cn_bisopolj_adj: "Бисополжск"
+ cn_palacinij: "Палациний"
+ cn_palacinij_adj: "Палацинск"
+ cn_unje: "Унье"
+ cn_unje_adj: "Уньеск"
+ cn_hrest: "Хрест"
+ cn_hrest_adj: "Хрестск"
+ cn_pjalir: "Пьялир"
+ cn_pjalir_adj: "Пьялирск"
+ cn_rotkva: "Ротква"
+ cn_rotkva_adj: "Ротквск"
+ cn_mjaesta: "Мжаэста"
+ cn_mjaesta_adj: "Мжаэстаск"
+ cn_nukrisel: "Нукризель"
+ cn_nukrisel_adj: "Нукризельск"
+ cn_babocka: "Бабочка"
+ cn_babocka_adj: "Бабочканск"
+ cn_velijcvor: "Велийцвор"
+ cn_velijcvor_adj: "Велийцворск"
+  
+ cn_drokongrov: "Дроконгров"
+ cn_drokongrov_adj: "Дроконгровск"
+ cn_kurakrost: "Куракрост"
+ cn_kurakrost_adj: "Куракростск"
+ cn_stjorij_stubenicij: "Стьорий Стубениций"
+ cn_stjorij_stubenicij_adj: "Стьоростубеницк"
+ cn_tamarnica: "Тамарника"
+ cn_tamarnica_adj: "Тамарницк"
+ cn_bobinje: "Бобинже"
+ cn_bobinje_adj: "Бобинск"
+  
+ cn_odorispolje: "Одорисполье"
+ cn_odorispolje_adj: "Одориспольск"
+ cn_heraklip: "Гераклип"
+ cn_heraklip_adj: "Гераклипск"
+ cn_primorjeski: "Приморжеский"
+ cn_primorjeski_adj: "Приморжеск"
+ cn_orovno: "Оровно"
+ cn_orovno_adj: "Оровниск"
+ cn_edom_county: "Эдом"
+ cn_edom_county_adj: "Эдомсй"
+ cn_limpisod_county: "Лимписод"
+ cn_limpisod_county_adj: "Лимписодск"
+ cn_vidridrev: "Видридрев"
+ cn_vidridrev_adj: "Видридревск"
+ cn_lukacej: "Лукацей"
+ cn_lukacej_adj: "Лукацейск"
+ cn_toplirjek: "Топлиржек"
+ cn_toplirjek_adj: "Топлиржекск"
+ cn_avrinska_doljija: "Авринска Должия"
+ cn_avrinska_doljija_adj: "Авринско-должск"
+ cn_uminje: "Уминдж"
+ cn_uminje_adj: "Уминджск"
+ cn_gacka: "Гацка"
+ cn_gacka_adj: "Гацк"
+ cn_jelovek: "Желовек"
+ cn_jelovek_adj: "Желовецк"
+ cn_dolinci: "Долинцы"
+ cn_dolinci_adj: "Долинцк"
+ cn_zakrinja: "Закринжа"
+ cn_zakrinja_adj: "Закринцк"
+ cn_juzneji_jalen: "Южний Джален"
+ cn_juzneji_jalen_adj: "Южно-джаленск"
+ cn_severneji_jalen: "Северний Джален"
+ cn_severneji_jalen_adj: "Северно-джаленск"
+ cn_zamin: "Замин"
+ cn_zamin_adj: "Заминск"
+ cn_visek: "Висек"
+ cn_visek_adj: "Висецк"
+ cn_brezigora: "Брезигора"
+ cn_brezigora_adj: "Брезигорск"
+ cn_lomez: "Ломез"
+ cn_lomez_adj: "Ломеск"
+ cn_bublijum: "Бублийм"
+ cn_bublijum_adj: "Бублийск"
+ cn_pelik: "Пелик"
+ cn_pelik_adj: "Пелицк"
+ cn_sjalojka: "Сьяложка"
+ cn_sjalojka_adj: "Сьялоцк"
+ cn_sridnjej_otek: "Сридней Отек"
+ cn_sridnjej_otek_adj: "Сридне-отекск"
+ cn_didur_otek: "Дидур"
+ cn_didur_otek_adj: "Дидурск"
+ cn_sokogled: "Сокоглед"
+ cn_sokogled_adj: "Сокогледск"
+ cn_pjetra: "Пьетра"
+ cn_pjetra_adj: "Пьетрск"
+ cn_uzgorje: "Узгорье"
+ cn_uzgorje_adj: "Узгорск"
+ cn_irizanteja: "Иризантея"
+ cn_irizanteja_adj: "Иризантейск"
+ cn_smokvijka: "Смоквийка"
+ cn_smokvijka_adj: "Смоквийкск"
+ cn_mecjevec: "Мечевец"
+ cn_mecjevec_adj: "Мечевецк"
+ cn_sudrodoj: "Судродож"
+ cn_sudrodoj_adj: "Судродожск"
+ cn_vjoronojovo: "Вйоронойово"
+ cn_vjoronojovo_adj: "Вйоронойовск"
+ cn_cernizemja: "Черниземья"
+ cn_cernizemja_adj: "Черниземск"
+ cn_spartevica: "Спартевица"
+ cn_spartevica_adj: "Спартевичск"
+ cn_rehkroljov_lug: "Рехкрольов Луг"
+ cn_rehkroljov_lug_adj: "Рехкрольово-лужск"
+ cn_kercelija: "Керчелия"
+ cn_kercelija_adj: "Керчелийск"
+ cn_brurid: "Брурид"
+ cn_brurid_adj: "Бруридск"
+ cn_salacin: "Салац"
+ cn_salacin_adj: "Салацинск"
+ cn_teodis: "Теодис"
+ cn_teodis_adj: "Теодиск"
+ cn_rjosomoc: "Рьосомоч"
+ cn_rjosomoc_adj: "Рьосомочск"
+ cn_oblejkovac: "Облейковач"
+ cn_oblejkovac_adj: "Облейковачск"
+ cn_lodmilno: "Лодмилно"
+ cn_lodmilno_adj: "Лодмилнск"
+ cn_cipra: "Кипра"
+ cn_cipra_adj: "Киприск"
+ cn_milikij: "Миликиж"
+ cn_milikij_adj: "Миликижск"
+ cn_isan: "Ишан"
+ cn_isan_adj: "Ишанск"
+  
+ cn_drokongrov_county: "Дроконгров"
+ cn_drokongrov_county_adj: "Дроконгровск"
+ cn_oraklija: "Ораклия"
+ cn_oraklija_adj: "Ораклийск"
+  
+ cn_modriva: "Модрива"
+ cn_modriva_adj: "Модривск"
+ cn_almektinj: "Алмектинж"
+ cn_almektinj_adj: "Алмектинжск"
+ cn_probrda: "Пробрда"
+ cn_probrda_adj: "Пробрдск"
+ cn_istarjek: "Истарьек"
+ cn_istarjek_adj: "Истарьецк"
+ cn_delivletija: "Деливлетия"
+ cn_delivletija_adj: "Деливлетийск"
+ cn_vjestik_otecij: "Вестик Отеций"
+ cn_vjestik_otecij_adj: "Вестикоотецийск"
+ cn_akafonija: "Акафония"
+ cn_akafonija_adj: "Акафонск"
+ cn_suvlica: "Сувлика"
+ cn_suvlica_adj: "Сувлицк"
+ cn_himonija: "Химония"
+ cn_himonija_adj: "Химонск"
+ cn_posleza: "Послеза"
+ cn_posleza_adj: "Послежск"
+ cn_gjalebeja: "Гьялебежа"
+ cn_gjalebeja_adj: "Гьялебежск"
+ cn_pastjirovcej: "Пастировчей"
+ cn_pastjirovcej_adj: "Пастировчск"
+ cn_uz: "Уж"
+ cn_uz_adj: "Ужск"
+ cn_kalkis: "Калкис"
+ cn_kalkis_adj: "Калкиск"
+  
+ cn_drokongrov_duchy: "Дроконгров"
+ cn_drokongrov_duchy_adj: "Дроконгровск"
+  
+ cn_amukutlan: "Амукутлан" #Машинный перевод 30.06.2023
+ cn_stahualtlan: "Стауальтлан" #Машинный перевод 30.06.2023
+ cn_tupan: "Тупан" #Машинный перевод 30.06.2023
+ cn_necuametl: "Некуаметль" #Машинный перевод 30.06.2023
+ cn_ehecatl: "Эхекатль" #Машинный перевод 30.06.2023
+ cn_oceditlan: "Окедитлан" #Машинный перевод 30.06.2023
+ cn_xiloqaca: "Шилокача" #Машинный перевод 30.06.2023
+ cn_huitzilyotl: "Уицильотль" #Машинный перевод 30.06.2023
+ cn_miahuacoh: "Миауако" #Машинный перевод 30.06.2023
+ cn_teyacotzin: "Тейакоцин" #Машинный перевод 30.06.2023
+ cn_teoxiyah: "Теоксия" #Машинный перевод 30.06.2023
+ cn_xococo: "Хококо" #Машинный перевод 30.06.2023
+ cn_yolotli: "Йолотли" #Машинный перевод 30.06.2023
+ cn_mahuizoh: "Махуизо" #Машинный перевод 30.06.2023
+ cn_teoxihuitlan: "Теоксиуитлан" #Машинный перевод 30.06.2023
+ cn_coyomixtli: "Койомикстли" #Машинный перевод 30.06.2023
+ cn_cualmac: "Куальмак" #Машинный перевод 30.06.2023
+ cn_tlipotica: "Тлипотика" #Машинный перевод 30.06.2023
+ cn_achtecolan: "Ахтеколан" #Машинный перевод 30.06.2023
+ cn_actecoco: "Ахтекоко" #Машинный перевод 30.06.2023
+ cn_miahuayotl: "Миауайотль" #Машинный перевод 30.06.2023
+ cn_yoloco: "Йолоко" #Машинный перевод 30.06.2023
+ cn_xuitaluatl: "Суиталуатль" #Машинный перевод 30.06.2023
+ cn_huitlan: "Уитлан" #Машинный перевод 30.06.2023
+ cn_actecuatl: "Actecuatl" #Машинный перевод 30.06.2023
+ cn_yocahuitl: "Йокауитль" #Машинный перевод 30.06.2023
+ cn_teoxaca: "Теоксака" #Машинный перевод 30.06.2023
+ cn_coszcatl: "Кошкатль" #Машинный перевод 30.06.2023
+ cn_necutoco: "Некутоко" #Машинный перевод 30.06.2023
+ cn_xiloszatl: "Шилосатль" #Машинный перевод 30.06.2023
+ cn_coyohuatl: "Койоуатль" #Машинный перевод 30.06.2023
+ cn_totecatl: "Тотекатль" #Машинный перевод 30.06.2023
+ cn_tlalli: "Тлалли" #Машинный перевод 30.06.2023
+ cn_cuetlachtli: "Куэтлахтли" #Машинный перевод 30.06.2023
+ cn_cuetzpalli: "Куецпалли" #Машинный перевод 30.06.2023
+ cn_ocuil: "Окуил" #Машинный перевод 30.06.2023
+ cn_iccauhnan: "Иккаунан" #Машинный перевод 30.06.2023
+ cn_citlaltia: "Читлатия" #Машинный перевод 30.06.2023
+ cn_achcauhtia: "Ахкаутиа" #Машинный перевод 30.06.2023
+ cn_chicomehuani: "Чикомехуани" #Машинный перевод 30.06.2023
+ cn_cozamacoh: "Козамако" #Машинный перевод 30.06.2023
+ cn_xocoh: "Хоко" #Машинный перевод 30.06.2023
+ cn_erendira: "Эрендира" #Машинный перевод 30.06.2023
+ cn_tlacohua: "Тлакоуа" #Машинный перевод 30.06.2023
+ cn_chalchiuhticue: "Чальчиутикью" #Машинный перевод 30.06.2023
+ cn_cosoyomicue: "Косойомик" #Машинный перевод 30.06.2023
+ cn_etalti: "Эталтли" #Машинный перевод 30.06.2023
+ cn_tapatonal: "Тапатональный" #Машинный перевод 30.06.2023
+ cn_axamapichtli: "Аксамапичтли" #Машинный перевод 30.06.2023
+ cn_tepilchitl: "Тепильчитль" #Машинный перевод 30.06.2023
+ cn_namahui: "Намахуи" #Машинный перевод 30.06.2023
+ cn_ohtli: "Отли" #Машинный перевод 30.06.2023
+ cn_chipahua: "Чипахуа" #Машинный перевод 30.06.2023
+ cn_nezahualpilli: "Нецауальпилли" #Машинный перевод 30.06.2023
+ cn_tezozomoc: "Тезозомок" #Машинный перевод 30.06.2023
+ cn_tenoch: "Теноч" #Машинный перевод 30.06.2023
+ cn_ihuicanen: "Ихуиканен" #Машинный перевод 30.06.2023
+ cn_mahuichitl: "Мауичитль" #Машинный перевод 30.06.2023
+ cn_zanihual: "Занихуал" #Машинный перевод 30.06.2023
+ cn_tonaltzin: "Тональцин" #Машинный перевод 30.06.2023
+ cn_mizquixaual: "Мизкишауаль" #Машинный перевод 30.06.2023
+ cn_achauhtli: "Ачаутли" #Машинный перевод 30.06.2023
+ cn_ixchel: "Ишчель" #Машинный перевод 30.06.2023
+ cn_chicomecoatl: "Чикомекоатль" #Машинный перевод 30.06.2023
+ cn_amoxtluatl: "Амокстлиатль" #Машинный перевод 30.06.2023
+ cn_xihuitl: "Шиуитль" #Машинный перевод 30.06.2023
+ cn_nopalcali: "Нопалкали" #Машинный перевод 30.06.2023
+ cn_tezcalel: "Тескальель" #Машинный перевод 30.06.2023
+ cn_ixloc: "Икслок" #Машинный перевод 30.06.2023
+ cn_tecolocoyotl: "Теколокойотль" #Машинный перевод 30.06.2023
+ cn_nochtli: "Нохтли" #Машинный перевод 30.06.2023
+ cn_natlalihuitl: "Натлалиуитль" #Машинный перевод 30.06.2023
+ cn_zipactonal: "Зипактональный" #Машинный перевод 30.06.2023
+ cn_ixtlilxochitl: "Истлильшочитль" #Машинный перевод 30.06.2023
+ cn_citlali: "Читлали" #Машинный перевод 30.06.2023
+ cn_nochchitl: "Ноччитль" #Машинный перевод 30.06.2023
+ cn_ilhicalotl: "Ильикалотль" #Машинный перевод 30.06.2023
+ cn_ilhicapan: "Ильикапан" #Машинный перевод 30.06.2023
+ cn_tlahtonal: "Тлахтонал" #Машинный перевод 30.06.2023
+ cn_chalciuicotl: "Чальчиуикотль" #Машинный перевод 30.06.2023
+ cn_tlachinolli: "Тлачинолли" #Машинный перевод 30.06.2023
+ cn_sacnite: "сакнит" #Машинный перевод 30.06.2023
+ cn_mecatl: "Мекатль" #Машинный перевод 30.06.2023
+ cn_teiuc: "Тейук" #Машинный перевод 30.06.2023
+ cn_itzel: "Ицель" #Машинный перевод 30.06.2023
+ cn_matlalitia: "Матлалития" #Машинный перевод 30.06.2023
+ cn_tototli: "Тототли" #Машинный перевод 30.06.2023
+ cn_maxhuatl: "Максуатль" #Машинный перевод 30.06.2023
+ cn_nochzoh: "Ночзох" #Машинный перевод 30.06.2023
+ cn_momozyacatl: "Момозьякатль" #Машинный перевод 30.06.2023
+ cn_cuauhtemoc: "Куаутемок" #Машинный перевод 30.06.2023
+ cn_huitzilin: "Уицилинь" #Машинный перевод 30.06.2023
+ cn_zipahuatl: "Сипахуатль" #Машинный перевод 30.06.2023
+ cn_patli: "Патли" #Машинный перевод 30.06.2023
+ cn_xipilli: "Шипилли" #Машинный перевод 30.06.2023
+ cn_xihuico: "Шиуико" #Машинный перевод 30.06.2023
+ cn_achcauhpalli: "Ачкаупалли" #Машинный перевод 30.06.2023
+ cn_tedira: "Тедира" #Машинный перевод 30.06.2023
+ cn_ahuilizli: "Ахуилизли" #Машинный перевод 30.06.2023
+ cn_xocotaca: "Хокотака" #Машинный перевод 30.06.2023
+ cn_atl: "Атл" #Машинный перевод 30.06.2023
+ cn_ilhicamina: "Ильикамина" #Машинный перевод 30.06.2023
+ cn_quetzal: "Кецаль" #Машинный перевод 30.06.2023
+ cn_zyanya: "Зяня" #Машинный перевод 30.06.2023
+ cn_moyolehuani: "Moyolehuani" #Машинный перевод 30.06.2023
+ cn_tlacetonqui: "Тлацетонки" #Машинный перевод 30.06.2023
+ cn_achtzin: "Ахцин" #Машинный перевод 30.06.2023
+ cn_totolaloni: "Тотолалони" #Машинный перевод 30.06.2023
+ cn_moquimapichtli: "Мокимапичтли" #Машинный перевод 30.06.2023
+ cn_milinpilli: "Милинпилли" #Машинный перевод 30.06.2023
+ cn_ahuiliztaca: "Ауилизтака" #Машинный перевод 30.06.2023
+ cn_xopin: "Хопин" #Машинный перевод 30.06.2023
+ cn_amoxtli: "Амокстли" #Машинный перевод 30.06.2023
+ cn_cozamamara: "Косамамара" #Машинный перевод 30.06.2023
+ cn_xochipilli: "Сочипилли" #Машинный перевод 30.06.2023
+  
+  
+  
+  
+  
+  

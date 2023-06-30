@@ -1,0 +1,16 @@
+﻿l_russian:
+  
+  ##GH 
+  #InsultNoun 
+ mutant: "mutant"
+ monster: "monster"
+ thinblood: "thinblood"
+ nonhuman: "non-human"
+  
+  #InsultAdjective 
+ thinblooded: "thin-blooded"
+ weakblooded: "weak-blooded"
+ impure: "impure"
+  
+  #InsultSentence 
+ insult_sentence_magic: "you hide behind your magic as if it were a shield for your many awful qualities"

@@ -1,0 +1,40 @@
+﻿l_russian:
+  
+ notable.0001.t: "Search for a Courtier"
+ notable.0001.desc: "Лучшие разведчики талантов в королевстве собрались передо мной и ждут, чтобы услышать набор навыков, который я ищу. Я говорю им, что хочу..."
+ notable.0001.a: "Командир."
+ notable.0001.b: "Дипломат."
+ notable.0001.c: "Управляющий."
+ notable.0001.d: "Мастер-шпион."
+ notable.0001.f: "Дебютантка."
+ notable.0001.g: "Я передумал, мне никто не нужен."
+  
+ notable.0002.t: "Кандидаты в военные"
+ notable.0002.desc: "Изучив тренировочные поля и армии королевства, искатели талантов возвращаются со списком кандидатов в военные. Они уверяют меня, что каждый из них компетентен в этой области и подходит для задач, которые я им поручу. ."
+ notable.0002.a: "I am told [excellent_martial_skill_option.GetFirstNameNoTooltip] is quite skilled in military matters."
+ notable.0002.b: "[high_martial_skill_option.GetFirstNameNoTooltip] считается компетентным стратегом."
+ notable.0002.c: "[low_martial_skill_option.GetFirstNameNoTooltip] подойдет."
+  
+ notable.0003.t: "Кандидаты на дипломатические должности"
+ notable.0003.desc: "Having searched the settlements of the land, the talent seekers have returned with a list of diplomats. They are all skilled in their work and, the talent seekers tell me, are well-suited to whatever tasks I have for them."
+ notable.0003.a: "Красноречие [excellent_diplomacy_skill_option.GetFirstNameNoTooltip] хорошо известно."
+ notable.0003.b: "[high_diplomacy_skill_option.GetFirstNameNoTooltip] вполне себе посредник."
+ notable.0003.c: "[low_diplomacy_skill_option.GetFirstNameNoTooltip] достаточно хорош."
+  
+ notable.0004.t: "The Administrative Candidates"
+ notable.0004.desc: "Having inquired into the cities of the land, the talent seekers arrive with a list of administrators. All of them are literate and learned in mathematics, so, I am told, they will be suitable for the tasks ahead of them."
+ notable.0004.a: "[excellent_stewardship_skill_option.GetFirstNameNoTooltip] спас от банкротства несколько обанкротившихся предприятий."
+ notable.0004.b: "[high_stewardship_skill_option.GetFirstNameNoTooltip] хорошо разбирается в администрировании."
+ notable.0004.c: "[low_stewardship_skill_option.GetFirstNameNoTooltip] умеет пользоваться счетами, по крайней мере."
+  
+ notable.0005.t: "The Intriguing Candidates"
+ notable.0005.desc: "Посовещавшись с малопривлекательными частями королевства, искатели талантов возвращаются со списком бездельников, каждый из которых хорошо разбирается в мошенничестве и готов выполнить любое задание, которое я поручу их."
+ notable.0005.a: "Люди шепчутся о способности [excellent_intrigue_skill_option.GetFirstNameNoTooltip] собирать секреты."
+ notable.0005.b: "Ходят слухи, что [high_intrigue_skill_option.GetFirstNameNoTooltip] является эффективным шпионом."
+ notable.0005.c: "[low_intrigue_skill_option.GetFirstNameNoTooltip] - хороший головорез, если не сказать больше."
+  
+ notable.0006.t: "The Debutante Candidates"
+ notable.0006.desc: "Объездив всю страну, искатели талантов вернулись со списком дебютанток. Каждая культурна и не будет слишком оскорбительна при моем дворе."
+ notable.0006.a: "[excellent_debutante_skill_option.GetFirstNameNoTooltip] считается красивой и воспитанной."
+ notable.0006.b: "Мне сказали, что [high_debutante_skill_option.GetFirstNameNoTooltip] очень вежлив."
+ notable.0006.c: "[low_debutante_skill_option.GetFirstNameNoTooltip] можно улучшить, но [low_debutante_skill_option.GetSheHe] будет достаточно."

@@ -1,0 +1,67 @@
+﻿l_russian:
+  
+ #hulawite Loc 
+ hulawite_religion: "Хулавитизм"
+ hulawite_religion_adj: "Хулавиманск"
+ hulawite_religion_adherent: "Хулавинист"
+ hulawite_religion_adherent_plural: "Хулаванисты"
+ hulawite_religion_desc: "В то время как другие религии поощряют мистицизм и веру в миры, отличные от собственного, хулавиты полностью отвергают подобные утверждения и называют их юмором. Они являются теми, кого иноземные ученые назвали бы эмпириками, людьми, которые сомневаются во всем, что не может быть проверено с помощью органов чувств. Они отрицают существование загробной жизни, поскольку она никогда не была засвидетельствована, а также существование души, поскольку ее нельзя найти в теле. Однако они не призывают слепо отвергать все непознанное, а наоборот, побуждают последователей исследовать эти тайны."
+ hulawite_high_god_name: "Философы человека" #Машинный перевод 30.06.2023
+ hulawite_high_god_name_possessive: "Философы" #Машинный перевод 30.06.2023
+ hulawite_high_god_name_alternate: "Ученые человека" #Машинный перевод 30.06.2023
+ hulawite_high_god_name_alternate_possessive: "Ученые" #Машинный перевод 30.06.2023
+ hulawite_devil_name: "$hulawite_death_deity_name$" #Машинный перевод 30.06.2023
+ hulawite_devil_name_possessive: "$hulawite_death_deity_name_possessive$" #Машинный перевод 30.06.2023
+ hulawite_death_deity_name: "$hulawite_creator_god_name$" #Машинный перевод 30.06.2023
+ hulawite_death_deity_name_possessive: "$hulawite_creator_god_name_possessive$" #Машинный перевод 30.06.2023
+  
+  
+  
+ hulawite_house_of_worship: "Форум" #Машинный перевод 30.06.2023
+ hulawite_house_of_worship_plural: "Форумы" #Машинный перевод 30.06.2023
+ hulawite_religious_symbol: "Два глаза, две руки" #Машинный перевод 30.06.2023
+ hulawite_religious_text: "Философский сборник" #Машинный перевод 30.06.2023
+  
+ hulawite_religious_head_title: "Мастер Философ" #Машинный перевод 30.06.2023
+ hulawite_religious_head_title_name: "Величайший форум" #Машинный перевод 30.06.2023
+ hulawite_devotee: "Хулавит" #Машинный перевод 30.06.2023
+ hulawite_devotee_plural: "Хулавиты" #Машинный перевод 30.06.2023
+ hulawite_priest: "Философ" #Машинный перевод 30.06.2023
+ hulawite_priest_plural: "Философы" #Машинный перевод 30.06.2023
+ hulawite_priest_alternate_plural: "Философы" #Машинный перевод 30.06.2023
+ hulawite_bishop: "Высокий Философ" #Машинный перевод 30.06.2023
+ hulawite_bishop_plural: "Высокие философы" #Машинный перевод 30.06.2023
+ hulawite_positive_afterlife: "забвение" #Машинный перевод 30.06.2023
+ hulawite_negative_afterlife: "забвение" #Машинный перевод 30.06.2023
+  
+ hulawite_creator_god_name: "Ложные боги" #Машинный перевод 30.06.2023
+ hulawite_creator_god_name_possessive: "Ложные боги" #Машинный перевод 30.06.2023
+ hulawite_health_god_name: "$hulawite_fertility_god_name$" #Машинный перевод 30.06.2023
+ hulawite_health_god_name_possessive: "$hulawite_fertility_god_name_possessive$" #Машинный перевод 30.06.2023
+ hulawite_fertility_god_name: "Доктор Табиб" #Машинный перевод 30.06.2023
+ hulawite_fertility_god_name_possessive: "Доктор Табиб" #Машинный перевод 30.06.2023
+ hulawite_wealth_god_name: "$hulawite_creator_god_name$" #Машинный перевод 30.06.2023
+ hulawite_wealth_god_name_possessive: "$hulawite_creator_god_name_possessive$" #Машинный перевод 30.06.2023
+ hulawite_household_god_name: "$hulawite_creator_god_name$" #Машинный перевод 30.06.2023
+ hulawite_household_god_name_possessive: "$hulawite_creator_god_name_possessive$" #Машинный перевод 30.06.2023
+ hulawite_fate_god_name: "$hulawite_creator_god_name$" #Машинный перевод 30.06.2023
+ hulawite_fate_god_name_possessive: "$hulawite_creator_god_name_possessive$" #Машинный перевод 30.06.2023
+ hulawite_knowledge_god_name: "$hulawite_high_god_name$" #Машинный перевод 30.06.2023
+ hulawite_knowledge_god_name_possessive: "$hulawite_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ hulawite_war_god_name: "$hulawite_creator_god_name$" #Машинный перевод 30.06.2023
+ hulawite_war_god_name_possessive: "$hulawite_creator_god_name_possessive$" #Машинный перевод 30.06.2023
+ hulawite_trickster_god_name: "$hulawite_creator_god_name$" #Машинный перевод 30.06.2023
+ hulawite_trickster_god_name_possessive: "$hulawite_creator_god_name_possessive$" #Машинный перевод 30.06.2023
+ hulawite_night_god_name: "$hulawite_trickster_god_name$" #Машинный перевод 30.06.2023
+ hulawite_night_god_name_possessive: "$hulawite_trickster_god_name$" #Машинный перевод 30.06.2023
+ hulawite_water_god_name: "$hulawite_creator_god_name$" #Машинный перевод 30.06.2023
+ hulawite_water_god_name_possessive: "$hulawite_creator_god_name_possessive$" #Машинный перевод 30.06.2023
+ hulawite_witch_god_name: "$hulawite_fate_god_name$" #Машинный перевод 30.06.2023
+ hulawite_witch_god_name_possessive: "$hulawite_fate_god_name_possessive$" #Машинный перевод 30.06.2023
+  
+ #hulawite loc 
+ hulawite: "Хулавитизм"
+ hulawite_adj: "Хулавиманск"
+ hulawite_adherent: "Хулавинист"
+ hulawite_adherent_plural: "Хулаванисты"
+ hulawite_desc: "Хотя их часто называют атеистами и отступниками, хулавиты просто считают себя рационалистами. В конце концов, как можно утверждать, что вы уверены в чем-то, чему нет доказательств? Акцент их веры на изучении эмпирического привел к богатой традиции ученых, философов и других мыслителей, которые исследуют непознанное как в разуме, так и в окружающем мире, чтобы лучше понять существование. Только когда они знают о чем-то как можно больше, рассуждают, они могут по-настоящему судить об этом."

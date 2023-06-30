@@ -1,0 +1,8 @@
+﻿l_russian:
+  #LocalAnimal 
+ animal_dragon: "[dragon|E]" #Машинный перевод 30.06.2023
+  #LocalAnimalMultiple 
+ animal_dragons: "[dragons|E]" #Машинный перевод 30.06.2023
+  
+  #Regional drink 
+ byzantine_cypriot: "Империал Митосик" #Машинный перевод 30.06.2023

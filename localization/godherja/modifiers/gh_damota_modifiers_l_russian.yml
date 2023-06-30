@@ -1,0 +1,52 @@
+﻿l_russian:
+  
+ rayakuux_modifier_1: "Местная [Concept('rayakuux_capital','раякуукская ложа')|E] слаба - 1/4"
+ rayakuux_modifier_2: "Местная [Concept('rayakuux_capital','раякуукская ложа')|E] растет - 2/4"
+ rayakuux_modifier_3: "Местная [Concept('rayakuux_capital','раякуукская ложа')|E] сильна - 3/4"
+ rayakuux_modifier_4: "Местная [Concept('rayakuux_capital','раякуукская ложа')|E] усилена - 4/4"
+  
+ qabuux_modifier_1: "Местная [Concept('qabuux_capital','кабуукская ложа')|E] слаба - 1/4"
+ qabuux_modifier_2: "Местная [Concept('qabuux_capital','кабуукская ложа')|E] растет - 2/4"
+ qabuux_modifier_3: "Местная [Concept('qabuux_capital','кабуукская ложа')|E] сильна - 3/4"
+ qabuux_modifier_4: "Местная [Concept('qabuux_capital','кабуукская ложа')|E] усилено - 4/4"
+  
+ karavuux_modifier_1: "Местная [Concept('karavuux_capital','каравуукская ложа')|E] слаба - 1/4"
+ karavuux_modifier_2: "Местная [Concept('karavuux_capital','каравуукская ложа')|E] растет - 2/4"
+ karavuux_modifier_3: "Местная [Concept('karavuux_capital','каравуукская ложа')|E] сильна - 3/4"
+ karavuux_modifier_4: "Местная [Concept('karavuux_capital','каравуукская ложа')|E] усилена - 4/4"
+  
+ waranuux_modifier_1: "Местная [Concept('waranuux_capital','варануукская ложа')|E] слаба - 1/4"
+ waranuux_modifier_2: "Местная [Concept('waranuux_capital','варануукская ложа')|E] растет - 2/4"
+ waranuux_modifier_3: "Местная [Concept('waranuux_capital','варануукская ложа')|E] сильна - 3/4"
+ waranuux_modifier_4: "Местная [Concept('waranuux_capital','варануукская ложа')|E] усилена - 4/4"
+  
+ weakened_lodge: "Ложа Ослабла"
+  
+ karavuux_abuses: "[Concept('karavuux_capital','Каравууксие')|E] гонения"
+ karavuux_controlled: "[Concept('karavuux_capital','Кравааксы')|E] под контролем"
+ karavuux_crackdown: "[Concept('karavuux_capital','Каравууксие')|E] подавлены"
+ karavuux_exploitation: "Эксплуатация [Concept('karavuux_capital','каравууксов')|E]"
+ karavuux_seized: "[Concept('karavuux_capital','Каравуукское')|E] имущество конфисковано"
+ karavuux_donations: "[Concept('karavuux_capital','Каравуукские')|E] пожертвования"
+ karavuux_assisted: "Помощь [Concept('karavuux_capital','Каравууксам')|E]"
+  
+ waranuux_restrained: "[Concept('waranuux_capital','Варанууксы')|E] ограничены"
+ waranuux_clamped: "[Concept('waranuux_capital','Варануукская')|E] вербовка запрещена"
+ waranuux_recruitment: "[Concept('waranuux_capital','Варануукская')|E] вербовка"
+ waranuux_feud: "[Concept('waranuux_capital','Варанууксы')|E] враждуют"
+ waranuux_calmed: "[Concept('waranuux_capital','Варанууксы')|E] успокоены"
+ waranuux_divided: "[Concept('waranuux_capital','Варанууксы')|E] разобщены"
+  
+ qabuux_mended: "[Concept('qabuux_capital','Кабуукские')|E] отношения наладились"
+ qabuux_split: "[Concept('qabuux_capital','Кабуукская')|E] схизма"
+ qabuux_collapse: "[Concept('qabuux_capital','Кабууксы')|E] разваливаются"
+ qabuux_favor: "[Concept('qabuux_capital','Кабууксая')|E] польза"
+ qabuux_even: "[Concept('qabuux_capital','Кабууксы')|E] уравнены"
+ qabuux_seized: "[Concept('qabuux_capital','Кабуукские')|E] земли конфискованы"
+  
+ rayakuux_expedition: "[Concept('rayakuux_capital','Раякууксая')|E] экспедиция проспонсирована"
+ rayakuux_allowed: "[Concept('rayakuux_capital','Раякууксая')|E] экспедиция разрешена"
+ rayakuux_stopped: "[Concept('rayakuux_capital','Раякууксая')|E] экспедиция остановлена"
+ rayakuux_patrolled: "Дороги патрулируются"
+ rayakuux_guarded: "[Concept('rayakuux_capital','Раякууксы')|E] защищены"
+ rayakuux_robbed: "[Concept('rayakuux_capital','Раякууксы')|E] не защищены"

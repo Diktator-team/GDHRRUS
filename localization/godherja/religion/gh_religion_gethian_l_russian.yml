@@ -1,0 +1,78 @@
+﻿l_russian:
+  
+ #gethian Loc 
+ gethian_religion: "Гетиянизм"
+ gethian_religion_adj: "Гетияманск"
+ gethian_religion_adherent: "Гетиянист"
+ gethian_religion_adherent_plural: "Гетиянисты"
+ gethian_religion_desc: "Гетская космология утверждает, что в самом начале времен первые люди сильно опозорили Великого Судью Альдордемаха. Этот грех, по их утверждению, был настолько оскорбительным и отвратительным, что его детали были утеряны во времени, ибо никто не осмелился произнести гадости. Альдордемах был мудр, но суров и сказал человечеству, что его не будут судить только по одному этому поступку. Он покинет этот мир на долгое время, а когда вернется, то будет судить человечество и посмотрит, сделали ли они достаточно добра, чтобы перевесить свой невыразимый грех."
+ gethian_high_god_name: "Альдордема" #Машинный перевод 30.06.2023
+ gethian_high_god_name_possessive: "Алдордема" #Машинный перевод 30.06.2023
+ gethian_high_god_name_alternate: "Великий судья" #Машинный перевод 30.06.2023
+ gethian_high_god_name_alternate_possessive: "Великий судья" #Машинный перевод 30.06.2023
+ gethian_devil_name: "$gethian_death_deity_name$" #Машинный перевод 30.06.2023
+ gethian_devil_name_possessive: "$gethian_death_deity_name_possessive$" #Машинный перевод 30.06.2023
+ gethian_death_deity_name: "Куолтт" #Машинный перевод 30.06.2023
+ gethian_death_deity_name_possessive: "Куолта" #Машинный перевод 30.06.2023
+  
+  
+  
+ gethian_house_of_worship: "Храм" #Машинный перевод 30.06.2023
+ gethian_house_of_worship_plural: "Храмы" #Машинный перевод 30.06.2023
+ gethian_religious_symbol: "Небесные весы" #Машинный перевод 30.06.2023
+ gethian_religious_text: "Сага о предках" #Машинный перевод 30.06.2023
+  
+ gethian_religious_head_title: "Тайи Ньядхиси" #Машинный перевод 30.06.2023
+ gethian_religious_head_title_name: "Храм Великого Судьи" #Машинный перевод 30.06.2023
+ gethian_devotee_male: "гетианец" #Машинный перевод 30.06.2023
+ gethian_devotee_male_plural: "гетианец" #Машинный перевод 30.06.2023
+ gethian_devotee_female: "гетианец" #Машинный перевод 30.06.2023
+ gethian_devotee_female_plural: "гетианец" #Машинный перевод 30.06.2023
+ gethian_devotee_neuter: "гетианец" #Машинный перевод 30.06.2023
+ gethian_devotee_neuter_plural: "гетианец" #Машинный перевод 30.06.2023
+ gethian_priest_male: "Амафиси" #Машинный перевод 30.06.2023
+ gethian_priest_male_plural: "Амафизис" #Машинный перевод 30.06.2023
+ gethian_priest_female: "Амафизия" #Машинный перевод 30.06.2023
+ gethian_priest_female_plural: "Амафисий" #Машинный перевод 30.06.2023
+ gethian_priest_alternate: "Агнухосис" #Машинный перевод 30.06.2023
+ gethian_priest_alternate_plural: "Агнухосис" #Машинный перевод 30.06.2023
+ gethian_bishop: "Кануранви" #Машинный перевод 30.06.2023
+ gethian_bishop_plural: "Кануранвис" #Машинный перевод 30.06.2023
+ gethian_positive_afterlife: "Сад Альдордемы" #Машинный перевод 30.06.2023
+ gethian_negative_afterlife: "Десять тысяч мучений" #Машинный перевод 30.06.2023
+  
+ gethian_creator_god_name: "$gethian_high_god_name$" #Машинный перевод 30.06.2023
+ gethian_creator_god_name_possessive: "$gethian_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ gethian_health_god_name: "$gethian_fertility_god_name$" #Машинный перевод 30.06.2023
+ gethian_health_god_name_possessive: "$gethian_fertility_god_name_possessive$" #Машинный перевод 30.06.2023
+ gethian_fertility_god_name: "Беренднес" #Машинный перевод 30.06.2023
+ gethian_fertility_god_name_possessive: "Беренднес" #Машинный перевод 30.06.2023
+ gethian_wealth_god_name: "Мамона" #Машинный перевод 30.06.2023
+ gethian_wealth_god_name_possessive: "Маммона" #Машинный перевод 30.06.2023
+ gethian_household_god_name: "Болдвела" #Машинный перевод 30.06.2023
+ gethian_household_god_name_possessive: "Болдвела" #Машинный перевод 30.06.2023
+ gethian_fate_god_name: "$gethian_high_god_name$" #Машинный перевод 30.06.2023
+ gethian_fate_god_name_possessive: "$gethian_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ gethian_knowledge_god_name: "$gethian_high_god_name$" #Машинный перевод 30.06.2023
+ gethian_knowledge_god_name_possessive: "$gethian_high_god_name_possessive$" #Машинный перевод 30.06.2023
+ gethian_war_god_name: "Ампебеду" #Машинный перевод 30.06.2023
+ gethian_war_god_name_possessive: "Ампебеду" #Машинный перевод 30.06.2023
+ gethian_trickster_god_name: "Леасбрегда" #Машинный перевод 30.06.2023
+ gethian_trickster_god_name_possessive: "Леасбрегда" #Машинный перевод 30.06.2023
+ gethian_night_god_name: "$gethian_trickster_god_name$" #Машинный перевод 30.06.2023
+ gethian_night_god_name_possessive: "$gethian_trickster_god_name$" #Машинный перевод 30.06.2023
+ gethian_water_god_name: "Эстмер" #Машинный перевод 30.06.2023
+ gethian_water_god_name_possessive: "Эстмер" #Машинный перевод 30.06.2023
+ gethian_witch_god_name: "$gethian_fate_god_name$" #Машинный перевод 30.06.2023
+ gethian_witch_god_name_possessive: "$gethian_fate_god_name_possessive$" #Машинный перевод 30.06.2023
+  
+ #gethian loc 
+ gethian: "Гетиянизм"
+ gethian_adj: "Гетияманск"
+ gethian_adherent: "Гетиянист"
+ gethian_adherent_plural: "Гетиянисты"
+ gethian_desc: "Гетийцы вошли в этот мир вместе с коалицией Сьялволки. Хотя они склонны к замкнутости, Сьялволки рассказали им о великом зле аверсарианцев и их империи. Они надеются, что, уничтожив эту презренную и разрушительную веру, они смогут искупить свою вину в глазах Великого Судьи Альдордемаха."
+ gethian_old: "Старый Гетиянизм"
+ gethian_old_adj: "Старый Гетияманск"
+ gethian_old_adherent: "Старый Гетиянист"
+ gethian_old_adherent_plural: "Старые Гетиянисты"

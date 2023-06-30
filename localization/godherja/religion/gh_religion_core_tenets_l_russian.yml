@@ -1,0 +1,777 @@
+﻿l_russian:
+  # Agionist-Exclusive Tenets 
+  # LOC FOR GH VERSIONS OF VANILLA TENETS 
+  # Religion-Specific GH Tenet Names 
+  # Wardenite-Exclusive Doctrine Parameters 
+  # Wardenite-Exclusive Tenets 
+ blind_justice_partition: "В вашей вере есть доктрина слепого правосудия" #Машинный перевод 30.06.2023
+ max_murder_schemes_add: "Максимум одновременных убийственных интриг"
+ only_one_agionist_tenet_trigger: "Вы можете выбрать только один принцип, следующий учению конкретного Святого для вашего [faith|E]." #Машинный перевод 30.06.2023
+ tenet_adaptive_aruvasue_religion_desc: "Двенадцать несогласных радикально изменили Арувасуэ в его нынешнем виде, осмеливаясь бороться с тем, что они считали несправедливым. Их определяло не то, что их разделяло, а то, что их объединяло; мы все должны следовать их примеру." #Машинный перевод 30.06.2023
+ tenet_adaptive_aruvasue_religion_name: "Братство Двенадцати" #Машинный перевод 30.06.2023
+ tenet_adorcism_desc: "Духи этого мира могут творить великие дела, как добрые, так и злые. Почитая и уважая их, мы можем только надеяться, что они будут добры к нам и беспощадным к нашим врагам."
+ tenet_adorcism_name: "Адорцизм"
+ tenet_aeschres_legacy_desc: "Когда Чистейшие ходили среди нас как Эшеры, они показали нам, что нет такой высоты, на которую нельзя было бы взлететь, нет такой цены, которую нельзя было бы заплатить за победу, нет такой святыни, которой нельзя было бы пожертвовать - даже сам мир можно сжечь дотла."
+ tenet_aeschres_legacy_name: "Мир в Огне"
+ tenet_Amsari_desc: "Пока наши правители являются Кровью Пророка, Небеса будут указывать нам путь, если правитель действительно достаточно добродетелен, чтобы вести наш народ. Однако, даже благословленный Небесами правитель, столкнется с определенными проблемами как при дворе, так и в стране."
+ tenet_Amsari_name: "Божественное право"
+ tenet_ancestor_worship_aruvasue_religion_desc: "Арува Агат, царь мира смертных, живет в крови каждого из нас. Все наши родословные обязаны Ему, а мы, в свою очередь, в долгу перед нашими предками за то, что Он поддерживал с нами связь. Это честь, как никакая другая, быть соединенным с богом." #Машинный перевод 30.06.2023
+ tenet_ancestor_worship_aruvasue_religion_name: "Дух короля внутри нас" #Машинный перевод 30.06.2023
+ tenet_Aversarian_desc: "Природа нашего божественного наследия неоспорима. Поэтому мы имеем право навязать свою волю любому, кто восстанет против нее; так было с момента появления человека и появления первого Аверсарианца и так будет и впредь."
+ tenet_Aversarian_name: "Право по рождению Аверсарианцем"
+ tenet_axiaothea_legacy_desc: "Аксиотея боролась за спасение этого мира до последнего вздоха. Она ни разу не дрогнула, ибо такова была ее любовь ко всем нам, и мы тоже не дрогнем. Однажды мы уже подвели ее, позволив злу одержать верх, но Долгая Война против запятнанного Эшрэса будет продолжаться до тех пор, пока вся Империя не будет отвоевана во имя ее законной Императрицы."
+ tenet_axiaothea_legacy_name: "Долгая Война"
+ tenet_axiaothea_legacy_sjalvolki_religion: "Тот, кто выступил против разрушителя миров" #Машинный перевод 30.06.2023
+ tenet_bekashai_desc: "Всевышний был убит армией язычников, чья неверность погрузила Его последователей во тьму. В течение бесчисленных лет это великое преступление оставалось неотомщенным. Это должно быть исправлено, и справедливость должна быть возложена на Его убийц." #Машинный перевод 30.06.2023
+ tenet_bekashai_name: "В поисках мести" #Машинный перевод 30.06.2023
+ tenet_blind_justice_desc: "Святой Дикайнос судил каждое дело не по человеку, а по справедливости их дела. Так же, как и он, мы тоже должны следить за тем, чтобы наши чувства никогда не ослепляли нас, и следить за тем, чтобы любой, кого мы признаем виновным, никогда не осмелился снова согрешить посредством обмана." #Машинный перевод 30.06.2023
+ tenet_blind_justice_name: "Слепое правосудие" #Машинный перевод 30.06.2023
+ tenet_blood_purity_desc: "Катаритос сказал нам так:\n\n«Пусть ваше сердце будет свободным, ваше тело сильным и все ваше чистым».\n\nЯзычники отвергают его учение, однако грешники принижают его. Все очистятся, и те, кто отвергнет слова Катаритоса по вере или по рождению, будут уничтожены, пока все не обретут святое совершенство." #Машинный перевод 30.06.2023
+ tenet_blood_purity_name: "Чистота крови" #Машинный перевод 30.06.2023
+ tenet_bulwark_desc: "Наш удел - защищать стадо. Наши мечи размахивают не ради славы, наши воины сражаются не за деньги, мы служим за доблесть, которую можно найти в истинном мужестве." #Машинный перевод 30.06.2023
+ tenet_bulwark_name: "Мужество - Всегда" #Машинный перевод 30.06.2023
+ tenet_calystos_pure_desc: "Святой Калисто провозгласил, что все люди заслуживают свободы, мы будем следовать его словам до того дня, когда бедствие рабства не будет искоренено из [aeras|E]. Для достижения этой цели мы должны исследовать моря, как это делал Калисто, чтобы мы могли освободить рабов, где бы они ни были угнетены, и поразить работорговцев там, где они слабее всего. Все, кто выступает против рабства, могут присоединиться к нашему делу, независимо от их происхождения или убеждений, ибо дело свободы универсально." #Машинный перевод 30.06.2023
+ tenet_calystos_pure_name: "Армада свободы" #Машинный перевод 30.06.2023
+ tenet_citizenship_through_service_desc: "Чистота — это не что-то в крови, а скорее то, что проявляется в поступках. Как мы должны судить грешника, когда грешник сражается за нас?"
+ tenet_citizenship_through_service_name: "Гражданство через службу"
+ tenet_esotericism_aruvasue_religion_desc: "Десять тысяч мужчин и женщин заявили, что говорили от имени Аруваса, и ни одно из них не может быть опровергнуто. Каждое слово Короля-Луны-Солнца было написано и переписано сотнями верующих, и мы не приблизились к пониманию Того-Кто-Есть-Один-Но-Есть-Три. Есть покой в ​​понимании того, что Его нельзя понять." #Машинный перевод 30.06.2023
+ tenet_esotericism_aruvasue_religion_name: "Десять тысяч пророков" #Машинный перевод 30.06.2023
+ tenet_games_for_gods_desc: "Чтобы продемонстрировать свои достоинства, мы совершаем великие подвиги во время наших паломничеств. Эти действия, совершаемые на глазах у неба, больше, чем просто хорошее развлечение — они святы. При этом смотреть игры довольно интересно." #Машинный перевод 30.06.2023
+ tenet_games_for_gods_name: "Игры для богов" #Машинный перевод 30.06.2023
+ tenet_gedeora_veneration_desc: "Каждая [Concept('gedeora','Гедерда')|E] - это не проклятие, а послание от самого Всевышнего. Следует прислушиваться к мудрости тех, кого просветили ее объятия, и особенно уважать тех, кто был благословлен ею в детстве."
+ tenet_gedeora_veneration_name: "Почитание [Concept('gedeora', 'Гедерды')|E]"
+ tenet_gedeora_veneration_ritualist_religion: "[GetBuilding('sophocos_01').GetName] Приказывает изменить мир" #Машинный перевод 30.06.2023
+ tenet_gruesome_festivals_aruvasue_religion_desc: "Армут Ян, «Кровавые снега», — древнейшая традиция, подаренная нам [ertomax|E]. На этих праздниках неверные, какую бы форму они ни принимали, славным образом приносятся в жертву во имя Короля Луны-Солнца." #Машинный перевод 30.06.2023
+ tenet_gruesome_festivals_aruvasue_religion_name: "Фестивали Армут Ян" #Машинный перевод 30.06.2023
+ tenet_hedonistic_aruvasue_religion_desc: "Ос Тандрах часто служит заменой Ос Кинджеру в жизни, при этом еда и питье на пиру рассматриваются как дух Арува Агата, а не какого-либо гостя. Нечестиво отрицать божественность даров, разложенных на пиршественном столе." #Машинный перевод 30.06.2023
+ tenet_hedonistic_aruvasue_religion_name: "Ос Тандрах" #Машинный перевод 30.06.2023
+ tenet_hero_ancestor_cult_desc: "Наш народ помнит героев островов, деятелей, которые, несмотря на разное происхождение, едины в дарованной им Милости. Мы помним их всех, чтобы у нашего народа был шанс снова получить благословение." #Машинный перевод 30.06.2023
+ tenet_hero_ancestor_cult_name: "Герои предков" #Машинный перевод 30.06.2023
+ tenet_hero_cult_desc: "Мы помним древних героев, тех, кто поднялся далеко за пределы того, чего мы можем достичь в своей жизни, прокладывая путь, по которому мы можем следовать, чтобы взглянуть на тех, кого мы знаем как божественных." #Машинный перевод 30.06.2023
+ tenet_hero_cult_name: "Культ Героя" #Машинный перевод 30.06.2023
+ tenet_high_bloodright_desc: "Только те, кто прошел древние ритуалы, считаются достойными править, очистившись от всей нечистоты." #Машинный перевод 30.06.2023
+ tenet_high_bloodright_name: "Ритуальная чистота" #Машинный перевод 30.06.2023
+ tenet_veneration_of_ohrasik_desc: "Орасик продолжает вести праведников через свои реинкарнации, ведя борьбу со злыми слугами [aervalr|E] еще долго после того, как его первоначальная форма покинула [aeras|E]." #Машинный перевод 30.06.2023
+ tenet_veneration_of_ohrasik_name: "Почитание Орасика" #Машинный перевод 30.06.2023
+ tenet_higher_purity_desc: "Недостаточно быть выше, мы должны стремиться очиститься от нечистоты, где бы мы ни обнаружили ее. Нет ничего святого." #Машинный перевод 30.06.2023
+ tenet_higher_purity_name: "В поисках чистоты" #Машинный перевод 30.06.2023
+ tenet_holy_river_desc: "Мы поклоняемся священной реке, чьи приливы и отливы приносят нам жизнь и смерть." #Машинный перевод 30.06.2023
+ tenet_holy_river_name: "Поклонение реке" #Машинный перевод 30.06.2023
+ tenet_inner_journey_shyatan_religion_desc: "Ванел Ши'ата претерпел бесчисленные ужасы, чтобы понять круговорот времени, и только благодаря ему мы знаем, как освободиться. Это привилегия следить за его путешествием." #Машинный перевод 30.06.2023
+ tenet_inner_journey_shyatan_religion_name: "Испытания Шиата" #Машинный перевод 30.06.2023
+ tenet_legalistic_diversity_desc: "Множество правовых традиций, которые расцвели в нашей вере, — это не слабость, а сила. Мы поощряем дебаты и разнообразие мнений, и хотя иногда это может привести к путанице и жарким спорам, в конечном итоге это оставляет нам юридический корпус, практически не имеющий себе равных в мире." #Машинный перевод 30.06.2023
+ tenet_legalistic_diversity_name: "Юридическое разнообразие" #Машинный перевод 30.06.2023
+ tenet_magi_slayers_desc: "Не может быть пощады тем, кто владеет украденной властью. Они должны быть устранены везде, где их можно найти."
+ tenet_magi_slayers_fogeater_religion: "Заглушить крики" #Машинный перевод 30.06.2023
+ tenet_magi_slayers_gestanwoder_religion: "Подражайте Ур'Фарум'Бартуму, Принцу Кровавого Пира" #Машинный перевод 30.06.2023
+ tenet_magi_slayers_kardawai_religion: "Праздники для Кардвен" #Машинный перевод 30.06.2023
+ tenet_magi_slayers_mogowai_religion: "Сокрушить узурпаторов" #Машинный перевод 30.06.2023
+ tenet_magi_slayers_name: "Истребители [Concept('magi','магов')|E]"
+ tenet_magi_slayers_samojitian_religion: "Убить тиранов" #Машинный перевод 30.06.2023
+ tenet_marefai_desc: "Хотя мы все стремимся к Его местонахождению, мы принимаем свободу интерпретировать Его веру так, как нам хочется, и принимаем широкое разнообразие практик. В конце концов, если бы Он не хотел, чтобы мы были другими, Он не сделал бы нас такими." #Машинный перевод 30.06.2023
+ tenet_marefai_name: "Интерпретационное разнообразие" #Машинный перевод 30.06.2023
+ tenet_mogowai_search_desc: "Давным-давно Всевышний был убит неверующими, Его тело унесено в таинственное место. Мы ищем это место, потому что, когда Всевышний поднимется из Своей вновь открытой могилы, все снова станет правильным." #Машинный перевод 30.06.2023
+ tenet_mogowai_search_name: "Великий поиск" #Машинный перевод 30.06.2023
+ tenet_natural_primitivism_anaanides_religion: "Простая чистота рая Анаана" #Машинный перевод 30.06.2023
+ tenet_natural_primitivism_aversarinas_aautokrata_religion: "Святые тела чистых мужчин и женщин" #Машинный перевод 30.06.2023
+ tenet_natural_primitivism_sarradonian_religion: "И у законных не будет богатства" #Машинный перевод 30.06.2023
+ tenet_nitsafai_desc: "После Его смерти так давно, истинные пути Его веры были извращены и извращены в служении мелким господам. Прежде чем возобновятся поиски Его могилы, Его последователи должны вернуться на истинный путь, поскольку позволить еретикам обнаружить Его местонахождение может быть катастрофой." #Машинный перевод 30.06.2023
+ tenet_nitsafai_name: "Реставрация" #Машинный перевод 30.06.2023
+ tenet_philanthrios_corrupt_desc: "Святой Филантрос учил давать нуждающимся, а кто беднее нас, самоотверженных исполнителей его воли? Если грешники и язычники слишком развращены жадностью, чтобы добровольно жертвовать на наше дело, мы должны спасти их от развращения, насильно забрав их богатство." #Машинный перевод 30.06.2023
+ tenet_philanthrios_corrupt_name: "Принудительные пожертвования" #Машинный перевод 30.06.2023
+ tenet_philanthrios_pure_desc: "Святой Филантрос учил нас давать нуждающимся, не пользоваться предметами роскоши, в которых мы не нуждаемся, и не накапливать лишнее богатство. Таким образом, чтобы по-настоящему следовать его учению, мы должны не облагать налогом самых бедных, а вместо этого щедро отдавать им собранные нами пожертвования." #Машинный перевод 30.06.2023
+ tenet_philanthrios_pure_name: "Филантросская щедрость" #Машинный перевод 30.06.2023
+ tenet_pursuit_of_power_adabyssian_religion: "Борьба за благосклонность Золотого города" #Машинный перевод 30.06.2023
+ tenet_quest_for_life_desc: "Исцеление должно быть совершенным, жизнь должна быть отдана святому. Однако как мы можем узнать пределы наших тел или опасность того, что их беспокоит, если мы не будем способствовать делу физических наук? Если нужно экспериментировать над язычниками и грешниками, то они могут это делать, зная, что их смерть свята, ибо она спасает жизни сотням правоверных." #Машинный перевод 30.06.2023
+ tenet_quest_for_life_name: "В поисках жизни" #Машинный перевод 30.06.2023
+ tenet_raider_cult_desc: "Для последователей нашего вероучения мораль и власть преходящи. Мы должны брать то, что принадлежит нам, нет ничего святого." #Машинный перевод 30.06.2023
+ tenet_raider_cult_name: "Культ рейдеров" #Машинный перевод 30.06.2023
+ tenet_reincarnation_aruvasue_religion_desc: "Дух Царя Луны и Солнца, [ertomax|E], живет в душах верующих. Удачливые среди нас еще могут получить благословение ребенка, рожденного от усердия и крови, [ertomax|E] рожденного еще раз." #Машинный перевод 30.06.2023
+ tenet_reincarnation_aruvasue_religion_name: "Возвращение [ertomax|E]" #Машинный перевод 30.06.2023
+ tenet_religious_legal_pronouncements: "Религиозный Закон"
+ tenet_religious_legal_pronouncements_alau_koev_religion_desc: "Отец Огня дал нам жизнь,\n\nОн построил наши царства через раздоры,\n\nИ взамен я отдаю свою жизнь,\n\nЗаконам нашего Отца." #Машинный перевод 30.06.2023
+ tenet_religious_legal_pronouncements_alau_koev_religion_name: "Балладический закон" #Машинный перевод 30.06.2023
+ tenet_religious_legal_pronouncements_mogowai_religion_name: "Закон гимнов" #Машинный перевод 30.06.2023
+ tenet_ritual_cannibalism_izaerto_bosar_religion_desc: "Пустота заберет наши души, если мы не будем действовать быстро. Мертвые должны быть поглощены, прежде чем Мастера смогут их украсть." #Машинный перевод 30.06.2023
+ tenet_ritual_cannibalism_izaerto_bosar_religion_name: "Пир без перьев" #Машинный перевод 30.06.2023
+ tenet_ritual_hospitality_aruvasue_religion_desc: "Последнее Испытание, Ос Кинджер, часто проводится при смерти, когда три аспекта Аруваса решают нашу судьбу. Однако ритуал Ос Кинджер также распространен в каждом доме, достойном этого прозвища в землях Арувасуэни. Дух Арува Агата вселяется в высокого гостя, и мы чтим наших друзей, как если бы они чтили нашего бога." #Машинный перевод 30.06.2023
+ tenet_ritual_hospitality_aruvasue_religion_name: "Ос Кинджер" #Машинный перевод 30.06.2023
+ tenet_ritual_hospitality_mogowai_religion: "Помощь искателям" #Машинный перевод 30.06.2023
+ tenet_sansia_corrupt_desc: "Через страдания, жертвенность и боль дух укрепляется и приближается к Пречистому. Таким образом, мы должны очистить свои тела и души через боль, а также и тех язычников, которые отказываются принять благодать святых." #Машинный перевод 30.06.2023
+ tenet_sansia_corrupt_name: "Сила через страдание" #Машинный перевод 30.06.2023
+ tenet_sansia_pure_desc: "Через дисциплину, сосредоточенность и преданность делу защиты невинных дух укрепляется и приближается к Чистейшему. Таким образом, мы должны очистить наши души посредством медитации, тренировок и добрых дел, чтобы быть готовыми последовать примеру Сансии и пожертвовать собой ради невинных, если возникнет такая необходимость." #Машинный перевод 30.06.2023
+ tenet_sansia_pure_name: "Спасение через дисциплину" #Машинный перевод 30.06.2023
+ tenet_seaborne_desc: "Нет ни до, ни после, мы поднимаемся из соли и однажды вернемся в соль, чтобы нас унесло с берега на берег, унесло нескончаемым приливом." #Машинный перевод 30.06.2023
+ tenet_seaborne_name: "морской" #Машинный перевод 30.06.2023
+ tenet_spread_the_light_desc: "Наш долг - распространять свет Святых и Аверсерии среди меньших народов мира, чтобы они тоже могли освободиться от нечистоты. Таким образом, мы должны оказывать непоколебимую поддержку нашим братьям и сестрам в Орденах Святых, которые посвятили свою жизнь выполнению этой божественной миссии." #Машинный перевод 30.06.2023
+ tenet_spread_the_light_name: "Распространяйте свет" #Машинный перевод 30.06.2023
+ tenet_sky_burials_izaerto_bosar_religion_desc: "Пернатый ждет, чтобы забрать нас всех в рай. Мы должны только позволить нашим слугам поглотить наши тела, а наши души должны быть свободны." #Машинный перевод 30.06.2023
+ tenet_sky_burials_izaerto_bosar_religion_name: "Дань пернатому" #Машинный перевод 30.06.2023
+ tenet_slavery_desc: "Что освобождает больше, чем работа? Что освобождает работника больше, чем благочестивое пение и выкрикивание псалмов и гимнов, когда они щелкают святой плетью? И как лучше всего освободить иноземных язычников, чем гарантировать, что они отработают свои грехи?" #Машинный перевод 30.06.2023
+ tenet_slavery_name: "Вера через служение" #Машинный перевод 30.06.2023
+ tenet_spirit_journey_desc: "Используя правильные грибы и травы, мы можем отправиться в невероятное путешествие к Царству Духов и познать тонкости мироустройства Вселенной."
+ tenet_spirit_journey_name: "Путешествие Духа"
+ tenet_sun_worship_alau_koev_religion_desc: "Огненные Врата были закрыты дольше, чем мы можем вспомнить, и мир стал темным и холодным. Все, что нам нужно, чтобы напомнить нам о силе Pleimao, — это солнце над нашими головами." #Машинный перевод 30.06.2023
+ tenet_sun_worship_alau_koev_religion_name: "Ворота откроются" #Машинный перевод 30.06.2023
+ tenet_superiority_in_bloodshed_desc: "Аверсарианцы были мудры, ибо они научили нас, что мантию Чистейшего может носить тот, кто способен захватить власть и кто способен уничтожить тех, кто выступает против него. Теперь аверсарианцы слабы, и настало наше время забрать мантию себе! И мы сделаем все это скрывая лица за масками, холодные металлические лица, гарантирующие, что душа за этими масками достигнет той же чистоты, что и у Первых Людей!"
+ tenet_superiority_in_bloodshed_name: "Превосходство Кровопролитием"
+ tenet_tax_nonbelievers_tahariat_desc: "Столетия войн как с [ritualism|E], так и с другими второстепенными религиями [sarradon|E] часто приводили к появлению на наших землях больших общин неверующих. Таким образом, налог на тахариат оказался популярной альтернативой принудительному обращению, позволяя неверным платить дополнительную дань в обмен на юридическую защиту и освобождение от военной службы." #Машинный перевод 30.06.2023
+ tenet_tax_nonbelievers_tahariat_name: "Тахариат" #Машинный перевод 30.06.2023
+ tenet_the_bloodright_desc: "Одно мы знаем наверняка - наши люди во всем превосходят остальных. Абсолютно очевидно, что мы - единственные настоящие Люди, все остальные находятся практически на одном уровне с животными, из-за катастрофического недостатка силы в их крови, поэтому обращаться с ними надлежит ровно так, как с грязными животными."
+ tenet_the_bloodright_name: "Право Крови"
+ tenet_the_forgotten_desc: "Мы скрываем свои лица, чтобы показать нашу преданность добродетели смирения и тому, кто смотрит и говорит..." #Машинный перевод 30.06.2023
+ tenet_the_forgotten_name: "Забытый" #Машинный перевод 30.06.2023
+ tenet_the_mistmothers_speak_desc: "Щебеча громко громко говоря так громко о матери тумана люди действительно видят да они видят мать и да да да они жрут они пожирают да да а мы следуем да мы следуем следуем следуем и мы должны должны пировать обливаясь кровью пожирая тех кто не слушает кто не слушал КТО НЕ СЛУШАЛ КАК ПАДАЮТ СЛЁЗЫ кто не слушал рыданий и не умывался слезами но мы должны знать должны знать знать знать где правда мы должны знать что правда мы должны знать ГДЕ ПРАВДА??? о чем просит мать кто убил отца мы хотим мы должны должны знать чего они хотят КТО УБИЛ ОТЦА и кто уничтожил мир кто уничтожил мир кто кто кто кто кто кто кто"
+ tenet_the_mistmothers_speak_name: "Речь Матери Тумана"
+ tenet_the_sjalvolki_bloodright_desc: "Сьялволки, перешедшие в аверсарскую веру, понимают мир совсем по-другому, поэтому расовая ненависть их религиозных собратьев не перенесена." #Машинный перевод 30.06.2023
+ tenet_the_sjalvolki_bloodright_name: "Сьялволки Бладрайт" #Машинный перевод 30.06.2023
+ tenet_the_soul_inside_desc: "Мы - воины, и мы несем нашу веру так же, как несем маски на наших лицах. Никто не может видеть того, что скрывается за маской, ибо разделение лица - это разделение души. У воина нет большего достоинства, чем носить  на себе чужую маску, ибо это самое святейшее свидетельство многих побед."
+ tenet_the_soul_inside_name: "Душа Внутри"
+ tenet_thysian_pure_desc: "Как это делала до нас святая Фисия, мы должны стремиться исцелить всех, низких или высоких, от любого излечимого недуга, который их поражает. Распространяя знания о методах Тисии, предотвращающих болезни, таких как водное очищение рук, мы также должны гарантировать, что никто не заболеет предотвратимыми болезнями." #Машинный перевод 30.06.2023
+ tenet_thysian_pure_name: "Вылечить больных" #Машинный перевод 30.06.2023
+ tenet_true_blind_justice_desc: "Святой Дикайнос судил каждое дело, не обращая внимания на положение обвиняемых, а только на справедливость их дела. Так же, как и он, мы также должны следить за тем, чтобы наши чувства никогда не ослепляли нас от истины, чтобы мы никогда не осудили несправедливо невиновных." #Машинный перевод 30.06.2023
+ tenet_true_blind_justice_name: "Беспристрастное правосудие" #Машинный перевод 30.06.2023
+ tenet_true_purity_desc: "Катаритос сказал нам так:\n\n"Пусть ваше сердце будет свободным, ваше тело сильным, а все ваше чистым".\n\nЧистое тело - это тело, которое поддерживается здоровым и крепким, насколько это возможно. Чистый Разум открыт для новых идей и переживаний и не отвергает бездумно все чуждое. И самое главное, Чистое Сердце — это то, что проявляет Доброту, Сострадание и Любовь ко всем существам." #Машинный перевод 30.06.2023
+ tenet_true_purity_name: "Чистые сердца" #Машинный перевод 30.06.2023
+ tenet_unrelenting_faith_aruvasue_religion_desc: "Сар'муйр, Мать Меча, величайший из всех ангелов. Мы должны подражать ей и стоять на страже веры всю вечность." #Машинный перевод 30.06.2023
+ tenet_unrelenting_faith_aruvasue_religion_name: "Путь Матери Меча" #Машинный перевод 30.06.2023
+ tenet_waharai_desc: "В то время как другие могут тщетно бороться за Его труп, мы знаем правду. Всевышний вознесся из [aeras|E] и ожидает всех нас в небесном раю. Этот мир принадлежит нам, и мы можем делать то, что хотим, потому что никакие ограничения не удержат нас от Его приветливых объятий." #Машинный перевод 30.06.2023
+ tenet_waharai_name: "Вера в Вознесение" #Машинный перевод 30.06.2023
+ tenet_wardenite_legalism_desc: "Необходимость соблюдать законы Первого Стража и держать Мертвого Бога в заточении хорошо известна в нашей вере, хотя интерпретации того, как это сделать, могут сильно различаться. В результате вокруг нашего вероучения возникла богатая судебная традиция." #Машинный перевод 30.06.2023
+ tenet_wardenite_legalism_name: "Варденитский законничество" #Машинный перевод 30.06.2023
+ tenet_way_of_the_skulltaker_desc: "Убийство - это прекрасно. Каждая смерть уникальна по-своему. Принести в жертву овцу или курицу - это, конечно, хорошо, но прекратить человеческую жизнь - значит преподнести богам нечто поистине уникальное. Разве может быть лучший способ поклонения Чистейшему?"
+ tenet_way_of_the_skulltaker_name: "Путь Разрушителя Черепов"
+ tenet_wayfathers_desc: "Вместо того чтобы посвящать себя богу, мы посвящаем себя саморазвитию и способности достичь совершенства на выбранном нами Пути."
+ tenet_wayfathers_exclusivity_desc: "Путь позволяет выбирать свою судьбу, но только выбор, данный дворянством."
+ tenet_wayfathers_exclusivity_name: "Стратифицированные пути"
+ tenet_wayfathers_freedom_desc: "Каждый мужчина и женщина свободны выбирать свою судьбу, одобряет это дворянство или нет, их не волнует."
+ tenet_wayfathers_freedom_name: "Бесплатные пути"
+ tenet_wayfathers_name: "Путь Жизни"
+ tenet_what_lies_below_desc: "Не следует пренебрегать теми, кто лежит под волнами, ибо наши верующие знают, что их глаза следят за всеми, кто осмеливается плыть по волнам." #Машинный перевод 30.06.2023
+ tenet_what_lies_below_name: "Что лежит ниже" #Машинный перевод 30.06.2023
+ tenet_will_of_flesh_desc: "Удовольствия жизни имеют смысл сами по себе, нет другой более высокой цели, чем искать их и исполнять наши желания, утверждать нашу волю во всем ее излишестве на [aeras|E]." #Машинный перевод 30.06.2023
+ tenet_will_of_flesh_name: "Воля плоти" #Машинный перевод 30.06.2023
+ tenet_worships_death_desc: "Если отбросить иллюзии, призванные ввести нас в заблуждение, становится ясно, что цель любой жизни - это, в конце концов, умереть. Какова ценность такого эфемерного и жалкого существования перед безграничностью смерти?"
+ tenet_worships_death_name: "В поисках смерти" #Машинный перевод 30.06.2023
+ way_of_the_skull_taker_discount: "КАЛЕЧИТЬ. УБИВАТЬ. СЖИГАТЬ."
+ tenet_sea_tamers_name: "Руководство Вароды" #Машинный перевод 30.06.2023
+ tenet_sea_tamers_desc: "Все, у кого есть сила преодолеть моря, могут привязать к ним свой дух и вырастить ребенка Вароды рядом с собой, чтобы они могли быть навсегда связаны с океанским приливом." #Машинный перевод 30.06.2023
+  
+  # Syncretic Tenets 
+  # Not referenced in-game anywhere by itself, but used to control other opinion title copy: 
+  # Users reported oltenic_religion_syncretic_actor_opinion_active_opinion_name missing localization 12/13/22, so still in use? 
+ faith_syncretic_opinion_active_control: "Синкретизм с конфессией"
+ faith_syncretic_popular_opinion_active_control: "[holder|E] синкретичен с местной [Concept( 'faith', 'конфессией' )|El]"
+ adabyssian_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ adabyssian_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ agionism_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ agionism_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ ahridar_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ ahridar_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ alau_koev_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ alau_koev_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ amsari_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ amsari_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ anaanide_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ anaanide_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ apti_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ apti_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ arnazni_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ arnazni_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ aruvasue_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ aruvasue_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ astiliak_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ astiliak_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ aversarinas_aautokrata_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ aversarinas_aautokrata_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ blackhand_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ blackhand_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ cnevobarthane_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ cnevobarthane_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ cuthanagi_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ cuthanagi_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ dravidian_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ dravidian_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ ehatm_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ ehatm_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ ethowos_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ ethowos_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ fourteen_heavenly_methods_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ fourteen_heavenly_methods_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ gallieni_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ gallieni_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ gestanwoder_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ gestanwoder_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ gethian_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ gethian_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ graveright_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ graveright_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ hubarism_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ hubarism_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ islands_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ islands_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ iyrossi_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ iyrossi_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ izaerto_bosar_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ izaerto_bosar_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ kakarataki_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ kakarataki_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ kardawai_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ kardawai_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ lifepath_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ lifepath_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ mahrator_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ mahrator_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ manats_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ manats_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ marndeoticeni_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ marndeoticeni_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ masaagnite_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ masaagnite_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ mogowai_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ mogowai_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ nalmavast_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ nalmavast_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ namejisht_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ namejisht_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ oltenic_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ orgarrd_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ orgarrd_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ partic_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ partic_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ quwazaw_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ quwazaw_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ raider_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ raider_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ redland_cults_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ redland_cults_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ ritualist_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ ritualist_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ saielaian_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ saielaian_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ salacad_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ salacad_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ samojitian_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ samojitian_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ saratan_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ saratan_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ sarradonian_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ sarradonian_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ sheharddi_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ sheharddi_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ sheharddi_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ sheharddi_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ shyatan_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ shyatan_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ sjalvolki_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ sjalvolki_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ sokaloma_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ sokaloma_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ starvayrd_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ starvayrd_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ stodherrn_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ stodherrn_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ sunarwei_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ sunarwei_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ thixanonic_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ thixanonic_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ tulharsin_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ tulharsin_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ uakaklo_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ uakaklo_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ unreformed_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$"
+ unreformed_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$"
+ viyagaric_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ viyagaric_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ wardenite_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ wardenite_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ xaxbaxakanax_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ xaxbaxakanax_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ yuagaug_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ yuagaug_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ zaragett_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ zaragett_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ zaldrigas_religion_syncretic_actor_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+ zaldrigas_religion_syncretic_recipient_opinion_active_opinion_name: "$faith_syncretic_opinion_active_control$" #Машинный перевод 30.06.2023
+  
+  
+ doctrine_parameter_agionism_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с Агионистической [Concept('faiths','конфессией')|E]"
+ doctrine_parameter_agionism_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с [Concept('faiths','конфессией')|E], имеющей догмат $tenet_agionist_syncretism_name$ [Concept('core_tenet','Основные догматы')|E]"
+ doctrine_parameter_alau_koev_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Алау Коевац [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_alau_koev_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_alau_koev_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_amsari_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с Амсарскими [Concept('faiths','конфессией')|E]"
+ doctrine_parameter_amsari_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с [Concept('faiths','конфессией')|E], имеющей догмат $tenet_amsari_syncretism_name$ [Concept('core_tenet','Основные догматы')|E]"
+ doctrine_parameter_arnazni_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Арназни [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_arnazni_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_arnazni_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_aruvasue_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Арувасуен [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_aruvasue_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_aruvasue_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_aversarinas_aautokrata_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей, принадлежащих к Аверсарианским [Concept('faiths','конфессиям')|E]"
+ doctrine_parameter_aversarinas_aautokrata_religion_syncretic_recipient_opinion_active: "Взаимный бонус[EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей, принадлежащих к [Concept('faiths','конфессиям')|E], с догматом $tenet_aversarian_syncretism_name$ [Concept('core_tenet','Основные догматы')|E]"
+ doctrine_parameter_aversarinas_aautokrata_syncretic_recipient_opinion_active: "Взаимный бонус[EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей, принадлежащих к [Concept('faiths','конфессиям')|E] с догматом $tenet_aversarian_syncretism_name$ [Concept('core_tenet','Основные догматы')|E]"
+ doctrine_parameter_graveright_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с Мрогильпранской [Concept('faiths','конфессией')|E]"
+ doctrine_parameter_graveright_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с [Concept('faiths','конфессией')|E], имеющей догмат $tenet_graveright_syncretism_name$ [Concept('core_tenet','Основные догматы')|E]"
+ doctrine_parameter_iyrossi_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с Ийросскими [Concept('faiths','конфессией')|E]"
+ doctrine_parameter_iyrossi_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с [Concept('faiths','конфессией')|E], имеющей догмат $tenet_iyrossi_syncretism_name$ [Concept('core_tenet','Основные догматы')|E]"
+ doctrine_parameter_izaerto_bosar_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Изаэрто Бошареном [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_izaerto_bosar_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_izaerto_bosar_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_kemsar_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Кемсари [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_kemsar_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_kemsar_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_mahrator_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Махратораном [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_mahrator_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_mahrator_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_manats_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] в манатах [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_manats_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_manats_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_lifepath_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Марчером [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_lifepath_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_marcher_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_oltenic_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Öltenic [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_oltenic_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_oltenic_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_astiliak_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Астиляком [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_astiliak_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_astiliak_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_cuthanagi_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Kasir Worship [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_cuthanagi_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_cuthanagi_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_ehatm_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Krehejadic [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_ehatm_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_ehatm_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_marndeoticeni_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Tšuekanist [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_marndeoticeni_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_marndeoticeni_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_redland_cults_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Redlander [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_redland_cults_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_redland_cults_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_sunarwei_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Sunarweiaist [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_sunarwei_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_sunarwei_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_xaxbaxakanax_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Закс'бакса'канакси [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_xaxbaxakanax_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_xaxbaxakanax_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_dravidian_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Авастией Махани [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_dravidian_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_dravidian_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_viyagaric_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Виягариком [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_viyagaric_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_viyagaric_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_saielaian_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Saielaian [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_saielaian_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_saielaian_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_fourteen_heavenly_methods_religion_syncretic_actor_opinion_active: "Mutual [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] bonus with Kai-jiao [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_fourteen_heavenly_methods_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_fourteen_heavenly_methods_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_blackhand_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Черной рукой [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_blackhand_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_blackhand_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_thixanonic_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Thixanonic [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_thixanonic_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_thixanonic_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_apti_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Apti [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_apti_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_apti_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_ethowos_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с культами пещерных племен [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_ethowos_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_ethowos_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_cnevobarthane_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Теугомбриком [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_cnevobarthane_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_cnevobarthane_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_gallieni_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Галлиени [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_gallieni_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_gallieni_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_gestanwoder_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Gestanwoder [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_gestanwoder_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_gestanwoder_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_gethian_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Gethian [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_gethian_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_gethian_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_islands_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с островными культами [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_islands_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_islands_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_kakarataki_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Какаратаки [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_kakarataki_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_kakarataki_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_kardawai_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Кардаваем [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_kardawai_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_kardawai_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_namejisht_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Намэджишт [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_namejisht_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_namejisht_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_orgarrd_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с оргардианцами [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_orgarrd_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_orgarrd_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_raider_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с рейдерскими культами [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_raider_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_raider_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_salacad_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Salacad [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_salacad_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_salacad_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_samojitian_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Samojitian [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_samojitian_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_samojitian_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_starvayrd_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] со Старвайрд [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_starvayrd_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_starvayrd_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_stodherrn_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] со Стодхерном [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_stodherrn_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_stodherrn_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_tulharsin_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Тулхарсином [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_tulharsin_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_tulharsin_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_uakaklo_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Уакакло [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_uakaklo_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_uakaklo_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_zaragett_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Zaragettian [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_zaragett_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_zaragett_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_adabyssian_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Дгуди [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_adabyssian_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_adabyssian_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_ahridar_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Орасикяном [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_ahridar_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_ahridar_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_anaanide_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Анаанидом [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_anaanide_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_anaanide_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_hubarism_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Hubarist [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_hubarism_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_hubarism_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_masaagnite_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Масаагнитом [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_masaagnite_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_masaagnite_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_mogowai_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Моговаем [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_mogowai_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_mogowai_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_quwazaw_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Кувазави [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_quwazaw_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_quwazaw_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_saratan_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Саратаратин [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_saratan_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_saratan_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_sheharddi_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с Шехарддскими [Concept('faiths','конфессей')|E]"
+ doctrine_parameter_sheharddi_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с [Concept('faiths','конфессией')|E], имеющей догмат $tenet_sheharddi_syncretism_name$ [Concept('core_tenet','Основные догматы')|E]"
+ doctrine_parameter_sokaloma_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Сокаломой [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_sokaloma_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_sokaloma_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_yuagaug_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Шуб-Юагуаг [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_yuagaug_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_yuagaug_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_nalmavast_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Налмаваст [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_nalmavast_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_nalmavast_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_zaldrigas_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с zaldrigas [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_zaldrigas_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_zaldrigas_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_opinion_of_agionism_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_agionism_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_alau_koev_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_alau_koev_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_amsari_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_amsari_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_arnazni_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_arnazni_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_aruvasue_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_aruvasue_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_aversarinas_aautokrata_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_aversarinas_aautokrata_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_graveright_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_graveright_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_iyrossi_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_iyrossi_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_izaerto_bosar_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_izaerto_bosar_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_kemsar_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_kemsar_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_mahrator_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_mahrator_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_manats_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_manats_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_lifepath_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_lifepath_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_oltenic_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_oltenic_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_partic_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_partic_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_ritualist_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_ritualist_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_sarradonian_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_sheharddi_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_sheharddi_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_shyatan_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_shyatan_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_sjalvolki_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_sjalvolki_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_wardenite_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_astiliak_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_astiliak_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_cuthanagi_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_cuthanagi_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_ehatm_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_ehatm_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_marndeoticeni_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_marndeoticeni_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_redland_cults_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_redland_cults_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_sunarwei_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_sunarwei_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_xaxbaxakanax_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_xaxbaxakanax_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_dravidian_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_dravidian_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_viyagaric_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_viyagaric_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_saielaian_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_saielaian_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_fourteen_heavenly_methods_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_fourteen_heavenly_methods_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_blackhand_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_blackhand_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_thixanonic_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_thixanonic_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_apti_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_apti_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_ethowos_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_ethowos_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_cnevobarthane_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_cnevobarthane_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_gallieni_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_gallieni_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_gestanwoder_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_gestanwoder_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_gethian_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_gethian_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_islands_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_islands_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_kakarataki_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_kakarataki_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_kardawai_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_kardawai_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_namejisht_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_namejisht_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_orgarrd_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_orgarrd_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_raider_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_raider_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_salacad_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_salacad_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_samojitian_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_samojitian_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_starvayrd_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_starvayrd_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_stodherrn_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_stodherrn_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_tulharsin_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_tulharsin_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_uakaklo_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_uakaklo_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_zaragett_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_zaragett_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_adabyssian_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_adabyssian_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_ahridar_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_ahridar_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_anaanide_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_anaanide_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_hubarism_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_hubarism_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_masaagnite_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_masaagnite_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_mogowai_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_mogowai_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_quwazaw_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_quwazaw_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_saratan_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_saratan_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_sheharddi_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_sheharddi_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_sokaloma_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_sokaloma_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_yuagaug_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_yuagaug_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_nalmavast_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_nalmavast_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_opinion_of_zaldrigas_religion_syncretic_actor_opinion_active: ""
+ doctrine_parameter_opinion_of_zaldrigas_religion_syncretic_recipient_opinion_active: ""
+ doctrine_parameter_partic_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с Партской [Concept('faiths','конфессией')|E]"
+ doctrine_parameter_partic_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с [Concept('faiths','конфессией')|E], имеющей догмат $tenet_partic_syncretism_name$ [Concept('core_tenet','Основные догматы')|E]"
+ doctrine_parameter_ritualist_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с Ритуалистской [Concept('faiths','конфессией')|E]"
+ doctrine_parameter_ritualist_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с [Concept('faiths','конфессией')|E], имеющей догмат $tenet_ritualist_syncretism_name$ [Concept('core_tenet','Основные догматы')|E]"
+ doctrine_parameter_sarradonian_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с Варденитской [Concept('faiths','конфессии')|E]"
+ doctrine_parameter_sheharddi_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с Шехарддскими [Concept('faiths','конфессей')|E]"
+ doctrine_parameter_sheharddi_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с [Concept('faiths','конфессией')|E], имеющей догмат $tenet_sheharddi_syncretism_name$ [Concept('core_tenet','Основные догматы')|E]"
+ doctrine_parameter_shyatan_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с Шиатаником [faiths|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_shyatan_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] с [faiths|E], имеющими $tenet_shyatan_syncretism_name$ [core_tenet|E]" #Машинный перевод 30.06.2023
+ doctrine_parameter_sjalvolki_religion_syncretic_actor_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с [Concept('faiths','конфессией')|E] Съяволки"
+ doctrine_parameter_sjalvolki_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с [Concept('faiths','конфессией')|E], имеющей догмат $tenet_sjalvolki_syncretism_name$ [Concept('core_tenet','Основные догматы')|E]"
+ doctrine_parameter_wardenite_religion_syncretic_recipient_opinion_active: "Взаимный бонус [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] к [Concept('opinion','мнению')|E] персонажей с [Concept('faiths','конфессией')|E], имеющей догмат $tenet_wardenite_syncretism_name$ [Concept('core_tenet','Основные догматы')|E]"
+ doctrine_parameter_duelists: "Может соревноваться со своим [knights|E] в [single_combat_fight|E], чтобы получить [modifiers|E], и с большей вероятностью примет участие в $single_combat_duel_plural$." #Машинный перевод 30.06.2023
+ doctrine_parameter_bloodlusted: "С большей вероятностью будет участвовать в [single_combat_duel_plural|E] и войти в [GetScheme('murder').GetActionName|l] участков" #Машинный перевод 30.06.2023
+  
+  
+ tenet_agionist_syncretism_desc: "Святые Агионизма, возможно, не обязательно являются центральными фигурами нашей мифологии, но они, безусловно, были добродетельными мужчинами и женщинами, чья борьба является от части и нашей собственной. Мы должны принять их как важную часть нашей религиозной традиции."
+ tenet_agionist_syncretism_name: "Агионистический Синкретизм"
+  
+ tenet_alau_koev_syncretism_desc: "Пока тайны Огненных Врат не поглощают нас, мудрость можно найти в балладах знаний Алау Коевац." #Машинный перевод 30.06.2023
+ tenet_alau_koev_syncretism_name: "Алау Коевац Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_amsari_syncretism_desc: "Хотя пророк Анаферн и бог Заоран не являются центральными фигурами в нашей религии, они по-прежнему пользуются большим уважением и поклоняются им соответствующим образом."
+ tenet_amsari_syncretism_name: "Синкретизм Амсари"
+  
+ tenet_arnazni_syncretism_desc: "Боги горы Арназ вдохновили свой народ стать больше, чем они были. Наши собственные боги ничем не отличаются в этом отношении." #Машинный перевод 30.06.2023
+ tenet_arnazni_syncretism_name: "Синкретизм Арназни" #Машинный перевод 30.06.2023
+  
+ tenet_aruvasue_syncretism_desc: "Даже если Арувас не наш бог, честь и гордость его последователей нельзя сбрасывать со счетов. Мы должны стремиться отразить славу Арувасуэни." #Машинный перевод 30.06.2023
+ tenet_aruvasue_syncretism_name: "Синкретизм Арувасуэн" #Машинный перевод 30.06.2023
+  
+ tenet_aversarian_syncretism_desc: "Стало ясно, что какими бы ни были наши разногласия, мы в некотором роде родственники Аверсарианцев, поскольку Чистейший является важной фигурой и в наших религиозных верованиях."
+ tenet_aversarian_syncretism_name: "Аверсарианский Синкретизм"
+ tenet_aversarian_syncretism_sarradonian_religion: "Закон Афазариани" #Машинный перевод 30.06.2023
+  
+ tenet_eight_syncretism_desc: "Агионистские Ордены поклоняются всем святым, и каждая вера просто решает сосредоточить свое внимание на определенном." #Машинный перевод 30.06.2023
+ tenet_eight_syncretism_name: "Агионистский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_graveright_syncretism_desc: "Невозможно переоценить, насколько важную роль играют предки в нашей вере. Несмотря на то, что они ушли из жизни, они всегда будут наблюдать за нами и направлять нас. В этом мы с Мрогильпрано идем рука об руку."
+ tenet_graveright_syncretism_name: "Мрогильпранский Синкретизм"
+  
+ tenet_iyrossi_syncretism_desc: "Так же, как у Ийросси есть свой Божественный суд, так и наши боги судят нас, наши действия и нашу способность следовать божественным законам."
+ tenet_iyrossi_syncretism_name: "Синкретизм Ийросси"
+  
+ tenet_izaerto_bosar_syncretism_desc: "Пернатый занимает особое место в нашем пантеоне, переправляя наших умерших в запредельное место. Хотя мы не можем прийти к единому мнению о происхождении мира, мы разделяем многие убеждения с Изаэрто Бошарианами." #Машинный перевод 30.06.2023
+ tenet_izaerto_bosar_syncretism_name: "Изаэрто Бошарен Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_kemsar_syncretism_amsari_religion: "Мир со старым врагом" #Машинный перевод 30.06.2023
+ tenet_kemsar_syncretism_desc: "Инпиа, а иногда и потерянный Итеру занимают видное место в наших собственных верованиях. Поступая так, мы присоединяемся к кемсари в их пылком поклонении и страхе перед Мертвой Луной, которая уничтожит нас всех." #Машинный перевод 30.06.2023
+ tenet_kemsar_syncretism_desc: "Мы переняли некоторые элементы религии Кемсар, такие как почитание луны." #Машинный перевод 30.06.2023
+ tenet_kemsar_syncretism_name: "Кемсарский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_mahrator_syncretism_desc: "Каеган, возможно, не король нашего пантеона, но Бог Лошадей по-прежнему имеет большое влияние на наши сердца." #Машинный перевод 30.06.2023
+ tenet_mahrator_syncretism_name: "Махраторанский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_manats_syncretism_desc: "Мы можем не поклоняться тем же богам, что и манат, но в их [manat_sacred_texts|E] все же есть великая духовная ценность." #Машинный перевод 30.06.2023
+ tenet_manats_syncretism_name: "Манатный синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_marcher_syncretism_desc: "Путь Жизни - интересная система, и она явно сыграла большую роль в успехе и упорстве Марчеров в борьбе с двумя самыми сильными угрозами Аэраса. Мы должны учиться у них, чтобы мы тоже могли быть сильными."
+ tenet_marcher_syncretism_name: "Марчерский Синкретизм"
+  
+ tenet_oltenic_syncretism_desc: "Хотя они могут и не играть центральной роли в нашей вере, доброжелательный Олгон-тен и злобный Йеру-май по-прежнему занимают место в нашем пантеоне, и практика ношения масок также стала заметной причудой наших практик." #Машинный перевод 30.06.2023
+ tenet_oltenic_syncretism_name: "ольтенский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_partic_syncretism_desc: "Вера Партцев содержит много истин. Хотя мы никогда не будем так привязаны к друидам, как они, нельзя ли сказать, что и наши боги - всего лишь эманации Серфли?"
+ tenet_partic_syncretism_name: "Партский Синкретизм"
+  
+ tenet_ritualist_syncretism_desc: "Разнообразие ритуалистских сект просто ошеломляет. Приняв хотя бы часть из их различных священных писаний и творческую интерпретацию "Тысячи и одного шага", наша вера более или менее может сойти за очередной ритуалистский осколок."
+ tenet_ritualist_syncretism_name: "Ритуалистский Синкретизм"
+ tenet_ritualist_syncretism_sarradonian_religion: "Мир на небесах" #Машинный перевод 30.06.2023
+  
+ tenet_seven_one_syncretism_desc: "Святые священные чины агионизма не несовместимы с нашими верованиями; на самом деле, мы принимаем их и приветствуем в своем кругу как братьев и сестер по вере." #Машинный перевод 30.06.2023
+ tenet_seven_one_syncretism_name: "Агионистский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_sheharddi_syncretism_desc: "Элой занимает центральное место в нашем пантеоне. Хотя некоторые из наших других практик могут заставить Шехардди смотреть на нас с опаской, наша общая вера в единого бога - несмотря на некоторые нововведения с нашей стороны - делает их нашими братьями и сестрами по вере."
+ tenet_sheharddi_syncretism_name: "Шехарддский синкретизм"
+  
+ tenet_shyatan_syncretism_desc: "В то время как их заявления о бессмертии сомнительны, учения шиатанского духовенства ценны в наших собственных поисках духовности." #Машинный перевод 30.06.2023
+ tenet_shyatan_syncretism_name: "Шиатанический синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_sjalvolki_hunt_desc: "Велос был охотником, и мы тоже будем охотниками! Только охотясь на самые сильные остатки легионов Пеквона, мы сможем доказать Богам, что остаемся верными Предназначению, и доказать свою ценность как воинов!"
+ tenet_sjalvolki_hunt_name: "Охота Сьяволки"
+ tenet_sjalvolki_syncretism_desc: "Сьяволки сильны и свирепы, они бросили вызов Аверсарианцам и нанесли им множество мощных ударов. Приняв определенных богов Сьявольки как своих собственных, мы тоже можем обеспечить свое будущее."
+ tenet_sjalvolki_syncretism_name: "Синкретизм Сьяволки"
+  
+ tenet_wardenite_syncretism_desc: "Хотя борьба со злом и не является определяющей для нашей веры, в мире есть много плохого, что явно вызвано какой-то темной сущностью. Нам следует учиться у Варденитов, чтобы мы тоже могли сохранить Столпы Добродетели, которые сдерживают Мертвого Бога."
+ tenet_wardenite_syncretism_name: "Варденитский Синкретизм"
+ tenet_wardenite_syncretism_ritualist_religion: "Мир на небесах" #Машинный перевод 30.06.2023
+  
+ tenet_astiliak_syncretism_desc: "Мы разделяем веру астилиаков в духовную важность животных и погоды." #Машинный перевод 30.06.2023
+ tenet_astiliak_syncretism_name: "Астиляк Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_cuthanagi_syncretism_desc: "Мы, вместе с Кутанаги, ищем руководства и убежища у вечно текущей и могущественной Касирият, матери миллионов, хотя мы не позволяем ей определять наше поклонение, как они свое." #Машинный перевод 30.06.2023
+ tenet_cuthanagi_syncretism_name: "Казир Поклонение Синкретизму" #Машинный перевод 30.06.2023
+  
+ tenet_ehatm_syncretism_desc: "Хотя пути Э'хат'мика не принадлежат нам, мы также поклоняемся Сестре-Матери. В глубине души мы знаем, что Корихот и Корикет наблюдают и направляют нас, когда мы пересекаем бескрайнее море." #Машинный перевод 30.06.2023
+ tenet_ehatm_syncretism_name: "Крехеядский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_marndeoticeni_syncretism_desc: "Хотя он не является нашим главным богом, Чуэк'а занимает место в нашем пантеоне." #Машинный перевод 30.06.2023
+ tenet_marndeoticeni_syncretism_name: "Цуэканистский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_redland_cults_syncretism_desc: "Хотя мы можем следовать более стандартной религии, есть некоторые достоинства в народных сказках коренных жителей Редленда." #Машинный перевод 30.06.2023
+ tenet_redland_cults_syncretism_name: "Синкретизм Редлендера" #Машинный перевод 30.06.2023
+  
+ tenet_sunarwei_syncretism_desc: "Сунарвейистская метафора о том, что все живые существа являются осколками стекла одного целого, имеет большое значение для нашей веры." #Машинный перевод 30.06.2023
+ tenet_sunarwei_syncretism_name: "Сунарвейаистский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_xaxbaxakanax_syncretism_desc: "Эзотерические знания Закс'бакса'канакс сильно влияют на наши духовные верования, хотя большая часть их учений до сих пор не поддается расшифровке." #Машинный перевод 30.06.2023
+ tenet_xaxbaxakanax_syncretism_name: "Закс'бакса'канахи Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_dravidian_syncretism_desc: "Наряду с нашей собственной религиозной практикой мы также молимся великому совету Авастья Махана." #Машинный перевод 30.06.2023
+ tenet_dravidian_syncretism_name: "Авастья Махани Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_viyagaric_syncretism_desc: "Мы верим, что все в мире циклично, и что мир вознаграждает честолюбие, как и виягарские верования Пиратского Берега." #Машинный перевод 30.06.2023
+ tenet_viyagaric_syncretism_name: "Виягарический синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_saielaian_syncretism_desc: "Хотя мы не следуем богам сайелаев, мы глубоко почитаем наших предков женского пола." #Машинный перевод 30.06.2023
+ tenet_saielaian_syncretism_name: "Сайелаанский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_fourteen_heavenly_methods_syncretism_desc: "Наряду с нашими собственными религиозными обрядами мы также молимся пантеону Катун-Кай." #Машинный перевод 30.06.2023
+ tenet_fourteen_heavenly_methods_syncretism_name: "Kai-jiao Syncretism" #Машинный перевод 30.06.2023
+  
+ tenet_blackhand_syncretism_desc: "Искатели разума были очень мудры, хотя мы не согласны с ними по поводу наших богов." #Машинный перевод 30.06.2023
+ tenet_blackhand_syncretism_name: "Синкретизм Черной руки" #Машинный перевод 30.06.2023
+  
+ tenet_thixanonic_syncretism_desc: "Тиксанон был великим человеком, которого следует почитать, но его нельзя ставить выше наших собственных богов." #Машинный перевод 30.06.2023
+ tenet_thixanonic_syncretism_name: "Тиксанонический синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_apti_syncretism_desc: "Хотя мы все еще находим их странными, мы включили некоторые аспекты эксцентричного Апти, стремясь лучше узнать Мечту и Мечтателя." #Машинный перевод 30.06.2023
+ tenet_apti_syncretism_name: "Апти Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_ethowos_syncretism_desc: "Хотя мы можем следовать более стандартной религии, в народных сказках пещерных племен есть некоторые достоинства." #Машинный перевод 30.06.2023
+ tenet_ethowos_syncretism_name: "Синкретизм культов пещерных племен" #Машинный перевод 30.06.2023
+  
+ tenet_cnevobarthane_syncretism_desc: "Истинным верующим нашей веры также суждено разделить Светлые чертоги Куту Ремзна с верующими теугомбрийцами." #Машинный перевод 30.06.2023
+ tenet_cnevobarthane_syncretism_name: "Теугомбрический синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_gallieni_syncretism_desc: "Как и Галлиени, мы верим, что судьба человечества в определенной степени предопределена." #Машинный перевод 30.06.2023
+ tenet_gallieni_syncretism_name: "Синкретизм Галлиени" #Машинный перевод 30.06.2023
+  
+ tenet_gestanwoder_syncretism_desc: "Жестокие существа, которых Гестанводеры почитают как богов, существуют и достойны страха, хотя и не являются по-настоящему божественными." #Машинный перевод 30.06.2023
+ tenet_gestanwoder_syncretism_name: "Gestanwoder Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_gethian_syncretism_desc: "Наши боги судят добро человечества до тех пор, пока оно не перевесит его грех, подобно Великому Судье гетиан." #Машинный перевод 30.06.2023
+ tenet_gethian_syncretism_name: "Гетский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_islands_syncretism_desc: "Хотя мы можем следовать более стандартной религии, в народных сказках островитян есть некоторые достоинства." #Машинный перевод 30.06.2023
+ tenet_islands_syncretism_name: "Синкретизм островных культов" #Машинный перевод 30.06.2023
+  
+ tenet_kakarataki_syncretism_desc: "Мы рассказываем истории о вечной войне между солнцем и луной, рассказанные Какаратаки." #Машинный перевод 30.06.2023
+ tenet_kakarataki_syncretism_name: "Какаратаки Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_kardawai_syncretism_desc: "Мы не видим ничего плохого в ритуальном каннибализме, практикуемом кардавайцами, и даже иногда сами в этом участвуем." #Машинный перевод 30.06.2023
+ tenet_kardawai_syncretism_name: "Кардавайский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_namejisht_syncretism_desc: "В свободе заключена великая духовная ценность, хотя поклоняться ей как единственному богу, как это делают Намеджишта, — это уже чересчур." #Машинный перевод 30.06.2023
+ tenet_namejisht_syncretism_name: "Намеджишт Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_orgarrd_syncretism_desc: "Мы видим ужасы поверхностного мира и верим, что в оргардианской вере в подземный рай есть много утешения." #Машинный перевод 30.06.2023
+ tenet_orgarrd_syncretism_name: "Оргардианский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_raider_syncretism_desc: "Хотя мы можем следовать более стандартной религии, в народных сказках о рейдерах есть некоторые достоинства." #Машинный перевод 30.06.2023
+ tenet_raider_syncretism_name: "Синкретизм рейдерских культов" #Машинный перевод 30.06.2023
+  
+ tenet_salacad_syncretism_desc: "Как и салакады, мы верим, что человечество защищено небом от земли." #Машинный перевод 30.06.2023
+ tenet_salacad_syncretism_name: "Салакад Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_samojitian_syncretism_desc: "Хотя мы можем следовать более стандартной религии, народные сказки самоджитов имеют некоторые достоинства." #Машинный перевод 30.06.2023
+ tenet_samojitian_syncretism_name: "Жемайтийский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_starvayrd_syncretism_desc: "Мы верим, что потенциал можно найти в звездах, как и в Старвайрде." #Машинный перевод 30.06.2023
+ tenet_starvayrd_syncretism_name: "Синкретизм Старвайрда" #Машинный перевод 30.06.2023
+  
+ tenet_stodherrn_syncretism_desc: "Мы видим себя управителями мира, поддерживающими его природу, как и Стодхерн." #Машинный перевод 30.06.2023
+ tenet_stodherrn_syncretism_name: "Stðherrn Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_tulharsin_syncretism_desc: "Мы верим, что на пиках Тарсанид, почитаемых тулхарсинами, лежит что-то великое, но, возможно, не божественное." #Машинный перевод 30.06.2023
+ tenet_tulharsin_syncretism_name: "Тулхарсин Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_uakaklo_syncretism_desc: "Уакакло правы в своем убеждении, что эрвалр — это глаз, заботящийся о человечестве, хотя их сложная система богов и демонов — полная ерунда." #Машинный перевод 30.06.2023
+ tenet_uakaklo_syncretism_name: "Уакакло Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_zaragett_syncretism_desc: "Хотя мы не следуем их вере, мы уделяем пристальное внимание морю и луне в надежде соперничать с зарагетскими магами." #Машинный перевод 30.06.2023
+ tenet_zaragett_syncretism_name: "Зарагетский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_adabyssian_syncretism_desc: "Золотые статуи Адабисса поистине внушают благоговейный трепет, и все, что в них обитает, должно обладать великой силой, но не обязательно способностью создавать мир." #Машинный перевод 30.06.2023
+ tenet_adabyssian_syncretism_name: "Дгуди Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_ahridar_syncretism_desc: "Рассказы об Орасике достойны того, чтобы их рассказали, хотя мы считаем его просто великим человеком, а не настоящим божеством." #Машинный перевод 30.06.2023
+ tenet_ahridar_syncretism_name: "Орасикианский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_anaanide_syncretism_desc: "Хотя мы не верим в детали их религии, Анааниды не заслуживают своей плохой репутации, похищая детей и воспитывая их праведно, это просто прагматично." #Машинный перевод 30.06.2023
+ tenet_anaanide_syncretism_name: "Анаанидный синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_hubarism_syncretism_desc: "Великое Солнце наблюдает за нашими верными, как с незапамятных времен наблюдает за хубаристами." #Машинный перевод 30.06.2023
+ tenet_hubarism_syncretism_name: "Хубаристский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_masaagnite_syncretism_desc: "Мы считаем, что разрушенные храмы Роджихлат Мара должны почитаться так же, как масаагниты." #Машинный перевод 30.06.2023
+ tenet_masaagnite_syncretism_name: "Масаагнит Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_mogowai_syncretism_desc: "Хотя мы не почитаем Его как нашего единственного бога, мы, тем не менее, тронуты самоотверженностью моговаев своим поискам." #Машинный перевод 30.06.2023
+ tenet_mogowai_syncretism_name: "Могувайский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_quwazaw_syncretism_desc: "Огромные каменные статуи Кувазо действительно впечатляют, хотя и не совсем божественны." #Машинный перевод 30.06.2023
+ tenet_quwazaw_syncretism_name: "Синкретизм Кувазави" #Машинный перевод 30.06.2023
+  
+ tenet_saratan_syncretism_desc: "Саратаны — великие звери, близкие к божественным, хотя саратарцы могут придавать им слишком большое значение." #Машинный перевод 30.06.2023
+ tenet_saratan_syncretism_name: "Саратаратинский синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_sheharddi_syncretism_desc: "Элой занимает центральное место в нашем пантеоне. Хотя некоторые из наших других практик могут заставить Шехардди смотреть на нас с опаской, наша общая вера в единого бога - несмотря на некоторые нововведения с нашей стороны - делает их нашими братьями и сестрами по вере."
+ tenet_sheharddi_syncretism_name: "Шехарддский синкретизм"
+  
+ tenet_sokaloma_syncretism_desc: "Идея о том, что боги — это всего лишь коллективный дух их поклонников, неоспорима, но у нашей веры больше поклонников, чем у сокалома, поэтому наши боги более реальны, чем их." #Машинный перевод 30.06.2023
+ tenet_sokaloma_syncretism_name: "Сокалома Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_yuagaug_syncretism_desc: "Почитание плоти у шуб-юагуаг не является извращенным, как утверждают многие, хотя их бог Юагуаг — не более чем вымысел." #Машинный перевод 30.06.2023
+ tenet_yuagaug_syncretism_name: "Шуб-Юагуаг Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_nalmavast_syncretism_desc: "Есть много мудрости в том, чтобы следовать путям Налмы и ее народа." #Машинный перевод 30.06.2023
+ tenet_nalmavast_syncretism_name: "Налмаваст Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_zaldrigas_syncretism_desc: "Крылатый змей направляет нас во всем, что мы делаем" #Машинный перевод 30.06.2023
+ tenet_zaldrigas_syncretism_name: "Залдригас Синкретизм" #Машинный перевод 30.06.2023
+  
+ tenet_aironoi_syncretism_desc: "Хотя сами мы не являемся уроженцами Айроноя, мы теперь синкретизировались со многими местными религиями этой земли." #Машинный перевод 30.06.2023
+ tenet_aironoi_syncretism_name: "Айронский синкретизм" #Машинный перевод 30.06.2023
+  
+  # Debug Tenets 
+  #These are just here to clear out errors related to missing paramaters, if we reach a point where all paramaters are triggered correctly, the debug tradition + this loc entry should be removed 
+ tenet_dummy_tenet_name: "ФУНКЦИОНАЛЬНЫЙ ПРИНЦИП" #Машинный перевод 30.06.2023
+ tenet_dummy_tenet_desc: "ВЫ НЕ ДОЛЖНЫ ЭТОГО ВИДЕТЬ. ПОЖАЛУЙСТА, СООБЩИТЕ ЭТО КАК ОШИБКА!" #Машинный перевод 30.06.2023

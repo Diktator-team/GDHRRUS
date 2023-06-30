@@ -1,0 +1,71 @@
+﻿l_russian:
+  
+ xaxbaxakanax_religion: "Xax'baxa'kanax"
+ xaxbaxakanax_religion_adj: "Xax'baxa'kanaxi"
+ xaxbaxakanax_religion_adherent: "Xax'baxa'kanaxian"
+ xaxbaxakanax_religion_adherent_plural: "Xax'baxa'kanaxians"
+ xaxbaxakanax_religion_desc: "Приверженцы верят, что их ведет, как стадо овец, по правильному пути в этом мире (который является лишь небольшой частью большей реальности) божественным Пастырем, который сам является смиренным обычным человеком в мире над ними, которого пасет вместе со своим собственные родственники от Пастыря над ним и так далее и тому подобное. Они проповедуют принятие мира и всех его событий, хороших или плохих. Подобно тому, как овцы могут стать пугливыми, когда их приводят в свои загоны, так и любое беспокойство о мире является просто скрытой нервозностью, порожденной незнанием плана Пастыря." #Машинный перевод 30.06.2023
+ xaxbaxakanax_desc: "Несмотря на то, что многие иностранцы находят название Xax'baxa'kanax и (крайне немногочисленные) теологические тексты настолько непонятными, что считают эту религию эзотерической, на самом деле это исключительно простой набор верований по сравнению со многими современниками. Это, по мнению аверсарианцев, скорее всего, вызвано тем, что они были исключительно примитивными и разрозненными, когда их немногочисленные исторические царства были поглощены соседями.\n\n\nДля ксакс'бакса'канаксианцев, которые традиционно зарабатывали на жизнь пастушеством, мир - это всего лишь маленькая частичка в большей реальности, состоящей из других миров (стада), которые подталкиваются по их правильному пути великим Пастухом. Считается, что сам Пастух также находится в своем собственном мире, живя жизнью обычного человека, и его мир тоже направляется, наряду с непознаваемыми мирами над ним и, возможно, еще более низкими мирами скромных ксакс'баксаканакси.\n\nВера ксакс'баксаканакси чаще всего проповедует принятие мира и всех его событий, к добру или к худу. Все миры управляются пастухом, и как овцы ксаксаканцев могут быть пугливыми, когда их ведут в загон, так и любое беспокойство о мире - это просто скрытая нервозность, порожденная незнанием плана пастуха.\n\n\nНесколько королевств ксаксаканцев в истории часто возглавлялись мелкими деспотами, утверждавшими, что их угнетение просто должно было быть, и точно так же мятежники, свергавшие их, утверждали, что и их уничтожили. Однако каста священников никогда не имела никакой власти над верующими, их роль сводилась к соблюдению церемоний и заупокойным речам, и ксакс'баксаканаксиане считают, что они не обладают подлинной духовной силой. Когда их родина была завоевана аверсарианами, они восприняли это как очередную череду мелких деспотий, которые всегда приходят и всегда уходят, а верующие в основном избегали сурового обращения, будучи слишком незначительными, чтобы добиться внимания."
+ xaxbaxakanax_high_god_name: "Пастырь"
+ xaxbaxakanax_high_god_name_possessive: "Пастух"
+ xaxbaxakanax_high_god_name_alternate: "Xabam'kabax"
+ xaxbaxakanax_high_god_name_alternate_possessive: "Xabam'kabax's"
+ xaxbaxakanax_devil_name: "Xabam'kabax"
+ xaxbaxakanax_devil_name_possessive: "Xabam'kabax's"
+ xaxbaxakanax_death_deity_name: "Xabam'kabax"
+ xaxbaxakanax_death_deity_name_possessive: "Xabam'kabax's"
+  
+  
+  
+ xaxbaxakanax_house_of_worship: "Абакс'ксам'баксах'аба" #Машинный перевод 30.06.2023
+ xaxbaxakanax_house_of_worship_plural: "Abax'xam'baxaxax'abaxi"
+ xaxbaxakanax_religious_symbol: "овца" #Машинный перевод 30.06.2023
+ xaxbaxakanax_religious_text: "Kbam'axzyy'laxk Xax'baxa'kanax"
+  
+ xaxbaxakanax_religious_head_title: "Ybax'zaxxa'lax'maxak'xax'xaka'"
+ xaxbaxakanax_religious_head_title_name: "Ybax'zaxxa'xax'xaka'baxx'ybban"
+ xaxbaxakanax_devotee_male: "Xax'baxa'kanaxi"
+ xaxbaxakanax_devotee_male_plural: "Xax'baxa'kanaxi"
+ xaxbaxakanax_devotee_female: "Xax'baxa'kanaxi"
+ xaxbaxakanax_devotee_female_plural: "Xax'baxa'kanaxi"
+ xaxbaxakanax_devotee_neuter: "Xax'baxa'kanaxi"
+ xaxbaxakanax_devotee_neuter_plural: "Xax'baxa'kanaxi"
+ xaxbaxakanax_priest_male: "Ибакс'закса'лакса" #Машинный перевод 30.06.2023
+ xaxbaxakanax_priest_male_plural: "Ybax'zaxxa'laxi"
+ xaxbaxakanax_priest_female: "Ибакс'закса'лакса" #Машинный перевод 30.06.2023
+ xaxbaxakanax_priest_female_plural: "Ybax'zaxxa'laxi"
+ xaxbaxakanax_priest_alternate_plural: "Ybax'zaxxa'lax"
+ xaxbaxakanax_bishop: "Хала'бал'наксакс" #Машинный перевод 30.06.2023
+ xaxbaxakanax_bishop_plural: "Xala'bal'naxaxi"
+ xaxbaxakanax_positive_afterlife: "Xabam'yyxzax'z'baxx'ybban" #Машинный перевод 30.06.2023
+ xaxbaxakanax_negative_afterlife: "Xax'xax'xax'xax'xax'xax"
+  
+ xaxbaxakanax_creator_god_name: "$xaxbaxakanax_high_god_name$"
+ xaxbaxakanax_creator_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$"
+ xaxbaxakanax_health_god_name: "$xaxbaxakanax_high_god_name$"
+ xaxbaxakanax_health_god_name_possessive: "$xaxbaxakanax_high_god_name$"
+ xaxbaxakanax_fertility_god_name: "$xaxbaxakanax_high_god_name$"
+ xaxbaxakanax_fertility_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$"
+ xaxbaxakanax_wealth_god_name: "$xaxbaxakanax_high_god_name$"
+ xaxbaxakanax_wealth_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$"
+ xaxbaxakanax_household_god_name: "$xaxbaxakanax_health_god_name$"
+ xaxbaxakanax_household_god_name_possessive: "$xaxbaxakanax_health_god_name_possessive$"
+ xaxbaxakanax_fate_god_name: "$xaxbaxakanax_high_god_name$"
+ xaxbaxakanax_fate_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$"
+ xaxbaxakanax_knowledge_god_name: "$xaxbaxakanax_high_god_name$"
+ xaxbaxakanax_knowledge_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$"
+ xaxbaxakanax_war_god_name: "$xaxbaxakanax_high_god_name$"
+ xaxbaxakanax_war_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$"
+ xaxbaxakanax_trickster_god_name: "$xaxbaxakanax_high_god_name$"
+ xaxbaxakanax_trickster_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$"
+ xaxbaxakanax_night_god_name: "$xaxbaxakanax_high_god_name$"
+ xaxbaxakanax_night_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$"
+ xaxbaxakanax_water_god_name: "$xaxbaxakanax_health_god_name$"
+ xaxbaxakanax_water_god_name_possessive: "$xaxbaxakanax_health_god_name_possessive$"
+ xaxbaxakanax_witch_god_name: "$xaxbaxakanax_high_god_name$" #Машинный перевод 30.06.2023
+ xaxbaxakanax_witch_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$" #Машинный перевод 30.06.2023
+  
+ xaxbaxakanax: "Xax'baxa'kanax"
+ xaxbaxakanax_adj: "Xax'baxa'kanaxi"
+ xaxbaxakanax_adherent: "Xax'baxa'kanaxian"
+ xaxbaxakanax_adherent_plural: "Xax'baxa'kanaxians"

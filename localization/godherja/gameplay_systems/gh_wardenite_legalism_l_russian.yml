@@ -1,0 +1,465 @@
+﻿l_russian:
+ ADOPT_LEGAL_SCHOOL: "Усыновить"
+ RENOUNCE_LEGAL_SCHOOL: "Отказаться"
+  
+ no_legal_tradition_application_level: "нет"
+ low_legal_tradition_application_level: "Низкий"
+ medium_legal_tradition_application_level: "Средний"
+ high_legal_tradition_application_level: "Высокий"
+  
+  ############## 
+  # CATEGORIES # 
+  ############## 
+  
+ interpretative_approach_name: "Интерпретативный подход  "
+ epistemology_name: "Эпистемология"
+ scriptural_diversity_name: "Библейское разнообразие"
+ harshness_name: "Суровость"
+ complexity_name: "Сложность"
+ classism_name: "Классицизм"
+ uniformity_name: "Единообразие"
+ belligerence_name: "Воинственность"
+ economic_focus_name: "Экономическая направленность"
+ tolerance_name: "Толерантность"
+ special_name: "Специальный"
+  
+  ########## 
+  # TRAITS # 
+  ########## 
+  
+ metaphorialist_name: "Метафолист"
+ literalist_name: "Буквалист"
+ rationalist_name: "Рационалист"
+ emotionalist_name: "Эмоционалист"
+ broad_name: "Широкий"
+ narrow_name: "Узкий"
+ liberal_name: "Либерал"
+ draconian_name: "Драконианский"
+ egalitarian_name: "Эгалитарный"
+ hierarchical_name: "Иерархический"
+ parochial_name: "Parochial"
+ uniform_name: "Униформа"
+ warlike_name: "воинственный"
+ pacifistic_name: "Пацифистский"
+ agrarian_name: "Аграрный"
+ urbanite_name: "Urbanite"
+ majoritarian_name: "Мажоритарный"
+ minoritarian_name: "Миноритарный"
+ mysticistic_name: "Мистицист"
+  
+  ############ 
+  # TOOLTIPS # 
+  ############ 
+  
+ legal_tradition_patron_header_tooltip: "#weak Patrons#!"
+ legal_tradition_patron_tooltip: "[ROOT.Char.GetFirstName]"
+  
+ diligent_gives_judicial_power_tooltip: "The [GetTrait('diligent').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ overseer_gives_judicial_power_tooltip: "The [GetTrait('overseer').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ greedy_gives_judicial_power_tooltip: "The [GetTrait('greedy').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ avaricious_gives_judicial_power_tooltip: "The [GetTrait('avaricious').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ cynical_gives_judicial_power_tooltip: "The [GetTrait('cynical').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ zealous_gives_judicial_power_tooltip: "The [GetTrait('zealous').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ calm_gives_judicial_power_tooltip: "The [GetTrait('calm').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ forgiving_gives_judicial_power_tooltip: "The [GetTrait('forgiving').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ compassionate_gives_judicial_power_tooltip: "The [GetTrait('compassionate').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ vengeful_gives_judicial_power_tooltip: "The [GetTrait('vengeful').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ sadistic_gives_judicial_power_tooltip: "The [GetTrait('sadistic').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ humble_gives_judicial_power_tooltip: "The [GetTrait('humble').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ content_gives_judicial_power_tooltip: "The [GetTrait('content').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ arrogant_gives_judicial_power_tooltip: "The [GetTrait('arrogant').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ ambitious_gives_judicial_power_tooltip: "The [GetTrait('ambitious').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ patient_gives_judicial_power_tooltip: "The [GetTrait('patient').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ impatient_gives_judicial_power_tooltip: "The [GetTrait('impatient').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ wrathful_gives_judicial_power_tooltip: "The [GetTrait('wrathful').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ scholar_gives_judicial_power_tooltip: "The [GetTrait('scholar').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ theologian_gives_judicial_power_tooltip: "The [GetTrait('theologian').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!"
+ mystic_gives_judicial_power_tooltip: "Each level of the [GetTrait('mystic_1').GetName( GetNullCharacter )] [trait|E] gives increasing amounts of #E Judicial Power#! per the tradition's #E Mysticism#! level"
+  
+ mystic_increases_piety_reward_tooltip: "Each level of the [GetTrait('mystic_1').GetName( GetNullCharacter )] [trait|E] proportionally increases the [piety|E] rewards of a good ruling"
+ may_gain_mystic_from_trials_tooltip: "Chance of levelling up the [GetTrait('mystic_1').GetName( GetNullCharacter )] [trait|E] upon the conclusion of each good ruling"
+ learning_gives_double_judicial_power_tooltip: "@skill_learning_icon![learning|E] counts twice as much for #E Judicial Power#!"
+ diplomacy_gives_judicial_power_tooltip: "@skill_diplomacy_icon![diplomacy|E] counts towards #E Judicial Power#!"
+ stewardship_gives_judicial_power_tooltip: "@skill_stewardship_icon![stewardship|E] counts towards #E Judicial Power#!"
+ martial_gives_judicial_power_tooltip: "@skill_martial_icon![martial|E] counts towards #E Judicial Power#!"
+ each_virtue_increases_judicial_power_tooltip: "Each [virtue|E] gives #E Judicial Power#!"
+ piety_level_gives_judicial_power_tooltip: "Each [piety_level|E] gives #E Judicial Power#!"
+ renown_level_gives_judicial_power_tooltip: "Each [dynasty_prestige_level|E] gives #E Judicial Power#!"
+ radicalism_gives_judicial_power_tooltip: "Every point of @radicalism_icon! #E Radicalism#! increases #E Judicial Power#! by #positive_value 0.2#!, up to a maximum of 20"
+  
+ can_justify_claims_tooltip: "Enables the #E Justify#! [claim|E] interaction"
+ can_censure_sinful_characters_tooltip: "Can #E Censure#! [sinful|E] characters"
+ can_disinherit_sinful_characters_with_piety_tooltip: "Can [disinherit|E] [sinful|E] characters with [piety|E] instead of [dynasty_prestige|E]"
+ can_censure_less_virtuous_characters_tooltip: "Can #E Censure#! characters with less [virtues|E] than you"
+ can_designate_heir_tooltip: "Enables the #E Designate#! [heir|E] interaction"
+  
+ learning_boosts_piety_gain_from_trials_tooltip: "Each @skill_learning_icon![learning|E] level increases [piety|E] gain from trials by #positive_value 1%#!"
+ participating_in_legal_action_can_give_learning_tooltip: "Each successful #E Judicial Power#! skill check has a chance of increasing your @skill_learning_icon![learning|E]"
+  
+ stronger_offensive_judicial_power_tooltip: "#E Judicial Power#! is #positive_value 50% higher#! when initiating a legal action"
+ stronger_defensive_judicial_power_tooltip: "#E Judicial Power#! is #positive_value 100% higher#! when defending against a legal action"
+  
+ random_bonus_legal_rewards_tooltip: "Each successful legal action has a chance of giving [hooks|E] or [claims|E] against a random group of characters related to the defender"
+ countersuit_tooltip: "Successfully defending against a legal action has a chance of reversing the effects of the original suit upon the initiator"
+ can_exchange_imprisonment_reasons_for_prestige_tooltip: "Can exchange imprisonment reasons for [prestige|E] #X (Unimplemented)#!"
+ crimes_allow_any_punishment_tooltip: "[crimes|E] allow any punishment, including [execution|E], regardless of severity"
+ apolitical_suits_give_better_rewards_tooltip: "#E Apolitical Suits#! give better rewards"
+ censured_characters_can_be_imprisoned_tooltip: "#E Censured#! characters can be imprisoned"
+ can_depose_vassals_tooltip: "Unlocks the #E Depose Vassal Interaction#!"
+ each_level_increases_difficulty_and_rewards_tooltip: "Each rank in this legal trait increases both the difficulty and [piety|E] rewards of legal challenges"
+ each_level_decreases_difficulty_tooltip: "Each rank in this legal trait decreases the difficulty of legal challenges"
+  
+ medium_stress_gain_reduction_from_tradition_modifier_tooltip: "[GetModifier('medium_stress_gain_reduction_from_tradition_modifier').GetDesc]"
+ popular_opinion_from_tradition_modifier_tooltip: "[GetModifier('popular_opinion_from_tradition_modifier').GetDesc]"
+ vassal_tax_from_tradition_modifier_tooltip: "[GetModifier('vassal_tax_from_tradition_modifier').GetDesc]"
+ cultural_head_fascination_mult_from_tradition_modifier_tooltip: "[GetModifier('cultural_head_fascination_mult_from_tradition_modifier').GetDesc]"
+ learning_per_piety_level_from_tradition_modifier_tooltip: "[GetModifier('learning_per_piety_level_from_tradition_modifier').GetDesc]"
+ control_growth_from_tradition_modifier_tooltip: "[GetModifier('control_growth_from_tradition_modifier').GetDesc]"
+ tyranny_gain_reduction_from_tradition_modifier_tooltip: "[GetModifier('tyranny_gain_reduction_from_tradition_modifier').GetDesc]"
+ diplomacy_from_tradition_modifier_tooltip: "[GetModifier('diplomacy_from_tradition_modifier').GetDesc]"
+ prestige_from_tradition_modifier_tooltip: "[GetModifier('prestige_from_tradition_modifier').GetDesc]"
+ diplomacy_per_prestige_level_from_tradition_modifier_tooltip: "[GetModifier('diplomacy_per_prestige_level_from_tradition_modifier').GetDesc]"
+ vassal_opinion_from_tradition_modifier_tooltip: "[GetModifier('vassal_opinion_from_tradition_modifier').GetDesc]"
+ development_from_tradition_modifier_tooltip: "[GetModifier('development_from_tradition_modifier').GetDesc]"
+ domain_tax_mult_from_tradition_modifier_tooltip: "[GetModifier('domain_tax_mult_from_tradition_modifier').GetDesc]"
+ domain_limit_from_tradition_modifier_tooltip: "[GetModifier('domain_limit_from_tradition_modifier').GetDesc]"
+ knight_effectiveness_from_tradition_modifier_tooltip: "[GetModifier('knight_effectiveness_from_tradition_modifier').GetDesc]"
+ vassal_contribution_from_tradition_modifier_tooltip: "[GetModifier('vassal_contribution_from_tradition_modifier').GetDesc]"
+ martial_per_piety_from_tradition_modifier_tooltip: "[GetModifier('martial_per_piety_from_tradition_modifier').GetDesc]"
+  
+ provisional_court_will_preside_tooltip: "A #E Provisional Court#! will preside over the case"
+ liege_will_preside_tooltip: "[trial_presiding_character.GetTitledFirstName] will preside over the case"
+ high_court_will_preside_tooltip: "The #E High Court#! will preside over the case"
+  
+ major_conflict_of_interest_exists_tooltip: "@warning_icon! #X Due to the [trial_presiding_character.GetFirstNamePossessiveRegnal] relations to one or both sides there is a major conflict of interest, and they may recuse themselves#!"
+ minor_conflict_of_interest_exists_tooltip: "@warning_icon! #X Due to the [trial_presiding_character.GetFirstNamePossessiveRegnal] relations to one or both sides there is a minor conflict of interest, and they may recuse themselves#!"
+  
+ legal_tradition_action_virtuous_ruling_tooltip: "The reasoning behind your ruling is considered shrewd and righteous"
+ legal_tradition_action_acceptable_ruling_tooltip: "The reasoning behind your ruling is considered to be of an adequate legal grounding"
+ legal_tradition_action_shoddy_ruling_tooltip: "The reasoning behind your ruling is considered shoddy and foolish"
+  
+ legal_tradition_high_court_breakdown_tooltip: "[Localize(Concatenate(THIS.Var('legal_tradition_name').GetFlagName,'_name'))]: [GuiScope.SetRoot( THIS.Province.MakeScope ).AddScope('high_court_scope',high_court_scope.MakeScope).ScriptValue('legal_tradition_high_court_control_value')|0]%"
+  
+ study_critical_success_tt: "Your completely master the study material"
+ study_success_tt: "Your successfully grasp the study material"
+ study_failure_tt: "Your studies go poorly"
+  
+ USE_PIETY: "Use [piety|E]"
+  
+  ##################### 
+  # OPINION MODIFIERS # 
+  ##################### 
+  
+ ruled_against_me_minor_legal_action: "Правило против меня"
+ ruled_in_favor_of_me_minor_legal_action: "Принято решение в мою пользу"
+ censure_opinion: "отках"
+ censured_me_opinion: "меня послали"
+  
+  ############# 
+  # MODIFIERS # 
+  ############# 
+ patronizing_legal_tradition_modifier_1: "Покровительство юридической традиции"
+ patronizing_legal_tradition_modifier_2: "Покровительство юридической традиции"
+ patronizing_legal_tradition_modifier_3: "Покровительство юридической традиции"
+ patronizing_legal_tradition_modifier_4: "Покровительство юридической традиции"
+ patronizing_legal_tradition_modifier_5: "Покровительство юридической традиции"
+  
+ censured_modifier: "Недавнее порицание"
+  
+ radicalism_modifier_low: "Уход от радикализма"
+ radicalism_modifier_high: "Радикал"
+  
+ corruption_modifier_low: "Коррупционер"
+ corruption_modifier_high: "Конченый ворюга"
+  
+ medium_stress_gain_reduction_from_tradition_modifier: "Правовая традиция"
+ medium_stress_gain_reduction_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ medium_stress_gain_reduction_from_tradition_modifier_desc: ""
+ popular_opinion_from_tradition_modifier: "Правовая традиция"
+ popular_opinion_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ popular_opinion_from_tradition_modifier_desc: ""
+ vassal_tax_from_tradition_modifier: "$vassal_tax_from_tradition_modifier_name$" #Машинный перевод 30.06.2023
+ vassal_tax_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ vassal_tax_from_tradition_modifier_desc: ""
+ cultural_head_fascination_mult_from_tradition_modifier: "Правовая традиция"
+ cultural_head_fascination_mult_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ cultural_head_fascination_mult_from_tradition_modifier_desc: ""
+ learning_per_piety_level_from_tradition_modifier: "Правовая традиция"
+ learning_per_piety_level_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ learning_per_piety_level_from_tradition_modifier_desc: ""
+ control_growth_from_tradition_modifier: "$control_growth_from_tradition_modifier_name$" #Машинный перевод 30.06.2023
+ control_growth_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ control_growth_from_tradition_modifier_desc: ""
+ tyranny_gain_reduction_from_tradition_modifier: "$tyranny_gain_reduction_from_tradition_modifier_name$" #Машинный перевод 30.06.2023
+ tyranny_gain_reduction_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ tyranny_gain_reduction_from_tradition_modifier_desc: ""
+ diplomacy_from_tradition_modifier: "Правовая традиция"
+ diplomacy_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ diplomacy_from_tradition_modifier_desc: ""
+ prestige_from_tradition_modifier: "$prestige_from_tradition_modifier_name$" #Машинный перевод 30.06.2023
+ prestige_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ prestige_from_tradition_modifier_desc: ""
+ diplomacy_per_prestige_level_from_tradition_modifier: "$diplomacy_per_prestige_level_from_tradition_modifier_name$" #Машинный перевод 30.06.2023
+ diplomacy_per_prestige_level_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ diplomacy_per_prestige_level_from_tradition_modifier_desc: ""
+ vassal_opinion_from_tradition_modifier: "$vassal_opinion_from_tradition_modifier_name$" #Машинный перевод 30.06.2023
+ vassal_opinion_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ vassal_opinion_from_tradition_modifier_desc: ""
+ development_from_tradition_modifier: "Правовая традиция"
+ development_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ development_from_tradition_modifier_desc: ""
+ domain_tax_mult_from_tradition_modifier: "Правовая традиция"
+ domain_tax_mult_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ domain_tax_mult_from_tradition_modifier_desc: ""
+ domain_limit_from_tradition_modifier: "Правовая традиция"
+ domain_limit_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ domain_limit_from_tradition_modifier_desc: ""
+ knight_effectiveness_from_tradition_modifier: "$knight_effectiveness_from_tradition_modifier_name$" #Машинный перевод 30.06.2023
+ knight_effectiveness_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ knight_effectiveness_from_tradition_modifier_desc: ""
+ vassal_contribution_from_tradition_modifier: "$vassal_contribution_from_tradition_modifier_name$" #Машинный перевод 30.06.2023
+ vassal_contribution_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ vassal_contribution_from_tradition_modifier_desc: ""
+ martial_per_piety_from_tradition_modifier: "$martial_per_piety_from_tradition_modifier_name$" #Машинный перевод 30.06.2023
+ martial_per_piety_from_tradition_modifier_name: "Юридическая традиция" #Машинный перевод 30.06.2023
+ martial_per_piety_from_tradition_modifier_desc: ""
+  
+ high_court_legitimacy_very_low_mamur_modifier: "$wardenite_high_court_legitimacy_very_low_doctrine_name$"
+ high_court_legitimacy_low_mamur_modifier: "$wardenite_high_court_legitimacy_low_doctrine_name$"
+ high_court_legitimacy_high_mamur_modifier: "$wardenite_high_court_legitimacy_high_doctrine_name$"
+ high_court_legitimacy_very_high_mamur_modifier: "$wardenite_high_court_legitimacy_very_high_doctrine_name$"
+  
+  ########### 
+  # GUI LOC # 
+  ########### 
+ INNOVATION_APPROACH: "Вы сосредоточитесь на том, чтобы быстрее повысить свой #E Юр.уровнь#! путем применения нестандартных методик и юридических экспериментов. Все юридические задачи будут значительно сложнее, но дадут #P double#! @judicial_power_icon!#E Jurist Trait Progress#! Однако каждый юридический вызов, в котором вы участвуете, имеет значительный шанс повысить ваш @радикализм_икона!#E Радикализм#!"
+ SCHOLARSHIP_APPROACH: "Вы сосредоточитесь на повышении прогресса вашей #E Юридической Традиции#! путем внесения вклада в ее юридический корпус с помощью ваших дел. Все юридические задачи дадут #N больше#! @stress_gain_icon![стресс|E], но дадут @prestige_icon!престиж и внесут вклад в @judicial_power_icon!#E Legal Tradition Progress#! Каждый юридический вызов, в котором вы участвуете, имеет небольшой шанс повысить ваш @радикализм_icon!#E Radicalism#!, но гораздо меньше, чем при подходе #E Innovation#!"
+ GRIFTING_APPROACH: "You will focus on abusing the legal system to fill your pockets and expand your power. Every #E Legal Challenge#! you participate in will add your @skill_intrigue_icon![intrigue|E] to your @judicial_power_icon!#E Judicial Power#!, and have a chance of giving you @gold_icon![gold|E]. However, there is also a significant chance that you will gain @corruption_icon!#E Corruption#! and lose @piety_icon![piety|E] due to your clandestine activities."
+ ORTHODOXY_APPROACH: "You will focus on not rocking the boat and merely applying the law within the realms of orthodoxy to the best of your ability. @piety_icon![piety|E] rewards from #E Legal Challenges#! will be increased by #P +20%#!, and your @radicalism_icon!#E Radicalism#! and @corruption_icon!#E Corruption#! will slowly decline."
+  
+  ####################### 
+  # PRESCRIPTED SCHOOLS # 
+  ####################### 
+  
+ doctrine_wardenite_school_name: "Правовая школа"
+ wardenite_mainstream_doctrine_name: "А'баджарми'а - основная традиция"
+ wardenite_mainstream_doctrine_desc: "А'баджарми'а, или "основная" школа, - прагматики, признающие необходимость единого Мамура в принципе и теории - если не всегда согласны с тем, кто на самом деле является истинным Мамуром. Школа проявляет широкую терпимость к различным правовым традициям, в целом придерживаясь принципа, что единство традиций варденитской веры важнее, чем строгая чистота мысли и практики. На протяжении веков школа вобрала в себя несколько конкурирующих традиций, и сейчас к ее корпусу примыкают некогда пограничные еретики Ташбари'а (метафористы) и Ха'ари'а (эмоционалисты). Конечно, есть пределы терпимости, и многие другие традиции канули в безвестность из-за подавления со стороны А'баджарми'а"
+ wardenite_idealist_doctrine_name: "Затмали'а - Идеалистическая традиция"
+ wardenite_idealist_doctrine_desc: "Идеалисты в целом не признают необходимости Мамура, считая эту должность чем-то необходимым только в контексте ранних кампаний Первого Вардена, пережитком менее сложного времени. Большинство варденитов придерживаются легалистических традиций, подчеркивающих необходимость нового толкования, в значительной степени опираясь на определенную серию отрывков, написанных Первым варденом в "Видении ангельской башни" и описывающих возможные судьбы человечества в далеком будущем. В то время как другие школы быстро указывают на то, что эти отрывки почти наверняка были предупреждениями против безрассудных нововведений, Затмали'а придерживаются противоположной интерпретации."
+ wardenite_traditionalist_doctrine_name: "Табакай'а - традиционалистская традиция"
+ wardenite_traditionalist_doctrine_desc: "Традиционалисты Табакай'а признают существование и необходимость нескольких мамуров, считая, что их роль в качестве светских военачальников крайне необходима, поскольку кампании Первого Начальника никогда по-настоящему не заканчивались, а ритуалисты - и теперь их эффективная замена агионисты - все еще существуют. Примечательно, что табакай'а зачастую довольно терпимо относятся к язычникам, которых они считают непричастными к своей великой борьбе, часто предпочитая полностью игнорировать и избегать их."
+ wardenite_radical_doctrine_name: "Мататазари'а - радикалы"
+ wardenite_radical_doctrine_desc: "Общее название для сильно различающихся правовых ветвей. А'баджарми'а, затмали'а и табакаи'а заключили между собой непростой мир, ведя свои религиозные споры чаще в зале суда, чем на поле боя. Это непрочное согласие было достигнуто ценой того, что несколько правовых традиций, которые не могли ассоциироваться с одной из трех основных, получили уничижительный термин "мататазари'а" - радикальные. У них мало общего, о чем свидетельствуют и пацифистская "Зубатай'а", и печально известная жестокая бандитская правовая традиция "Катирри'а", которые разделяют это осуждение"
+  
+ doctrine_high_court_legitimacy_name: "Легитимность Высокого суда" #Машинный перевод 30.06.2023
+ wardenite_high_court_legitimacy_very_low_doctrine_name: "Abysmal High Court"
+ wardenite_high_court_legitimacy_very_low_doctrine_desc: ""
+ wardenite_high_court_legitimacy_low_doctrine_name: "Impious High Court"
+ wardenite_high_court_legitimacy_low_doctrine_desc: ""
+ wardenite_high_court_legitimacy_neutral_doctrine_name: "Респектабельный высокий суд"
+ wardenite_high_court_legitimacy_neutral_doctrine_desc: ""
+ wardenite_high_court_legitimacy_high_doctrine_name: "Славный Высокий Суд"
+ wardenite_high_court_legitimacy_high_doctrine_desc: ""
+ wardenite_high_court_legitimacy_very_high_doctrine_name: "Легендарный Высокий Суд"
+ wardenite_high_court_legitimacy_very_high_doctrine_desc: ""
+  
+ special_doctrine_singular_mamur_hostility_name: "Recognizes One Mamur"
+ special_doctrine_singular_mamur_hostility_desc: "Only one true [mamur|E] may guide [wardenism|E], and any others are mere radical pretenders."
+ FAITH_TRADITIONS: "Юридические школы"
+ FAITH_TRADITIONS_EXPLANATION: "Варденизм имеет долгую и гордую юридическую традицию, восходящую к рассвету веры и Первому Вардену. Фундаментальные убеждения варденитов в равенстве разума и праве на судебную защиту привели к возникновению широкого спектра различных правовых школ, расходящихся по различным мелочам варденитского религиозного права."
+  
+ maridai_name: "Maridai'a"
+ maridai_desc: "Движение реформ, возглавленное харизматичным Верховным судьей Мудабариком в 1203 году, по ряду признаков граничит с радикализмом, например, подчеркивая ответственность варденитских верующих за осуществление независимого суждения в ситуациях, когда мамур не может вынести свое собственное решение. Поскольку это явно включает ситуации, когда у верующих есть основания полагать, что мамур не обладает достаточным знанием местных дел для вынесения точного решения, школу иногда обвиняли в том, что она делает "каждого вольноотпущенника мамуром", и это обвинение Мудабарик сошел в могилу, отрицая его."
+ tashbari_name: "Tashbari'a"
+ tashbari_desc: "Ташбари'а, или метафористы, когда-то считались радикальной сектой, попав в списки запрещенных школ при мамуре Насире ибн Усмане в 895 году. Однако школа сумела выдержать как насильственную чистку, так и юридическое давление и добилась возвышения до статуса основной, когда преемник Насира Юсуф назначил четырех их ученых верховными судьями, закрепив их позиции в варденитской правовой традиции с тех пор. Они подчеркивают необходимость понимания использования метафоры в сочинениях Первого начальника для того, чтобы делать правовые выводы."
+ babatadi_name: "Babatadi'a"
+ babatadi_desc: "Бабатади'а принадлежит сомнительная честь быть традиционной школой, которой покровительствует Мамурамат, в основном благодаря тому, что они упорно отстаивают право Мамура на вынесение окончательного решения по всем юридическим вопросам. Хотя судьи Бабатади'а, которых обвиняют в подхалимстве, быстро указывают на то, что школа устанавливает строгие ограничения на то, что именно входит в юрисдикцию Мамура для вынесения решений, ученым было трудно избавиться от этой репутации."
+ zaydeni_name: "Zaydeni'a"
+ zaydeni_desc: "Зайдени'а - одна из старейших правовых школ варденитской веры, возникшая раньше большинства современных школ на несколько столетий и пережившая больше соперничающих традиций, чем большинство ученых могут сосчитать. Они придерживаются несколько агностического взгляда на самого Мамура, вместо этого уделяя основное внимание поведению и образованию судей и поддержанию Первых Законов как основополагающих для всей остальной юридической практики."
+ atarni_name: "Atarni'a"
+ atarni_desc: "Атарни'а - лишь последние в длинном ряду буквалистских движений, которые поднялись на вершину популярности и впоследствии сошли на нет. Единственное, что объединяет эти школы, - это твердая позиция, согласно которой каждый отрывок, написанный Первым Начальником, должен быть истолкован без привнесения личных предпосылок, контекста или допущения метафоры почти во всех случаях. Это привело к тому, что буквалистские школы были несколько причудливыми и негибкими в своей общей практике, но привлекательность такого простого и чистого подхода к часто непрозрачному набору прецедентного права означает, что всякий раз, когда одна школа падает, другая вскоре приходит на ее место."
+ ruthamari_name: "Ruthamari'a"
+ ruthamari_desc: "Рутамари'а приписывают основание и распространение Затмалитского инакомыслия в 678 году, и они до сих пор являются сердцем движения идеалистов, а также клеем, удерживающим вместе его часто расходящиеся традиции и поддерживающим его ортодоксальность против соблазнов радикализма. Основой их несогласия было и остается утверждение, что Мамуры, как и Военные Законы прошлого, были продуктом Великого Восстания. Сейчас, когда дни восстания против злых ритуалистов остались далеко в прошлом, верующие вардениты должны искать новые политические решения своих проблем, чтобы завоеванные с таким трудом достижения Первого вардена не были потеряны из-за некомпетентности."
+ narabiqi_name: "Нарабикня" #Машинный перевод 30.06.2023
+ narabiqi_desc: "Спорная идеалистическая школа, Нарабики'а, или популисты, не столько отвергают Мамура, сколько решили полностью переосмыслить это звание. Любой варденит, получивший признание своих коллег за действия по защите столпов добродетели в борьбе со злом, может быть назван так, и мамуров может быть столько или столько, сколько варденит считает нужным. Другие нововведения Нарабики'а возникли в результате применения принципа признания к другим правовым проблемам, что привело к ряду гетеродоксальных постановлений."
+ tarthari_name: "Тартари'а"
+ tarthari_desc: "Правовые традиции Тартари'а составляют основу катистского раскола в 1152 году IS. Многие из их правовых принципов стали основой этой веры, в частности, строго кодифицированный перечень прав и обязанностей, возложенных на судей, и вывод о том, что попытки повлиять на правовые решения со стороны некредитоспособных сторон должны считаться непростительными преступлениями."
+ kedbarki_name: "Kedbarki'a"
+ kedbarki_desc: "Очень воинственная школа, школа Kedbarki'a началась с серии юридических разногласий по поводу терпимости к ритуалистам. Основатели школы придерживались позиции, что все необращенные ритуалисты являются фактически вражескими комбатантами. В последующие годы Кедбарки'а развила этот тезис, приняв общую позицию, согласно которой вера варденитов должна быть структурирована подобно военным лагерям ранних кампаний Первого Вардена. Все легкомыслие должно быть принесено в жертву, чтобы Зло могло быть окончательно побеждено."
+ hasani_name: "Hasani'a"
+ hasani_desc: "Противоречивая и молодая ветвь идеалистического варденизма, хасаниты возникли из последователей магистрата Хасана ибн Убайда в конце XII века IS. Хасаниты проповедуют то же, что и их основатель - что все верующие вардениты являются носителями законов Первого вардена. Не только мамуры нелегитимны, но и все особые полномочия и послабления, дарованные судьям и магистратам. Судья, говорят они, может по-настоящему обладать властью только в том случае, если она дана ему общиной верных варденитов в целом. Любые другие притязания не только незаконны, но и являются незаконной формой тирании.\n\n\nНестандартное толкование Хасаном ибн Убайдом варденитского закона привело к тому, что в 1159 году Ришад аль-Маадж изгнал его и его последователей из совета Республики Дисувай, и последние два года своей жизни он провел в тюрьме, прежде чем умер от пневмонии в 1161 году. Его последователи смогли убедить Высший суд идеалистов отменить постановление, осуждающее их как радикалов, в 1181 году, осудив своих самых крайних коллег, но их статус в движении идеалистов все еще весьма непрочен. "
+ thabiti_name: "Thabiti'a"
+ thabiti_desc: "Школа, наиболее сильно ассоциирующаяся с Восточным Мамураматом во время его расцвета в Эпоху Огня, табити'а всегда сохраняли сильное присутствие в восточной половине варденитского Саррадона, даже после того, как Мамур Таттали официально включил титул в свой собственный после женитьбы на дочери последнего Восточного Мамура, Санад, во время хаоса Падения в 810 году IS."
+ misria_name: "Мисри'а"
+ misria_desc: "Традиция, печально известная своими мистическими, странными практиками, Мисри'а восприняли ряд отрывков, которые в большинстве школ интерпретируются как потворствующие использованию личных прозрений среди судей, как означающие, что судья, если он должным образом обучен, может получить прозрения, общаясь с Тем, Кто Был, подобно тому, как был благословлен Первый Начальник."
+ ajari_name: "Ajari'a"
+ ajari_desc: "Вернувшись к самой ранней эпохе варденитской правовой доктрины, аджари'а считают, что веские юридические аргументы должны быть основаны исключительно на небольшом наборе документов, в первую очередь на Книге Дней, Столпах Добродетели и Записях Суда Вардена. Все остальное, включая чрезмерную зависимость от независимого суждения судьи, делает решение полностью недействительным. Конечно, это жесткая позиция, но она сохраняется на протяжении веков"
+ alshammi_name: "A'Shammi'a"
+ alshammi_desc: "А'Шамми'а - традиционная школа дальневосточного Мамурамата, и школа до сих пор считает себя продолжателем миссии Экспедиции Восхода Солнца, которая основала противоречивый и недолговечный четвертый Мамур, чтобы преследовать Ритуалистов вплоть до далекой Кашарии. Титул был утрачен после исчезновения второго дальневосточного Мамура Убайдара вместе с его армиями во время подозрительной [gedeora|E] в 409 году IS, но А'Шамми'а с тех пор ищут поддержки для его восстановления."
+ kurushi_name: "Kurushi'a"
+ kurushi_desc: "Придерживаются традиции, которая, как они утверждают, восходит к золотому веку Мамурамата - здесь имеются в виду годы между смертью Первого Вардена в 341 году IS и распадом Западного Мамура в 627 году IS - конец которого они называют причиной всех видов дисфункций в вере варденитов. Хотя теоретически они поддерживают оставшихся мамуров, их историческое упорство в том, что они являются законными обладателями всех трех титулов мамурамата, привело к тому, что судьи Куруши'а поддержали нескольких неудавшихся мятежников в попытке восстановить один или несколько утраченных титулов."
+ hathali_name: "Хатхали'а"
+ hathali_desc: "Традиция, связанная с Иблидскими Мамурами Запада, Хатхали'а достигли беспрецедентного процветания во второй половине существования их Мамурамата. К сожалению, их удача рухнула после исчезновения основной династической линии Иблиди в 652 году, когда различные фракции Западного Мамурамата впали в ожесточенную и в конечном итоге саморазрушительную гражданскую войну за контроль над троном. Сама традиция Хатхали'а переросла в особенно жестокую фракционную войну, которая закончилась печально известным Судом Кинжалов в 675 году, когда попытка посредничества между претендентами на престол в последнюю минуту превратилась в хаотическую кровавую бойню, в которой судья убивал судью. Ужас, который это событие вызвало во всем варденитском мире, часто считается провокацией, которая заставила Мамуров Центра вмешаться, чтобы положить конец междоусобице, и сам Западный Мамрамат.\n\n\nСчастье Хатали'а несколько восстановилось, но их известность так и не вернулась. Они примечательны своей жесткой и несколько навязчивой системой проверки потенциальных судей на компетентность и честность."
+ mabruki_name: "Мабруки'а"
+ mabruki_desc: "Мабруки'а - уникальная и древняя школа в традиционной ветви варденитской юриспруденции. Мабруки'а восходят к серии правовых постановлений, изданных самим Первым варденом для разрешения городских споров, когда вера начала утверждаться по всему Саррадону, и утверждают, что право на инакомыслие распространяется на всех варденитов, достигших совершеннолетия, и имеют четко сформулированный свод меркантильного права. Школа особенно популярна в городах"
+ zubatai_name: "Зубатай"
+ zubatai_desc: "Радикальное движение, основанное в 879 году, но имеющее корни в некоторых сельских саррадонских народных судах, уходящие далеко в прошлое, Зубатай'а заслужили гнев остальных варденитских верующих, зачастую воинственных, тем, что в принципе отвергают самую суть своей истории - борьбу со злом. Опираясь на ряд текстов, которые большинство варденитских ученых считают апокрифическими, зубатайские судьи считают большинство актов насилия непростительными преступлениями, допуская лишь небольшое разрешение на самозащиту. Тот факт, что это неприятие распространяется на обязанность вмешательства, привел к тому, что эта школа в значительной степени подавляется большинством варденитских государств."
+ qatirri_name: "Qatirri'a"
+ qatirri_desc: "Иногда называемая "бандитской школой", Катирри'а едва ли квалифицируется как последовательная школа мысли, и чаще всего ее называют таковой некатиррийские судьи, стремящиеся объединить ряд гетеродоксальных верований в одну легко осуждаемую категорию. В широком смысле, эта традиция является отголоском "Законов войны", которые относятся к раннему периоду Великого восстания, но которые сам Первый Начальник сначала урезал, а под конец своей жизни явно отверг. Эти законы, разрешавшие любое поведение во время конфликта, более или менее потворствовали ряду действий, весьма популярных среди бандитов и менее щепетильных военачальников, за что школа и получила свое прозвище."
+ tawatasi_name: "Tawatasi'a"
+ tawatasi_desc: "Школа Таватаси'а получила свое название от популярного вида батата, выращиваемого саррадонскими крестьянами. Ее приверженцы встречаются почти исключительно среди выпускников народных судов в самых сельских районах континента. Хотя само название изначально подразумевало оскорбление, оно стало чем-то вроде внутренней шутки для свободного братства сельских судей, которые придерживаются его широких принципов. Хотя школа обычно занимается вопросами аграрных прав и водной политики, некоторые из ее более частных убеждений относительно окончательного права собственности на всю землю и ее продукты теми, кто ее обрабатывает, могли привести к некоторым из самых разрушительных крестьянских и рабских восстаний в истории Саррадона."
+ minbiri_name: "Minbiri'a"
+ minbiri_desc: "Минбири'а, или школа вседозволенности, - одна из старейших сохранившихся радикальных сект. Подчеркивая целостный подход к текстуальным источникам, то есть принимая почти все из них как имеющие ту или иную степень достоверности, минбири'а создали несколько убедительный вызов вероучению варденитов. В их юридической практике многие обязательные запреты низводятся до уровня всего лишь рекомендуемого поведения. Школа сохранилась в основном благодаря периодическим периодам популярности, которой она пользовалась среди богатых и влиятельных людей варденитского общества."
+ keffali_name: "Keffali'a"
+ keffali_desc: "Саррадонизированное слово "шевали", школа Кеффали'а возникла как серия специальных и временных постановлений, направленных на нормализацию растущего присутствия маршевых купцов и наемников в саррадонском обществе, но с тех пор она стала настолько специализированной, что превратилась в самостоятельную юридическую школу. Хотя эта школа обычно считается радикальной, она в значительной степени игнорируется остальными варденитами, поскольку официальная практика традиции была локализована в горстке прибрежных городов на западе Саррадона, и, похоже, вряд ли получит распространение."
+ afazariani_name: "Афазариани"
+ afazariani_desc: "Афазариани - саррадонизация слова "аверсарианин|E" - школа пользовалась кратким периодом признания в первые дни святых войн, когда Мамурамат проводил политику сотрудничества и союза с агионистскими захватчиками, которые в те ранние дни все еще рассматривались как ценные союзники против возрождающейся ритуалистской угрозы и возможные кандидаты для последующей интеграции в варденитскую веру. Увы, этому не суждено было сбыться, и когда агионисты ополчились на своих бывших союзников, падение школы Афазариани произошло практически в одночасье. Она сохранилась в основном на землях, контролируемых орденами, и даже там ее не очень любят."
+ filosi_name: "Filosi'a"
+ filosi_desc: "Юридическая школа, созданная для гармонизации религиозного права варденитов с религиозными принципами Сьялволков, школа Филуси'а, пожалуй, наиболее примечательна тем, что создала тысячи и тысячи страниц с изложением правил, касающихся охоты, охотников и заповедников. Кстати, она также имеет один из самых прочных сводов медицинских традиций в мире варденитов, синтезирующий многие из наиболее эффективных средств, разработанных шаманами и знахарями Сьялволки на протяжении веков."
+ zorani_name: "Qenrani'a"
+ zorani_desc: "Школа, в значительной степени заимствующая богатые правовые традиции амсари, школа Кенрани'а является несколько противоречивой из-за привычного возвышения Мамура до статуса божественного правителя, в некотором роде аналогичного статусу Канамсара. С другой стороны, эта школа заслужила похвалу за явный талант своих ученых разобраться в традиционно лабиринтообразном своде имущественного и наследственного права Варденизма."
+ kemsari_name: "Qemsari'a"
+ kemsari_desc: "Кемсари'а возникли в результате попытки управления народами бывшего великого королевства Кемсар. Ученые школы Кемсари'а, давно покинувшие свои прежние городские высоты, обычно занимаются спорами о правах племен на воду и доступ к оазисам. Хотя бесконечный гул по поводу мельчайших правил глубины ирригационных каналов трудно вынести, большинство может согласиться, что это гораздо предпочтительнее традиционно насильственных методов, с помощью которых обычно решаются эти споры."
+ dhahabi_name: "Dhahabi'a"
+ dhahabi_desc: "Пытаясь гармонизировать странные правовые традиции Адабисса с варденизмом, Дхахаби'а постоянно боролась с популярностью, и даже поддержание достаточно большого количества членов, чтобы продолжать называться "школой", было непростой задачей. Сами адабиссинцы едва терпят их, признавая их ученых пережитком нежелательной религиозной традиции. Их единоверцы вардениты считают их предателями, виновными в приглашении следующей волны захватчиков для подавления веры. Имея мало дружественных дворов, которые можно назвать домом, дхахаби'а находятся в незавидном положении."
+ daifarosi_name: "Дайфароси'а"
+ daifarosi_desc: "Когда наши ученые попытались сделать континент своим домом, они обнаружили, что те, кого называют "ируши", оказались неожиданно сговорчивым народом. С длинной правовой традицией, основанной на боге Дайфаросе, который почти наверняка является искаженной памятью какого-то особенно восхитительного законодателя древних времен. Получившийся в результате юридический синтез оказался удивительно ценным для повседневных бюрократических целей."
+ hayashi_name: "Hayashi'a"
+ hayashi_desc: "Школа Хаяши'а была основана в 1251 году боевиками, сражавшимися против вторгшихся агионистов, и считает, что главной целью правовой системы должно быть поражение неверных. Прежде всего, они считают, что законы войны все еще действуют и могут быть отменены только после победы варденизма. Кроме того, солдаты должны быть выше закона, а еретики и язычники, против которых они сражаются, не должны быть защищены им, поскольку такая защита предоставляется только тем, кто готов защищать систему в свою очередь. За сравнительно недолгую историю ее существования уже был отменен ряд дел, касающихся неверующих, на том основании, что те, кто отвергает учение Первого начальника, по своей природе виновны в самых тяжких преступлениях, и даже предоставление им суда является предательством ценностей варденитов"
+  
+  ############################## 
+  # PROCEDURAL TRADITION NAMES # 
+  ############################## 
+  
+ ismailia_name: "Ismaili'a"
+ mubarakia_name: "Mubaraki'a"
+ naderia_name: "Naderi'a"
+ alamia_name: "Alami'a"
+ qaderia_name: "Qaderi'a"
+ qadirria_name: "Qadirri'a"
+ abdalia_name: "Abdali'a"
+ hayakamia_name: "Hayakami'a"
+ aarifia_name: "Aarifi'a"
+ abdulia_name: "Abduli'a"
+ aghlabia_name: "Aghlabi'a"
+ ahnafia_name: "Ahnafi'a"
+ alimia_name: "Alimi'a"
+ alqamia_name: "Alqami'a"
+ antaria_name: "Antari'a"
+ asimia_name: "Asimi'a"
+ azamia_name: "Azami'a"
+ bahiria_name: "Bahiri'a"
+ burnaddia_name: "Burnaddi'a"
+ dhahnakia_name: "Dhahnaki'a"
+ fadilia_name: "Fadili'a"
+ fadlia_name: "Fadli'a"
+ faroukia_name: "Farouki'a"
+ ghalibia_name: "Ghalibi'a"
+ habibia_name: "Habibi'a"
+ hafizia_name: "Hafizi'a"
+ halilia_name: "Halili'a"
+ hanzalia_name: "Hanzali'a"
+ harithia_name: "Harithi'a"
+ hasania_name: "Hasani'a"
+ hashimia_name: "Hashimi'a"
+ humaamia_name: "Humaami'a"
+ husamia_name: "Husami'a"
+ hussaynia_name: "Hussayni'a"
+ idrisia_name: "Idrisi'a"
+ ikrimia_name: "Ikrimi'a"
+ isaia_name: "Isai'a"
+ maslamia_name: "Maslami'a"
+ samiria_name: "Samiri'a"
+ yasiria_name: "Yasiri'a"
+ suraqia_name: "Suraqi'a"
+ yusufia_name: "Yusufi'a"
+ zainuddia_name: "Zainuddi'a"
+ adilia_name: "Adili'a"
+ faghiria_name: "Faghiri'a"
+ hanifia_name: "Hanifi'a"
+ isria_name: "Isri'a"
+ jaharia_name: "Jahari'a"
+ kamalia_name: "Kamali'a"
+ khadijia_name: "Khadiji'a"
+ lubabia_name: "Lubabi'a"
+ maryamia_name: "Maryami'a"
+ parweenia_name: "Parweeni'a"
+ sanadia_name: "Sanadi'a"
+ qamaria_name: "Qamari'a"
+ rashidia_name: "Rashidi'a"
+ sholia_name: "Sholi'a"
+ tanazia_name: "Tanazi'a"
+ talibia_name: "Talibi'a"
+  
+  ################# 
+  # FOUNDING ERAS # 
+  ################# 
+  
+ the_great_uprising_legal_tradition_founding_name: "[Concept('the_great_uprising_legal_tradition','The Great Uprising')|E]"
+ the_establishment_legal_tradition_founding_name: "[Concept('the_establishment_legal_tradition','The Establishment')|E]"
+ traditional_golden_age_legal_tradition_founding_name: "[Concept('the_traditional_golden_age_legal_tradition','Traditional Golden Age')|E]"
+ age_of_ink_and_gold_legal_tradition_founding_name: "[Concept('the_age_of_ink_and_gold_legal_tradition','Age of Ink and Gold')|E]"
+ age_of_tathtali_legal_tradition_founding_name: "[Concept('the_age_of_tathtali_legal_tradition','Age of Tathtali')|E]"
+ abajjarmia_golden_age_legal_tradition_founding_name: "[Concept('the_abajjarmia_golden_age_legal_tradition','Abajjarmia Golden Age')|E]"
+ era_of_dissent_legal_tradition_founding_name: "[Concept('the_era_of_dissent_legal_tradition','Era of Dissent')|E]"
+ modern_era_legal_tradition_founding_name: "[Concept('the_modern_era_legal_tradition','Modern Era')|E]"
+  
+  ########### 
+  # ORIGINS # 
+  ########### 
+  
+ reformed_radicals_legal_tradition_origin_name: "Реформированные радикалы"
+ reformed_radicals_legal_tradition_origin_desc: ""
+ mamurial_creation_legal_tradition_origin_name: "Мамуриальное творчество"
+ mamurial_creation_legal_tradition_origin_desc: ""
+ pioneering_judge_legal_tradition_origin_name: "Судья-первопроходец"
+ pioneering_judge_legal_tradition_origin_desc: ""
+ reform_movement_legal_tradition_origin_name: "Реформаторское движение"
+ reform_movement_legal_tradition_origin_desc: ""
+ rebellious_magistrates_legal_tradition_origin_name: "Мятежные магистраты"
+ rebellious_magistrates_legal_tradition_origin_desc: ""
+ scholastic_resistance_legal_tradition_origin_name: "Схоластическое сопротивление"
+ scholastic_resistance_legal_tradition_origin_desc: ""
+ unknown_origin_legal_tradition_origin_name: "неизвестно"
+ unknown_origin_legal_tradition_origin_desc: ""
+ warlord_innovation_legal_tradition_origin_name: "Инновации военачальника"
+ warlord_innovation_legal_tradition_origin_desc: ""
+ folk_movement_legal_tradition_origin_name: "Народное движение"
+ folk_movement_legal_tradition_origin_desc: ""
+  
+  ####################### 
+  # MAMURIAL PRIVILEGES # 
+  ####################### 
+ can_appoint_high_judges_desc: "#positive_value Can appoint [high_judge]s#!"
+ can_appoint_high_judges_negative_desc: "#negative_value Cannot appoint [high_judge]s#!"
+ can_use_legal_manipulation_on_high_judges_desc: "#positive_value Can use the Legal Manipulation Interaction against [high_judge]s#!"
+ can_use_legal_manipulation_on_high_judges_negative_desc: "#negative_value Cannot use the Legal Manipulation Interaction against [high_judge]s#!"
+ can_dismiss_high_judges_unanimously_desc: "#positive_value Can dismiss [high_judge]s unanimously#!"
+ can_dismiss_high_judges_unanimously_negative_desc: "#negative_value Cannot dismiss [high_judge]s unanimously#!"
+  
+  ############### 
+  # TRIGGER LOC # 
+  ############### 
+ HAS_LEGAL_TRADITION_COOLDOWN: "Cannot do this action again until [GetCurrentDateWithDiff( GetVarTimeRemaining( GetPlayer.MakeScope, 'legal_tradition_change_cooldown') )]"
+ NO_LEGAL_TRADITION_COOLDOWN: "I am not under the effects of a #E Legal Tradition#! change cooldown"
+ INSUFFICIENT_MAMURIAL_AUTHORITY_HIGH_JUDGE: "They are a [high_judge] and the relevant High Court does not have enough Mamurial Authority"
+  
+  
+  ############ 
+  # LEGACIES # 
+  ############ 
+  
+ PRESTIGE_AND_RENOWN_FROM_TRIALS: "Gain [prestige|E] [prestige_i] and [dynasty_prestige|E] [dynasty_prestige_i] from good rulings"
+ PRESTIGE_AND_RENOWN_FROM_PATRONAGE: "Gain [prestige|E] [prestige_i] and [dynasty_prestige|E] [dynasty_prestige_i] from patronizing #E Legal Traditions#!"
+ ALL_EDUCATIONS_HAVE_CHANCE_OF_JURIST_TRAIT: "Every [education_focus|E] has a chance of giving the [GetTrait('jurist_1').GetName( GetNullCharacter )] [trait|E]"
+ LEARNING_EDUCATION_ALWAYS_GIVES_JURIST_TRAIT: "The [GetFocus('education_learning').GetName] [education_focus|E] is guaranteed to give the [GetTrait('jurist_1').GetName( GetNullCharacter )] [trait|E]"
+ DYNASTY_MEMBERS_ON_COUNCIL_JOBS_EARN_JURIST_PROGRESS: "[dynasty|E] members with a [council|E] position will slowly accumulate @judicial_power_icon!#E Jurist Trait Progress#!"
+ DYNASTY_MEMBERS_WITH_JURIST_TRAIT_PERFORM_COUNCIL_JOBS_BETTER: "[councillors|E] with a [GetTraitGroup('lifestyle_jurist').GetName] [trait|E] perform [councillor_tasks|E] better"
+ JUDICIAL_POWER_BONUS: "#E Judicial Power#!: @judicial_power_icon!#positive_value +25%#!"
+ CAN_PAY_RENOWN_TO_GIVE_CHILD_JUST_TRAIT: "Can pay [dynasty_prestige|E] [dynasty_prestige_i] to give a child the [GetTrait('just').GetName( GetNullCharacter )] [trait|E]"
+  
+  ######## 
+  # MISC # 
+  ######## 
+  
+ GENERATED_TRADITION_NAME: "[Concatenate(GetGlobalVariable('tradition_namesake_scope').Char.GetFirstNameNoTooltip,'ia')]"

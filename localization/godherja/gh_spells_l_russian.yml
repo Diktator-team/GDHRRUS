@@ -1,0 +1,126 @@
+﻿l_russian:
+  
+ test_magic_name: "Проверка Магии"
+  
+ vampiric_drain_name: "Вампирическое истощение"
+ magic_decisions.1001.t: "Истощение"
+ magic_decisions.1001.d: "Мне все кажется огромным трудом. Независимо от того, сколько я сплю, сколько еды я ем, я всегда чувствую, что нахожусь на грани срыва, как будто я только что закончил бег на гору. Вставать и ходить трудно, в то время как бегать мне совершенно не по силам.\n\nК концу дня мне требуются последние силы, чтобы забраться в постель. В таком состоянии править будет трудно, но я с этим справлюсь. Что еще может [Concept('magic','магия')|E] отнять у меня, кроме способностей?"
+ magic_decisions.1001.a: "Я должен продолжать."
+ magic_decisions.1001.b: "О, радостная бодрость!" #Машинный перевод 30.06.2023
+ magic_decisions.1001.c: "Торопиться некуда. Само время в моей власти"
+ magic_decisions.1001.dx: "К чёрту! Они все будут страдать как я!"
+ magic_decisions.1001.e: "О, радостная бодрость!" #Машинный перевод 30.06.2023
+ magic_decisions.1002.t: "To Do (Только необходимо, если это заклинание влияет на игрока)" #Машинный перевод 30.06.2023
+ magic_decisions.1002.d: "To Do (Только необходимо, если это заклинание влияет на игрока)" #Машинный перевод 30.06.2023
+ magic_decisions.1002.a: "To Do (Только необходимо, если это заклинание влияет на игрока)" #Машинный перевод 30.06.2023
+ magic_decisions.1003.t: "Дверь смерти" #Машинный перевод 30.06.2023
+ magic_decisions.1003.d.a: "Годы приходят и уходят, чтобы не поддаться влиянию даже самого могущественного из [magic|E], и [ROOT.GetCharacter.GetFirstName] чувствует, что время [ROOT.GetCharacter.GetHerHis] уходит. Украденная жизнь, которая поддерживала [ROOT.GetCharacter.GetHerHim] все эти годы, уходит. Через год, а то и через два его не станет, исчезнет и [ROOT.GetCharacter.GetSheHe]." #Машинный перевод 30.06.2023
+ magic_decisions.1003.d.b: "Это произошло внезапно, как это часто бывает. В один момент [ROOT.GetCharacter.GetFirstName] шел и разговаривал, [ROOT.GetCharacter.GetLadyLord] в [ROOT.GetCharacter.GetHerHis] простом, а в следующий момент [ROOT.GetCharacter.GetSheHe] лежал на земле, задыхаясь. Украденная жизненная энергия, которая поддерживала [ROOT.GetCharacter.GetHerHim] все эти годы, наконец истощилась." #Машинный перевод 30.06.2023
+ magic_decisions.1003.a: "Может быть, если я найду другого..." #Машинный перевод 30.06.2023
+ magic_decisions.1003.b: "Еще нет..." #Машинный перевод 30.06.2023
+ magic_decisions.1003.b.tta: "Отбиваться от смерти еще год." #Машинный перевод 30.06.2023
+ undead_army_spell: "Армия нежити" #Машинный перевод 30.06.2023
+ spirit_army_spell: "Духовная армия" #Машинный перевод 30.06.2023
+  
+ strengthening_name: "Усиления"
+  
+ fire_magick_name: "Огненная Магия"
+  
+ purification_name: "Очищение"
+  
+ mending_name: "Починка"
+  
+ unveiling_name: "Открытие"
+  
+ creation_name: "Создание"
+  
+ divination_name: "Гадание"
+  
+ raise_undead2_name: "Призыв нежити"
+  
+ raise_undead_name: "Призыв кровавых рабов"
+  
+ lead_to_gold_name: "Трансформация свинца в золото"
+  
+ quicken_name: "Ускоренние"
+  
+ battle_rage_name: "Боевой гнев"
+  
+ riftmark_name: "Рифтмарк" #Машинный перевод 30.06.2023
+  
+ unraveling_name: "Распутывание" #Машинный перевод 30.06.2023
+  
+ summon_lesser_name: "Призыв туманного зверя"
+  
+ fog_cast_name: "Вызов тумана"
+  
+ rift_gaze_name: "Взгляд в разлом"
+  
+ raise_lesser_fogbeasts_name: "Призыв зверей туманна"
+  
+ obliterate_memory_name: "Стереть Воспоминания"
+  
+ genocide_region_name: "Геноцид региона"
+  
+ rift_walk_name: "Прогулка по разлому"
+  
+ remove_burdens_name: "Снять бремя"
+  
+ haunting_power_name: "Призрачная сила"
+  
+ create_golems_name: "Создать големов"
+  
+ craft_greater_golem_name: "Создать большого голема"
+  
+ boneshaping_name: "Формирование фигуры"
+  
+ stone_serpent_name: "Создать каменного змея"
+  
+ necrotic_boon_name: "Некротизированная кость"
+  
+ annihilation_name: "Уничтожение"
+  
+ pull_meteor_name: "Притянуть метеор"
+  
+ poison_name: "Отравить"
+  
+ thralldom_name: "Рабство"
+  
+ domination_name: "Доминировать"
+  
+ thinning_name: "Истончение"
+  
+ crush_armor_name: "Соломать броню"
+  
+ healing_water_name: "Целебная вода"
+  
+ flagellate_name: "Бичевать"
+  
+ ritual_sacrifice_name: "Жертвоприношение"
+  
+ sacrifice_population_name: "Жертвоприношение населения"
+  
+ sacrifice_plants_name: "Жертвоприношение растений"
+  
+ communed_with_the_way_name: "Общайтесь с тем, как"
+  
+ seeped_into_madness_name: "Проникается в безумие"
+  
+ communed_with_eldritch_name: "Элдрическое сообщество"
+  
+ dreamwalk_name: "Прогулка во сне"
+  
+ dream_invasion_name: "Вторжение в сон"
+  
+ ethereal_ritual_name: "Эфирный ритуал"
+  
+ moon_read_name: "Лунное чтение"
+  
+ moon_pull_name: "Притяжение Луны"
+  
+ skeletal_craft_name: "Призыв скелетов"
+  
+ study_arcane_name: "Изучать тайное"
+  
+ expedition_name: "Экспедиция"
+  

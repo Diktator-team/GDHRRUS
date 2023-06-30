@@ -1,0 +1,56 @@
+﻿l_russian:
+  ############################################################ 
+  # Daukeni 
+  ############################################################ 
+  # Patronym 
+ dynnpat_suf_yC_: "Ус"
+  # Surnames based on plants or animals, almost always have the yć suffix due to the base words being popular as first names 
+  # Plants 
+ dynn_dobyC: "Добыч"
+ dynn_lipajyC: "Липайич"
+ dynn_rozyC: "Рожич"
+ dynn_bolhavyC: "Болхавич"
+ dynn_SenikyC: "Шеникич"
+ dynn_jablekyC: "Яблекич"
+  # Animals 
+ dynn_vCelyC: "Вчелич"
+ dynn_vCelakyC: "Вчелакич"
+ dynn_SlankyC: "Шланкич"
+ dynn_vulkyC: "Вулкич"
+ dynn_medvedyC: "Медведич"
+ dynn_kelenyC: "Келенич"
+ dynn_arlyC: "Арлич"
+ dynn_SperyC: "Шперич"
+ dynn_sovyC: "Сович"
+ dynn_krahyC: "Крагич"
+ dynn_hravenyC: "Гравенич"
+ dynn_vorbilyC: "Ворбилич"
+ dynn_voperyC: "Воперич"
+  # Surnames not ending in yć, almost always non-living objects or concepts 
+ dynn_drev: "Древ"
+ dynn_leS: "Леш"
+ dynn_Stilt: "Стилт"
+ dynn_hrom: "Хром"
+ dynn_hramen: "Храмен"
+ dynn_reka: "Река"
+ dynn_zbor: "Жбор"
+ dynn_vrih: "Врих"
+ dynn_kovak: "Ковак"
+  
+  
+ dynn_Zelkovak: "Желковак"
+ dynn_SernStilt: "Шернштильт"
+ dynn_veistiStilt: "Вейстиштилт"
+ dynn_CervenStilt: "Червенштифт"
+ dynn_kveliStilt: "Квелиштилт"
+ dynn_kelenStilt: "Келенштильт"
+ dynn_kelenZbor: "Келенжбор"
+ dynn_vulklovek: "Вулкловек"
+ dynn_kelenlovek: "Келенловек"
+ dynn_slonolovek: "Слоноловек"
+ dynn_vinar: "Винар"
+ dynn_medevinaC: "Медевинач"
+ dynn_nabonim: "Набоним"
+ dynn_soncenim: "Сонсеним"
+ dynn_irvalnim: "Ирвальный"
+ dynn_Tuudra: "Туудра"

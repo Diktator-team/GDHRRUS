@@ -1,0 +1,25 @@
+﻿l_russian:
+ gh_religious_decision.0001.t: "A Spirit Guide"
+ gh_religious_decision.0001.desc: "Чтобы войти в мир духов, [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] должен иметь проводника. Кого выберет [ROOT.GetCharacter.Custom('GetFirstThirdPerson')]?"
+ gh_religious_decision.0001.a: "[ROOT.GetCharacter.Custom('GetFirstThirdPerson')] — мой собственный проводник."
+  
+ gh_religious_decision.0002.t: "Какие грибы возьмут [ROOT.GetCharacter.Custom('GetFirstThirdPerson')]?"
+ gh_religious_decision.0002.desc: "To enter the Spirit World, I must detach my soul from my body. Which mushrooms I choose will determine how deeply I journey into the Spirit World. If I journey deep I may achieve great enlightenment, but I may also lose myself."
+ gh_religious_decision.0002.a: "[ROOT.GetCharacter.Custom('GetFirstThirdPerson')] желает полностью подняться над моими земными оковами."
+ gh_religious_decision.0002.b: "[ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слишком много потеряет, если [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] отправится вглубь."
+  
+ gh_religious_decision.0003.t: "[ROOT.GetCharacter.Custom('GetFirstThirdPerson')] Теперь понятно."
+ gh_religious_decision.0003.desc: "As I inhaled the heavenly vapors, I saw myself leaving my body. The steady drumbeat of the world echoed through my soul, and what I saw is beyond words."
+ gh_religious_decision.0003.a: "[ROOT.GetCharacter.Custom('GetFirstThirdPerson')] никогда этого не забудет."
+  
+ gh_religious_decision.0004.t: "Конец"
+ gh_religious_decision.0004.desc: "Услышьте меня, смертные, и прислушайтесь ко мне. Шепот забытых знаний достиг моих ушей, потоки времени текут по моим венам с каждым ударом моего сердца и несут видения смерти и отчаяния.. ...По мере того, как злоба человека овладевает им, тьма начнет поглощать его мир. Сначала он ничего не увидит, лишь немногие из самых одаренных даже почувствуют перемену. время, но семена его гибели уже посеяны..."
+ gh_religious_decision.0004.a: "ОНИ ПРИХОДЯТ."
+  
+ gh_religious_decision.0005.t: "Жизнь"
+ gh_religious_decision.0005.desc: "The wind roared past me, ruffling my feathers. I felt the air rattling my bones in my wings, the strain was almost indescribable. The world below was so small, nothing but a mix of blues, greens, and browns. And then I felt something like a cold rush of water flow over me, and then I was back in my own body. I have this feeling we are all connected somehow."
+ gh_religious_decision.0005.a: "Ни один человек не может быть настоящим рабом, ибо душа всегда свободна."
+  
+ gh_religious_decision.0006.t: "Смерть"
+ gh_religious_decision.0006.desc: "[ROOT.GetCharacter.Custom('GetFirstThirdPerson')] снова ощутить удар хлыста по мне. Это будет тринадцатый удар. [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] посмотри на моего мучителя, и [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] не увидит ничего, кроме зияющей пасти там, где должно быть его лицо. Он разражается громким смехом, когда моя грудная клетка хрипит. [ROOT.GetCharacter.Custom('GetFirstThirdPerson') ] чувствую что-то вроде холодного прилива воды. И затем [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] снова в своем собственном теле, в безопасности в своем доме. Что есть [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] видимый?"
+ gh_religious_decision.0006.a: "Тринадцать ударов плетью. Это должно что-то значить!"

@@ -1,0 +1,20 @@
+﻿l_russian:
+ #Clique Elective AI behavior 
+ tooltip_same_clique_election: "[candidate.GetSheHe|U] является членом моей интриги: $VALUE|=+0$"
+ tooltip_same_clique_leader: "[candidate.GetSheHe|U] является лидером моей интриги: $VALUE|=+0$"
+ tooltip_clique_skilltraits: "[candidate.GetFirstName|U] уважение в моей клике: $VALUE|=+0$"
+ tooltip_clique_skilltraits_myself: "Уважение моей клики ко мне: $VALUE|=+0$"
+ tooltip_clique_elector_vote_myself_clique_leader: "Как лидер моей клики, я заслуживаю править: $VALUE|=+0$"
+ tooltip_nonclique_skillsvalues: "[candidate.GetFirstName|U] способности в важных навыках моей клики: $VALUE|=+0$"
+ tooltip_nonclique_prestige_value: "Моя клика ценит уровень престижа аутсайдеров: $VALUE|=+0$"
+ tooltip_nonclique_piety_value: "Моя клика оценивает уровень благочестия посторонних: $VALUE|=+0$"
+ tooltip_nonclique_renown_value: "Моя клика оценивает уровень известности аутсайдеров: $VALUE|=+0$"
+ tooltip_nonclique_gold_value: "Моя Клика ценит Богатство (Золото) посторонних: $VALUE|=+0$"
+ tooltip_nonclique_magic_value: "Моя Клика ценит Магические способности чужаков: $VALUE|=+0$"
+  
+  #Clique Elective AI behavior 
+ tooltip_military_unit_martial: "Боевые способности: $VALUE|=+0$"
+ tooltip_magocracy_magic_voting_modifier: "Магическая способность: $VALUE|=+0$"
+  
+  #Clique Voting Strength 
+ tooltip_clique_political_power_elector_strength: "Политическое влияние: $VALUE|=+0$"

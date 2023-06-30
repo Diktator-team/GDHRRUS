@@ -1,0 +1,12 @@
+﻿l_russian:
+ harthah_war.0100.t: "Against the Agionists"
+ harthah_war.0100.desc: "At long last our campaign to drive the Agionists from [sarradon|E] has begun, and my soldiers now muster in great numbers. As news of our drive against these monsters in human form spreads across the land, eager recruits flock to our banner. For too long have the people of Sarradon been oppressed by these tyrants and their heathen Saints, and our ranks of recruits swell to even include [ritualists|E] and other non-[wardenites|E], desperate for freedom from the yoke of [aversarian|E] slavery. If I but say the word, the populace will rise up in insurrection to support my invasion."
+ harthah_war.0100.a: "Весь Саррадон идет со мной!"
+ harthah_war.0100.a.tt: "You will gain massive support for your campaign, both from Agionist-held provinces and from non-Agionist vassals of the Orders."
+ harthah_war.0100.b: "Мне не нужен этот сброд."
+ harthah_war.0100.b.tt: "В этой войне вы не получите дополнительных войск."
+ harthah_war.0101.t: "Марши Харты"
+ harthah_war.0101.desc: "At long last Ḥārthah, the so-called father of [sarradon|E], marches to liberate us. The panic among the Agionists, once so smug in their superiority, is plain to see as they hurridly hurriedly their levies. Behind their sneers I now detect a chilled terror, and their once self-assured commands have been replaced with hoarse shrieks demanding loyalty and service. I have long labored as a puppet and vassal under these cruel tyrants, but now? Perhaps it is time to rise and take back Sarradon."
+ harthah_war.0101.a: "К оружию!"
+ harthah_war.0101.a.tt: "Ты присоединишься к Харте против своего сюзерена."
+ harthah_war.0101.b: "Хартах обречен. Я не утону вместе с ним."

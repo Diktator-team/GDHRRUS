@@ -1,0 +1,604 @@
+﻿l_russian:
+  ### Hair and Beard Variants mod ### 
+  
+ PORTRAIT_MODIFIER_custom_hair_male_hair_frankish_01: "Более длинная чаша" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_hair_epe_male_hair_steppe_01: "Бритый со средним замком" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_hair_male_hair_turkic_06: "Бритые с длинными косами" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_hair_epe_male_hair_steppe_02: "Бритые с косами" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_hair_bald: "Лысый" #Машинный перевод 30.06.2023
+  
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_01: "Волнистые (Без украшений)"
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_02: "Коса на шее (Без украшений)"
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_03: "Пучок (Без украшений)"
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_04: "Позолоченные косы (Без украшений)"
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_05: "длинные вьющиеся (Без украшений)"
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_06: "Королевские локоны (Без украшений)"
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_07: "Двойные косы с лентами (Без украшений)"
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_08: "Свернутые косы (Без украшений)"
+ PORTRAIT_MODIFIER_custom_hair_female_hair_western_cover: "Отброшен назад" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_hair_female_hair_sub_saharan_03b: "Короткие тонкие косички с украшениями" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_hair_female_hair_sub_saharan_child_01: "короткое афро" #Машинный перевод 30.06.2023
+  
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_01: "Эспаньолка"
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_02: "Прямые усы"
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_03: "Козлиная бородка с усами"
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_04: "Шкиперская борода"
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_05: "Длинные бакенбарды"
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_06: "Короткая эспаньолка"
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_07: "Эспаньолка с бусинами"
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_08: "Усы с бусинами"
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_09: "ЭТО БОРОДА МАГА!!!"
+ PORTRAIT_MODIFIER_custom_beards_male_beard_mena_04b: "Разделенная полная борода" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_1b: "Полная борода с волнистым пробором" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_2b: "волнистая бородка" #Машинный перевод 30.06.2023
+ ORTRAIT_MODIFIER_custom_beards_male_beard_western_9b: "полная борода 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_mena_curled_mustache_chinstrap_01: "Короткая борода с вьющимися усами" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_mena_islamic_pointed_beard: "полная борода 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_mena_islamic_pointed_beard_03: "полная борода 5" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_long_mustache_indian_02: "Средние усы" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_long_mustache_indian_03: "Длинноусый" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_epe_male_beard_indian_01: "волнистые бакенбарды" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_epe_male_beard_fp1_04: "густые усы" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_8b: "Кудрявые усы" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_8c: "Кудрявые поднятые усы" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_8d: "Кудрявые длинные усы" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_8e: "Длинные заостренные усы" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_8f: "Кудрявые опущенные усы" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_9b: "полная борода 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_beard_mena_05: "Большая кудрявая борода" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_beard_mena_06: "полная борода 6" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_beard_mena_08: "Большая вьющаяся борода с распущенными волосами" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_beard_turkic_01: "Средние усы 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_epe_male_beard_fp1_02: "Тонкий руль" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_beards_male_long_mustache_indian_01: "Длинные заостренные усы 2" #Машинный перевод 30.06.2023
+  
+ PORTRAIT_MODIFIER_special: "Особенный" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_special_no_portrait: "Нет портрета" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_special_masked_faith: "Вера в маске" #Машинный перевод 30.06.2023
+  
+  ### GH Genes ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear: "Головной убор Годхерья" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes: "Годхерья Одежда" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods: "Годхерья Капюшоны" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_masks: "Маски Годгерья" #Машинный перевод 30.06.2023
+  
+  ### Aversarian ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_bronze_helmet_vanilla: "Обычный бронзовый шлем" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_bronze_helmet_vanilla_legon: "Шлем Аверсариана Легона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_bronze_helmet_vanilla_female: "Обычный бронзовый шлем" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_plain_cloth: "Бронзовый шлем с тканевой лентой" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_aversarian_helmet_pointed_coif: "Шлем Аверсариан с остроконечным капюшоном" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_aversarian_helmet_pointed_coif_legon: "Шлем аверсарианского архилегона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_aversarian_helmet_pointed_coif_female: "Шлем Аверсариан с остроконечным капюшоном" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_aversarian_helmet_pointed_coif_female_legan: "Шлем Аверсариана Арх-Легана" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_aversarian_helmet_pointed_coif_tipped: "Аверсарийский шлем с остроконечным капюшоном" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_aversarian_helmet_pointed_coif_female_tipped: "Аверсарийский шлем с остроконечным капюшоном" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_plain_cloth_female: "Бронзовый шлем с тканевой лентой" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_full_chainmail: "Бронзовый шлем с полной цепью" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_full_chainmail_female: "Бронзовый шлем с полной цепью" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_plain_chainmail: "Бронзовый шлем с кольчужным капюшоном" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_plain_chainmail_female: "Бронзовый шлем с кольчужным капюшоном" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_plain_cloth_chainmail: "Бронзовый шлем с кольчужным капюшоном и тканевой лентой" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_plain_cloth_chainmail_female: "Бронзовый шлем с кольчужным капюшоном и тканевой лентой" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_epe_byzantine_nobility_02_imperial: "Одеяние дворянина Аверсариана" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_epe_byzantine_nobility_02_imperial: "Одеяние дворянина Аверсариана" #Машинный перевод 30.06.2023
+  
+  ### Black Sun ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_helmet_black_sun: "Шлем Черного Солнца" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_helmet_black_sun_female: "Шлем Черного Солнца" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_helmet_black_sun_no_mask: "Шлем Черного Солнца (без маски)" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_helmet_black_sun_female_no_mask: "Шлем Черного Солнца (без маски)" #Машинный перевод 30.06.2023
+  
+ PORTRAIT_MODIFIER_gh_clothes_black_sun_armor: "Броня Черного Солнца" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_gh_special_black_sun_armor: "Броня Черного Солнца" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_gh_special_black_sun_female_armor: "Броня Черного Солнца" #Машинный перевод 30.06.2023
+  
+  ### Donated by Ascalon's Anachronisms ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgears_secular_byzantine_illyrian_rich: "Железный иллирийский шлем: высший класс" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgears_secular_byzantine_illyrian_mid: "Железный иллирийский шлем: средний класс" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgears_secular_byzantine_illyrian_poor: "Железный иллирийский шлем: Низший класс" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgears_secular_byzantine_attic_01: "Аттический шлем" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgears_secular_byzantine_rich_corinth_01: "Позднекоринфский шлем" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgears_secular_byzantine_rich_corinth_02: "Позднекоринфский шлем (с наконечником)" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgears_secular_byzantine_illyrian_rich: "Железный иллирийский шлем: высший класс" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgears_secular_byzantine_illyrian_mid: "Железный иллирийский шлем: средний класс" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgears_secular_byzantine_illyrian_poor: "Железный иллирийский шлем: Низший класс" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgears_secular_byzantine_attic_01: "Аттический шлем" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgears_secular_byzantine_rich_corinth_01: "Позднекоринфский шлем" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_fem_headgears_secular_byzantine_rich_corinth_02: "Позднекоринфский шлем (с наконечником)" #Машинный перевод 30.06.2023
+  
+  ### Aversarian Islander ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_aegean_proto_boar_tusk_01: "Шлем островитянина Аверсариан 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_mycenaean_helmet_boar_tusk_01: "Шлем островитянина Аверсариан 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_mycenaean_crown_01: "Корона островитянина Аверсариан" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgear_mycenaean_crown_01: "Корона островитянина Аверсариан" #Машинный перевод 30.06.2023
+  
+  ### Opakhasian ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_commoners: "Опахасские простолюдины в шлемах" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_commoners_female: "$PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_commoners$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_low: "Опахасийский шлем Низкий" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_low_female: "$PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_low$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_low_wingless: "Опахасийский Шлем Низкий Бескрылый" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_low_wingless_female: "$PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_low_wingless$" #Машинный перевод 30.06.2023
+  
+  ### Magi Robes ### 
+  
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_robes_generic: "Одеяния волхвов" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_robes_generic_liches: "Порванные одеяния волхва" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_robes_generic: "Одеяния волхвов" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_robes_generic_liches: "Порванные одеяния волхва" #Машинный перевод 30.06.2023
+  
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_robes_aversarian: "Одеяния аверсарианского волхва" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_robes_aversarian_liches: "Порванные одеяния аверсарианского волхва" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_robes_aversarian: "Одеяния аверсарианского волхва" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_robes_aversarian_liches: "Порванные одеяния аверсарианского волхва" #Машинный перевод 30.06.2023
+  
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_robes_aversarian_black: "Черные мантии практикующего" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_robes_aversarian_black_liches: "Рваные черные робы практикующего" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_robes_aversarian_black: "Черные мантии практикующего" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_robes_aversarian_black_liches: "Рваные черные робы практикующего" #Машинный перевод 30.06.2023
+  
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_sarradon_nobility: "Одеяния саррадонских волхвов Низкое дворянство" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_sarradon_high_nobility: "Одеяния саррадонских волхвов Высшее дворянство" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_sarradon_nobility: "Одеяния саррадонских волхвов Низкое дворянство" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_sarradon_high_nobility: "Одеяния саррадонских волхвов Высшее дворянство" #Машинный перевод 30.06.2023
+  
+  ### Magi Hoods ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_hoods_male_empty: "Без капюшона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_empty: "Без капюшона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_boy_empty: "Без капюшона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_girl_empty: "Без капюшона" #Машинный перевод 30.06.2023
+  
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian: "Капюшон Аверсарианского волхва" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_liches: "Порванный капюшон Аверсарианского волхва" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian: "Капюшон Аверсарианского волхва" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_liches: "Порванный капюшон Аверсарианского волхва" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_down: "Капюшон Аверсарианского волхва (внизу)" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_liches_down: "Порванный капюшон Аверсарианского волхва (внизу)" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_down: "Капюшон Аверсарианского волхва (внизу)" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_liches_down: "Порванный капюшон Аверсарианского волхва (внизу)" #Машинный перевод 30.06.2023
+  
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_generic: "Капюшон волхва" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_generic_liches: "Порванный капюшон волхва" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_generic: "Капюшон волхва" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_generic_liches: "Порванный капюшон волхва" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_generic_down: "Капюшон волхва (внизу)" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_generic_liches_down: "Порванный капюшон волхва (внизу)" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_generic_down: "Капюшон волхва (внизу)" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_generic_liches_down: "Порванный капюшон волхва (внизу)" #Машинный перевод 30.06.2023
+  
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_black: "Капюшон черного мага-практика" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_black_liches: "Рваный черный капюшон практикующего волхва" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_black: "Капюшон черного мага-практика" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_black_liches: "Рваный черный капюшон практикующего волхва" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_black_down: "Черный капюшон практикующего волхва (внизу)" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_black_liches_down: "Порванный черный капюшон практикующего волхва (внизу)" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_black_down: "Черный капюшон практикующего волхва (внизу)" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_black_liches_down: "Порванный черный капюшон практикующего волхва (внизу)" #Машинный перевод 30.06.2023
+  
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_battlemagi: "Капюшон боевого мага" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_battlemagi: "Капюшон боевого мага" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_battlemagi_down: "Капюшон боевого мага (внизу)" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_battlemagi_down: "Капюшон боевого мага (внизу)" #Машинный перевод 30.06.2023
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_hood_sarradon: "Капюшон саррадонского волхва Вариант 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_hood_sarradon_var1: "Капюшон саррадонского волхва вариант 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_hood_sarradon_var2: "Капюшон саррадонского волхва, вариант 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_hood_sarradon: "Капюшон саррадонского волхва Вариант 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_hood_sarradon_var1: "Капюшон саррадонского волхва вариант 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_hood_sarradon_var2: "Капюшон саррадонского волхва, вариант 3" #Машинный перевод 30.06.2023
+  
+  ### Agionist ### 
+  
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_generic: "Стандартная броня агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_calysto: "Калистианитовая броня агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_diky: "Дикайнозитовая броня агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_eos: "Эосианская броня агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_forgotten: "Броня забытого сектанта-агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_katharitos: "Катаритская броня агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_philantrosos: "Филантросианитская броня агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_sansia: "Броня сансианитского агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_thysia: "Тисийская броня агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_generic: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_generic$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_calysto: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_calysto$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_diky: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_diky$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_eos: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_eos$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_forgotten: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_forgotten$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_katharitos: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_katharitos$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_philantrosos: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_philantrosos$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_sansia: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_sansia$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_thysia: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_thysia$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_var1: "Обычный шлем агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_var2: "Шлем Агиона без забрала" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_var3: "Забрало шлема агиониста поднято" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_generic: "Универсальный шлем агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_generic_2: "Универсальный шлем агиона 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_calysto: "Калистианитовый шлем агиониста" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_calysto_2: "Калистианитовый шлем агиониста 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_diky: "Дикайнозитовый шлем агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_diky_2: "Дикайнозитовый шлем агиониста 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_eos: "Эосийский шлем агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_eos_2: "Эосийский шлем агиона 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_forgotten: "Забытый сектант Шлем агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_forgotten_2: "Шлем агиона забытого сектанта 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_katharitos: "Шлем катаритского агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_katharitos_2: "Шлем катаритского агиона 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_philantrosos: "Шлем филантросианита-агиониста" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_philantrosos_2: "Филантросианитский шлем агиониста 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_sansia: "Шлем сансианитского агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_sansia_2: "Шлем сансианита-агиона 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_thysia: "Тисийский шлем агиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_thysia_2: "Тисийский шлем агиона 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_var1: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_var1$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_generic: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_generic$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_generic_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_generic_2$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_calysto: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_calysto$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_calysto_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_calysto_2$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_diky: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_diky$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_diky_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_diky_2$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_eos: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_eos$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_eos_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_eos_2$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_forgotten: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_forgotten$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_forgotten_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_forgotten_2$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_katharitos: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_katharitos$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_katharitos_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_katharitos_2$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_philantrosos: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_philantrosos$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_philantrosos_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_philantrosos_2$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_sansia: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_sansia$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_sansia_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_sansia_2$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_thysia: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_thysia$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_thysia_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_thysia_2$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_var2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_var2$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_var3: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_var3$" #Машинный перевод 30.06.2023
+  
+  ### Aironoi ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Leather_Hat_01: "Шлем Айроной 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Leather_Hat_01_02: "Шлем Айроной 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Leather_Hat_02: "Шлем Айроной 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Leather_Hat_02_02: "Шлем Айроной 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Helmet_Hat_02: "Шлем Айроной 5" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Helmet_Hat_01_war: "Шлем Айроной 6" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_kipchak_war_helmet_01: "Боевая маска Айроной" #Машинный перевод 30.06.2023
+  
+  ### Damotan ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_sahelian_royal_01: "Дамотанская королевская корона 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_sahelian_royal_02: "Дамотанская королевская корона 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_sahelian_royal_03: "Дамотанская королевская корона 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgear_epe_sahelian_royal_01: "Дамотанская королевская корона 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_east_african_02_low_nobility_01: "Одеяние Дамотана-простолюдина 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_east_african_03_low_nobility: "Одеяние Дамотана-простолюдина 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_east_african_02_common: "Одеяние дамотана-простолюдина 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_east_african_01v2_common: "Одеяние Дамотана-простолюдина 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_east_african_04_low_nobility: "Одеяние Дамотана-простолюдина 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_east_african_03_low: "Одеяние дамотана-простолюдина 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_east_african_03_high_nobility: "Одеяние дамотанской знати 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_east_african_02_high_nobility: "Одеяние дамотанской знати 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_east_african_04_high_nobility: "Одеяние дамотанской знати 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_east_african_03_high: "Одеяние дамотанской знати 2" #Машинный перевод 30.06.2023
+  
+  ### Sarradonian ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_ghaznavid_high_01: "Саррадонский благородный тюрбан" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Warrior_Helmet_01: "Саррадонский шлем 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Warrior_Helmet_02: "Саррадонский шлем 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_seljuk_war_helmet_03: "Саррадонский шлем 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_seljuk_war_helmet_04: "Саррадонский шлем 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_maghreb_high_noble_01: "Саррадонский высокий благородный тюрбан" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_maghreb_common_01: "Одежда саррадонского кочевника 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_sahelian_common_04: "Одежда саррадонского кочевника 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_mena_low_01: "Одежда саррадонского простолюдина 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_mena_high_01: "Одежда саррадонского простолюдина 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_iranian_high_01: "Одежда саррадонского простолюдина 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_maghreb_high_01: "Одежда саррадонского простолюдина 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_early_eastern_iranian_nobility_03_low: "Саррадонские одеяния низкие" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_early_eastern_iranian_nobility_03_common: "Саррадонские одеяния обычные" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_early_eastern_iranian_nobility_03_high: "Саррадонские одеяния высокие" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_early_eastern_iranian_nobility_03_low: "Саррадонские одеяния низкие" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_early_eastern_iranian_nobility_03_common: "Саррадонские одеяния обычные" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_early_eastern_iranian_nobility_03_high: "Саррадонские одеяния высокие" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_religious_dde_muslim_caliph_01_male: "Одежда Мамура 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_epe_early_sunni_caliph_01: "Одежда Мамура 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_mena_nobility_01_high: "Одеяние саррадонского дворянина 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_mena_nobility_02_high: "Одеяние саррадонского дворянина 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_early_eastern_iranian_nobility_03_common: "Наряд саррадонской знати 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_early_eastern_iranian_nobility_03_common: "Наряд саррадонской знати 3" #Машинный перевод 30.06.2023
+  
+  ### Spymaster's Clothes ### 
+  
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_epe_western_western_spymaster_01: "Одежда шпиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_epe_western_western_spymaster_01: "Одежда шпиона" #Машинный перевод 30.06.2023
+  
+  ### Vanilla Replacers ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_secular_western_war_nobility_01: "Часть цепи" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgear_secular_western_war_nobility_01: "Часть цепи" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_secular_crusades_western_war_nobility_01: "Крестоносец" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgear_secular_crusades_western_war_nobility_01: "Крестоносец" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_empty: "Без головного убора" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_empty: "Без головного убора" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_boy_empty: "$PORTRAIT_MODIFIER_custom_gh_headgear_male_empty$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_girl_empty: "$PORTRAIT_MODIFIER_custom_gh_headgear_female_empty$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_epe_western_spy_master_hood: "Капюшон шпиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_epe_western_spy_master_hood: "Капюшон шпиона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_nudity_01: "Нет одежды" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_nudity_01: "Нет одежды" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_western_nudity_01: "Нет одежды" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_western_nudity_01: "Нет одежды" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_muscularity: "мускулистость" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_muscularity_muscular: "Мускулистый" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_steppe_nobility_01_common: "Одежда степного простолюдина 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_steppe_nobility_02_common: "Одежда степного простолюдина 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_steppe_nobility_01_low: "Одежда степного низшего дворянства 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_steppe_nobility_02_low: "Одежда степного низшего дворянства 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_steppe_nobility_01_high: "Одежда степной знати 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_steppe_nobility_02_high: "Одежда степной знати 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_steppe_nobility_01_common: "Одежда степного простолюдина 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_steppe_nobility_02_common: "Одежда степного простолюдина 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_steppe_nobility_01_low: "Одежда степного низшего дворянства 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_steppe_nobility_02_low: "Одежда степного низшего дворянства 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_steppe_nobility_01_high: "Одежда степной знати 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_steppe_nobility_02_high: "Одежда степной знати 2" #Машинный перевод 30.06.2023
+  
+  ### Liches ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_lich_crown: "Лич Корона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_archlich_crown: "Корона Архлича" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_lich_crown: "Лич Корона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_archlich_crown: "Корона Архлича" #Машинный перевод 30.06.2023
+  
+  ### Marcher ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_norman_fpl_helmet_01: "Шлем маршера 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_norman_fpl_helmet_02: "Шлем маршера 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_early_great_helm_01: "Великий маршер" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_early_great_helm_01: "Великий маршер" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_early_great_helm_01_painted: "Окрашенный великий маршер" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_early_great_helm_01_painted: "Окрашенный великий маршер" #Машинный перевод 30.06.2023
+  
+  ### Kemsar ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_egyptian_nemes_common: "Кемсарский Немес Обыкновенный" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_egyptian_nemes_low: "Кемсарик Немес Низкий" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_egyptian_nemes_high: "Кемсарик Немес Высокий" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_egyptian_usekh_common: "Кемсарик Усех Обыкновенный" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_egyptian_usekh_low: "Кемсарич Усех Низкий" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_egyptian_usekh_high: "Кемсарык Усех Старший" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_egyptian_shirt_common: "Кемсарская рубашка Обыкновенный" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_egyptian_shirt_low: "Кемсарская рубашка низкая" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_egyptian_shirt_high: "Кемсарская рубашка высокая" #Машинный перевод 30.06.2023
+  
+  ### Skull Helmet ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_vampire_gaze_male: "Шлем с черепом" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_vampire_gaze_female: "Шлем с черепом" #Машинный перевод 30.06.2023
+  
+  ### Donated by 457 AD ### 
+  
+ PORTRAIT_MODIFIER_gh_clothes_male_kaftan1: "Кафтан поверх туники" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_kaftan2_low_nobles: "Закрытый кафтан низшего дворянства" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_kaftan2_high_nobles: "Закрытый Кафтан Высокого Дворянства" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_kaftan2_commoner: "Закрытый Кафтан Простолюдин" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_kaftan3_low_nobles: "Открытый Кафтан Низкое Дворянство" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_kaftan3_high_nobles: "Открытый Кафтан Высокого Дворянства" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_kaftan3_commoner: "Открытый Кафтан Обыкновенный" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_kaftan1: "Кафтан поверх туники" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_kaftan2_low_nobles: "Закрытый кафтан низшего дворянства" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_kaftan2_high_nobles: "Закрытый Кафтан Высокого Дворянства" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_kaftan2_commoner: "Закрытый Кафтан Простолюдин" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_kaftan3_low_nobles: "Открытый Кафтан Низкое Дворянство" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_kaftan3_high_nobles: "Открытый Кафтан Высокого Дворянства" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_kaftan3_commoner: "Открытый Кафтан Обыкновенный" #Машинный перевод 30.06.2023
+  
+  ### Lonely Lighter ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_anglo_sax_wollaston_helmet_01: "Шлем с гребнем" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_anglo_sax_wollaston_helmet_01: "Шлем с гребнем" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_banded_helmet_britain_01: "Полосатый шлем 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_banded_helmet_britain_02: "Полосатый шлем 2" #Машинный перевод 30.06.2023
+  
+  ### Huegodocs ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_frankish_noble_veil_02: "Huegodoc Noble Long Veil" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_frankish_noble_veil_brocade: "Huegodoc Noble Long Veil 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_early_italian_royal_crown_01: "Корона Уегодока" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_early_italian_royal_crown_01: "Корона Уегодока" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_early_italian_royal_crown_01_veil_1: "Huegodoc Crown Veil 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_early_italian_royal_crown_01_veil_3: "Huegodoc Crown Veil 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_early_italian_royal_crown_01_veil_3_white: "Huegodoc Crown Veil 2 Белый" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_early_italian_royal_crown_01_veil_4: "Уэгодок Корона Вуаль 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_mer_royal_crown_03b: "Уэгодок Корона 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_mer_royal_crown_03_veil_1: "Huegodoc Crown 2 Veil 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_mer_royal_crown_03_veil_3: "Huegodoc Crown 2 Veil 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_mer_royal_crown_03_veil_4: "Huegodoc Crown 2 Veil 3" #Машинный перевод 30.06.2023
+  
+  ### Amaghean ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_khorasan_helmet_01: "Амагейский шлем 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_khorasan_helmet_02: "Амагейский шлем 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_cloaks_male_frankish_low_sagum_01: "Амагейский низший дворянин Сагум" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_cloaks_male_byzantine_duchy_sagum_01: "Амагейское высшее дворянство Сагум 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_cloaks_male_byzantine_duchy_sagum_02: "Амагейское высшее дворянство Сагум 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_cloaks_male_georgia_royalty_sagum_01: "Амагейский королевский сагум" #Машинный перевод 30.06.2023
+  
+  ### Oltenic Masks ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_masks_Baldwins_Mask: "Олтеническая маска 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_masks_Baldwins_Mask_female: "Олтеническая маска 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_masks_vanilla_face_mask_hoodless: "Олтеническая маска 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_masks_vanilla_face_mask_hoodless_female: "Олтеническая маска 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_masks_kipchak_mask: "Олтеническая маска 3" #Машинный перевод 30.06.2023
+  
+ PORTRAIT_MODIFIER_custom_gh_masks_male_empty: "Без маски" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_masks_female_empty: "Без маски" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_masks_boy_empty: "Без маски" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_masks_girl_empty: "Без маски" #Машинный перевод 30.06.2023
+  
+  ### Ayyari ### 
+  
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_01_common: "Одежда простолюдина айяри 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_01_common: "Одежда простолюдина айяри 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_02_common: "Одежда простолюдина айяри 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_02_common: "Одежда простолюдина айяри 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_03_common: "Одежда простолюдина айяри 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_03_common: "Одежда простолюдина айяри 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_01_low: "Одежда низшего дворянства Айяри 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_01_low: "Одежда низшего дворянства Айяри 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_02_low: "Одежда низшего дворянства Айяри 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_02_low: "Одежда низшего дворянства Айяри 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_03_low: "Одежда низшего дворянства Айяри 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_03_low: "Одежда низшего дворянства Айяри 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_01_high: "Айяри высокая одежда 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_01_high: "Айяри высокая одежда 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_02_high: "Айяри высокая одежда 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_02_high: "Айяри высокая одежда 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_03_high: "Айяри высокая одежда 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_03_high: "Айяри высокая одежда 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_war_nobility_01_low: "Айяри Броня" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_war_nobility_01_low: "Айяри Броня" #Машинный перевод 30.06.2023
+  
+ ### Donated by Sunset Invasion ### 
+  
+ PORTRAIT_MODIFIER_custom_cloaks_male_tilmahtli_common: "Модест Тлакалакан Тилмахтли" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_cloaks_male_tilmahtli_low: "Модный Тлакалакан Тилмахтли" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_cloaks_male_tilmahtli_high: "Роскошный Тлакалакан Тилмахтли" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_clothes_male_maxlatl_common: "Модест Тлакалакан Макстлатль" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_clothes_male_maxlatl_low: "Модный тлакалакан макстлатль" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_clothes_male_maxlatl_high: "Роскошный Тлакалакан Макстлатль" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_headgear_male_helmet_ocelotl: "Шлем тлакалаканского оцелота" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_headgear_female_helmet_ocelotl: "$PORTRAIT_MODIFIER_custom_headgear_male_helmet_ocelotl$" #Машинный перевод 30.06.2023
+  
+  ### Rovarskan ### 
+  
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_secular_mmjm_royalty_01: "Роварсканская королевская корона" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgear_secular_mmjm_royalty_01: "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_mmjm_royalty_01$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_secular_mmjm_high_nobility_01: "Роварскан Блангкон" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgear_secular_mmjm_high_nobility_01: "Покрытие Роварскан" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_mmjm_royalty_01: "Роварскан Роялти" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_clothes_female_clothes_secular_mmjm_royalty_01: "$PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_mmjm_royalty_01$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_mmjm_high_nobility_01: "Роварсканское дворянство" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_clothes_female_clothes_secular_mmjm_high_nobility_01: "$PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_mmjm_high_nobility_01$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_gh_clothes_female_clothes_secular_mmjm_common_01: "Роварсканский простолюдин" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_mmjm_common_01: "Ноги Роварсканского простолюдина" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_mmjm_high_nobility_01: "Роскошные поножи Роварскана" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_mmjm_royalty_01: "Королевские чулки Роварскана" #Машинный перевод 30.06.2023
+  
+  ### Donated by Ethnicities and Portraits Expanded ### 
+  ### Cosmetic Eyeliner ### 
+ PORTRAIT_MODIFIER_cosmetics_eyeliner: "Подводка для глаз" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_none: "никто" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_iranian_1: "Амсари 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_iranian_2: "Амсари 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_iranian_3: "Амсари 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_iranian_4: "Амсари 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_iranian_5: "Амсари 5" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_byzantine_1: "Аверсарян 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_byzantine_2: "Аверсарян 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_byzantine_3: "Аверсарян 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_byzantine_4: "Аверсарян 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_byzantine_5: "Аверсарян 5" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_indian_1: "Kashiryan 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_indian_2: "Kashiryan 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_indian_3: "Kashiryan 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_indian_4: "Kashiryan 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_indian_5: "Kashiryan 5" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_european_1: "Шевальен 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_european_2: "Шевальен 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_european_3: "Шевальен 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_european_4: "Шевальен 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_european_5: "Шевальен 5" #Машинный перевод 30.06.2023
+  
+  ### Cosmetic Eyeshadow ### 
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow: "Тени для век" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeshadow_none: "никто" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_iranian_1: "Амсари 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_iranian_2: "Амсари 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_iranian_3: "Амсари 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_iranian_4: "Амсари 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_iranian_5: "Амсари 5" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_byzantine_1: "Аверсарян 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_byzantine_2: "Аверсарян 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_byzantine_3: "Аверсарян 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_byzantine_4: "Аверсарян 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_byzantine_5: "Аверсарян 5" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_european_1: "Шевальен 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_european_2: "Шевальен 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_european_3: "Шевальен 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_european_4: "Шевальен 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_european_5: "Шевальен 5" #Машинный перевод 30.06.2023
+  
+  ### Cosmetic Foundation ### 
+ PORTRAIT_MODIFIER_cosmetics_foundation: "Фундамент" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_none: "никто" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_iranian_1: "Амсари 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_iranian_2: "Амсари 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_iranian_3: "Амсари 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_iranian_4: "Амсари 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_iranian_5: "Амсари 5" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_byzantine_1: "Аверсарян 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_byzantine_2: "Аверсарян 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_byzantine_3: "Аверсарян 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_byzantine_4: "Аверсарян 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_byzantine_5: "Аверсарян 5" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_european_1: "Шевальен 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_european_2: "Шевальен 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_european_3: "Шевальен 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_european_4: "Шевальен 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_european_5: "Шевальен 5" #Машинный перевод 30.06.2023
+  
+  ### Cosmetic Blush ### 
+ PORTRAIT_MODIFIER_cosmetics_blush: "Краснеть" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_none: "никто" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_iranian_1: "Амсари 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_iranian_2: "Амсари 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_iranian_3: "Амсари 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_iranian_4: "Амсари 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_iranian_5: "Амсари 5" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_byzantine_1: "Аверсарян 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_byzantine_2: "Аверсарян 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_byzantine_3: "Аверсарян 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_byzantine_4: "Аверсарян 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_byzantine_5: "Аверсарян 5" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_european_1: "Шевальен 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_european_2: "Шевальен 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_european_3: "Шевальен 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_european_4: "Шевальен 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_european_5: "Шевальен 5" #Машинный перевод 30.06.2023
+  
+  ### Cosmetic Lipcolor ### 
+ PORTRAIT_MODIFIER_cosmetics_lipcolor: "Губная помада" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_none: "никто" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_iranian_1: "Амсари 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_iranian_2: "Амсари 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_iranian_3: "Амсари 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_iranian_4: "Амсари 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_iranian_5: "Амсари 5" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_byzantine_1: "Аверсарян 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_byzantine_2: "Аверсарян 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_byzantine_3: "Аверсарян 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_byzantine_4: "Аверсарян 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_byzantine_5: "Аверсарян 5" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_european_1: "Шевальен 1" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_european_2: "Шевальен 2" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_european_3: "Шевальен 3" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_european_4: "Шевальен 4" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_european_5: "Шевальен 5" #Машинный перевод 30.06.2023
+  
+  ##Lonely Note: We need an ethnicities loc file 
+ mesoamerican: "Тлакалак" #Машинный перевод 30.06.2023
+  
+  ### Legwear ### 
+  
+ PORTRAIT_MODIFIER_custom_legwear: "Штаны"
+ PORTRAIT_MODIFIER_custom_legwear_male_empty: "Без чулочно-носочных изделий" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_legwear_female_empty: "$PORTRAIT_MODIFIER_custom_legwear_male_empty$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_legwear_boy_empty: "$PORTRAIT_MODIFIER_custom_legwear_male_empty$" #Машинный перевод 30.06.2023
+ PORTRAIT_MODIFIER_custom_legwear_girl_empty: "$PORTRAIT_MODIFIER_custom_legwear_male_empty$" #Машинный перевод 30.06.2023

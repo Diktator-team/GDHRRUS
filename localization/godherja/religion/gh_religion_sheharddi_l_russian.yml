@@ -1,0 +1,74 @@
+﻿l_russian:
+  
+ #sheharddi Loc 
+ sheharddi_religion: "Шехардди"
+ sheharddi_religion_adj: "Шехардди"
+ sheharddi_religion_adherent: "Шехардди"
+ sheharddi_religion_adherent_plural: "Шехарддизм"
+ sheharddi_religion_desc: "Происхождение веры Шехардди окутано тайной, и ученые спорят, является ли это синкретизмом различных [Concept('sarradonian','сарродианских')|E] религий, культ единого бога, отколовшийся от более крупной политеистической веры, или сохранившиеся остатки более древней религии. #EMP Malikiyah#!, or Messengers. The greatest of these, Eir'Shaytan, created an even lesser race of beings—the humans—to be his servants and worship him and his six lieutenants as if they were greater than their father. Eloi was irate when he learned of this treachery and slew these seven betrayers, casting them beneath the earth so that their bodies may never find peace."
+  
+ sheharddi_high_god_name: "Элои" #Машинный перевод 30.06.2023
+ sheharddi_high_god_name_possessive: "Элои" #Машинный перевод 30.06.2023
+ sheharddi_high_god_name_alternate: "Отец Небес" #Машинный перевод 30.06.2023
+ sheharddi_high_god_name_alternate_possessive: "Отец Неба" #Машинный перевод 30.06.2023
+ sheharddi_devil_name: "Эйр'шайтан" #Машинный перевод 30.06.2023
+ sheharddi_devil_name_possessive: "Эйр'шайтан" #Машинный перевод 30.06.2023
+ sheharddi_death_deity_name: "Комера" #Машинный перевод 30.06.2023
+ sheharddi_death_deity_name_possessive: "Комера" #Машинный перевод 30.06.2023
+  
+  
+  
+ sheharddi_house_of_worship: "Храм" #Машинный перевод 30.06.2023
+ sheharddi_house_of_worship_plural: "Храмы" #Машинный перевод 30.06.2023
+ sheharddi_religious_symbol: "Знак Элои" #Машинный перевод 30.06.2023
+ sheharddi_religious_text: "Мишпадим" #Машинный перевод 30.06.2023
+  
+ sheharddi_religious_head_title: "Кахин Ро'иэль" #Машинный перевод 30.06.2023
+ sheharddi_religious_head_title_name: "Кахин Ро'иэль" #Машинный перевод 30.06.2023
+ sheharddi_devotee_male: "Шехардди" #Машинный перевод 30.06.2023
+ sheharddi_devotee_male_plural: "Шехарддим" #Машинный перевод 30.06.2023
+ sheharddi_devotee_female: "Шехардди" #Машинный перевод 30.06.2023
+ sheharddi_devotee_female_plural: "Шехарддим" #Машинный перевод 30.06.2023
+ sheharddi_devotee_neuter: "Шехардди" #Машинный перевод 30.06.2023
+ sheharddi_devotee_neuter_plural: "Шехарддим" #Машинный перевод 30.06.2023
+ sheharddi_priest_male: "Кахин" #Машинный перевод 30.06.2023
+ sheharddi_priest_male_plural: "Кахиним" #Машинный перевод 30.06.2023
+ sheharddi_priest_female: "Кахин" #Машинный перевод 30.06.2023
+ sheharddi_priest_female_plural: "Кахиним" #Машинный перевод 30.06.2023
+ sheharddi_priest_alternate_plural: "Кахиним" #Машинный перевод 30.06.2023
+ sheharddi_bishop: "Кахин Элан" #Машинный перевод 30.06.2023
+ sheharddi_bishop_plural: "Кахин Эланет" #Машинный перевод 30.06.2023
+ sheharddi_positive_afterlife: "Элои'байт" #Машинный перевод 30.06.2023
+ sheharddi_negative_afterlife: "Бидильэль" #Машинный перевод 30.06.2023
+  
+ sheharddi_creator_god_name: "Элои" #Машинный перевод 30.06.2023
+ sheharddi_creator_god_name_possessive: "Элои" #Машинный перевод 30.06.2023
+ sheharddi_health_god_name: "Фер'муэль" #Машинный перевод 30.06.2023
+ sheharddi_health_god_name_possessive: "Фер'муэль" #Машинный перевод 30.06.2023
+ sheharddi_fertility_god_name: "Ахамот" #Машинный перевод 30.06.2023
+ sheharddi_fertility_god_name_possessive: "Ахамот" #Машинный перевод 30.06.2023
+ sheharddi_wealth_god_name: "Джоан'нат" #Машинный перевод 30.06.2023
+ sheharddi_wealth_god_name_possessive: "Джоан'нат" #Машинный перевод 30.06.2023
+ sheharddi_household_god_name: "Маликия" #Машинный перевод 30.06.2023
+ sheharddi_household_god_name_possessive: "Маликии" #Машинный перевод 30.06.2023
+ sheharddi_fate_god_name: "Танаэль" #Машинный перевод 30.06.2023
+ sheharddi_fate_god_name_possessive: "Танаэль" #Машинный перевод 30.06.2023
+ sheharddi_knowledge_god_name: "Зандель" #Машинный перевод 30.06.2023
+ sheharddi_knowledge_god_name_possessive: "Зандель" #Машинный перевод 30.06.2023
+ sheharddi_war_god_name: "Шабаэль" #Машинный перевод 30.06.2023
+ sheharddi_war_god_name_possessive: "Шабаэля" #Машинный перевод 30.06.2023
+ sheharddi_trickster_god_name: "Ишбахут" #Машинный перевод 30.06.2023
+ sheharddi_trickster_god_name_possessive: "Ишбахут" #Машинный перевод 30.06.2023
+ sheharddi_night_god_name: "Ланаэль" #Машинный перевод 30.06.2023
+ sheharddi_night_god_name_possessive: "Ланаэль" #Машинный перевод 30.06.2023
+ sheharddi_water_god_name: "Варад'эль" #Машинный перевод 30.06.2023
+ sheharddi_water_god_name_possessive: "Варад'эля" #Машинный перевод 30.06.2023
+ sheharddi_witch_god_name: "Сирвароэль" #Машинный перевод 30.06.2023
+ sheharddi_witch_god_name_possessive: "Сирвароэль" #Машинный перевод 30.06.2023
+  
+ #sheharddi loc 
+ sheharddi: "Шехардди"
+ sheharddi_adj: "Шехарддик"
+ sheharddi_adherent: "Шехардди"
+ sheharddi_adherent_plural: "Шехарддим"
+ sheharddi_desc: "Те, кто придерживается веры Шехардди сегодня, часто делают это тайно. Они отказываются принимать какого-либо бога, кроме Элоя, считая других богов ошибочным поклонением им. #EMP Malikiyah#! at best and a trick of Eir'shaytan at worst. As a result, they have been ostracized and persecuted for centuries for refusing to participate in the worship of polytheistic pantheons."

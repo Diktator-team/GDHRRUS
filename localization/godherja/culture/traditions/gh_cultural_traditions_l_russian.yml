@@ -1,0 +1,283 @@
+﻿l_russian:
+  ########### 
+  # ETHOSES # 
+  ########### 
+ ethos_magical_name: "Магический фокус"
+ ethos_magical_desc: "Эта культура решила полностью довериться силе [Concept('magic', 'магии')|E] и ее практикам, и это организовано таким образом, чтобы обеспечить максимальный рост тайных знаний и родословных."
+  
+  ############## 
+  # TRADITIONS # 
+  ############## 
+ incompatible_tradition_legacy_of_aversaria: "Несовместимо с $tradition_legacy_of_aversaria_name$ традицией" #Машинный перевод 30.06.2023
+  
+ tradition_lodge_dominance_name: "Доминирование ложи"
+ tradition_lodge_dominance_desc: "Могущественные ложи пронизывают все аспекты общества этой культуры, и членство в одном из них является почти неотъемлемой частью повседневной жизни."
+ tradition_traders_name: "Торговцы"
+ tradition_traders_desc: "Либо благодаря оптимальному географическому положению, либо просто присущим культурным ценностям, эта культура имеет долгую и легендарную историю коммерческой деятельности со своими соседями."
+ tradition_mubaaizun_name: "Мубааизун"
+ tradition_mubaaizun_desc: "Мубайзун - чемпион [Concept('sarradonian', 'саррадонской')|E] армии; often the best warriors of a lord will participate in a ritual duel before the battle commences, fighting to the death. These duels are often accompanied with each army chanting or insulting one another, and there have been instances - such as the Battle of the Mubaaizun - where multiple duels happen before battle commences, often to avenge a dead mubaaizun."
+ tradition_botai_name: "Ботай"
+ tradition_botai_desc: "Бётаи — отряды воинов, созданные для набегов и общения. В обществах с ботай они являются основной социальной группой, от которой зависит, является ли человек взрослым или ребенком, и может ли он участвовать в жизни общества или нет." #Машинный перевод 30.06.2023
+ tradition_ardara_name: "Ардара"
+ tradition_ardara_desc: "Ардара — система чести, символизирующая Кикарсаги. Быть храбрым в бою, щедрым в богатстве и откровенным в отношениях с другими кикарсаги — вот воплощение ардара." #Машинный перевод 30.06.2023
+ tradition_bloodhounds_of_aversaria_name: "Ищейки Аверсарии"
+ tradition_bloodhounds_of_aversaria_desc: "Кикарсаги могли считать себя одними из самых страшных войнов [Concept('aversaria', 'аверсарии')|E], их культура постепенно трансформировалась, чтобы отточить и усилить самые безжалостные аспекты их воинского общества. Мятежный район, посещаемый кикарсаги, обычно быстро и решительно возвращается к миру - по крайней мере, к миру могилы."
+ tradition_legacy_of_aversaria_name: "Наследие Аверсарии" #Машинный перевод 30.06.2023
+ tradition_legacy_of_aversaria_desc: "[aversaria|E] и его институты занимают важное место в этой культуре — независимо от того, существует ли еще Автократа, эти люди считают себя ее подданными и наследниками." #Машинный перевод 30.06.2023
+ tradition_legacy_of_aversaria_lesser_name: "Наследие Аверсарии" #Машинный перевод 30.06.2023
+ tradition_legacy_of_aversaria_lesser_desc: "[aversaria|E] и его институты занимают важное место в этой культуре — независимо от того, существует ли еще Автократа, эти люди считают себя ее подданными и наследниками." #Машинный перевод 30.06.2023
+ tradition_northern_pragmatism_name: "Северный прагматизм" #Машинный перевод 30.06.2023
+ tradition_northern_pragmatism_desc: "Как правило, незаинтересованные в более широких мировых делах и довольные тем, что придерживаются своих лесных поместий, [aversarians|E] Калатипсоми хорошо известны типом безжалостного прагматизма, который часто приводил их к разногласиям с их более принципиальными родственниками в остальной части империи. Однако количество штормов, которые их правящие дома пережили за столетия, является ярким свидетельством эффективности их подхода к политике." #Машинный перевод 30.06.2023
+ tradition_opakhasian_opulence_name: "Опахасийская роскошь" #Машинный перевод 30.06.2023
+ tradition_opakhasian_opulence_desc: "Декаданс, который, как ожидается, будут принимать дворы Опахаса, в большинстве других культур будет сочтен почти грубым, но он, несомненно, сделал их довольно привлекательным местом для тех, кто ищет уровень излишества, обычно считающийся лишь материалом для сказок." #Машинный перевод 30.06.2023
+ tradition_blood_magi_name: "Маги Крови"
+ tradition_blood_magi_desc: "Эта культура с большим почтением относится к практикующим [Concept('blood_magic', 'магию крови') и развила навыки в этой области, которые ставят их [Concept('blood_magic', 'маги крови') выше, чем у большинства других культур."
+ tradition_purity_of_blood_name: "Чистота крови" #Машинный перевод 30.06.2023
+ tradition_purity_of_blood_desc: "В этой культуре большое внимание уделяется выращиванию чистых [magical|E] родословных." #Машинный перевод 30.06.2023
+ tradition_otachedian_law_name: "Отачедианский закон" #Машинный перевод 30.06.2023
+ tradition_otachedian_law_desc: "Хотя с момента его падения прошли столетия, правила и руководящие принципы [Concept('otachedian_empire', 'отачедийской империи')|E] все еще сильны в обществе этой культуры."
+ tradition_literary_divergence_name: "Литературное расхождение"
+ tradition_literary_divergence_desc: "Эта культура отошла от их исторической литературы до такой степени, что стала уникальной сама по себе." #Машинный перевод 30.06.2023
+ tradition_amaghean_lions_name: "Амагейские львы" #Машинный перевод 30.06.2023
+ tradition_amaghean_lions_desc: "Жители Амагеи давно овладели навыками, необходимыми для защиты своего дома в районе Армазли. Непреклонная до конца, эта культура не сдает своих гор без боя." #Машинный перевод 30.06.2023
+ tradition_centralized_name: "Централизованный" #Машинный перевод 30.06.2023
+ tradition_centralized_desc: "Чтобы расти, нужно умереть! Эта культура выросла вокруг небольшого числа городов, внутри которых шум и суета городской жизни служит бьющимся сердцем их жизни." #Машинный перевод 30.06.2023
+ tradition_flame_children_name: "Дети пламени" #Машинный перевод 30.06.2023
+ tradition_flame_children_desc: "Рожденная в огне и ярости, эта культура рассматривает свою веру как неотъемлемую часть своих ритуалов. Они будут стоять со своей религией до конца и мстить ей за любое оскорбление." #Машинный перевод 30.06.2023
+ tradition_kaegan_wind_name: "Ветер Кагана" #Машинный перевод 30.06.2023
+ tradition_kaegan_wind_desc: "Гибрид воинских традиций амагейцев и вханавидов, эта культура ценит кавалерию, которая может проноситься по равнинам, как божественный ветер." #Машинный перевод 30.06.2023
+ tradition_armazli_sanctuaries_name: "Святилища Армазли" #Машинный перевод 30.06.2023
+ tradition_armazli_sanctuaries_desc: "Родившаяся в высоких горах Айгеи, эта культура охватывает высокие вершины гор Армазли как свой единственный настоящий дом. Нет слишком высоких гор, и нет слишком уединенного храма." #Машинный перевод 30.06.2023
+ tradition_eagle_court_name: "Ухаживание с перьями" #Машинный перевод 30.06.2023
+ tradition_eagle_court_desc: "Дранеты следуют обычаям двора медленно и обдуманно. Те, кто нарушают свои клятвы, больше не видят; тем, кто выступает против священных клятв, грозит смерть, которую они не видят." #Машинный перевод 30.06.2023
+ tradition_world_tree_name: "Последователи Мирового Древа" #Машинный перевод 30.06.2023
+ tradition_world_tree_desc: "Партики живут в соответствии с пульсом Мирового Древа, которое помогло им стать одними из самых опытных [magi|E] во всем [aeras|E]." #Машинный перевод 30.06.2023
+ tradition_chortoson_name: "хортосоны" #Машинный перевод 30.06.2023
+ tradition_chortoson_desc: "У этой культуры сложилась глубокая связь с хортовым растением и всеми присущими ему успокаивающими свойствами; с теми, кто принимает участие, легче ладить." #Машинный перевод 30.06.2023
+ tradition_chevalien_identity_name: "Шевальен Наследие" #Машинный перевод 30.06.2023
+ tradition_chevalien_identity_desc: "Дети современного [chevalie|E], будь то Марчер, Ойейникан или Конийкменер, давно связаны глубокими узами, которые сближают их и столь же часто разлучают. Но когда дело доходит до защиты своей родины, в [aeras|E] нет ничего, что могло бы разрушить их общую связь." #Машинный перевод 30.06.2023
+ tradition_falcon_veneration_name: "Посланники с неба" #Машинный перевод 30.06.2023
+ tradition_falcon_veneration_desc: "Сарминцы почитают сокола, строят для него насесты и приручают как компаньонов. Для наездницы их птица является продолжением их тела." #Машинный перевод 30.06.2023
+ tradition_sammalriq_name: "Саммальрик" #Машинный перевод 30.06.2023
+ tradition_sammalriq_desc: "Пустыня — это место, полное опасностей, чтобы выжить, мы должны доверять друг другу. Воин, который не делится своим богатством, знаниями и оружием, вовсе не воин." #Машинный перевод 30.06.2023
+ tradition_painted_men_name: "Нарисованный Кафасали" #Машинный перевод 30.06.2023
+ tradition_painted_men_desc: "Эта культура следует древним воинским обычаям Рахикайи, раскрашивая их лица красивым порошком и мечи кровью." #Машинный перевод 30.06.2023
+ tradition_shadow_trade_name: "Теневая торговля" #Машинный перевод 30.06.2023
+ tradition_shadow_trade_desc: "Теневая торговля глубоко продырявила эту культуру, до такой степени, что каждый взгляд династа кажется предложением для получения прибыли." #Машинный перевод 30.06.2023
+ tradition_scarred_warriors_of_forest_name: "Израненные воины леса" #Машинный перевод 30.06.2023
+ tradition_scarred_warriors_of_forest_desc: "Танумарай считают леса своей игровой площадкой, нанося шрамы на лицо как знак силы и используя свои навыки в военном искусстве." #Машинный перевод 30.06.2023
+ tradition_herbalist_priests_name: "Жрецы-травники" #Машинный перевод 30.06.2023
+ tradition_herbalist_priests_desc: "Ритуальный характер цветочной медицины в культуре танумарей приводит к тому, что травники считаются известными священниками, особенно из-за их важной роли целителей для тех, кто возвращается с охоты." #Машинный перевод 30.06.2023
+ tradition_ruled_by_no_other_name: "Не управляется никем другим" #Машинный перевод 30.06.2023
+ tradition_ruled_by_no_other_desc: "Нас давно угнетают. Больше не надо! Теперь мы будем охотиться за их кровью, за теми, кто душит нас. Израненных никогда не посадят в клетку!" #Машинный перевод 30.06.2023
+ tradition_axe_master_name: "Севра Пар" #Машинный перевод 30.06.2023
+ tradition_axe_master_desc: "Севра Пар, Танец Топоров, является ключевой частью этой культуры. Многие из его рядов развили острое умение обращаться с топором." #Машинный перевод 30.06.2023
+ tradition_middlemen_of_empires_name: "Посредники империй" #Машинный перевод 30.06.2023
+ tradition_middlemen_of_empires_desc: "Эта культура зарекомендовала себя как могущественные и верные вассалы великих империй. Правители этой культуры редко находятся на вершине иерархии, но редко и внизу." #Машинный перевод 30.06.2023
+ tradition_beloved_bastards_name: "Любимые ублюдки" #Машинный перевод 30.06.2023
+ tradition_beloved_bastards_desc: "Природа и мораль постановили, что родители должны любить своих детей. Обстоятельства — или законность — их рождения не должны мешать выполнению этой обязанности. Благородное семя, посеянное небрежно, сияет не менее ярко." #Машинный перевод 30.06.2023
+ tradition_bounty_of_ureha_name: "Щедрость Урехи" #Машинный перевод 30.06.2023
+ tradition_bounty_of_ureha_desc: "#italic 'Наши родственники могут быть одержимы силой своего клана или силой своего клинка, но Сьялволки южных пределов знают то, чего не знают наши упрямые горцы и глупые речные люди, что сила богов исходит из богатства их щедрость! С каждым урожаем мы знаем, какую честь мы приносим богам, с великими городами и твердынями, стоящими как памятники божественному богатству Подземья!" #Машинный перевод 30.06.2023
+ tradition_warriors_of_velos_name: "Воины Велоса" #Машинный перевод 30.06.2023
+ tradition_warriors_of_velos_desc: "#italic За Велоса мы воюем! Скалистые холмы горных домов былых времен не принесут плодов к ужину, но мощь нашего оружия и прочность нашей стали дадут! Старейшие дети Богов Внизу знают то, что давно забыли наши дальние родственники: пировать щедростью, собранной вашими врагами, значит пировать среди самих богов!#!" #Машинный перевод 30.06.2023
+ tradition_skalds_of_zamistra_name: "Скальды Замистры" #Машинный перевод 30.06.2023
+ tradition_skalds_of_zamistra_desc: "#italic Хотя наши боги и сражались как воины, они пели как могучие скальды! Некоторые говорят, что их великие легенды были созданы из крови войны с демонами былых времен или из бесконечных замыслов и драматизма высших дворов Велоса и его рода, но мы знаем правду лучше, чем кто-либо, кто утверждает, что принадлежит к нашей крови! Легенды о богах выковывались не мечом, а словом, рассказывались от героя к герою, от скальда к скальду, и каждый авантюрист и путешественник, у которого не было ничего, кроме костра и их товарищей для развлечения в холодные ночи. #!" #Машинный перевод 30.06.2023
+ tradition_visvasavrak_guardians_name: "Стражи Вишвасаврака" #Машинный перевод 30.06.2023
+ tradition_visvasavrak_guardians_desc: "Благородные правители Маракье издавна даровали благородный титул Вишвасаврака выдающимся воинам, посвятившим себя борьбе за своего сюзерена до самой смерти. Ожидается, что во времена великих раздоров Вишвасавраки неохотно возьмут власть и мудро поведут свой народ." #Машинный перевод 30.06.2023
+ tradition_glass_smiths_name: "Стеклянная кузница" #Машинный перевод 30.06.2023
+ tradition_glass_smiths_desc: "Искусство изготовления стекла является краеугольным камнем Зелкавани. Скульптуры из стекла можно найти повсюду, от красивых ваз и горшков в доме Зелквани до самых изысканных скульптур, которые можно найти в художественных галереях или в поместье знатного человека." #Машинный перевод 30.06.2023
+ tradition_elephant_racers_name: "Гонщики на слонах" #Машинный перевод 30.06.2023
+ tradition_elephant_racers_desc: "Эта культура считает использование слонов в войне глупостью. Вместо этого они предпочитают соревноваться с величественными существами в экстравагантной манере." #Машинный перевод 30.06.2023
+ tradition_redlanders_name: "Жители Редленда" #Машинный перевод 30.06.2023
+ tradition_redlanders_desc: "Эта культура приспособилась к суровым Редлендам, научившись выживать в их суровых условиях и сражаться среди лабиринтов." #Машинный перевод 30.06.2023
+ tradition_nhudabyad_name: "Нхудабьяд" #Машинный перевод 30.06.2023
+ tradition_nhudabyad_desc: "Эта культура развила талант к выращиванию растения нхудабьяд, вареные листья которого помогают им заглянуть в земли за его пределами." #Машинный перевод 30.06.2023
+ tradition_idealistic_past_name: "Идеалистическое прошлое" #Машинный перевод 30.06.2023
+ tradition_idealistic_past_desc: "Древнюю историю этой культуры хорошо помнят и хранят с гордостью, считая ее прошлым более славным, чем все, что когда-либо могло последовать." #Машинный перевод 30.06.2023
+ tradition_proud_history_name: "Гордые истории" #Машинный перевод 30.06.2023
+ tradition_proud_history_desc: "Известно, что эта культура хранит обширные исторические записи долгой и гордой истории, подробно описывая достижения, какими бы маленькими они ни были." #Машинный перевод 30.06.2023
+ tradition_political_animals_name: "Жизнь политическая" #Машинный перевод 30.06.2023
+ tradition_political_animals_desc: "Политика занимает центральное место в жизни этой культуры, уважая тех, кто поднимается сквозь хаос к политическому господству." #Машинный перевод 30.06.2023
+ tradition_settlers_of_krehejad_name: "Поселенцы Крехеджада" #Машинный перевод 30.06.2023
+ tradition_settlers_of_krehejad_desc: "Острова Крехеджад были завоеваны и заселены множеством культур со всего [aversaria|E] и сохранили сильное чувство общего наследия, при этом ни одна отдельная культура никогда не достигала положения гегемонии над своими братьями." #Машинный перевод 30.06.2023
+ tradition_dergi_gardens_name: "Величественные сады" #Машинный перевод 30.06.2023
+ tradition_dergi_gardens_desc: "Эта культура выражает свое единство с окружающей средой через использование грандиозных волшебных садов, занимающих место смотрителя природы, пока она не будет готова принять свою окончательную форму." #Машинный перевод 30.06.2023
+ tradition_islander_name: "островитяне" #Машинный перевод 30.06.2023
+ tradition_islander_desc: "Эта культура хорошо приспособлена к вызовам [shatteredisles|E], осваивая искусство мореплавания и выживания среди разнообразной и часто суровой фауны морей." #Машинный перевод 30.06.2023
+ tradition_guillate_legacy_name: "Наследие Гийата" #Машинный перевод 30.06.2023
+ tradition_guillate_legacy_desc: "Легендарная фигура адмирала Гийата ден ва Хрестоффексарофф вдохновила ярый независимый дух среди этой культуры, это люди полны решимости навсегда изгнать все чужие империи из [Concept('shatteredisles','Isles')|E], который они называют домом." #Машинный перевод 30.06.2023
+ gh_tradition_debug_desc: "Отладка культурной традиции. Если вы видите эту традицию в игре, пожалуйста, сообщите об ошибке на наш github." #Машинный перевод 30.06.2023
+ tradition_mdala_hasira_name: "Мдала Хасира" #Машинный перевод 30.06.2023
+ tradition_mdala_hasira_desc: "Эта культура долгое время извлекала выгоду из обширных плантаций специй, принося огромные богатства за счет своей земли." #Машинный перевод 30.06.2023
+ tradition_mutually_beneficial_name: "Взаимовыгодное" #Машинный перевод 30.06.2023
+ tradition_mutually_beneficial_desc: "Эта культура уже давно извлекает выгоду из взаимной поддержки другой." #Машинный перевод 30.06.2023
+ tradition_competitive_name: "Конкурентоспособный" #Машинный перевод 30.06.2023
+ tradition_competitive_desc: "Эта культура имеет долгую историю соревнований и игр." #Машинный перевод 30.06.2023
+ tradition_walking_stilts_name: "Ходячие ходули" #Машинный перевод 30.06.2023
+ tradition_walking_stilts_desc: "Эта культура издавна использовала высокие ходули как часть своего образа жизни." #Машинный перевод 30.06.2023
+ tradition_lords_of_aironoi_name: "Лорды Айроноя" #Машинный перевод 30.06.2023
+ tradition_lords_of_aironoi_desc: "Со времен [aironoian_migration|E] ольтенские военачальники властвовали над обширной айронойской степью." #Машинный перевод 30.06.2023
+ tradition_lightshy_name: "Легкомысленный" #Машинный перевод 30.06.2023
+ tradition_lightshy_desc: "Прожив долгие годы глубоко под поверхностью Аэраса, эта культура приспособилась к вечной тьме. Теперь, ненавидя и боясь солнечного света, они превратились в злобных туннельных бойцов, способных действовать почти в полной темноте." #Машинный перевод 30.06.2023
+ culture_subterranean_desc: "Культура существует в основном под землей" #Машинный перевод 30.06.2023
+ culture_parameter_subterranean_fighters: "Прибыль увеличена на [advantage|E] в бою в подземных регионах." #Машинный перевод 30.06.2023
+  
+  
+  ############### 
+  # MAA UNLOCKS # 
+  ############### 
+ culture_parameter_unlock_maa_mubaaizun: "Может набирать [GetMaA('mubaaizun').GetName] как [Concept('men_at_arms', 'наемников')|E]"
+ culture_parameter_unlock_maa_krialetil: "Можно нанять [GetMaA('krialetil').GetName] как [men_at_arms|E]" #Машинный перевод 30.06.2023
+ culture_parameter_unlock_maa_tsanruti: "Можно нанять [GetMaA('tsanruti').GetName] как [men_at_arms|E]" #Машинный перевод 30.06.2023
+ culture_parameter_unlock_maa_tskherosan: "Можно нанять [GetMaA('tskherosan').GetName] как [men_at_arms|E]" #Машинный перевод 30.06.2023
+ culture_parameter_unlock_maa_sahkmavali: "Можно нанять [GetMaA('sahkmavali').GetName] как [men_at_arms|E]" #Машинный перевод 30.06.2023
+ culture_parameter_unlock_maa_mezilachitnen: "Можно нанять [GetMaA('mezilachitnen').GetName] как [men_at_arms|E]" #Машинный перевод 30.06.2023
+ culture_parameter_chevalien_identity: "#V $building_type_military_academy_01$#! строки [buildings|E] имеют дополнительные бонусы в [counties|E] этой [culture|E]" #Машинный перевод 30.06.2023
+ culture_parameter_chevalien_defense: "Разблокирует уникальную способность [chevalie|E] «Защита Шевалье» [casus_belli|E] для отражения вторжений, не связанных с маршем." #Машинный перевод 30.06.2023
+ culture_parameter_unlock_maa_cloud_riders: "Можно нанять [GetMaA('cloud_riders').GetName] как [men_at_arms|E]" #Машинный перевод 30.06.2023
+ culture_parameter_unlock_maa_jaanvarkis: "Можно нанять [GetMaA('jaanvarkis').GetName] как [men_at_arms|E]" #Машинный перевод 30.06.2023
+ culture_parameter_unlock_maa_kanpahuri: "Можно нанять [GetMaA('kanpahuri').GetName] как [men_at_arms|E]" #Машинный перевод 30.06.2023
+ culture_parameter_unlock_maa_visvasavrak: "Можно нанять [GetMaA('visvasavrak').GetName] как [men_at_arms|E]" #Машинный перевод 30.06.2023
+  
+  ############# 
+  # TRAIT LOC # 
+  ############# 
+  
+ culture_parameter_access_to_glass_smith_traits: "Теперь персонажи могут получить линию черт [GetTraitGroup('gh_glass_smith').GetName]." #Машинный перевод 30.06.2023
+ culture_parameter_ardara_positive_trait_modifiers: "[GetTrait('brave').GetName( GetNullCharacter )] и [GetTrait('generous').GetName( GetNullCharacter )] [Concept('traits', 'свойства')|E] рассматриваются как [prestige_i][Concept('prestigious', 'престижные')|E] и улучшает [Concept('county_opinion', 'мнение народа')|E]"
+ culture_parameter_ardara_negative_trait_modifiers: "[GetTrait('craven').GetName( GetNullCharacter )] и [GetTrait('greedy').GetName( GetNullCharacter )] [Concept('traits', 'свойства')|E] смотрят на них свысока"
+ culture_parameter_can_raid_even_if_feudal: "Открывает возможность совершать [Concept('raid', 'налеты')|E]"
+ culture_parameter_can_distribute_raid_loot_for_prestige_and_development: "Можете выбрать распределение части (или всей) добычи по завершении [Concept('raid', 'налета')|E], получая за это [prestige_i][Concept('prestige', 'престиж')|E] и повышая [Concept('development', 'развитие')|E] [Concept('county', 'округа')|E]"
+ culture_parameter_sending_gifts_to_vassals_and_courtiers_gives_prestige: "Использование [send_gift|E] [character_interaction|E] на [vassals|E] и [courtiers|E] дает [prestige_i][prestige|E]" #Машинный перевод 30.06.2023
+ culture_parameter_has_access_to_familial_extermination: "[Concept('characters', 'персонажи')|E] которых у вас есть [Concept('execute_reason', 'причина казнить')|E] могут иметь #E Семейное истребление#! взаимодействие с ними, при этом затраты [prestige_i] [Concept('prestige', 'престиж')|E] и [Concept('tyranny', 'тирания')|E] растут в зависимости от того, насколько тесно они связаны с вами"
+  
+ culture_parameter_encouraged_old_ruler_abdication: "Старые правители могут добровольно отречься от престола, получая [dynasty_prestige_i][dynasty_prestige|E], пропорциональные их [skills|E]." #Машинный перевод 30.06.2023
+ culture_parameter_enables_alatans: "Правители, добровольно отрекшиеся от престола, становятся алатанами, которые лучше выполняют [Concept('councillor_tasks', 'задания советника')|E]"
+ culture_parameter_enables_khatan_succession: "Enables access to the #underline Khatan Succession#! [law|E]"
+  
+ culture_parameter_bloodhounds_of_aversaria_positive_trait_modifiers: "[GetTrait('sadistic').GetName( GetNullCharacter )], [GetTrait('callous').GetName( GetNullCharacter )] и [GetTrait('vengeful').GetName( GetNullCharacter )] [Concept('traits', 'свойства')|E] рассматриваются как [prestige_i][Concept('prestigious', 'престижные')|E]"
+ culture_parameter_bloodhounds_of_aversaria_negative_trait_modifiers: "[GetTrait('compassionate').GetName( GetNullCharacter )] и [GetTrait('forgiving').GetName( GetNullCharacter )] [Concept('traits', 'свойство')|E] смотрят на них свысока"
+ culture_parameter_can_purge_counties: "Enables the #E Purge County#! interaction on [counties|E] with a low [cultural_acceptance|E]"
+ culture_parameter_purging_counties_gives_prestige: "#E Очистка округов#! дает [prestige_i][prestige|E]" #Машинный перевод 30.06.2023
+ culture_parameter_executing_different_culture_characters_gives_prestige: "[Concept('executing', 'казнь')|E] персонажей с другой [Concept('culture', 'культурой')|E] дают [prestige_i][Concept('prestige', 'престиж')|E]"
+  
+ culture_parameter_blood_magi_positive_trait_modifiers: "[GetTrait('education_magic_1').GetName( GetNullCharacter )], [GetTrait('education_magic_2').GetName( GetNullCharacter )], [GetTrait('education_magic_3').GetName( GetNullCharacter )] и [GetTrait('education_magic_4').GetName( GetNullCharacter )] [traits|E] рассматриваются как [prestige_i][Concept('prestigious', 'престижные')|E]"
+ culture_parameter_living_magic_mutation_positive_trait_modifiers: "Мутации от использования [living_magic|E], такие как [GetTrait('gh_glowing_veins').GetName( GetNullCharacter )] и [GetTrait('gh_ritual_tattoos').GetName( GetNullCharacter )], рассматриваются как [prestige_i][prestigious|E]." #Машинный перевод 30.06.2023
+ culture_parameter_living_magic_education_better_outcomes: "[children|E], как правило, добиваются большего успеха в [living_magic|E] [education|E]" #Машинный перевод 30.06.2023
+ culture_parameter_culture_characters_more_magically_potent: "[Concept( 'character', 'Characters' )|E] из [culture|E], как правило, лучше [congenital|E] [magic|E]" #Машинный перевод 30.06.2023
+ culture_parameter_marriages_with_purity_of_blood_cultures_yield_better_magic: "Дети [Concept( 'character', 'Characters' )|E], обе культуры которых имеют [GetCultureTradition('tradition_purity_of_blood').GetName] или аналогичный [tradition|E], как правило, рождаются с лучшими [congenital|E] [magic|E]" #Машинный перевод 30.06.2023
+ culture_parameter_dislikes_marrying_impure_cultures: "[marriage|E] Принятие к нечистому [cultures|E]: #N -50#!" #Машинный перевод 30.06.2023
+ culture_parameter_dislikes_marrying_impure_cultures_lesser: "[marriage|E] Принятие к нечистому [cultures|E]: #N -25#!" #Машинный перевод 30.06.2023
+ culture_parameter_harder_to_hybridize_lesser: "Для создания Гибрида [culture|E] требуется #V На 50%#! больше [cultural_acceptance|E], а также с этой культурой намного сложнее провести гибридизацию." #Машинный перевод 30.06.2023
+ culture_parameter_expensive_convert_to_local_culture_lesser: "#V $convert_to_local_culture_decision$#! [decision|E] Стоимость: [prestige_i]#N +150%#!" #Машинный перевод 30.06.2023
+ culture_parameter_ai_doesnt_marry_impure_cultures: "Очень маловероятно, что [marriages|E] совместится с [Concept( 'character', 'Characters' )|E] нечистого [culture|E]" #Машинный перевод 30.06.2023
+ culture_parameter_blood_senate_succession_enabled: "Может принять #high $aversarian_succession_law$#! [succession_law|E]" #Машинный перевод 30.06.2023
+ culture_parameter_magocracy_government_enabled: "Может принять #high $magocratic_government$#! [government|E] при определенных условиях" #Машинный перевод 30.06.2023
+ TRADITION_PENALTY_BLOODPURIST: "Пурист [culture|E]: $VALUE|+=0$" #Машинный перевод 30.06.2023
+  
+ culture_parameter_northern_pragmatism_positive_trait_modifiers: "[GetTrait('cynical').GetName( GetNullCharacter )] [trait|E] рассматривается как [prestige_i][prestigious|E] и дает дополнительные бонусы [intrigue_i][intrigue|E], [diplomacy_i][diplomacy|E] и [gold_i][tax|E]." #Машинный перевод 30.06.2023
+ culture_parameter_intrigue_education_prestige_and_tax_modifiers: "[intrigue|E] [education|E] [traits|E] рассматриваются как [prestige_i][prestigious|E] и дают [gold_i][tax|E] бонусов" #Машинный перевод 30.06.2023
+ culture_parameter_cynical_trait_more_common: "[GetTrait('cynical').GetName( GetNullCharacter )] [trait|E] встречается чаще" #Машинный перевод 30.06.2023
+ culture_parameter_intrigue_education_better_outcomes: "[children|E], как правило, добиваются большего успеха в [intrigue|E] [education|E]" #Машинный перевод 30.06.2023
+  
+ culture_parameter_opakhasian_opulence_positive_trait_modifiers: "[GetTrait('arrogant').GetName( GetNullCharacter )] и [GetTrait('gluttonous').GetName( GetNullCharacter )] [traits|E] рассматриваются как [prestige_i][prestigious|E] и дают #V 1#! [diplomacy_i][diplomacy|E] за [prestige_level|E], при этом возникает ошибка [GetTrait('gluttonous').GetName( GetNullCharacter )]0[GetTrait('gluttonous').GetName( GetNullCharacter )]1." #Машинный перевод 30.06.2023
+ culture_parameter_arrogant_trait_more_common: "[GetTrait('arrogant').GetName( GetNullCharacter )] [trait|E] встречается чаще" #Машинный перевод 30.06.2023
+ culture_parameter_gluttonous_trait_more_common: "[GetTrait('gluttonous').GetName( GetNullCharacter )] [trait|E] встречается чаще" #Машинный перевод 30.06.2023
+  
+ culture_parameter_unlocks_lodge_mechanics: "Открывает доступ к [Concept('lodges_mechanical', 'ложе')|E]"
+  
+ culture_parameter_not_tribal_pirate_raiding_malus: "При возвращении с успешного [Concept('raid', 'налеты')|E], не-[Concept('tribal', 'племенные')|E] или не-[Concept('pirates', 'пиратские')|E] персонажи #EMP lose#! [EmptyScope.ScriptValue('not_tribal_raid_prestige_multiplier')|1] [prestige_i][Concept('prestige', 'престиж')|E] за 1 [Concept('raid_loot', 'добычу с налета')|E]"
+  
+ culture_parameter_sacred_living_magi: "[GetTrait('education_living_magic_1').GetName( GetNullCharacter )], [GetTrait('education_living_magic_2').GetName( GetNullCharacter )], [GetTrait('education_living_magic_3').GetName( GetNullCharacter )] и [GetTrait('education_living_magic_4').GetName( GetNullCharacter )] [traits|E] дают [piety|E]." #Машинный перевод 30.06.2023
+  
+ culture_parameter_chort_traits_more_common: "Правители с большей вероятностью получат [GetTrait('hashishiyah').GetName( GetNullCharacter )] [trait|E], когда [stressed|E]." #Машинный перевод 30.06.2023
+ culture_parameter_chort_traits_more_valued: "[GetTrait('hashishiyah').GetName( GetNullCharacter )] [trait|E] рассматривается как [prestige_i][prestigious|E], и правители получают престиж, куря чорт." #Машинный перевод 30.06.2023
+ culture_parameter_chort_diplomacy: "[GetTrait('hashishiyah').GetName( GetNullCharacter )] [trait|E] дает [diplomacy|E]." #Машинный перевод 30.06.2023
+  
+ culture_parameter_elephant_racer_traits_more_valued: "[GetTrait('gh_elephant_racer').GetName( GetNullCharacter )] [trait|E] рассматривается как [prestige_i][prestigious|E]." #Машинный перевод 30.06.2023
+ culture_parameter_elephant_racer_intrigue: "[GetTrait('gh_elephant_racer').GetName( GetNullCharacter )] [trait|E] дает [intrigue|E]." #Машинный перевод 30.06.2023
+  
+ culture_parameter_enable_falcon_roost_building: "Можно построить [GetBuilding('falcon_roost_01').GetName] [building|E], что позволит персонажам обучать соколов вдвое дешевле." #Машинный перевод 30.06.2023
+ culture_parameter_easier_to_train_falcons: "Персонажам легче тренировать соколов." #Машинный перевод 30.06.2023
+ culture_parameter_open_terrain_trait_bonuses: "[GetTrait('gh_falconer').GetName( GetNullCharacter )] [trait|E] дает бонусы открытой местности." #Машинный перевод 30.06.2023
+  
+ culture_parameter_hunting_bonus_against_aquatic_fauna: "Персонажам легче победить водную фауну, и они получают от этого вдвое больше [prestige|E]." #Машинный перевод 30.06.2023
+  
+ culture_parameter_intrigue_education_better_outcomes: "[children|E], как правило, добиваются большего успеха в [intrigue|E] [education|E]" #Машинный перевод 30.06.2023
+ culture_parameter_cultural_dynasty_hostile_scheme_agent_chance: "Увеличено принятие [agent|E] участниками [dynasty|E] для [hostile_schemes|E]: #P +[EmptyScope.ScriptValue('cultural_dynasty_hostile_scheme_agent_chance')|0]%#! по сравнению с участниками, не являющимися [dynasty|E]." #Машинный перевод 30.06.2023
+ culture_parameter_cultural_foreign_hostile_scheme_agent_chance: "Увеличено принятие [agent|E] участниками [culture|E] для [hostile_schemes|E]: #P +[EmptyScope.ScriptValue('cultural_foreign_hostile_scheme_agent_chance')|0]%#! по сравнению с другими [cultures|E]" #Машинный перевод 30.06.2023
+ culture_parameter_deceitful_trait_more_common: "[GetTrait('deceitful').GetName( GetNullCharacter )] [trait|E] встречается чаще" #Машинный перевод 30.06.2023
+ culture_parameter_herbalist_trait_give_piety: "[GetTrait('lifestyle_herbalist').GetName( GetNullCharacter )] [trait|E] дает больше [piety|E]" #Машинный перевод 30.06.2023
+ culture_parameter_herbalist_trait_give_renown: "[GetTrait('lifestyle_herbalist').GetName( GetNullCharacter )] [trait|E] дает больше [dynasty_prestige|E]" #Машинный перевод 30.06.2023
+ culture_parameter_ambitious_trait_more_common: "[GetTrait('ambitious').GetName( GetNullCharacter )] [trait|E] встречается чаще" #Машинный перевод 30.06.2023
+  
+ culture_parameter_enable_axe_house_building: "Можно строить Дома Топоров, уникальные Здания Герцогства Херкелой." #Машинный перевод 30.06.2023
+ culture_parameter_blademaster_traits_give_diplomacy: "[GetTrait('blademaster_1').GetName( GetNullCharacter )], [GetTrait('blademaster_2').GetName( GetNullCharacter )] и [GetTrait('blademaster_3').GetName( GetNullCharacter )] [traits|E] дают [diplomacy|E]" #Машинный перевод 30.06.2023
+  
+ culture_parameter_more_prestige_from_battles: "Получает больше [prestige_i][prestige|E] в битвах" #Машинный перевод 30.06.2023
+ culture_parameter_more_piety_from_battles: "Получает больше [piety_i][piety|E] в битвах" #Машинный перевод 30.06.2023
+ culture_parameter_central_sjalvolki_courtly: "Персонажи получают немного больше известности" #Машинный перевод 30.06.2023
+ culture_parameter_bounty_of_ureha_positive_trait_modifiers: "[GetTrait('architect').GetName( GetNullCharacter)] [trait|E] считается высоко ценимым и дает дополнительную [stewardship_i][stewardship|E], [learning_i][learning|E] и более высокую скорость сборки [temple_holding|E]." #Машинный перевод 30.06.2023
+ culture_parameter_warriors_of_velos_positive_trait_modifiers: "[GetTrait('berserker').GetName( GetNullCharacter )] [trait|E] отображается как [prestige_i][prestigious|E] и дает дополнительные [prowess_i][prowess|E], увеличенный [knight_effectiveness|E], увеличенный [skirmisher|E] [toughness|E] и более высокую скорость передвижения зимой." #Машинный перевод 30.06.2023
+ culture_parameter_skalds_of_zamistra_positive_trait_modifiers: "[GetTrait('poet').GetName( GetNullCharacter)] [trait|E] сильно отличается от [prestige_i][prestigious|E] и дает дополнительные [diplomacy_i][diplomacy|E], [dynasty_prestige_i][dynasty_prestige|E] и более сильное ухаживание [schemes|E]" #Машинный перевод 30.06.2023
+  
+ culture_parameter_unlock_visvasavrak_guardian_title: "Может назначить [knights|E] Стражу Вишвасаврака [court_position|E], увеличив его [prowess|E], а также вероятность того, что он погибнет в бою." #Машинный перевод 30.06.2023
+ culture_parameter_visvasavrak_gains_claim: "Стражи Вишвасавраков получают [unpressed_claim|E] на землях своего сюзерена после смерти." #Машинный перевод 30.06.2023
+  
+ culture_parameter_reduced_cost_legitimization: "Стоимость [dynasty_prestige|E] со скидкой за узаконивание [bastards|E]." #Машинный перевод 30.06.2023
+ culture_parameter_reduced_bastard_trait_penalties: "[bastard|E] и Дитя наложницы [traits|E] обеспечивают уменьшенные штрафы и штрафы." #Машинный перевод 30.06.2023
+ culture_parameter_bastard_court_performance: "[bastards|E] работает лучше в нескольких позициях [court|E]." #Машинный перевод 30.06.2023
+  
+ culture_parameter_enable_dergi_garden_building: "Можно строить сады Дерги, повышающие [piety_i][piety|E] и [prestige_i][prestige|E]." #Машинный перевод 30.06.2023
+ culture_parameter_gardener_traits_more_valued: "[GetTrait('lifestyle_gardener').GetName( GetNullCharacter )] [trait|E] рассматривается как [prestige_i][prestigious|E]." #Машинный перевод 30.06.2023
+  
+ culture_parameter_krehejad_tolerance: "Получает #P 30%#! [cultural_acceptance|E] с другими [Concept('culture','Cultures')|E], обладающими таким же [tradition|E]." #Машинный перевод 30.06.2023
+  
+ culture_parameter_otachedian_tolerance: "Получает #P 15%#! [cultural_acceptance|E] с другими [Concept('culture', 'Cultures')|E], у которых есть этот [tradition|E]." #Машинный перевод 30.06.2023
+ culture_parameter_otachedian_hybridization: "Для создания гибрида [culture|E] требуется #P на 25%#! меньше [cultural_acceptance|E] и [prestige_i]#P -25%#! с другими культурами, обладающими этим [tradition|E]." #Машинный перевод 30.06.2023
+  
+ culture_parameter_mutually_beneficial_acceptance: "Получает #P 50%#! одобрения для получения [alliance|E] с другими [Concept('culture','Cultures')|E], у которых есть этот [tradition|E]." #Машинный перевод 30.06.2023
+ culture_parameter_mutually_beneficial_tolerance: "Получает #P 20%#! [cultural_acceptance|E] с другими [Concept('culture','Cultures')|E], у которых есть этот [tradition|E]." #Машинный перевод 30.06.2023
+  
+ culture_parameter_enable_mdala_duchy_building: "Можно построить Мдала Хасиру, которая дает [income|E], [court_grandeur|E] и [prestige_i][prestige|E] за [development|E] и [county_opinion|E]." #Машинный перевод 30.06.2023
+ culture_parameter_enable_crab_ranch_duchy_building: "Можно строить Каа Биро, временные убежища для гигантских веретеноногих крабов, которые дают [income|E] и [advantage|E], хотя их можно строить только во время [high_tide|E] в графстве." #Машинный перевод 30.06.2023
+  
+ culture_parameter_mountain_dwellers_biome: "Лучше не заблудиться в [mountainous|E] [biozones|E]." #Машинный перевод 30.06.2023
+ culture_parameter_jungle_dwellers_biome: "Лучше не заблудиться в [jungle|E] [biozones|E]." #Машинный перевод 30.06.2023
+ culture_parameter_forest_folk_biome: "Лучше не заблудиться в [woodland|E] [biozones|E]." #Машинный перевод 30.06.2023
+ culture_parameter_challenging_terrain_dwellers: "Лучше не заблудиться в [challenging_terrain|E] [biozones|E]." #Машинный перевод 30.06.2023
+ culture_parameter_cold_home_biozone_dwellers: "Лучше избегает штрафов в [cold|E] [biozones|E]." #Машинный перевод 30.06.2023
+ culture_parameter_hot_home_biozone_dwellers: "Лучше избегает штрафов в [hot|E] [biozones|E]." #Машинный перевод 30.06.2023
+  
+ culture_parameter_unlock_maa_oltenic_cavalry: "Можно построить уникальную ольтенскую кавалерию." #Машинный перевод 30.06.2023
+  
+ culture_parameter_unlock_urbanism_legacy: "[dynast|E] этого [culture|E] может использовать #V $fp2_urbanism_legacy_track_name$#! [dynasty_perk|E]." #Машинный перевод 30.06.2023
+ culture_parameter_unlock_coterie_legacy: "[dynast|E] этого [culture|E] может использовать #V $fp2_coterie_legacy_track_name$#! [dynasty_perk|E]." #Машинный перевод 30.06.2023
+  ############# 
+  # MODIFIERS # 
+  ############# 
+  
+ not_tribal_desc: "Не [Concept('tribal', 'племенной')|E]"
+ otached_lawbreaker_desc: "[Concept('culture', 'культура')|E] [Concept('counties', 'графов')|E] в вашем [Concept('realm', 'королевстве')|E] не должны граничить с какой-либо культурой, которая у них меньше, чем #V 50%#! или больше [Concept('cultural_acceptance', 'культурной терпимости')|E]"
+ rulers_with_chortosan_desc: "[culture|E] не имеет #V 4#! [rulers|E] с [GetTrait('hashishiyah').GetName( GetNullCharacter )] [traits|E]" #Машинный перевод 30.06.2023
+ culture_parameter_peasant_and_populist_factions_more_common: "Различные-[culture|E] [peasant_factions|E] и [popular_factions|E] встречаются чаще" #Машинный перевод 30.06.2023
+ culture_parameter_populist_factions_more_common: "[popular_factions|E] встречаются чаще" #Машинный перевод 30.06.2023
+ culture_parameter_vassals_revolt_more_different_culture: "[vassals|E] этого [culture|E] проще объединить [factions|E] с [liege|E] другого [culture|E]" #Машинный перевод 30.06.2023
+ not_aversarian_heritage_desc: "[culture|E] не имеет [GetCulturePillar('heritage_aversarian').GetName] [heritage|E]" #Машинный перевод 30.06.2023
+ not_sjalvolki_heritage_desc: "[culture|E] не имеет [GetCulturePillar('heritage_sjalvolki').GetName] [heritage|E]" #Машинный перевод 30.06.2023
+ rulers_with_living_magic_education_desc: "[culture|E] не имеет #V 4#! [rulers|E] с [GetTraitGroup('education_living_magic').GetName] [traits|E]" #Машинный перевод 30.06.2023
+  
+ TRADITION_PENALTY_PURIST: "Пурист [culture|E]: $VALUE|+=0$" #Машинный перевод 30.06.2023
+ ACCEPTANCE_BASELINE_KREHEJAD_TOLERANCE: "Поселенцы Крехеджада [tradition|E]" #Машинный перевод 30.06.2023
+ ACCEPTANCE_BASELINE_OTACHEDIAN_TOLERANCE: "Закон Отачедиана [tradition|E]" #Машинный перевод 30.06.2023
+ ACCEPTANCE_BASELINE_MUTUALLY_BENEFICIAL_TOLERANCE: "Взаимовыгодно [tradition|E]" #Машинный перевод 30.06.2023
+  ######## 
+  # MISC # 
+  ######## 
+  
+ cannot_have_tradition_ardara: "$cannot_combine_tradition_trigger_desc$ #high $tradition_ardara_name$#!" #Машинный перевод 30.06.2023
+ not_bureaucratic_communal_courtly_or_egalitarian_desc: "[culture|E] не имеет $ethos_bureaucratic_name$, $ethos_communal_name$, $ethos_courtly_name$ или $ethos_egalitarian_name$ [ethos|E]" #Машинный перевод 30.06.2023
+ culture_parameter_glass_house_duchy_building: "Предоставляет доступ к зданию Glass House [duchy|E]." #Машинный перевод 30.06.2023
+ culture_parameter_characters_glass_traits_can_make_glass_artifacts: "Персонажи теперь могут ковать стекло [artifacts|E]" #Машинный перевод 30.06.2023
+ lack_pirate_government_penalty_desc: "Отсутствует #E Пиратская форма правительства#!" #Машинный перевод 30.06.2023
+ culture_underground_desc: "Должен находиться в [GetGeographicalRegion('world_ga_mayikprolollan_mayikprolollan_depths').GetName] [region|E]" #Машинный перевод 30.06.2023

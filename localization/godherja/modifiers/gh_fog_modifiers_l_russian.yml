@@ -1,0 +1,5 @@
+﻿l_russian:
+ fogswept_modifier: "Окутанный туманом"
+ fogswept_modifier_desc: "Эта область была поглощена [Concept('fog', 'туманом')|E], навсегда обречена на адские условия, которые встречаются только в самых мрачных кошмарах."
+ bordering_fog_modifier: "Граничащий с [Concept('fog', 'туманом')|E]"
+ bordering_fog_modifier_desc: "Эта территория граничит с [Concept('fog', 'туманом')|E], стоя на грани полного поглощения."

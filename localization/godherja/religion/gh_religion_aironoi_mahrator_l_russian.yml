@@ -1,0 +1,87 @@
+﻿l_russian:
+  
+ #Mahrator Loc 
+ mahrator_religion: "Махратор"
+ mahrator_religion_adj: "Махраторан"
+ mahrator_religion_adherent: "Mahratoran"
+ mahrator_religion_adherent_plural: "Mahratorans"
+ mahrator_religion_desc: "Религия махраторов происходит от Тёрагей Хатана и его клана, который сам был сыном наложницы великого полководца Отачеда, Ургу. Стремясь к славе, превосходящей ту, что он обрел в [Concept('bayyuralar','Байураларе')|E], он повел некоторые кланы на север, в Амагею, во время [Concept('aironoian_migration','айронианской миграции')|E], и создал там свое собственное царство. С тех пор эта религия превратилась в религию, почти неузнаваемую от своих эльтических предшественников, поклоняющуюся Богу людей Кайгану, как Каегану, Богу лошадей и Царю Небес"
+ mahrator_high_god_name: "Каеган"
+ mahrator_high_god_name_possessive: "Kaegan's"
+ mahrator_high_god_name_alternate: "Kaegan-den"
+ mahrator_high_god_name_alternate_possessive: "Kaegan-den's"
+ mahrator_devil_name: "Ur-mai"
+ mahrator_devil_name_possessive: "Ur-mai's"
+ mahrator_death_deity_name: "Törik"
+ mahrator_death_deity_name_possessive: "Törik's"
+  
+ mahrator_house_of_worship: "Kaedaen-den"
+ mahrator_house_of_worship_plural: "Kaedaen-deni"
+ mahrator_religious_symbol: "Небесный конь"
+ mahrator_religious_text: "Ik-Töragei"
+  
+ mahrator_religious_head_title: "Kaegan-török"
+ mahrator_religious_head_title_name: "Kaegan-kudhaan"
+ mahrator_devotee_male: "Aygur-ok"
+ mahrator_devotee_male_plural: "Айгур-ок"
+ mahrator_devotee_female: "Ayga-üg"
+ mahrator_devotee_female_plural: "Ayga-ügs"
+ mahrator_devotee_neuter: "Aygur-üg"
+ mahrator_devotee_neuter_plural: "Aygur-ügs"
+ mahrator_priest_male: "Aygur-török"
+ mahrator_priest_male_plural: "Aygur-töröks"
+ mahrator_priest_female: "Ayga-türüg"
+ mahrator_priest_female_plural: "Ayga-türügs"
+ mahrator_priest_alternate_plural: "Aygur-töröks"
+ mahrator_bishop: "Kaegan-ok"
+ mahrator_bishop_plural: "Kaegan-oks"
+ mahrator_positive_afterlife: "Kegger-den"
+ mahrator_negative_afterlife: "Arüs"
+  
+  #Good gods 
+ mahrator_creator_god_name: "Ökon-kegger"
+ mahrator_creator_god_name_possessive: "Ökon-kegger's"
+ mahrator_health_god_name: "Akaalhan"
+ mahrator_health_god_name_possessive: "Akaalhan's"
+ mahrator_fertility_god_name: "Horsemother"
+ mahrator_fertility_god_possessive: "Всадница"
+ mahrator_wealth_god_name: "Золотой конь"
+ mahrator_wealth_god_name_possessive: "Золотой конь"
+ mahrator_household_god_name: "Лошадь очага"
+ mahrator_household_god_name_possessive: "Horse of the Hearth's"
+ mahrator_fate_god_name: "Конь звезд"
+ mahrator_fate_god_name_possessive: "Лошадь звезд"
+ mahrator_knowledge_god_name: "Korgon, Steed of Kaegan"
+ mahrator_knowledge_god_name_possessive: "Korgon's"
+ mahrator_war_god_name: "Утакед"
+ mahrator_war_god_name_possessive: "Utaked's"
+ mahrator_trickster_god_name: "Вороной конь"
+ mahrator_trickster_god_name_possessive: "Raven-horse's"
+ mahrator_night_god_name: "Конь ночи"
+ mahrator_night_god_name_possessive: "Конь ночи"
+ mahrator_water_god_name: "Морской конек"
+ mahrator_water_god_name_possessive: "Морской конек"
+  
+  #Evil gods 
+ mahrator_witch_god_name: "Коноед"
+ mahrator_witch_god_name_possessive: "Пожиратель лошадей"
+ mahrator_devil_name: "Ur-mai"
+ mahrator_devil_name_possessive: "Ur-mai's"
+  
+ mahrator: "Махратор"
+ mahrator_adj: "Махраторан"
+ mahrator_adherent: "Махраторан"
+ mahrator_adherent_plural: "Махратораны"
+ mahrator_desc: "Религия махраторов в основном анимистическая, они поклоняются большому количеству духов лошадей, которых считают почти равноценными богам. Каеган, Бог Лошадей и Царь Небес, как говорят, научил первых людей ездить на лошадях с помощью Всадницы, которая однажды проскакала по небу, пока ненавидящая лошадей богиня Ур-май не сбросила ее на землю\n\n\nЛошади почитаются как квазидивины, и после смерти им устраивают пышные похороны. Обидеть лошадь - тяжкий грех, караемый смертью. Махраранцы также считают, что ценность человека доказывается только в бою, поэтому они проводят ритуальные набеги на своих врагов. И лошадей, и людей хоронят на небе, чтобы Ур-май не смог украсть их души"
+  
+ omrayytor: "Омрайтор" #Машинный перевод 30.06.2023
+ omrayytor_adj: "Омрайторан" #Машинный перевод 30.06.2023
+ omrayytor_adherent: "Омрайторан" #Машинный перевод 30.06.2023
+ omrayytor_adherent_plural: "Омрайторанс" #Машинный перевод 30.06.2023
+ omrayytor_desc: "Омрайторанцы верят, что Каеган подарил их Хатану силу завоевать Амагию, долг кровью, который должен быть оплачен. Они рассматривают войну как главное проявление своей верности богам, не в силах представить, что воинство остепенится, когда оно может сравнять с землей поля язычников. Однако из-за своей хвастливой бойни у ​​них осталось мало друзей среди земель Махратора, и на протяжении всей своей истории они изо всех сил пытались закрепиться за чем-то большим, чем небольшие точки опоры." #Машинный перевод 30.06.2023
+  
+ mshvirat: "Мшвират" #Машинный перевод 30.06.2023
+ mshvirat_adj: "Мшвиратан" #Машинный перевод 30.06.2023
+ mshvirat_adherent: "Мшвиратан" #Машинный перевод 30.06.2023
+ mshvirat_adherent_plural: "Мшвиратаны" #Машинный перевод 30.06.2023
+ mshvirat_desc: "Основанные на вере в то, что лошади слишком священны, чтобы тратить их на войну, строгие обряды Мшвирата ограничивают использование священных животных скачками и дальними путешествиями. Вместо этого их воинские обряды следуют более медленному темпу ходьбы, что больше похоже на танец, чем на рейд, в том, насколько тщательно выполняется каждый шаг. Однако в мире мало кто может сравниться с радостной атмосферой их конных игр." #Машинный перевод 30.06.2023

@@ -1,0 +1,58 @@
+﻿l_russian:
+ reunite_chevalie_decision: "Воссоединить Шевалье"
+ reunite_chevalie_decision_desc: "Шевалье лежит разрозненным, и такого конфликта в его границах не было со времен Войны Черно-Золотой Лиги. Если Шевалье снова объединится, потребуется сильный правитель с такими же сильными претензиями на трон."
+ reunite_chevalie_decision_confirm: "Объедините марчеров"
+ reunite_chevalie_decision_tooltip: "Корона, давно разрушенная, должна объединиться"
+  
+ forge_a_claim_on_chevalie_decision: "Подать заявку на трон марчеров"
+ forge_a_claim_on_chevalie_decision_desc: "Шевалье лежит разрозненным, а наследники его престола ссорятся и дерутся из-за останков. Это право и справедливое дело любого истинного правителя – стремиться занять его главу, и наверняка есть возможности для того, у кого нет «права по рождению», подделать претензии на Высшее Королевство?"
+ forge_a_claim_on_chevalie_decision_confirm: "Подделать претензию"
+ forge_a_claim_on_chevalie_decision_tooltip: "По праву трон может принадлежать только тому, кто способен сам его захватить."
+  
+ codify_the_freedom_of_lifepaths_decision: "Кодифицируйте свободу жизненного пути"
+ codify_the_freedom_of_lifepaths_decision_desc: "Слишком долго дворянство препятствовало выбору пути низшими классами. Святые Пути и основатели нашей веры знали, что каждый мужчина и женщина сами выбирают свою судьбу, независимо от того, что думают их правители. Настало время провести черту. Созвав совет Отцов Пути и закрепив в законе истинный путь, мы гарантируем, что никто больше никогда не сойдет с их истинного Пути!"
+ codify_the_freedom_of_lifepaths_decision_confirm: "Позовите совет!"
+ codify_the_freedom_of_lifepaths_decision_tooltip: "Кодифицировать свободу"
+  
+ enforce_the_exclusivity_of_lifepaths_decision: "Обеспечьте исключительность путей жизни"
+ enforce_the_exclusivity_of_lifepaths_decision_desc: "Какое право имеют крестьяне, когда они работают на нашей земле и служат по нашей прихоти, называть свою судьбу судьбой правителей или воинов? Это законное место дворянства, чтобы выбрать это для них, чтобы гарантировать, что они счастливо трудятся на Пути Урожая и выбирают другой Путь только по нашему собственному усмотрению. Пришло время закрепить в законе истинный порядок вещей, что бы там ни говорил какой-нибудь бормочущий Путник."
+ enforce_the_exclusivity_of_lifepaths_decision_confirm: "Принудительное крепостное право!"
+ enforce_the_exclusivity_of_lifepaths_decision_tooltip: "Обеспечение эксклюзивности"
+  
+ reforge_the_crown_decision: "Перековать корону"
+ reforge_the_crown_decision_desc: "Корона, давно разделенная, должна объединиться."
+ reforge_the_crown_decision_valid_condition: "Все четыре части Сломанной короны находятся в нашем распоряжении."
+ reforge_the_crown_decision_effect: "После того, как Верховный король Гардфри разделил корону, он заявил, что тот, кто сможет собрать осколки, будет достоин носить ее. Вырвав их всех из лап самозванцев, я доказал, что являюсь законным преемником. Пусть Шевалье снова объединится!\n\nВы получаете артефакт Корона Шевалье."
+ reforge_the_crown_decision_confirm: "Конец семейным ссорам"
+ reforge_the_crown_decision_tooltip: "Перековать корону"
+  
+ reclaim_the_crown_decision: "Восстановить части сломанной короны" #Машинный перевод 30.06.2023
+ reclaim_the_crown_decision_desc: "Как претендент на Высшее Королевство, сломанная корона принадлежит мне по праву!" #Машинный перевод 30.06.2023
+ reclaim_the_crown_decision_confirm: "Они все будут моими" #Машинный перевод 30.06.2023
+ reclaim_the_crown_decision_tooltip: "Восстановить части сломанной короны" #Машинный перевод 30.06.2023
+  
+ revert_to_gestanwoder_decision: "Вернуться к Gestanwoder" #Машинный перевод 30.06.2023
+ revert_to_gestanwoder_decision_desc: "Пути Жизненного Пути оказались ошибочными. Достаточно взглянуть по нашим каналам на постоянный крах соседних королевств, чтобы убедиться в этом. Мы должны остановить преследование старых сторонников Gestanwoder, они наши соотечественники. Мы должны стоять вместе, чтобы хаос вокруг нас." #Машинный перевод 30.06.2023
+ revert_to_gestanwoder_decision_confirm: "Обновление светлого времени" #Машинный перевод 30.06.2023
+ revert_to_gestanwoder_decision_tooltip: "Вернуться к вере Gestanwoder" #Машинный перевод 30.06.2023
+  
+ reintegrate_ziemojycz_decision: "Реинтегрировать Земойич"
+ reintegrate_ziemojycz_decision_desc: "Продолжающееся существование того, что осталось от Ойеники, находится на острие лезвия, их близость к доменам личей - вечный топор, висящий над их головами. Мы должны вернуть их в лоно - для их же блага."
+ reintegrate_ziemojycz_decision_valid_condition: "Земойич независим, и в последнее время вы не требовали верности."
+ reintegrate_ziemojycz_decision_effect: "В Земойич будет отправлен гонец с просьбой о присяге."
+ reintegrate_ziemojycz_decision_confirm: "Будем надеяться, что они выбирают с умом"
+ reintegrate_ziemojycz_decision_tooltip: "Реинтегрировать Земойич" #Машинный перевод 30.06.2023
+  
+ demand_independent_lords_swear_fealty_decision: "Требуйте верности независимых"
+ demand_independent_lords_swear_fealty_decision_desc: "В Шевалье есть те, кто еще не отдал мне должного должного. Давайте исправим это."
+ demand_independent_lords_swear_fealty_decision_tooltip: "Пора всем в Марках подчиниться мне."
+ demand_independent_lords_swear_fealty_decision_confirm: "Подготовьте посланников"
+ demand_independent_lords_swear_fealty_decision_cooldown_tt: "Прошло не менее пяти лет с тех пор, как вы в последний раз требовали верности." #Машинный перевод 30.06.2023
+  
+ strike_at_the_partic_decision: "Забастовка в партии"
+ strike_at_the_partic_decision_desc: ""
+ strike_at_the_partic_decision_confirm: ""
+  
+ negotiate_with_the_partic_decision: "Переговоры с Партией"
+ negotiate_with_the_partic_decision_desc: ""
+ negotiate_with_the_partic_decision_confirm: ""

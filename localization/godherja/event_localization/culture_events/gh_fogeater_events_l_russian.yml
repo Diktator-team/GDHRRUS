@@ -1,0 +1,139 @@
+﻿l_russian:
+ fogeater_listen_decision: "Услышать мать тумана"
+ fogeater_listen_decision_desc: "Мать-Туман хочет, чтобы мы услышали, потому что никто другой не услышит, и нам нужно услышать, иначе мы будем глухи к правде, которую она говорит, она хочет, чтобы мы знали, куда делся Отец-Туман, она хочет, чтобы мы вернули его, чтобы вспомнить его память, чтобы услышать его плачь. ОН ПЛАЧЕТ!!! Он плачет, и нам нужно слушать нам нужно слушать что произойдет если мы послушаем? Слишком громко, слишком громко, это больно, но мы должны слушать. Слушать!"
+ fogeater_listen_decision_tooltip: "Слушайте Мать-туман и учитесь на ее криках"
+ fogeater_listen_decision_confirm: "[ROOT.GetCharacter.Custom('GetFirstThirdPerson')] СЛЫШЫТ ВАС [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] СЛЫШЫТ ВАС [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слышишь, пожалуйста, остановись, пожалуйста, послушай"
+  
+ listen_to_the_mistmother_tooltip: "Слушание Древних, которые говорят, расширит наше понимание вселенной... ценой того немногого, что осталось от человечества."
+ gh_fogeater_events.1.t: "Шепчущие звуки да"
+ gh_fogeater_events.1.d: "Шепчется, и [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слышит да [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слышит тебя, Мать-Туман [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слышит [ROOT. GetCharacter.Custom('GetFirstThirdPerson')] слушайте [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слушайте!\n\n#F Мы сыновья, дочери, избранные, которые должны услышать, потому что никто другой не услышит, как вы плачете и плакать, и плакать, и мы не слышим тебя, но мы можем понять слова, мы не можем понять тебя, но мы слышим твой голос. она говорит со мной мне мне мне мне мне мне мне мне она говорит она говорит она говорит она прекрасна и это пугает меня и ужасает и интригует она оплакивает своего падшего мужа своего любимого Туманного Отца который умоляет нас узнать почему он был избран умереть умереть\n\nони едины в союзе навеки и во веки веков или они были едины и телом и разумом, два воробья вместе кружатся над могилой во веки веков? Была ли Мать-Туман жива или мертва, она здесь или он? Кто знает, кто знает, кто знает...#!"
+ gh_fogeater_events.1.a: "[ROOT.GetCharacter.Custom('GetFirstThirdPerson')] увидеть твой свет Мать-туман [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] люблю тебя [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] люблю тебя"
+ gh_fogeater_events.1.a.flavor: "Мое понимание растет [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] услышать [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] услышать больше [ROOT.GetCharacter.Custom('GetFirstThirdPerson' )] услышать [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слушать"
+  
+ gh_fogeater_events.2.t: "Слушать ходячих"
+ gh_fogeater_events.2.d: "Шепчется, и [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слышит да [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слышит тебя, Мать-Мист [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слышит [ROOT. GetCharacter.Custom('GetFirstThirdPerson')] услышать [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] услышать!\n\n#FA далекая земля король плачет думая о горящих домах дети убивают убивают убивают он идет на север идет и идет мир и кости построены жестоко хватаясь за ноги таща друзей позади пока он продолжает идти не обращая внимания на крики они кричат ​​"Помогите мне помогите мне помогите мне пожалуйста вернитесь" он идет вперед мертвый брат сестра ушла он идет и идет не зная почему плачет как он это делает зная, что он должен знать, что она должна знать, что они должны в [тумане|E] он шепчет, что его поиски завершены его бесконечное путешествие навсегда он идет он идет он идет дома горят они кричат ​​для него он идет он идет он идет\n\nпочему он ходит?? почему, почему, почему, почему #!"
+ gh_fogeater_events.2.a: "[ROOT.GetCharacter.Custom('GetFirstThirdPerson')] увидеть ваше путешествие да [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] знаю, но почему"
+ gh_fogeater_events.2.a.flavor: "Мое понимание растет [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слышать [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слышать больше [ROOT.GetCharacter.Custom('GetFirstThirdPerson' )] услышать [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слушать"
+  
+ gh_fogeater_events.3.t: "Копья говорят Они говорят"
+ gh_fogeater_events.3.d: "Шепот окончен, и [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слышит да [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слышит тебя, Мать-Мать [ROOT.GetCharacter.Custom(' GetFirstThirdPerson')] услышать [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] услышать [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] услышать!\n\n#F Они тайно собираются в скрытой тени под великой статуей великой одна Мать-Туман?? Отец-Туман? Это ты??\n\nОни встречаются под недобрым взглядом мужчин, которые не являются теми, кого они называют Сначала они хлещут, и шутят, и кричат, и они тайно трудятся, и смотрят, и смотрят, как их глаза бегают по бесконечным образам те, кто Слушают Древних, они слушают и слышат, а затем убивают, убивают и убивают, и кровь течет по глазам и вниз по рукам и капает с пальцев, а затем они говорят, и копье там, и тысячи их собираются и говорят копье вперед, и оно проходит через голоса и в небо, и сквозь звезды и Мис мать плачет и кричит, и уже слишком поздно слишком поздно слишком поздно#!"
+ gh_fogeater_events.3.a: "Мать тумана [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] прости [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] прости [ROOT.GetCharacter.Custom('GetFirstThirdPerson') ] извините [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] извините"
+ gh_fogeater_events.3.a.flavor: "Мое понимание растет [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] услышать [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] услышать больше [ROOT.GetCharacter.Custom('GetFirstThirdPerson' )] услышать [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слушать"
+  
+ gh_fogeater_events.4.t: "Наблюдатель, наблюдающий за сердитыми часами"
+ gh_fogeater_events.4.d: "Шепчется, и [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слышит да [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слышит тебя, Мать-Мист [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] слышит [ROOT. GetCharacter.Custom('GetFirstThirdPerson')] услышать [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] услышать!\n\n#F Он мертв, он не знает, но мертв, но жив образ отражение, стоящее неподвижно в почерневшем [Concept('tower','башни')|E] в землях мелкой белой грязи в полях бесконечных трактов он ждет он ждет он видит и говорит один пришел один пришел и заговорил с ними и обнимает их образ мерцает но остается человек но не человек существо древнее тень Что было. В руинах того, что было, в месте, которое когда-то было, они стоят и ждут и находят того, кто слушает и говорит о тёмных вещах и злых вещах и говорит им служить и служить они делают со вторым умом, когда они думают о том, что может быть величием, восстановленной смертью тем, кто восстал против#!"
+ gh_fogeater_events.4.a: "В [Concept('tower','башне')|E] пусто. Жди всегда"
+ gh_fogeater_events.4.a.flavor: "Мое понимание растет [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] услышать [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] услышать больше [ROOT.GetCharacter.Custom('GetFirstThirdPerson')] услышать [ROOT.GetCharacter.Custom( 'GetFirstThirdPerson')] слушать"
+  
+ ###invasion stuff 
+ become_fogeater_invasion_leader_decision: "Слушать. Восхождение. Стали."
+ become_fogeater_invasion_leader_decision_desc: "It's become clear clear yes clearer the words I hear them and I hear them better than the others I can listen I can listen I can listen but no no no. No. I can speak. I can answer. The voices whisper in through ears and into eyes and I can listen. And become. And rise. Ascend. It is time. I know now. It is time."
+ become_fogeater_invasion_leader_decision_tooltip: "Listen no longer. Now you speak. The entire world shall hear."
+ become_fogeater_invasion_leader_decision_confirm: "So it begins"
+ become_fogeater_invasion_leader_decision_gain_fogeater_empire: "Your realm becomes the [foglands|E]"
+ become_fogeater_invasion_leader_decision_enable_fogeater_invasion_cb: "Вы получаете доступ к [Concept('fogeater_invasion_war_casus_belli','Туманному вторжению')|E]"
+ fogeater_invasion_leader_title_tier_requirement: "You must be of [king|E] or [emperor|E] rank"
+  
+ fogland_event.0001.t: "[ROOT.GetCharacter.Custom('GetFirstThirdPerson')] говорит"
+ fogland_event.0001.desc: "The voices are no longer whispering, they are no longer unclear. Untold numbers of them now speak through my brain as the black blood of my veins seeps into my lungs, fills my throat, and pours from my mouth. They are all clear now, every single one distinct, and all scream.\n\nThe others stare, they watch and cry. They know, they know, they know... none can know, none know what I do, what the voices tell. The Mistmother was but an aspect, a single voice of thousands of the one who forged us in pain and loneliness.\n\nThere is only one more thing to do. The other voices must be added, all will Listen, and all must join them."
+ fogland_event.0001.a: "The voices are legion, and so are we. I hear, I hear, I hear..."
+ fogland_event.0001.fogeater_invasion_cb: "I am able to use the [fogeater_invasion_war_casus_belli|E]"
+  
+ fogland_event.0002.t: "Динамик!"
+ fogland_event.0002.desc: "They hear they hear they hear they have finally heard as the voices said they would yes yes yes yes yes yes we knew we knew they would hear it was spoken it was spoken forward unto back we knew what was to come we knew what is to come it is now here it is here it is here they are here we are here\n\nYESYESYES we go now we go and gather and march and feast and cry and beg and reave and no not why but they speak and we listen and we do because we do what we must do we know what to do Mistmother we know Mistfather we know we know now what we must do"
+ fogland_event.0002.a: "March march yes we march"
+  
+ fogland_event.0003.t: "Dark Tidings"
+ fogland_event.0003.desc: "The Listener's have spoken.\n\nWhile once the [fogeaters|E] were known for their raids and only occasional assaults at the edge of the world, word has shot around the known world of something else. Something worse. Those few remaining at the edge of the Fog report untold hordes of beings moving about the edges of the [fog|E]. Some 'human', some not, but working hand in hand for unknown purposes. Those few Fogeaters captured have, as usual, revealed little before killing themselves. But they keep saying one thing in particular... "The Speaker hears"."
+ fogland_event.0003.a.neighbor: "Oh no..."
+ fogland_event.0003.a.distant: "The savages organizing? Nonsense."
+  
+ #story cycle events 
+ fogeater_invaison.0001.title: "Emerging from the Fog"
+ fogeater_invasion.0001.desc: "With control over such large a region of the [fog|E], fogbeasts and eaters alike flock in hordes. It is time to rise, and Speak for the Fog."
+ fogeater_invasion.0001.a: "I shall claim the Greymarch"
+ fogeater_invasion.001.b: "I am not worthy..."
+ #event for death of invasion leader 
+ fogeater_invasion.1001.title: "The Speaker is silent"
+ fogeater_invasion.1001.sympathetic.desc: ""It has happened we knew we knew we knew it has happened we knew it would happen we heard it would happen they told us they told us they told us it would happen the Speaker has joined the voices their own an aspect the Mistspeaker is there one of many alongside those they brought we knew we knew we knew we are sorry we are sorry we knew we knew we knew we will listen we will hear we will listen."
+ fogeater_invasion.1001.generic.desc: "Thank [ROOT.Char.GetFaith.HighGodName]! The so-called 'Speaker' of the [fogeaters|E] finally lies dead. While this will no doubt not be the end of Fogeater aggression, without their leader the Fogeater's seem disorganized, confused, and panicked. Already there are reports of many fleeing into the [fog|E], and of entire armies seemingly killing themselves in some sort of maddened state.\n\nFor now, it seems, the invasion is over."
+ fogeater_invasion.1001.generic.oblivious.desc: "There is frantic news of some sort of northern savage being dead. Some maddened warlord coming out of the '[fog|E]' and apparently consuming all they have met, we see little reason why they were so much more of a worry than the Fog itself."
+ fogeater_invasion.1001.a: "Good riddance!"
+ fogeater_invasion.1001.b: "And we will hear we will hear we will hear."
+ fogeater_invasion.1001.c: "Speakers? Listeners? What?"
+  
+ #event for the appearance of the fogeaters 
+ fogeater_invasion.1002.t: "Восстание фогитеров"
+ fogeater_invasion.1002.desc.close: "The news from the [foglands|E] is becoming clearer. Scathach Arawn, a [fogeater|E] warlord, has declared himself the 'Garformdaer', or 'War Speaker' of the Fogeater tribes. Under him is an army in the thousands, along with a massive cohort of strange [fogbeasts|E] and what some are saying are spirits that have somehow decided to follow the armies out of the [fog|E].\n\nTheir intentions are clear, and worst of all, Scathach Arawn seems to be an exception among his people. Shrewd and intelligent, and a competent general, this may be the biggest threat from the Foglands since the Fog itself..."
+ fogeater_invasion.1002.desc.far: "The rulers at the edges of the [foglands|E] have apparently taken to great panic at some sort of new leader of those they call '[fogeaters|E]'. If reports are to be held true, this Scathach Arawn commands untold legions of tribals and beasts from the [fog|E], and is intent on conquering the known world. Most likely exaggeration, but if not, we will surely hear more about it soon."
+ fogeater_invasion.1002.a: "There is no way this can end well."
+ fogeater_invasion.1002.b: "Surely this has to be an exaggeration... right?"
+ fogeater_invasion.1002.c: "More whinging from the effeminates of the north."
+ fogeater_invasion.1002.craven: "And they are coming here?!"
+ fogeater_invasion.1002.scathach_arawn_tt: "Графства оккупированные пожирателями, потеряют большую часть своего [Concept('development','развития')|E]"
+  
+ fogeater_invasion.1005.t: "The Garformdaer is Dead"
+ fogeater_invasion.1005.desc: "With the passing of [old_khan.GetTitledFirstName] the so-called 'Greymarch' has come to an end. Fogeaters flee for the deep fog, leaving vast tracks of wasteland in their wake. Who is to know what will come next for the Shattered Coast."
+ fogeater_invasion.1005.a: "An era is at an end."
+ fogeater_invasion.1005.a.tt: "The Shattered Coast is safe for now..."
+ #fogeaters try to subjugate you 
+ fogeater_invasion.2001.opening: "Deafened, silent, mute one,"
+ fogeater_invasion.2001.desc: "Your ears are closed, your eyes are blind. We are here, they are here, I am coming. I am inevitable. Accept it, listen, hear, give yourself to the Ones who Speak. Join, join, join, you must listen. You need to hear."
+ fogeater_invasion.2001.a: "We have no choice..."
+ fogeater_invasion.2001.a.tt: "You become a vassal of the Fogeaters. Your chances of survival are low"
+ fogeater_invasion.2001.b: "I refuse to submit to you!"
+ fogeater_invasion.2001.b.tt: "The Fogeaters will invade"
+  
+ #accept subjugation 
+ fogeater_invasion.2002.opening: "Speaker of the Fogeaters,"
+ fogeater_invasion.2002.desc: "We see little option than to accept your demand. I beg only for the lives of myself and my people..."
+ fogeater_invasion.2002.a: "They will hear they will listen"
+  
+ #refuse subjugation 
+ fogeater_invasion.2003.opening: ""
+ fogeater_invasion.2003.desc: "We will send your tribes back to where they belong. Run back to the [foglands|E], your kind will never be welcomed here."
+ fogeater_invasion.2003.a: "They must hear they will listen and I will make them..."
+  
+ fogeater_invasion.2101.desc: "You have been a good friend and servant to me thus far. It is time we make your service official, as you swear fealty to the Garformdaer."
+ fogeater_invasion.2101.a: "Of course, my liege."
+ fogeater_invasion.2101.b: "You think I am in service to you? Ridiculous!"
+ fogeater_invasion.2101.b.tt: "@warning_icon! [fogeater_emperor.GetShortUIName] breaks [fogeater_emperor.GetHerHis] alliance with you and may go to war instead!"
+  
+ fogeater_invasion.2103.a: "You will bow to me now, one way or another!"
+ fogeater_invasion.2103.b: "Just you wait, you insolent dog..."
+  
+  
+ fogeater_invasion.2111.b: "You think me less than your equal? Outrageous!"
+ fogeater_invasion.2111.b.tt: "@warning_icon! [fogeater_emperor.GetShortUIName] breaks [fogeater_emperor.GetHerHis] alliance with you"
+  
+ fogeater_invasion.2112.desc: "You truly believe yourself to be my better? You are not even my equal! It is clear that the friendship I graciously offered you has been nothing more than throwing pearls before swine."
+ fogeater_invasion.2112.a: "Oh, you will regret your words and deeds..."
+  
+  
+ fogeater_invasion.3000.t: "The Fog Stirs"
+ fogeater_invasion.3000.desc: "Less and less have we heard from the borderlands of late, since stories arrived telling of the [fogeaters|E] growing bold and a great churning of [fog|E] near the Black Pass. It has been months since the last, our ravens unanswered, and the court grows anxious.\n\nWith the passing of another day it seemed no answer would come until a frenzied messenger arrived covered in mud and ash. Despite our best efforts, the messenger would only speak three words—\n\n'The Fog stirs.'"
+ fogeater_invasion.3000.a: "We must prepare for what lies ahead."
+  
+ fogeater_invasion.5000.t: "Aid to the Black Pass"
+ fogeater_invasion.5000.desc: "Since reports first began to arrive of horrid monsters assaulting the mighty walls of the Black Pass from the [fog|E], those in my court did not believe it. But the reports have not stopped, and the monsters' numbers keep growing. Now, the defenders of the Pass call for aid. Anything we can spare they have asked for, though who is to say if our enemies may not use this as a chance to strike at us?"
+ fogeater_invasion.5000.a: "We shall send gold."
+ fogeater_invasion.5000.b: "We shall send an army!"
+ fogeater_invasion.5000.c: "On second thought, I'm sure they can survive on their own."
+  
+ send_aid_to_migraddr_decision.t: "Send Aid to the Black Pass"
+ send_aid_to_migraddr_decision_desc: "The [fog|E] stirs. Reports have arrived telling of horrid monsters rising from the misty wood to strike at the Black Pass, and its defenders have called for aid from across the North."
+ send_aid_to_migraddr_decision_confirm: "Aid the Fight"
+ fogeater_invasion.5000.tt: "We shall send aid in [gold|E] or warriors to the Black Pass."
+ send_aid_to_migraddr_decision_tooltip: "We shall send aid in [gold|E] or men to the Black Pass."
+  
+ suggestion_cannot_invade_black_pass_label: "Cannot Yet Invade the Black Pass"
+ suggestion_cannot_invade_black_pass: "Suggestion: You cannot yet invade the Black Pass to break into the Shattered Coast"
+ suggestion_cannot_invade_black_pass_desc: "You must wait one year following the creation of your title to invade the Black Pass."
+ suggestion_cannot_invade_black_pass_click: "# Click to view your [title|E]"
+ ###CB stuff 
+ FOGEATER_INVASION_WAR_NAME: "Вторжение туманников"
+ FOGEATER_INVASION_KINGDOM_CB_NAME: "Вторжение туманников"
+ fogeater_invasion_war_victory_desc_attacker: "Attacker seizes opponent's titles"
+ fogeater_invasion_war_victory_desc: "Attacker seizes opponent's titles"
+  
+  

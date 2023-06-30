@@ -1,0 +1,44 @@
+﻿l_russian:
+  
+ #cnevobarthane Loc 
+ cnevobarthane_religion: "Theugombric"
+ cnevobarthane_religion_adj: "Теугомбрик"
+ cnevobarthane_religion_adjerent: "Спикер"
+ cnevobarthane_religion_adherent_plural: "Динамики" #Машинный перевод 30.06.2023
+ cnevobarthane_religion_desc: "Родные верования изолированных тевгомбрийских народов склоняются к монотеизму, с солнечным божеством в качестве центральной фигуры. Хотя реинкарнация иногда является фактором, она обычно ограничивается существами великой или богоподобной силы, а верующие обречены на вечный покой либо в "Светлых залах" Куту Ремзны, либо на вечные скитания по Аэрасу в проклятой невидимой и бесплотной форме, известной как Наксаз. В этих верованиях мало новообращенных за пределами своей культуры, вера обычно передается от матери к сыну. Тем не менее, обращение извне технически невозможно"
+ cnevobarthane_high_god_name: "Cnevobarthane"
+ cnevobarthane_high_god_name_possessive: "Cnevobarthane's"
+ cnevobarthane_high_god_name_alternate: "The Sunbringer"
+ cnevobarthane_high_god_name_alternate_possessive: "The Sunbringer's"
+ cnevobarthane_devil_name: "Larn Haxu"
+ cnevobarthane_devil_name_possessive: "Larn Haxu's"
+  
+  
+ cnevobarthane_house_of_worship: "Eguxkleia"
+ cnevobarthane_house_of_worship_plural: "Eguxkleias"
+ cnevobarthane_religious_symbol: "Солнечный глаз"
+ cnevobarthane_religious_text: "Десять книг"
+  
+ cnevobarthane_religious_head_title: "Высший Экай"
+ cnevobarthane_religious_head_title_name: "Экайлат"
+ cnevobarthane_devotee_male: "Хизлаксар"
+ cnevobarthane_devotee_male_plural: "Хизлаксар"
+ cnevobarthane_devotee_female: "Hizlaxar"
+ cnevobarthane_devotee_female_plural: "Hizlaxar"
+ cnevobarthane_devotee_neuter: "Хизлаксар"
+ cnevobarthane_devotee_neuter_plural: "Hizlaxar"
+ cnevobarthane_priest_male: "Ekai"
+ cnevobarthane_priest_male_plural: "Ekai"
+ cnevobarthane_priest_female: "Ekai"
+ cnevobarthane_priest_female_plural: "Ekai"
+ cnevobarthane_priest_alternate_plural: "Ekai"
+ cnevobarthane_bishop: "Errasti"
+ cnevobarthane_bishop_plural: "Errasti"
+ cnevobarthane_positive_afterlife: "Cutu Remzna"
+ cnevobarthane_negative_afterlife: "Naxaz"
+  
+ cnevobarthane: "Слушатели [Concept('cnevobarthane','Кневобартаны')|E]"
+ cnevobarthane_adj: "Слушатели [Concept('cnevobarthane','Кневобартаны')|E]"
+ cnevobarthane_adherent: "Хизлаксар" #Машинный перевод 30.06.2023
+ cnevobarthane_adherent_plural: "Хизлахар"
+ cnevobarthane_desc: "Ярые монотеисты, ораторы из [Concept('cnevobarthane','Кневобартаны')|E] являются исконной религиозной сектой теугомбрийцев - хотя обращение чужаков теоретически возможно, исторически об этом почти не слышно.\n\n Говорящие верят, что люди живут в циклические эоны, где расы людей рождаются, процветают в течение долгих веков, а затем уходят в неизвестную и, возможно, апокалиптическую судьбу. Они поклоняются [Concept('cnevobarthane','Кневобартане')|E], Первый человек нынешнего мира, который родился полностью сформированным из последнего оставшегося камня последнего оставшегося разрушенного дома исчезнувших людей прежнего мира. Затем он создал все человечество и заселил Аэрас своим потомством. Однако многие из его детей, недовольные и завистливые, отвернулись от него. Лишь избранные проглотили свою гордость и были благодарны Отцу, предпочитая чтить его и его законы.\n\n\nЧтобы уберечь человечество от бед и избавить его от судьбы Предвечного мира, [Concept('cnevobarthane','Кневобартана')|E] принял мученическую смерть, чтобы вознестись и соединиться с солнцем. Однако это не означает, что Он покинул Аэрас, ибо Говорящие верят, что [Concept('cnevobarthane','Кневобартана')|E] возвращается к ним каждые несколько веков, возрождаясь в виде младенца, который вырастает в волхва невыразимой силы."

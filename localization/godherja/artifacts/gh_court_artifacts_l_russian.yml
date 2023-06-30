@@ -1,0 +1,833 @@
+﻿l_russian:
+  ############################## 
+  # Procedural court artifacts # 
+  ############################## 
+  
+  # Animals (used in ArtifactAnimalType) 
+ animal_type_dire_stag: "благородный олень"
+ animal_type_hyena: "гиена"
+ animal_type_jackal: "шакал"
+ animal_type_kursha: "курша"
+ animal_type_ibex: "горный козел"
+ animal_type_kursha: "курша"
+ animal_type_camel: "верблюд"
+ animal_type_bison: "бизон"
+ animal_type_fogbeast: "туманный зверь"
+ animal_type_tinessian: "тинессианский лев"
+ animal_type_bison: "бизон"
+ animal_type_mammoth: "мамонт" #Машинный перевод 30.06.2023
+ animal_type_living_blizzard: "живая метель" #Машинный перевод 30.06.2023
+ animal_type_whisperwind: "шепот ветра" #Машинный перевод 30.06.2023
+ animal_type_animal_spirit: "дух" #Машинный перевод 30.06.2023
+ animal_type_shade: "оттенок" #Машинный перевод 30.06.2023
+ animal_type_djinn: "джинн" #Машинный перевод 30.06.2023
+ animal_type_banshee: "банши" #Машинный перевод 30.06.2023
+ animal_type_fortune_eater: "Пожиратель удачи" #Машинный перевод 30.06.2023
+ animal_type_cor: "кор" #Машинный перевод 30.06.2023
+ animal_type_dire_mosquito: "ужасный комар" #Машинный перевод 30.06.2023
+ animal_type_king_cobra: "Королевская кобра" #Машинный перевод 30.06.2023
+ animal_type_emperorcobra: "императорская кобра" #Машинный перевод 30.06.2023
+ animal_type_rovarskan_dragon: "Роварскан Дракон" #Машинный перевод 30.06.2023
+ animal_type_great_rahksasa: "великий Ракшаса" #Машинный перевод 30.06.2023
+ animal_type_chimera: "химера" #Машинный перевод 30.06.2023
+ animal_type_tarasque: "тараск" #Машинный перевод 30.06.2023
+ animal_type_giant_spider: "гигантский паук" #Машинный перевод 30.06.2023
+ animal_type_ukhinbooum: "ухинбум" #Машинный перевод 30.06.2023
+ animal_type_adze: "тесло" #Машинный перевод 30.06.2023
+ animal_type_bhramar: "бхрамар" #Машинный перевод 30.06.2023
+ animal_type_ugkilrrrmag: "угкилрмаг" #Машинный перевод 30.06.2023
+ animal_type_cockatrice: "кокатрикс" #Машинный перевод 30.06.2023
+ animal_type_dire_mosquito: "ужасный комар" #Машинный перевод 30.06.2023
+ animal_type_rock_giant: "рок Гигант" #Машинный перевод 30.06.2023
+ animal_type_manzasiri: "манзашири" #Машинный перевод 30.06.2023
+ animal_type_valien_diamond: "валиен даймонд" #Машинный перевод 30.06.2023
+ animal_type_panther: "пантера" #Машинный перевод 30.06.2023
+ animal_type_cheetah: "гепард" #Машинный перевод 30.06.2023
+ animal_type_leopard: "леопард"
+ animal_type_snow_leopard: "снежный барс" #Машинный перевод 30.06.2023
+ animal_type_bubalus: "бубал" #Машинный перевод 30.06.2023
+ animal_type_gaur: "гаур" #Машинный перевод 30.06.2023
+ animal_type_hippopotamus: "бегемот" #Машинный перевод 30.06.2023
+ animal_type_rhinoceros: "носорог" #Машинный перевод 30.06.2023
+ animal_type_gorilla: "горилла"
+ animal_type_cat: "кошка"
+ animal_type_dog: "собака"
+ animal_type_fox: "лиса"
+ animal_type_hare: "заяц"
+ animal_type_wolf: "волк"
+ animal_type_stag: "благородный олень"
+ animal_type_hart: "олень"
+ animal_type_horse: "лошадь"
+ animal_type_rabbit: "кролик"
+ animal_type_boar: "кабан"
+ animal_type_lion: "лев"
+ animal_type_tiger: "тигр"
+ animal_type_bear: "медведь"
+ animal_type_aurochs: "тур"
+ animal_type_unicorn: "единорог"
+ animal_type_dragon: "дракон"
+ animal_type_lynx: "рысь"
+ animal_type_snake: "змея" #Машинный перевод 30.06.2023
+ animal_type_owlbear: "совенок" #Машинный перевод 30.06.2023
+ animal_type_lymrill: "Лимрилл" #Машинный перевод 30.06.2023
+  
+  # Hides 
+ artifact_hide_type_dire_stag: "величественного благородного оленя"
+ artifact_hide_type_hyena: "гиены"
+ artifact_hide_type_jackal: "шакала"
+ artifact_hide_type_kursha: "курши"
+ artifact_hide_type_ibex: "горного козла"
+ artifact_hide_type_camel: "верблюда"
+ artifact_hide_type_bison: "бизона"
+ artifact_hide_type_fogbeast: "туманного зверя"
+ artifact_hide_type_tinessian: "тенессианского льва"
+ artifact_hide_type_panther: "пантера" #Машинный перевод 30.06.2023
+ artifact_hide_type_cheetah: "гепард" #Машинный перевод 30.06.2023
+ artifact_hide_type_leopard: "леопард" #Машинный перевод 30.06.2023
+ artifact_hide_type_snow_leopard: "снежный барс" #Машинный перевод 30.06.2023
+ artifact_hide_type_mammoth: "мамонт" #Машинный перевод 30.06.2023
+ artifact_hide_type_cat: "[owner.GetTitledFirstNamePossessiveNoTooltip] любимый кот [ROOT.Char.Custom('CatStoryName')]" #Машинный перевод 30.06.2023
+ artifact_hide_type_dog: "[owner.GetTitledFirstNamePossessiveNoTooltip] любимая собака [ROOT.Char.Custom('DogStoryName')]" #Машинный перевод 30.06.2023
+ artifact_hide_type_fox: "великолепного лиса"
+ artifact_hide_type_hare: "великолепного зайца"
+ artifact_hide_type_hart: "оленя"
+ artifact_hide_type_stag: "величественного благородного оленя"
+ artifact_hide_type_boar: "кабана"
+ artifact_hide_type_wolf: "волка"
+ artifact_hide_type_lion: "льва"
+ artifact_hide_type_tiger: "тигра"
+ artifact_hide_type_unicorn: "единорога"
+ artifact_hide_type_dragon: "дракона"
+ artifact_hide_type_lynx: "рыси"
+ artifact_hide_type_owlbear: "совенок" #Машинный перевод 30.06.2023
+ artifact_hide_type_lymrill: "лимрилл" #Машинный перевод 30.06.2023
+  
+ feature_animal_hide_type_hyena: "гиены"
+ feature_animal_hide_type_jackal: "шакала"
+ feature_animal_hide_type_kursha: "курши"
+ feature_animal_hide_type_ibex: "горного козла"
+ feature_animal_hide_type_camel: "верблюда"
+ feature_animal_hide_type_bison: "бизона"
+ feature_animal_hide_type_fogbeast: "туманного зверя"
+ feature_animal_hide_type_dire_stag: "величественного благородного оленя"
+ feature_animal_hide_type_tinessian: "тенессианского льва"
+ feature_animal_hide_type_panther: "пантера" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_cheetah: "гепард" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_leopard: "леопард" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_snow_leopard: "снежный барс" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_mammoth: "мамонт" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_owlbear: "совенок" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_lymrill: "лимрилл" #Машинный перевод 30.06.2023
+  
+ artifact_wall_animal_skull_wild_boar: "кабана с бритвенно-острыми клыками"
+ artifact_wall_animal_skull_wolf: "большой зубастый волк" #Машинный перевод 30.06.2023
+ artifact_wall_animal_skull_stag: "благородный олень, украшающий по настоящему колосальную стойку"
+ artifact_wall_animal_skull_lion: "большой лев, царь зверей" #Машинный перевод 30.06.2023
+ artifact_wall_animal_skull_tiger: "смертоносного тигра"
+ artifact_wall_animal_skull_bear: "большой медведь" #Машинный перевод 30.06.2023
+ artifact_wall_animal_skull_aurochs: "большого тура"
+ artifact_wall_animal_skull_horse: "могучего боевого коня, которым некогда [Select_CString(owner.IsFemale, 'владела', 'владел' )] [owner.GetNameNoTooltip]."
+ artifact_wall_animal_skull_rabbit: "самого грозного существа в мире, кролика."
+ feature_animal_hide_type_cat: "[owner.GetTitledFirstNamePossessiveNoTooltip] любимый кот [Artifact.GetOwner.Custom('CatStoryName')]" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_dog: "[owner.GetTitledFirstNamePossessiveNoTooltip] любимая собака [Artifact.GetOwner.Custom('DogStoryName')]" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_fox: "великолепного лиса"
+ feature_animal_hide_type_hare: "красивый заяц" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_hart: "олень" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_rabbit: "кролика"
+ feature_animal_hide_type_stag: "величественный олень" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_boar: "кабан" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_wolf: "волк" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_lion: "Лев" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_bear: "медведь" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_tiger: "тигр" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_aurochs: "зубр" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_unicorn: "единорог" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_dragon: "дракон" #Машинный перевод 30.06.2023
+ feature_animal_hide_type_lynx: "рысь" #Машинный перевод 30.06.2023
+  
+  
+  # Essence 
+ artifact_animal_essence: "Сущность" #Машинный перевод 30.06.2023
+ artifact_animal_essence_type_living_blizzard: "живая метель" #Машинный перевод 30.06.2023
+ artifact_animal_essence_type_whisperwind: "шепот ветра" #Машинный перевод 30.06.2023
+ artifact_animal_essence_type_spirit: "дух" #Машинный перевод 30.06.2023
+ artifact_animal_essence_type_shade: "тень" #Машинный перевод 30.06.2023
+ artifact_animal_essence_type_djinn: "джинн" #Машинный перевод 30.06.2023
+ artifact_animal_essence_type_banshee: "банши" #Машинный перевод 30.06.2023
+ artifact_animal_essence_type_fortune_eater: "пожиратель удачи" #Машинный перевод 30.06.2023
+ artifact_animal_essence_type_cor: "Кор" #Машинный перевод 30.06.2023
+  
+ feature_animal_essence_type_living_blizzard: "живая метель" #Машинный перевод 30.06.2023
+ feature_animal_essence_type_whisperwind: "шепот ветра" #Машинный перевод 30.06.2023
+ feature_animal_essence_type_spirit: "дух" #Машинный перевод 30.06.2023
+ feature_animal_essence_type_shade: "тень" #Машинный перевод 30.06.2023
+ feature_animal_essence_type_djinn: "джинн" #Машинный перевод 30.06.2023
+ feature_animal_essence_type_banshee: "банши" #Машинный перевод 30.06.2023
+ feature_animal_essence_type_fortune_eater: "пожиратель удачи" #Машинный перевод 30.06.2023
+ feature_animal_essence_type_cor: "кор" #Машинный перевод 30.06.2023
+  
+ feature_animal_essence_infusion_fear: "проникнутый страхом" #Машинный перевод 30.06.2023
+ feature_animal_essence_infusion_bliss: "наполненный блаженством" #Машинный перевод 30.06.2023
+ feature_animal_essence_infusion_sorrow: "пропитанный печалью" #Машинный перевод 30.06.2023
+ feature_animal_essence_infusion_rage: "наполненный яростью" #Машинный перевод 30.06.2023
+ feature_animal_essence_infusion_disgust: "проникнутый отвращением" #Машинный перевод 30.06.2023
+  
+  
+  # Toxins 
+ artifact_animal_toxin: "Токсин" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_type_king_cobra: "королевская кобра" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_type_emperorcobra: "императорская кобра" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_type_rovarskan_dragon: "роварсканский дракон" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_type_great_rahksasa: "великий ракшас" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_type_chimera: "a chimera" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_type_tarasque: "тараск" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_type_giant_spider: "гигантский паук" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_type_ukhinbooum: "ухинбум" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_type_adze: "тесло" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_type_bhramar: "бхрам" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_type_ugkilrrrmag: "угкилррмаг" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_type_cockatrice: "кокатрикс" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_type_dire_mosquito: "ужасный комар" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_type_snake: "змея" #Машинный перевод 30.06.2023
+  
+ feature_animal_toxin_type_king_cobra: "королевская кобра" #Машинный перевод 30.06.2023
+ feature_animal_toxin_type_emperorcobra: "императорская кобра" #Машинный перевод 30.06.2023
+ feature_animal_toxin_type_rovarskan_dragon: "роварсканский дракон" #Машинный перевод 30.06.2023
+ feature_animal_toxin_type_great_rahksasa: "великий ракшас" #Машинный перевод 30.06.2023
+ feature_animal_toxin_type_chimera: "a chimera" #Машинный перевод 30.06.2023
+ feature_animal_toxin_type_tarasque: "тараск" #Машинный перевод 30.06.2023
+ feature_animal_toxin_type_giant_spider: "гигантский паук" #Машинный перевод 30.06.2023
+ feature_animal_toxin_type_ukhinbooum: "ухинбум" #Машинный перевод 30.06.2023
+ feature_animal_toxin_type_adze: "тесло" #Машинный перевод 30.06.2023
+ feature_animal_toxin_type_bhramar: "бхрам" #Машинный перевод 30.06.2023
+ feature_animal_toxin_type_ugkilrrrmag: "угкилррмаг" #Машинный перевод 30.06.2023
+ feature_animal_toxin_type_cockatrice: "кокатрикс" #Машинный перевод 30.06.2023
+ feature_animal_toxin_type_dire_mosquito: "ужасный комар" #Машинный перевод 30.06.2023
+ feature_animal_toxin_type_snake: "змея" #Машинный перевод 30.06.2023
+  
+ feature_animal_toxin_infusion_sickly: "Ихор выглядит прогорклым и болезненным." #Машинный перевод 30.06.2023
+ feature_animal_toxin_infusion_honey: "Он выглядит и пахнет золотым медом." #Машинный перевод 30.06.2023
+ feature_animal_toxin_infusion_acidic: "Воздух обжигает нос, когда чувствуешь его запах." #Машинный перевод 30.06.2023
+ feature_animal_toxin_infusion_bloody: "Темный ихор пахнет железом и коагуляцией." #Машинный перевод 30.06.2023
+ feature_animal_toxin_infusion_powder: "После извлечения токсин быстро превратился в порошок с запахом земли." #Машинный перевод 30.06.2023
+  
+  # Gems 
+ artifact_animal_gem: "Драгоценный камень" #Машинный перевод 30.06.2023
+ artifact_animal_gem_type_rock_giant: "каменный великан" #Машинный перевод 30.06.2023
+ artifact_animal_gem_type_manzasiri: "манзашири" #Машинный перевод 30.06.2023
+ artifact_animal_gem_type_valien_diamond: "валиен бриллиант" #Машинный перевод 30.06.2023
+  
+ feature_animal_gem_type_rock_giant: "каменный великан" #Машинный перевод 30.06.2023
+ feature_animal_gem_type_manzasiri: "манзашири" #Машинный перевод 30.06.2023
+ feature_animal_gem_type_valien_diamond: "валиен бриллиант" #Машинный перевод 30.06.2023
+  
+ feature_animal_gem_infusion_hot: "Драгоценный камень обжигает на ощупь, как будто его только что вытащили из вулкана." #Машинный перевод 30.06.2023
+ feature_animal_gem_infusion_rock: "Драгоценный камень грязный и зазубренный, но сила все еще исходит изнутри." #Машинный перевод 30.06.2023
+ feature_animal_gem_infusion_crystal: "Драгоценный камень блестит на свету." #Машинный перевод 30.06.2023
+  
+ may_gain_artifact_hide_tooltip: "У охотников получить трофей больше"
+  
+  
+  # Skull 
+ artifact_wall_animal_skull_stag: "благородный олень, украшающий по настоящему колосальную стойку"
+ artifact_hunt_wall_skull_name: "Череп [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] из [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]"
+ artifact_hunt_wall_skull_description: "Внушительный череп [newly_created_artifact.GetFeatureText( 'animal_skull_type' )], пойманного в [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]. [SCOPE.Custom('ArtifactAdverbQuality')|L] череп сохранен и прикреплен к [SCOPE.Custom('ArtifactAdverbWealth')], украшающий [newly_created_artifact.GetFeatureText( 'generic_material_wood' )] подставку."
+  
+ artifact_wall_skull_bubalus: "бубал" #Машинный перевод 30.06.2023
+ artifact_wall_skull_gaur: "гаур" #Машинный перевод 30.06.2023
+ artifact_wall_skull_hippopotamus: "бегемот" #Машинный перевод 30.06.2023
+ artifact_wall_skull_rhinoceros: "носорог" #Машинный перевод 30.06.2023
+ artifact_wall_skull_gorilla: "горилла" #Машинный перевод 30.06.2023
+ artifact_wall_skull_leopard: "леопард" #Машинный перевод 30.06.2023
+  
+ feature_animal_skull_type_bubalus: "бубал" #Машинный перевод 30.06.2023
+ feature_animal_skull_type_leopard: "леопард" #Машинный перевод 30.06.2023
+ feature_animal_skull_type_gaur: "гаур" #Машинный перевод 30.06.2023
+ feature_animal_skull_type_hippopotamus: "бегемот" #Машинный перевод 30.06.2023
+ feature_animal_skull_type_rhinoceros: "носорог" #Машинный перевод 30.06.2023
+ feature_animal_skull_type_gorilla: "горилла" #Машинный перевод 30.06.2023
+  
+ artifact_monster_hide_big_name: "Шкура [newly_created_artifact.GetFeatureText( 'animal_hide_type' )]"
+ artifact_monster_hide_big_description: "Дубленная шкура [newly_created_artifact.GetFeatureText( 'animal_hide_type' )]. Шкура выглядит массивно и [SCOPE.Custom('ArtifactQuality')] качества."
+ artifact_hunt_animal_hide_big_description: "Дубленная шкура [newly_created_artifact.GetFeatureText( 'animal_hide_type' )], пойманного в [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]. Шкура выглядит массивно и [SCOPE.Custom('ArtifactQuality')] качества."
+ artifact_hunt_animal_hide_medium_description: "Дубленная шкура [newly_created_artifact.GetFeatureText( 'animal_hide_type' )], пойманного в [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]. Шкура [SCOPE.Custom('ArtifactQuality')] качества."
+ artifact_hunt_animal_hide_medium_name: "Шкура [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] из [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]"
+ artifact_hunt_animal_hide_big_name: "Шкура [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] из [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]"
+ artifact_hunt_animal_hide_small_name: "Шкура [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] из [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]"
+ artifact_hunt_wall_skull_name: "Череп [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] из [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]"
+ artifact_hunt_wall_skull_description: "Внушительный череп [newly_created_artifact.GetFeatureText( 'animal_skull_type' )], пойманного в [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]. [SCOPE.Custom('ArtifactAdverbQuality')|L] череп сохранен и прикреплен к [SCOPE.Custom('ArtifactAdverbWealth')], украшающий [newly_created_artifact.GetFeatureText( 'generic_material_wood' )] подставку."
+ artifact_hunt_animal_hide_fogbeast_name: "Скрыть [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #Машинный перевод 30.06.2023
+ artifact_hunt_fogbeast_hide_description: "Дубленая шкура [newly_created_artifact.GetFeatureText( 'animal_hide_type' )], добытая в [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]. Несмотря на качество шкуры, она выглядит жутко." #Машинный перевод 30.06.2023
+ artifact_hunt_essence_name: "Суть [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #Машинный перевод 30.06.2023
+ artifact_hunt_essence_description: "Суть [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))], [newly_created_artifact.GetFeatureText( 'animal_essence_infusion' )]. Пары все еще скатываются из контейнера." #Машинный перевод 30.06.2023
+ artifact_animal_toxin_name: "Экстракт токсина [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #Машинный перевод 30.06.2023
+ artifact_animal_toxin_description: "Токсины, извлеченные из [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] из [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]. [newly_created_artifact.GetFeatureText( 'animal_toxin_infusion' )]" #Машинный перевод 30.06.2023
+ artifact_animal_gem_name: "Кристалл [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #Машинный перевод 30.06.2023
+ artifact_animal_gem_description: "Драгоценный камень, извлеченный из [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]. [newly_created_artifact.GetFeatureText( 'animal_gem_infusion' )]" #Машинный перевод 30.06.2023
+  
+ artifact_shahmaran_heart_name: "Сердце Шахмарана [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #Машинный перевод 30.06.2023
+ artifact_shahmaran_heart_description: "Сердце шахмарана совсем не кристаллическое образование из драгоценных камней и камней, пульсирующее слабой магической энергией. Вызывает тревогу то, что кристаллы сформировались в виде человека, сгорбившегося в позе эмбриона." #Машинный перевод 30.06.2023
+ artifact_simurgh_feathers_name: "Перья Симурга [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #Машинный перевод 30.06.2023
+ artifact_simurgh_feathers_description: "Эти перья все еще сохраняют часть яркого цвета и мудрости величественного Симурга." #Машинный перевод 30.06.2023
+ artifact_shahmaran_heart: "Сердце Шахмарана" #Машинный перевод 30.06.2023
+ artifact_simurgh_feathers: "Симург Перья" #Машинный перевод 30.06.2023
+ artifact_wild_hunt_helmet: "Шлем дикого всадника" #Машинный перевод 30.06.2023
+ artifact_wild_hunt_name: "Шлем дикого всадника" #Машинный перевод 30.06.2023
+ artifact_wild_hunt_description: "Несмотря на то, что он разлучен со своим грозным владельцем, он все еще способен вызывать мурашки по спине противника." #Машинный перевод 30.06.2023
+ artifact_gargoyle_figure: "Фигурка горгульи" #Машинный перевод 30.06.2023
+ artifact_gargoyle_name: "Горгулья [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #Машинный перевод 30.06.2023
+ artifact_gargoyle_description: "Эта сморщенная фигура когда-то была могучей горгульей, а теперь стала чуть больше домашней кошки." #Машинный перевод 30.06.2023
+ artifact_seamonster_treasure: "Сокровище Бездонных Чудовищ" #Машинный перевод 30.06.2023
+ artifact_seamonster_name: "Бездонное чудовище [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #Машинный перевод 30.06.2023
+ artifact_seamonster_description: "Когда-то его защищало Бездонное Чудовище, но теперь оно наше." #Машинный перевод 30.06.2023
+ artifact_iye_gem: "Айе Кристалл" #Машинный перевод 30.06.2023
+ artifact_iye_name: "Таинственный кристалл" #Машинный перевод 30.06.2023
+ artifact_iye_description: "Это было дано как благословение таинственным духом, найденным в Степи. Он светится переливами и согревает тело, когда его держат." #Машинный перевод 30.06.2023
+  
+ # Gemstones 
+  
+ artifact_gemstone_name: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'gemstone_cut' )|U]-Вырезать [newly_created_artifact.GetFeatureText( 'gemstone_type' )]" #Машинный перевод 30.06.2023
+ artifact_gemstone_name_manzasiri_heart: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'gemstone_cut' )|U]-Вырезать [newly_created_artifact.GetFeatureText( 'gemstone_type' )] Сердце Манзашири" #Машинный перевод 30.06.2023
+ artifact_gemstone_name_shard: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'gemstone_type' )] Осколок" #Машинный перевод 30.06.2023
+ artifact_gemstone_description: "Красивый, наполненный магией [newly_created_artifact.GetFeatureText( 'gemstone_type' )] в версии [newly_created_artifact.GetFeatureText( 'gemstone_cut' )]. Камень имеет [newly_created_artifact.GetFeatureText( 'gemstone_magical_texture' )] и [newly_created_artifact.GetFeatureText( 'gemstone_magical_aura' )]." #Машинный перевод 30.06.2023
+ artifact_gemstone_description_manzasiri_heart: "Красивый, наполненный магией [newly_created_artifact.GetFeatureText( 'gemstone_type' )] в версии [newly_created_artifact.GetFeatureText( 'gemstone_cut' )]. У драгоценного камня [newly_created_artifact.GetFeatureText( 'gemstone_magical_texture' )], а у него [newly_created_artifact.GetFeatureText( 'gemstone_magical_aura' )].\n\nКамень когда-то был «сердцем» ужасного Манзашири, что наделяло его исключительными магическими свойствами." #Машинный перевод 30.06.2023
+ artifact_gemstone_description_manzasiri_shard: "Красивый, наполненный магией [newly_created_artifact.GetFeatureText( 'gemstone_type' )] в версии [newly_created_artifact.GetFeatureText( 'gemstone_cut' )]. Камень имеет [newly_created_artifact.GetFeatureText( 'gemstone_magical_texture' )] и [newly_created_artifact.GetFeatureText( 'gemstone_magical_aura' )].\n\nКамень был извлечен из тела манзашири, что наделило его значительными магическими свойствами." #Машинный перевод 30.06.2023
+  
+ ## Extra Types 
+  
+ feature_gemstone_type_sunstone: "Солнечный камень" #Машинный перевод 30.06.2023
+ feature_gemstone_type_citrine: "Цитрин" #Машинный перевод 30.06.2023
+ feature_gemstone_type_chrysoberyl: "Хризоберилл" #Машинный перевод 30.06.2023
+ feature_gemstone_type_black_zircon: "Черный циркон" #Машинный перевод 30.06.2023
+ feature_gemstone_type_red_zircon: "Красный циркон" #Машинный перевод 30.06.2023
+ feature_gemstone_type_yellow_zircon: "Желтый циркон" #Машинный перевод 30.06.2023
+ feature_gemstone_type_brown_zircon: "Коричневый циркон" #Машинный перевод 30.06.2023
+ feature_gemstone_type_green_zircon: "Зеленый циркон" #Машинный перевод 30.06.2023
+ feature_gemstone_type_clear_zircon: "Чистый циркон" #Машинный перевод 30.06.2023
+ feature_gemstone_type_blue_zircon: "Синий циркон" #Машинный перевод 30.06.2023
+ feature_gemstone_type_fire_opal: "Огненный опал" #Машинный перевод 30.06.2023
+ feature_gemstone_type_cherry_opal: "Вишневый опал" #Машинный перевод 30.06.2023
+ feature_gemstone_type_sapphire: "Сапфир" #Машинный перевод 30.06.2023
+ feature_gemstone_type_manzasiri_obsidian: "Манзаширский обсидиан" #Машинный перевод 30.06.2023
+  
+ artifact_tooltip_sunstone: "#BOL Солнечный камень#!" #Машинный перевод 30.06.2023
+ artifact_tooltip_black_zircon: "#BOL #color_green Черный циркон#!#!" #Машинный перевод 30.06.2023
+ artifact_tooltip_red_zircon: "#BOL #color_green Красный циркон#!#!" #Машинный перевод 30.06.2023
+ artifact_tooltip_yellow_zircon: "#BOL #color_green Желтый циркон#!#!" #Машинный перевод 30.06.2023
+ artifact_tooltip_brown_zircon: "#BOL #color_green Коричневый циркон#!#!" #Машинный перевод 30.06.2023
+ artifact_tooltip_green_zircon: "#BOL #color_green Зеленый циркон#!#!" #Машинный перевод 30.06.2023
+ artifact_tooltip_clear_zircon: "#BOL #color_light_blue Прозрачный циркон#!#!" #Машинный перевод 30.06.2023
+ artifact_tooltip_blue_zircon: "#BOL #color_goldy_yellow Голубой циркон#!#!" #Машинный перевод 30.06.2023
+ artifact_tooltip_fire_opal: "#BOL #color_green Огненный опал#!#!" #Машинный перевод 30.06.2023
+  
+ ## Cuts 
+  
+ feature_gemstone_cut_brilliant: "блестящий" #Машинный перевод 30.06.2023
+ feature_gemstone_cut_emerald: "изумруд" #Машинный перевод 30.06.2023
+ feature_gemstone_cut_baguette: "багет" #Машинный перевод 30.06.2023
+ feature_gemstone_cut_briolette: "бриолет" #Машинный перевод 30.06.2023
+ feature_gemstone_cut_cushion: "подушка" #Машинный перевод 30.06.2023
+ feature_gemstone_cut_marquise: "маркиза" #Машинный перевод 30.06.2023
+ feature_gemstone_cut_octagonal: "восьмиугольный" #Машинный перевод 30.06.2023
+ feature_gemstone_cut_oval: "овал" #Машинный перевод 30.06.2023
+ feature_gemstone_cut_pear: "груша" #Машинный перевод 30.06.2023
+ feature_gemstone_cut_point: "точка" #Машинный перевод 30.06.2023
+ feature_gemstone_cut_radiant: "сияющий" #Машинный перевод 30.06.2023
+ feature_gemstone_cut_table: "стол" #Машинный перевод 30.06.2023
+ feature_gemstone_cut_trilliant: "триллиант" #Машинный перевод 30.06.2023
+ feature_gemstone_cut_shard: "осколок" #Машинный перевод 30.06.2023
+  
+ ## Magical Textures 
+ feature_gemstone_magical_texture_swirling: "волшебные усики мягко закручиваются [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_texture_hypnotic: "гипнотические волшебные щупальца мягко катятся [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_texture_geometric: "медленно меняющиеся геометрические фигуры и узоры [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_texture_fire: "огненное, оживленное пламя, горящее [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')], его яркость заставляет его светиться в темноте" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_texture_water: "волнообразные движения [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')], создающие впечатление океана, запертого внутри" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_texture_air: "движения ветра и небольших облаков [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_texture_thunder: "электрические искры и небольшие вспышки света [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_texture_vortex: "волшебные усики кружатся в вихре [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_texture_night_sky: "блестящее туманное ночное небо со звездами [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_texture_visions: "странные, похожие на сон видения событий как прошлого, так и будущего, которые воспроизводятся [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #Машинный перевод 30.06.2023
+  
+ ## Magical Auras 
+ feature_gemstone_magical_aura_hot: "горячий на ощупь и излучает тепло на значительном радиусе вокруг себя" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_aura_cold: "очень холодный на ощупь и понижает температуру окружающей среды на значительном радиусе вокруг себя" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_aura_dark: "кажется, что он поглощает окружающий свет, в результате чего близлежащие огни тускнеют, а тени становятся глубже" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_aura_wind: "вызывает ветры в окрестностях, даже если в помещении" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_aura_whispers: "известен зловещим шепотом, который часто можно услышать в его окрестностях" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_aura_euphoria: "вызывает чувство эйфории, а иногда даже мании, у тех, кто стоит рядом и особенно смотрит на него продолжительное время" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_aura_melancholy: "вызывает чувство меланхолии у окружающих" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_aura_washes_out_colors: "размывает цвета своего окружения, выделяя собственный цвет поразительно" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_aura_increases_vibrancy: "кажется, что цвета окружающих предметов становятся значительно более яркими и насыщенными" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_aura_necromantic: "обладает некромантскими свойствами, заставляя близлежащие кости трястись и слегка двигаться сами по себе и притягивая ближайшую нежить, как маяк" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_aura_plant_growth: "заставляет растения поблизости цвести и расти значительно быстрее, чем это возможно естественным образом" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_aura_alluring: "вызывает почти непреодолимую жадность у существ, которые его видят" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_aura_magic_boosting: "сильно усиливает все виды магии поблизости" #Машинный перевод 30.06.2023
+ feature_gemstone_magical_aura_anti_magic: "имеет небольшое антимагическое поле вокруг себя" #Машинный перевод 30.06.2023
+  
+ ## Misc Gemstone Localize 
+ artifact_gemstone_within: "в пределах" #Машинный перевод 30.06.2023
+ artifact_gemstone_over_surface: "над его поверхностью" #Машинный перевод 30.06.2023
+  
+  # Goblets 
+  
+ artifact_aversarian_goblet_name: "$artifact_name_prefix$ Aversarian Goblet"
+ artifact_aversarian_goblet_description: "An Aversarian goblet of [SCOPE.Custom('ArtifactQuality')] craftsmanship. It is made of [newly_created_artifact.GetFeatureText( 'goblet_material' )] with [newly_created_artifact.GetFeatureText( 'decoration_material_gem' )] inserts.\n\n$artifact_aversarian_goblet_explanation$ $artifact_aversarian_goblet_age$"
+  
+ artifact_aversarian_goblet_explanation: "A common utility in [living_magic|E] rituals, well crafted Aversarian goblets are prized for both their exquisite beauty and use in [magic|E]."
+ artifact_aversarian_goblet_age: "This [newly_created_artifact.GetFeatureText( 'goblet_characteristic' )] sample is [newly_created_artifact.GetFeatureText( 'goblet_decoration' )] and was likely made around the year [owner.MakeScope.Var('goblet_age').GetValue|0]."
+  
+ feature_decoration_material_gem_bloodcrystal: "bloodcrystal"
+  
+ feature_goblet_characteristic_large: "довольно большой"
+ feature_goblet_characteristic_huge: "огромный и тяжелый"
+ feature_goblet_characteristic_wide_topped: "с исключительно широким верхом"
+ feature_goblet_characteristic_narrow: "исключительно узкий"
+ feature_goblet_characteristic_elaborate_stem: "с тщательно продуманной ножкой"
+ feature_goblet_characteristic_unremarkable: "ничем не примечательный"
+  
+ feature_goblet_decoration_magical_runes: "с выгравироваными со всех сторон магическими рунами"
+ feature_goblet_decoration_magical_geometric_shapes: "с выгравированными магически настроенными геометрическими фигурами"
+ feature_goblet_decoration_the_purest: "с тщательно выгравированным изображением Чистейших и Первых Людей"
+ feature_goblet_decoration_the_sea_tower: "с тщательно выгравированным изображением Морской башни"
+ feature_goblet_decoration_mountain_sun_iconography: "с выгравированной иконографией старого храма Горного Солнца"
+ feature_goblet_decoration_cups: "с выгравированными изображениями чашек"
+ feature_goblet_decoration_moons: "с выгравированными изображениями [Concept('aervalr', 'Эрварла')|E]"
+ feature_goblet_decoration_dragons: "с выгравированными драконами"
+ feature_goblet_decoration_battle: "с выгравированными сценами сражений"
+ feature_goblet_decoration_blood_drops: " выгравированными каплями крови"
+ feature_goblet_decoration_flowers: "с гравировкой с цветочными мотивами"
+ feature_goblet_decoration_rivers: "с гравировкой переплетающихся рек"
+ feature_goblet_decoration_lions: "с выгравированными львиными мотивами"
+ feature_goblet_decoration_chimerae: "с выгравированными мотивами химеры"
+ feature_goblet_decoration_mayikprolollan: " выгравированными символами Майикпрололлана, обозначающими его как свою собственность"
+ feature_goblet_decoration_heraldry: "с выгравированной геральдикой, вероятно, давно вымершего благородного дома"
+ feature_goblet_decoration_undecorated: "простой и ничем не украшенный"
+  
+  # Vases 
+  
+ feature_vase_type_amphora: "амфора" #Машинный перевод 30.06.2023
+ feature_vase_type_column_krater: "колонна кратер" #Машинный перевод 30.06.2023
+ feature_vase_type_calyx_krater: "чашечка кратер" #Машинный перевод 30.06.2023
+ feature_vase_type_volute_krater: "спиральный кратер" #Машинный перевод 30.06.2023
+ feature_vase_type_bell_krater: "колокольный кратер" #Машинный перевод 30.06.2023
+ feature_vase_type_pithos: "пифос" #Машинный перевод 30.06.2023
+ feature_vase_type_pelike: "пелике" #Машинный перевод 30.06.2023
+ feature_vase_type_hydria: "гидрия" #Машинный перевод 30.06.2023
+ feature_vase_type_stamnos: "стамнос" #Машинный перевод 30.06.2023
+ feature_vase_type_pyxis: "пиксис" #Машинный перевод 30.06.2023
+ feature_vase_type_dinos: "динозавры" #Машинный перевод 30.06.2023
+ feature_vase_type_kylix: "киликс" #Машинный перевод 30.06.2023
+ feature_vase_type_kantharos: "кантарос" #Машинный перевод 30.06.2023
+ feature_vase_type_oenochoe: "энохоэ" #Машинный перевод 30.06.2023
+ feature_vase_type_loutrophoros: "лутрофорос" #Машинный перевод 30.06.2023
+ feature_vase_type_lekythos: "лекифос" #Машинный перевод 30.06.2023
+  
+ feature_vase_painted_black: "покрасил в глубокий черный" #Машинный перевод 30.06.2023
+ feature_vase_painted_white: "покрасил в белый цвет слоновой кости" #Машинный перевод 30.06.2023
+ feature_vase_painted_red: "окрашены в малиново-красный цвет" #Машинный перевод 30.06.2023
+ feature_vase_painted_faded: "обесцвеченный с возрастом" #Машинный перевод 30.06.2023
+  
+ feature_vase_decoration_magical_runes: "украшен магическими рунами со всех сторон" #Машинный перевод 30.06.2023
+ feature_vase_decoration_magical_geometric_shapes: "украшенный магически настроенными геометрическими фигурами" #Машинный перевод 30.06.2023
+ feature_vase_decoration_the_purest: "украшен тщательно продуманным изображением Чистейших и Первых Людей." #Машинный перевод 30.06.2023
+ feature_vase_decoration_the_sea_tower: "украшен искусным изображением Морской башни" #Машинный перевод 30.06.2023
+ feature_vase_decoration_mountain_sun_iconography: "украшен иконографией старого Храма Горы-Солнца" #Машинный перевод 30.06.2023
+ feature_vase_decoration_cups: "украшен изображениями кубков" #Машинный перевод 30.06.2023
+ feature_vase_decoration_moons: "украшен изображениями [aervalr|E]" #Машинный перевод 30.06.2023
+ feature_vase_decoration_dragons: "украшен мотивами красного дракона" #Машинный перевод 30.06.2023
+ feature_vase_decoration_battle: "украшен батальными сценами" #Машинный перевод 30.06.2023
+ feature_vase_decoration_blood_drops: "украшен каплями крови" #Машинный перевод 30.06.2023
+ feature_vase_decoration_flowers: "украшен цветочными мотивами" #Машинный перевод 30.06.2023
+ feature_vase_decoration_rivers: "украшен переплетающимися реками" #Машинный перевод 30.06.2023
+ feature_vase_decoration_lions: "украшен львиными мотивами" #Машинный перевод 30.06.2023
+ feature_vase_decoration_chimerae: "украшен мотивами химер" #Машинный перевод 30.06.2023
+ feature_vase_decoration_mayikprolollan: "украшен символами, обозначающими свойство [mayikrata|E]" #Машинный перевод 30.06.2023
+ feature_vase_decoration_heraldry: "украшен геральдикой вероятно давно умершего дворянского дома" #Машинный перевод 30.06.2023
+ feature_vase_decoration_undecorated: "простой и не украшенный" #Машинный перевод 30.06.2023
+  
+ artifact_aversarian_vase_name: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'vase_type' )|U]" #Машинный перевод 30.06.2023
+ artifact_aversarian_vase_description: "Аверсарий [newly_created_artifact.GetFeatureText( 'vase_type' )] мастерства [SCOPE.Custom('ArtifactQuality')]. Это [newly_created_artifact.GetFeatureText( 'vase_painted' )] и детализировано со вставками [newly_created_artifact.GetFeatureText( 'decoration_material_inlay' )].\n\n$artifact_aversarian_vase_explanation$ $artifact_aversarian_vase_age$" #Машинный перевод 30.06.2023
+  
+ artifact_aversarian_vase_explanation: "Хорошо сделанные аверсарийские вазы, широко используемые в аверсарском обществе, пользуются большим спросом и способствовали долгой истории расписного искусства." #Машинный перевод 30.06.2023
+ artifact_aversarian_vase_age: "Этот образец [newly_created_artifact.GetFeatureText( 'vase_decoration' )] и, вероятно, был изготовлен примерно в [owner.MakeScope.Var('vase_age').GetValue|0] году." #Машинный перевод 30.06.2023
+  
+ artifact_vase: "ваза" #Машинный перевод 30.06.2023
+ artifact_iye_crystal: "Драгоценный камень" #Машинный перевод 30.06.2023
+ artifact_votive: "Вотивная фигура" #Машинный перевод 30.06.2023
+ artifact_casket: "Шкатулка" #Машинный перевод 30.06.2023
+ artifact_tablet: "Каменная табличка" #Машинный перевод 30.06.2023
+ artifact_coin: "Монета" #Машинный перевод 30.06.2023
+ artifact_gemstone: "Драгоценный камень" #Машинный перевод 30.06.2023
+  
+  # Caskets 
+  
+ feature_casket_characteristic_large: "довольно большой" #Машинный перевод 30.06.2023
+ feature_casket_characteristic_huge: "огромный и тяжелый" #Машинный перевод 30.06.2023
+ feature_casket_characteristic_small: "довольно маленький" #Машинный перевод 30.06.2023
+ feature_casket_characteristic_tiny: "исключительно маленький" #Машинный перевод 30.06.2023
+ feature_casket_characteristic_detailed: "замысловато детализированный" #Машинный перевод 30.06.2023
+ feature_casket_characteristic_unremarkable: "довольно ничем не примечательный" #Машинный перевод 30.06.2023
+  
+ feature_casket_material_ivory: "слоновая кость" #Машинный перевод 30.06.2023
+ feature_casket_material_bronze: "бронза" #Машинный перевод 30.06.2023
+ feature_casket_material_wood: "древесина" #Машинный перевод 30.06.2023
+ feature_casket_material_terracotta: "терракота" #Машинный перевод 30.06.2023
+ feature_casket_material_ebony: "черное дерево" #Машинный перевод 30.06.2023
+  
+ feature_casket_decoration_harvest: "украшен сценами, на которых Хозяева пути собирают обильный урожай." #Машинный перевод 30.06.2023
+ feature_casket_decoration_swords: "украшен сценами дуэли Waymasters на смерть" #Машинный перевод 30.06.2023
+ feature_casket_decoration_family: "украшен сценами путевого мастера, пасущего свою семью" #Машинный перевод 30.06.2023
+ feature_casket_decoration_coins: "украшенный золотыми листьями и опилками" #Машинный перевод 30.06.2023
+ feature_casket_decoration_knowledge: "украшен сценами исследований Waymaster в большом зале" #Машинный перевод 30.06.2023
+ feature_casket_decoration_crows: "украшен сценами путевого мастера, разговаривающего с воронами." #Машинный перевод 30.06.2023
+ feature_casket_decoration_nullification: "украшен сценами, в которых Waymaster бросает вызов [magi|E]" #Машинный перевод 30.06.2023
+ feature_casket_decoration_gisredde: "украшен рассказами о гизреддинской гордости" #Машинный перевод 30.06.2023
+ feature_casket_decoration_champion_of_chevalie: "украшен рассказами о [champion_of_chevalie|E] и их подвигах во время [red_river_war|E]" #Машинный перевод 30.06.2023
+ feature_casket_decoration_romantic: "украшен рассказами о романтике и рыцарстве" #Машинный перевод 30.06.2023
+ feature_casket_decoration_high_king: "украшен изображениями различных верховных королей [chevalie|E]" #Машинный перевод 30.06.2023
+ feature_casket_decoration_weathered: "его резьба со временем испортилась" #Машинный перевод 30.06.2023
+ feature_casket_decoration_antimagi: "украшен геральдикой самых разных [antimagic_orders|E]" #Машинный перевод 30.06.2023
+ feature_casket_decoration_griffons: "украшенный резьбой грифонов в полете" #Машинный перевод 30.06.2023
+ feature_casket_decoration_konijk: "украшен пейзажами болот Конийкменер" #Машинный перевод 30.06.2023
+ feature_casket_decoration_chevalie: "украшен пейзажами из заколдованных лесов [chevalie|E]" #Машинный перевод 30.06.2023
+  
+ feature_casket_branded_stamped: "На этой конкретной шкатулке выбиты герб и имя" #Машинный перевод 30.06.2023
+ feature_casket_branded_branded: "Этот конкретный гроб отмечен гербом и именем" #Машинный перевод 30.06.2023
+ feature_casket_branded_marked: "Этот конкретный гроб отмечен гербом и именем" #Машинный перевод 30.06.2023
+ feature_casket_branded_scribbled: "На этой конкретной шкатулке нацарапаны герб и имя" #Машинный перевод 30.06.2023
+ feature_casket_branded_adorned: "Этот конкретный гроб украшен гербом и именем" #Машинный перевод 30.06.2023
+ feature_casket_branded_sealed: "Этот конкретный гроб запечатан гербом и именем" #Машинный перевод 30.06.2023
+ feature_casket_branded_engraved: "На этой конкретной шкатулке выгравированы герб и имя" #Машинный перевод 30.06.2023
+ feature_casket_branded_gilded: "Этот конкретный гроб позолочен с гербом и именем" #Машинный перевод 30.06.2023
+ feature_casket_branded_inlaid: "Этот конкретный гроб инкрустирован гербом и именем" #Машинный перевод 30.06.2023
+  
+ feature_casket_name_one: "[Artifact.GetOwner.Custom('MarcherCasketAdjective')] [Artifact.GetOwner.Custom('MarcherCasketOrganization')]" #Машинный перевод 30.06.2023
+ feature_casket_name_two: "[Artifact.GetOwner.Custom('MarcherCasketAdjective')] [Artifact.GetOwner.Custom('MarcherCasketOrganization')] из [Artifact.GetOwner.Custom('MarcherCasketAdjective')] [Artifact.GetOwner.Custom('MarcherCasketMakers')]" #Машинный перевод 30.06.2023
+ feature_casket_name_three: "[Artifact.GetOwner.Custom('MarcherCasketAdjective')] и [Artifact.GetOwner.Custom('MarcherCasketAdjective')] [Artifact.GetOwner.Custom('MarcherCasketOrganization')] из [Artifact.GetOwner.Custom('MarcherCasketAdjective')] [Artifact.GetOwner.Custom('MarcherCasketMakers')]" #Машинный перевод 30.06.2023
+ feature_casket_name_four: "[Artifact.GetOwner.Custom('MarcherCasketAdjective')] [Artifact.GetOwner.Custom('MarcherCasketOrganization')] из [Artifact.GetOwner.Custom('MarcherCasketAdjective')] и [Artifact.GetOwner.Custom('MarcherCasketAdjective')] [Artifact.GetOwner.Custom('MarcherCasketMakers')] из [Artifact.GetOwner.Custom('MarcherCasketDedication')|U]" #Машинный перевод 30.06.2023
+  
+  
+ casket_illustrious: "прославленный" #Машинный перевод 30.06.2023
+ casket_wondrous: "чудесный" #Машинный перевод 30.06.2023
+ casket_wizened: "Сухой" #Машинный перевод 30.06.2023
+ casket_experienced: "Опытный" #Машинный перевод 30.06.2023
+ casket_crafty: "хитрый" #Машинный перевод 30.06.2023
+ casket_ingenious: "Гениальный" #Машинный перевод 30.06.2023
+ casket_historic: "Исторический" #Машинный перевод 30.06.2023
+ casket_pious: "Благочестивый" #Машинный перевод 30.06.2023
+ casket_opulent: "Роскошный" #Машинный перевод 30.06.2023
+ casket_wealthy: "Богатый" #Машинный перевод 30.06.2023
+ casket_humble: "Скромный" #Машинный перевод 30.06.2023
+ casket_proud: "Гордый" #Машинный перевод 30.06.2023
+ casket_holy: "Святой" #Машинный перевод 30.06.2023
+ casket_meandering: "Блуждающий" #Машинный перевод 30.06.2023
+ casket_doddering: "шатается" #Машинный перевод 30.06.2023
+ casket_respected: "Уважаемый" #Машинный перевод 30.06.2023
+ casket_honored: "Заслуженный" #Машинный перевод 30.06.2023
+ casket_warbound: "Связанный с войной" #Машинный перевод 30.06.2023
+ casket_pathtreading: "Путеводитель" #Машинный перевод 30.06.2023
+ casket_pathwalking: "Путь" #Машинный перевод 30.06.2023
+ casket_kind: "Добрый" #Машинный перевод 30.06.2023
+ casket_keen: "Увлеченный" #Машинный перевод 30.06.2023
+ casket_sharp: "Острый" #Машинный перевод 30.06.2023
+ casket_eagle_eyed: "Орлиный глаз" #Машинный перевод 30.06.2023
+ casket_heroic: "Героический" #Машинный перевод 30.06.2023
+ casket_brave: "Храбрый" #Машинный перевод 30.06.2023
+ casket_stumbling: "Спотыкаясь" #Машинный перевод 30.06.2023
+ casket_six_fingered: "Шестипалый" #Машинный перевод 30.06.2023
+ casket_esteemed: "Уважаемый" #Машинный перевод 30.06.2023
+ casket_regarded: "считается" #Машинный перевод 30.06.2023
+ casket_admired: "Восхищенный" #Машинный перевод 30.06.2023
+ casket_valued: "ценится" #Машинный перевод 30.06.2023
+ casket_appreciated: "ценится" #Машинный перевод 30.06.2023
+ casket_revered: "Почитаемый" #Машинный перевод 30.06.2023
+ casket_knighted: "посвященный в рыцари" #Машинный перевод 30.06.2023
+ casket_squired: "квадратный" #Машинный перевод 30.06.2023
+ casket_indentured: "Наемный" #Машинный перевод 30.06.2023
+ casket_pathblessed: "Благословенный путь" #Машинный перевод 30.06.2023
+ casket_saintly: "Святой" #Машинный перевод 30.06.2023
+ casket_saint_sponsored: "Святой спонсор" #Машинный перевод 30.06.2023
+ casket_champion_approved: "[Concept('champion_of_chevalie','Champion-Approved')|E]" #Машинный перевод 30.06.2023
+ casket_bastione_blessed: "Бастион-Блаженный" #Машинный перевод 30.06.2023
+ casket_ranos_like: "Ранос-подобный" #Машинный перевод 30.06.2023
+ casket_extraordinary: "Чрезвычайный" #Машинный перевод 30.06.2023
+ casket_miraculous: "чудесный" #Машинный перевод 30.06.2023
+ casket_astounding: "Поразительно" #Машинный перевод 30.06.2023
+ casket_diligent: "прилежный" #Машинный перевод 30.06.2023
+ casket_industrious: "Трудолюбивая" #Машинный перевод 30.06.2023
+ casket_assiduous: "Усердный" #Машинный перевод 30.06.2023
+ casket_studious: "прилежный" #Машинный перевод 30.06.2023
+ casket_conscientious: "добросовестный" #Машинный перевод 30.06.2023
+ casket_particular: "Особый" #Машинный перевод 30.06.2023
+ casket_punctual: "Пунктуальный" #Машинный перевод 30.06.2023
+ casket_meticulous: "дотошный" #Машинный перевод 30.06.2023
+ casket_rigorous: "Тщательный" #Машинный перевод 30.06.2023
+ casket_exacting: "Требовательный" #Машинный перевод 30.06.2023
+ casket_careful: "Осторожный" #Машинный перевод 30.06.2023
+ casket_athwart: "поперек" #Машинный перевод 30.06.2023
+ casket_fain: "Файн" #Машинный перевод 30.06.2023
+ casket_enowed: "наделенный" #Машинный перевод 30.06.2023
+ casket_forthwith: "немедленно" #Машинный перевод 30.06.2023
+ casket_forthright: "Откровенный" #Машинный перевод 30.06.2023
+ casket_most_upright: "Самый вертикальный" #Машинный перевод 30.06.2023
+ casket_rightmost_honorable: "Крайний почетный" #Машинный перевод 30.06.2023
+ casket_hitherto: "До сих пор" #Машинный перевод 30.06.2023
+ casket_yonder: "Вон там" #Машинный перевод 30.06.2023
+ casket_yare: "Яр" #Машинный перевод 30.06.2023
+ casket_puissant: "Мощный" #Машинный перевод 30.06.2023
+ casket_peradventured: "авантюрный" #Машинный перевод 30.06.2023
+ casket_proudly_founded: "С гордостью основан" #Машинный перевод 30.06.2023
+ casket_affrightened: "Испуганный" #Машинный перевод 30.06.2023
+ casket_goutridden: "Гутриден" #Машинный перевод 30.06.2023
+ casket_leprosy_cursed: "Проказа проклята" #Машинный перевод 30.06.2023
+ casket_beef_witted: "говяжий остроумный" #Машинный перевод 30.06.2023
+ casket_beliked: "любимый" #Машинный перевод 30.06.2023
+ casket_behoofed: "копыта" #Машинный перевод 30.06.2023
+ casket_betwixed: "Смешанный" #Машинный перевод 30.06.2023
+ casket_monastic: "Монастырский" #Машинный перевод 30.06.2023
+ casket_master: "Владелец" #Машинный перевод 30.06.2023
+ casket_worshipful: "Почтенный" #Машинный перевод 30.06.2023
+ casket_fellowship: "Братство" #Машинный перевод 30.06.2023
+ casket_companionship: "дружба" #Машинный перевод 30.06.2023
+ casket_comradeship: "Товарищество" #Машинный перевод 30.06.2023
+ casket_association: "Ассоциация" #Машинный перевод 30.06.2023
+ casket_society: "Общество" #Машинный перевод 30.06.2023
+ casket_club: "Клуб" #Машинный перевод 30.06.2023
+ casket_league: "Лига" #Машинный перевод 30.06.2023
+ casket_union: "Союз" #Машинный перевод 30.06.2023
+ casket_guild: "Гильдия" #Машинный перевод 30.06.2023
+ casket_lodge: "Лодж" #Машинный перевод 30.06.2023
+ casket_laychurch: "Лейчерч" #Машинный перевод 30.06.2023
+ casket_affiliation: "принадлежность" #Машинный перевод 30.06.2023
+ casket_alliance: "Альянс" #Машинный перевод 30.06.2023
+ casket_order: "Заказ" #Машинный перевод 30.06.2023
+ casket_fraternity: "Братство" #Машинный перевод 30.06.2023
+ casket_sorority: "женское общество" #Машинный перевод 30.06.2023
+ casket_brotherhood: "Братство" #Машинный перевод 30.06.2023
+ casket_sisterhood: "Сестринство" #Машинный перевод 30.06.2023
+ casket_chapter: "Глава" #Машинный перевод 30.06.2023
+ casket_knightly_craftleague: "Рыцарская Craftleague" #Машинный перевод 30.06.2023
+ casket_craftleague: "Крафтлига" #Машинный перевод 30.06.2023
+ casket_clan: "Клан" #Машинный перевод 30.06.2023
+ casket_consociation: "Объединение" #Машинный перевод 30.06.2023
+ casket_tradesmen: "Торговцы" #Машинный перевод 30.06.2023
+ casket_tradeswomen: "Торговки" #Машинный перевод 30.06.2023
+ casket_makers: "Создатели" #Машинный перевод 30.06.2023
+ casket_wrights: "Райтс" #Машинный перевод 30.06.2023
+ casket_journeymen: "Подмастерья" #Машинный перевод 30.06.2023
+ casket_journeywomen: "Подмастерья" #Машинный перевод 30.06.2023
+ casket_workers: "Рабочие" #Машинный перевод 30.06.2023
+ casket_skillmen: "Мастера" #Машинный перевод 30.06.2023
+ casket_skillwomen: "Мастерицы" #Машинный перевод 30.06.2023
+ casket_artificers: "Ремесленники" #Машинный перевод 30.06.2023
+ casket_fullers: "Фуллерс" #Машинный перевод 30.06.2023
+ casket_carpenters: "Плотники" #Машинный перевод 30.06.2023
+ casket_crafters: "Ремесленники" #Машинный перевод 30.06.2023
+ casket_craftsmen: "Ремесленники" #Машинный перевод 30.06.2023
+ casket_craftswomen: "Мастерицы" #Машинный перевод 30.06.2023
+ casket_makers: "Создатели" #Машинный перевод 30.06.2023
+ casket_builders: "Строители" #Машинный перевод 30.06.2023
+ casket_handyworkers: "Разнорабочие" #Машинный перевод 30.06.2023
+ casket_artisans: "Ремесленники" #Машинный перевод 30.06.2023
+ casket_gilders: "Гилдерс" #Машинный перевод 30.06.2023
+ casket_amputees: "ампутанты" #Машинный перевод 30.06.2023
+ casket_saints: "Святые" #Машинный перевод 30.06.2023
+ casket_knights: "Рыцари" #Машинный перевод 30.06.2023
+ casket_heroes: "Герои" #Машинный перевод 30.06.2023
+ casket_champions: "Чемпионы" #Машинный перевод 30.06.2023
+ casket_pilgrims: "Паломники" #Машинный перевод 30.06.2023
+ casket_holymen: "Святые" #Машинный перевод 30.06.2023
+ casket_holywomen: "святые женщины" #Машинный перевод 30.06.2023
+ casket_wainters: "Уайнтерс" #Машинный перевод 30.06.2023
+ casket_bravemen: "Храбрецы" #Машинный перевод 30.06.2023
+ casket_bravewomen: "Смелые женщины" #Машинный перевод 30.06.2023
+ casket_living_souls: "Живые души" #Машинный перевод 30.06.2023
+ casket_milners: "Милнерс" #Машинный перевод 30.06.2023
+ casket_merchants: "Торговцы" #Машинный перевод 30.06.2023
+ casket_merchant_adventurers: "Торговцы-авантюристы" #Машинный перевод 30.06.2023
+ casket_knighted_craftsmen: "Рыцари мастера" #Машинный перевод 30.06.2023
+ casket_lady_knights: "Леди Рыцари" #Машинный перевод 30.06.2023
+ casket_chevaliers: "Шевалье" #Машинный перевод 30.06.2023
+ casket_barber_surgeons: "парикмахеры-хирурги" #Машинный перевод 30.06.2023
+ casket_cutters: "Каттеры" #Машинный перевод 30.06.2023
+ casket_appreintaces: "Ученики" #Машинный перевод 30.06.2023
+ casket_masters: "Мастера" #Машинный перевод 30.06.2023
+ casket_elders: "Старейшины" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_crowns: "Путевой святой Пути Корон" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_crows: "Путевой святой Пути Воронов" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_swords: "Путевой святой Пути Мечей" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_coin: "Путь монеты" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_family: "Путь Семейного Пути" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_harvests: "Святая Пути Урожая" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_justice: "Святая Пути Справедливости" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_nullification: "Путь Пути Обнуления" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_craftsworks: "Путь-святой Пути ремесел" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_saints: "Путь Святых Пути Святых" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_blessings: "Путь Благословения" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_the_chicken: "Путь цыпленка" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_eagles: "Путь орлов" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_the_vow: "Путевой святой Пути обета" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_shadows: "Святая Пути Теней" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_stars: "Святая Пути Звезд" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_wisdom: "Святая Пути Мудрости" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_life: "Святая Пути Жизни" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_death: "Святая Пути Смерти" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_remembrance: "Путь Памяти" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_mirrors: "Святая Пути Зеркал" #Машинный перевод 30.06.2023
+ casket_waysaint_of_the_path_of_sighs: "Святая Пути Вздохов" #Машинный перевод 30.06.2023
+ casket_gisredde: "Гисредде" #Машинный перевод 30.06.2023
+ casket_gisreddes: "Гисреддес" #Машинный перевод 30.06.2023
+ casket_and_finest_of_the_gisreddes: "Лучший из Гисреддес" #Машинный перевод 30.06.2023
+ casket_city_of_peti_gisredde_finest_of_the_gisreddes: "Город [peti_gisredde|E], лучший из Гисреддес" #Машинный перевод 30.06.2023
+ casket_city_of_grande_gisredde_finest_of_the_gisreddes: "Город [grande_gisredde|E], лучший из Гисреддес" #Машинный перевод 30.06.2023
+ casket_and_prosperous_peti_gisredde_not_of_the_lesser_and_miserable_grande_gisredde: "и Процветающий [peti_gisredde|E], Не из Меньших и Несчастных [GetTitleByKey('c_grande_gisredde').GetNameNoTier]" #Машинный перевод 30.06.2023
+ casket_and_prosperous_grande_gisredde_not_of_the_lesser_and_despicable_peti_gisredde: "и Процветающий [grande_gisredde|E], Не меньший и презренный [GetTitleByKey('c_peti_gisredde').GetNameNoTier]" #Машинный перевод 30.06.2023
+ casket_bastione: "Бастион" #Машинный перевод 30.06.2023
+ casket_king_bastione: "Король Бастион" #Машинный перевод 30.06.2023
+ casket_kind_king_bastione: "Добрый король Бастион" #Машинный перевод 30.06.2023
+ casket_old_king_bastione: "Старый король Бастион" #Машинный перевод 30.06.2023
+ casket_sir_ranos: "Сэр Ранос" #Машинный перевод 30.06.2023
+ casket_sir_ranos_to_who_we_give_thanks: "Сэр Ранос, Кому мы благодарим" #Машинный перевод 30.06.2023
+ casket_sir_ranos_who_freed_our_people: "Сэр Ранос, освободивший наш народ" #Машинный перевод 30.06.2023
+ casket_champion_of_chevalie: "[champion_of_chevalie|E]" #Машинный перевод 30.06.2023
+ casket_champion: "Чемпион" #Машинный перевод 30.06.2023
+ casket_holiest_and_most_honorable_saints: "Святейшие и почетнейшие святые" #Машинный перевод 30.06.2023
+ casket_saints_whom_blessed_our_fine_organization: "Святые, благословившие нашу прекрасную организацию" #Машинный перевод 30.06.2023
+ casket_saints_xyilllvidigi: "Святые XYILLVIDIGI" #Машинный перевод 30.06.2023
+ casket_saints_who_we_ask_to_guide_us_ililixibmnopqr: "Святые, которых мы просим направлять нас" #Машинный перевод 30.06.2023
+ casket_and_kind_patrons_whom_bless_our_establishment_with_many_fine_and_wise_purchases: "Добрые покровители, которые благословили наше заведение многими прекрасными и мудрыми покупками" #Машинный перевод 30.06.2023
+ casket_and_many_patrons_of_our_work_who_never_complain_at_our_fair_and_just_increases_in_price_thanks_to_the_respected_qualities_of_our_wares: "и многие покровители нашей работы, которые никогда не жалуются на нашу ярмарку и просто повышают цены благодаря уважаемым качествам наших товаров." #Машинный перевод 30.06.2023
+ casket_patrons_whom_purchase_our_goods_and_not_those_of_the_much_despised: "Покровители, покупающие наши товары, а не товары презираемых [ROOT.GetChar.Custom('ArtifactCasketBrand)|U]" #Машинный перевод 30.06.2023
+ casket_heroes_whom_gave_their_lives_against_the_hated_undead: "Герои, которые отдали свои жизни против ненавистной нежити" #Машинный перевод 30.06.2023
+  
+ artifact_marcher_casket_name: "$artifact_name_prefix$ Шкатулка маршера" #Машинный перевод 30.06.2023
+ artifact_marcher_casket_description: "Шевальская шкатулка мастерства [SCOPE.Custom('ArtifactQuality')]. Он состоит из [newly_created_artifact.GetFeatureText( 'casket_material' )] и [newly_created_artifact.GetFeatureText( 'casket_decoration' )].\n\n$artifact_marcher_casket_explanation$ $artifact_marcher_casket_age$\n\n[newly_created_artifact.GetFeatureText( 'casket_branded' )][newly_created_artifact.GetFeatureText( 'casket_name' )]" #Машинный перевод 30.06.2023
+ artifact_marcher_casket_explanation: "Шевальские шкатулки долгое время были эталоном мастеров Marcher и часто использовались в качестве свадебных подарков и шкатулок для драгоценностей на протяжении всего [continent|E]." #Машинный перевод 30.06.2023
+ artifact_marcher_casket_age: "Этот образец [newly_created_artifact.GetFeatureText( 'casket_characteristic' )], вероятно, был изготовлен примерно в [owner.MakeScope.Var('casket_age').GetValue|0] году." #Машинный перевод 30.06.2023
+  
+  # Votive Figures 
+  
+ feature_votive_characteristic_crude: "довольно грубый и уродливый" #Машинный перевод 30.06.2023
+ feature_votive_characteristic_plain: "простой и ничем не примечательный" #Машинный перевод 30.06.2023
+ feature_votive_characteristic_elegant: "довольно элегантный" #Машинный перевод 30.06.2023
+ feature_votive_characteristic_detailed: "изысканно детализированный" #Машинный перевод 30.06.2023
+ feature_votive_characteristic_tiny: "исключительно маленький" #Машинный перевод 30.06.2023
+ feature_votive_characteristic_small: "достаточно маленький, чтобы носить его одной рукой" #Машинный перевод 30.06.2023
+ feature_votive_characteristic_large: "достаточно большой, чтобы нести обе руки" #Машинный перевод 30.06.2023
+ feature_votive_characteristic_damaged: "поврежденный с возрастом" #Машинный перевод 30.06.2023
+ feature_votive_characteristic_painted: "матовый цвет" #Машинный перевод 30.06.2023
+  
+ feature_votive_material_wood: "древесина" #Машинный перевод 30.06.2023
+ feature_votive_material_ivory: "слоновая кость" #Машинный перевод 30.06.2023
+ feature_votive_material_marble: "мрамор" #Машинный перевод 30.06.2023
+ feature_votive_material_stone: "камень" #Машинный перевод 30.06.2023
+ feature_votive_material_bronze: "бронза" #Машинный перевод 30.06.2023
+ feature_votive_material_gold: "золото" #Машинный перевод 30.06.2023
+  
+ feature_votive_carving_axiaothea: "резное изображение Автократира Аксиаотеи в парадной военной форме" #Машинный перевод 30.06.2023
+ feature_votive_carving_anesimasios: "резное изображение Автократира Анесимасия, держащего кубок и скипетр" #Машинный перевод 30.06.2023
+ feature_votive_carving_crios: "резное изображение Автократира Криоса со скрещенными руками" #Машинный перевод 30.06.2023
+ feature_votive_carving_theodian: "наспех закончена резьба Автократира Феодияна" #Машинный перевод 30.06.2023
+ feature_votive_carving_aeolus: "резное изображение Автократа Эола, наспех законченное" #Машинный перевод 30.06.2023
+ feature_votive_carving_thresatos: "резьба Автократира Тресатоса" #Машинный перевод 30.06.2023
+ feature_votive_carving_ischenios: "резное изображение Автократира Ишениоса с высоко поднятой головой" #Машинный перевод 30.06.2023
+ feature_votive_carving_maeonias: "резное изображение пьющего Автократа Меония" #Машинный перевод 30.06.2023
+ feature_votive_carving_biton: "резное изображение Автократа Битона, наполненное гневом" #Машинный перевод 30.06.2023
+ feature_votive_carving_phancis: "резное изображение Автократира Фанкиса, держащего невзрачную женщину" #Машинный перевод 30.06.2023
+ feature_votive_carving_exaduis: "резное изображение Автократира Эксадуиса, держащего копье" #Машинный перевод 30.06.2023
+ feature_votive_carving_isocrates: "резное изображение Автократа Исократа, последнего из его имени" #Машинный перевод 30.06.2023
+ feature_votive_carving_alcandrea: "резное изображение Автократира Алькандреи с младенцем" #Машинный перевод 30.06.2023
+ feature_votive_carving_clytomedes: "резное изображение Автократира Цилтомедес, сделанное бессистемно" #Машинный перевод 30.06.2023
+ feature_votive_carving_oliatos: "наспех закончена резьба Автократира Олиатоса" #Машинный перевод 30.06.2023
+ feature_votive_carving_nothyx: "резное изображение автократира Нотикса с могучим клинком" #Машинный перевод 30.06.2023
+ feature_votive_carving_mythix: "резное изображение Аутократира Мификса, написанное на отрезке пергамента" #Машинный перевод 30.06.2023
+ feature_votive_carving_theyssia: "резное изображение Автократа Тиссии, купающейся в драконьем огне" #Машинный перевод 30.06.2023
+ feature_votive_carving_eramos: "резное изображение Ауторкатира Эрамоса, держащего руль картарадди" #Машинный перевод 30.06.2023
+ feature_votive_carving_aeliadas: "резное изображение Автократа Элиадаса, держащего звезду" #Машинный перевод 30.06.2023
+ feature_votive_carving_dikaynos: "резное изображение святого агиониста Дикайноса, читающего фолиант" #Машинный перевод 30.06.2023
+ feature_votive_carving_sansia: "резное изображение святой Сансии-агионистки, покрытое шрамами и поврежденное" #Машинный перевод 30.06.2023
+ feature_votive_carving_thysia: "резьба святой Фисии-агионистки, держащей щипцы" #Машинный перевод 30.06.2023
+ feature_votive_carving_katharitos: "резное изображение Святого Катаритоса-Агиониста в молчаливом размышлении" #Машинный перевод 30.06.2023
+ feature_votive_carving_eos: "резное изображение святого Эоса, исполненного уверенности и храбрости" #Машинный перевод 30.06.2023
+ feature_votive_carving_philantros: "резное изображение святого Филантроса-агиониста, раздающего милостыню" #Машинный перевод 30.06.2023
+ feature_votive_carving_calystos: "резное изображение святого агиониста Калиста, держащего цепь" #Машинный перевод 30.06.2023
+ feature_votive_carving_pathos: "резное изображение Автократира Пафоса, наблюдающего за военной игрой" #Машинный перевод 30.06.2023
+ feature_votive_carving_maklea: "резное изображение Автократа Маклеа, пропитанное кровью" #Машинный перевод 30.06.2023
+ feature_votive_carving_akalionixos: "резное изображение Автократира Акалиониксоса, слишком поврежденное, чтобы различить его особенности" #Машинный перевод 30.06.2023
+ feature_votive_carving_aessocianix: "резное изображение Aautokratir Aessocianix, слишком поврежденное, чтобы различить его особенности" #Машинный перевод 30.06.2023
+ feature_votive_carving_aexionarax: "резное изображение Автократира Эксионаракса, слишком поврежденное, чтобы различить его особенности" #Машинный перевод 30.06.2023
+ feature_votive_carving_dhacixen: "резное изображение Ауторкратира Фанагоракса, слишком поврежденное, чтобы различить его особенности" #Машинный перевод 30.06.2023
+  
+  
+ artifact_votive_figure_name: "$artifact_name_prefix$ Вотивная фигурка Аверсарян" #Машинный перевод 30.06.2023
+ artifact_votive_figure_description: "Аверсарская скульптура [SCOPE.Custom('ArtifactQuality')] мастерства. Он состоит из [newly_created_artifact.GetFeatureText( 'votive_material' )] и является [newly_created_artifact.GetFeatureText( 'votive_carving' )].\n\n$artifact_votive_figure_explanation$ $artifact_votive_figure_age$" #Машинный перевод 30.06.2023
+ artifact_votive_figure_explanation: "Аверсарии издавна изготовляли вотивные фигурки, которые приносились в священные места через [aversaria|E]. Многие изображают автократиров, но нередки и другие известные или могущественные аверсарианцы." #Машинный перевод 30.06.2023
+ artifact_votive_figure_age: "Этот образец [newly_created_artifact.GetFeatureText( 'votive_characteristic' )], вероятно, был изготовлен примерно в [owner.MakeScope.Var('votive_age').GetValue|0] году." #Машинный перевод 30.06.2023
+  
+  # Stone Tablets 
+  
+ feature_tablet_characteristic_large: "довольно большой" #Машинный перевод 30.06.2023
+ feature_tablet_characteristic_huge: "огромный и тяжелый" #Машинный перевод 30.06.2023
+ feature_tablet_characteristic_small: "довольно маленький" #Машинный перевод 30.06.2023
+ feature_tablet_characteristic_tiny: "исключительно маленький" #Машинный перевод 30.06.2023
+ feature_tablet_characteristic_detailed: "замысловато детализированный" #Машинный перевод 30.06.2023
+ feature_tablet_characteristic_unremarkable: "довольно ничем не примечательный" #Машинный перевод 30.06.2023
+  
+ feature_tablet_engraving_inelligible: "его гравюры неразборчивы" #Машинный перевод 30.06.2023
+ feature_tablet_engraving_undecipherable: "его гравюры неразборчивы" #Машинный перевод 30.06.2023
+ feature_tablet_engraving_ritual: "считается, что его гравюры связаны с традицией или ритуалом." #Машинный перевод 30.06.2023
+ feature_tablet_engraving_bill: "считается, что его гравюры связаны с купчей" #Машинный перевод 30.06.2023
+ feature_tablet_engraving_law: "считается, что его гравюры связаны с древним сводом законов." #Машинный перевод 30.06.2023
+ feature_tablet_engraving_kemsar: "считается, что его гравюры содержат детали древней Кемсарской империи." #Машинный перевод 30.06.2023
+ feature_tablet_engraving_ruler: "на его гравюрах изображена сцена правителя перед своими подданными." #Машинный перевод 30.06.2023
+ feature_tablet_engraving_magi: "на его гравюрах изображена сцена, в которой [magi|E] совершает какой-то ритуал" #Машинный перевод 30.06.2023
+ feature_tablet_engraving_conqueror: "на его гравюрах изображен всадник верхом на лошади." #Машинный перевод 30.06.2023
+ feature_tablet_engraving_ancient: "его гравюры показывают то, что некоторые считают картой Саррадона до [halakdun|E]" #Машинный перевод 30.06.2023
+ feature_tablet_engraving_river: "считается, что его гравюры говорят об орошении реки Кемсар." #Машинный перевод 30.06.2023
+  
+ feature_tablet_condition_mint: "находится в почти идеальном состоянии" #Машинный перевод 30.06.2023
+ feature_tablet_condition_degraded: "деградировал с возрастом" #Машинный перевод 30.06.2023
+ feature_tablet_condition_cracked: "имеет массивную трещину, проходящую через его переднюю часть" #Машинный перевод 30.06.2023
+ feature_tablet_condition_crumbling: "рассыпается при малейшем прикосновении" #Машинный перевод 30.06.2023
+ feature_tablet_condition_broken: "разбивается на две половины" #Машинный перевод 30.06.2023
+ feature_tablet_condition_missing: "отсутствуют части его гравировки из-за повреждения" #Машинный перевод 30.06.2023
+  
+ artifact_stone_tablet_name: "$artifact_name_prefix$ Древняя саррадонская табличка" #Машинный перевод 30.06.2023
+ artifact_stone_tablet_description: "Каменная табличка, найденная в [sarradon|E] мастерства [SCOPE.Custom('ArtifactQuality')]. Это [newly_created_artifact.GetFeatureText( 'tablet_condition' )] и [newly_created_artifact.GetFeatureText( 'tablet_engraving' )].\n\n$artifact_stone_tablet_explanation$ $artifact_stone_tablet_age$" #Машинный перевод 30.06.2023
+ artifact_stone_tablet_explanation: "Каменные таблички обычно использовались в древнем Саррадоне для письма, и многие из них, найденные по всему континенту, высоко ценятся как учеными, так и коллекционерами." #Машинный перевод 30.06.2023
+ artifact_stone_tablet_age: "Этот образец [newly_created_artifact.GetFeatureText( 'tablet_characteristic' )], вероятно, был изготовлен около [owner.MakeScope.Var('tablet_age').GetValue|0]00 до н.э." #Машинный перевод 30.06.2023
+  
+  # Coins 
+  
+ artifact_commemorative_coin_name: "$artifact_name_prefix$ Памятная монета" #Машинный перевод 30.06.2023
+ artifact_commemorative_coin_description: "Памятная монета [SCOPE.Custom('ArtifactQuality')] мастерства. Это были [newly_created_artifact.GetFeatureText( 'coin_issue' )] и [newly_created_artifact.GetFeatureText( 'coin_decoration' )].\n\n$artifact_commemorative_coin_explanation$ $artifact_commemorative_coin_age$" #Машинный перевод 30.06.2023
+ artifact_commemorative_coin_explanation: "Памятные монеты были выпущены в [aversaria|E] и [chevalie|E] в ознаменование особых событий или моментов в истории." #Машинный перевод 30.06.2023
+ artifact_commemorative_coin_age: "Этот образец [newly_created_artifact.GetFeatureText( 'coin_characteristic' )], вероятно, был изготовлен примерно в [owner.MakeScope.Var('coin_age').GetValue|0] году." #Машинный перевод 30.06.2023
+  
+ feature_coin_issue_karthraddi: "выпущен в память о [kartharaddi|E] войнах" #Машинный перевод 30.06.2023
+ feature_coin_issue_jan: "выпущен в память о Яне ва Гисредде в окружении домашнего скота" #Машинный перевод 30.06.2023
+ feature_coin_issue_printed: "выпущен Банком [peti_gisredde|E]" #Машинный перевод 30.06.2023
+ feature_coin_issue_hero: "выпущен в честь [champion_of_chevalie|E]" #Машинный перевод 30.06.2023
+ feature_coin_issue_schism: "выпущен в память о споре Понтгонье" #Машинный перевод 30.06.2023
+ feature_coin_issue_schism2: "выпущен в память о Конклаве Гисредде, защищающем свои ценности" #Машинный перевод 30.06.2023
+ feature_coin_issue_schism3: "выпущен в память о том, что Конклав Гисредде защищал свой выбор в пользу Waymasters" #Машинный перевод 30.06.2023
+ feature_coin_issue_schism4: "выпущен в память о Живом Пути святой Исайи" #Машинный перевод 30.06.2023
+ feature_coin_issue_schism5: "выпущен в память о Конклаве Гисредде, защищавшем честь Хозяйки пути Айне" #Машинный перевод 30.06.2023
+ feature_coin_issue_schism6: "выпущен в честь решения Конклава Гисредде во время Войны принцев-еретиков" #Машинный перевод 30.06.2023
+ feature_coin_issue_schism7: "выпущен в память о раскольниках Конклава Гисредде" #Машинный перевод 30.06.2023
+  
+ feature_coin_decoration_plain: "простой и неукрашенный" #Машинный перевод 30.06.2023
+ feature_coin_decoration_flora: "имеет цветочный мотив" #Машинный перевод 30.06.2023
+ feature_coin_decoration_fauna: "имеет животный мотив" #Машинный перевод 30.06.2023
+ feature_coin_decoration_calligraphy: "имеет уникальную каллиграфию" #Машинный перевод 30.06.2023
+ feature_coin_decoration_poor: "был плохо нажат" #Машинный перевод 30.06.2023
+ feature_coin_decoration_sided: "имеет только одну украшенную сторону" #Машинный перевод 30.06.2023
+  
+ feature_coin_characteristic_large: "довольно большой" #Машинный перевод 30.06.2023
+ feature_coin_characteristic_small: "довольно маленький" #Машинный перевод 30.06.2023
+ feature_coin_characteristic_detailed: "замысловато детализированный" #Машинный перевод 30.06.2023
+ feature_coin1_characteristic_unremarkable: "довольно ничем не примечательный" #Машинный перевод 30.06.2023
+  
+  
+ take_their_skull_tooltip: "#positive_value Вы получите [artifact|E]" #Машинный перевод 30.06.2023

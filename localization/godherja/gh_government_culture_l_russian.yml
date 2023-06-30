@@ -1,0 +1,21 @@
+﻿l_russian:
+   # No tooltip versions 
+ feudal_marcher_no_tooltip: "Feudal"
+ feudal_marcher_no_tooltip_adjective: "Feudal"
+  
+ feudal_default_no_tooltip: "Aristocratic"
+ feudal_default_no_tooltip_adjective: "Noble"
+  
+   # Lowercase versions 
+ feudal_marcher_no_tooltip_lowercase: "feudal"
+ feudal_marcher_no_tooltip_lowercase_adjective: "feudal"
+  
+ feudal_default_no_tooltip_lowercase: "aristocratic"
+ feudal_default_no_tooltip_lowercase_adjective: "noble"
+  
+   #Game Concept versions 
+ feudal_marcher: "[Concept( 'feudal', '$feudal_marcher_no_tooltip$' )|E]"
+ feudal_marcher_adjective: "[Concept( 'feudal', '$feudal_marcher_no_tooltip_adjective$' )|E]"
+  
+ feudal_default: "[Concept( 'feudal', '$feudal_default_no_tooltip$' )|E]"
+ feudal_default_adjective: "[Concept( 'feudal', '$feudal_default_no_tooltip_adjective$' )|E]"

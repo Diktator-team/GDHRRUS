@@ -1,0 +1,14 @@
+﻿l_russian:
+ war_event.3103.t: "The Black Sun Expands"
+ war_event.3103.desc: "Glory, restored again."
+ war_event.3103.a: "The start of a new chapter."
+ war_event.4000.desc: "Иностранный правитель, [attacker.GetUIName], собрал большое войско и заявил о своем намерении вторгнуться в наши земли. Предстоящая война обязательно будет разрушительной, и поэтому [defender.GetUIName] запросил у вас дополнительные войска, чтобы противостоять этой угрозе."
+  
+ war_event.3104.t: "Where It All Began"
+ war_event.3104.desc: "For most of us today, ever since our first breath, our lives have been dominated by fear. Fear of the [fog|E], of the broken remains of [aervalr|E], and of the chaos, warfare and suffering that our ancestors have brought. Though many could be blamed for the calamity, one above all can be named the greatest perpetrator, a man now at my mercy.\n\nAfter cutting down the last of his pet fanatics, [prisoner_a.GetFirstName] now awaits his fate in my deepest dungeon. To say that there's little remorse in the old [magi|E]'s rantings and ravings would be an understatement, for he dares to gloat of his reputation as the fool that left the world a burning ruin.\n\nNo matter. On this day, the whims of this vile tyrant will finally cease to matter, once and for all."
+ war_event.3104.a: "Let justice be found and this madman forgotten."
+ war_event.3104.b: "Perhaps he's of more use alive?"
+ fervor_loss_aeschraes_executed: "The Purest incarnate is slain!"
+  
+ gh_raiding.0001.t: "Our Loot is Distributed"
+ gh_raiding.0001.desc: "We distribute our ill-gotten gains amongst the soldiers."

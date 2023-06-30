@@ -1,0 +1,52 @@
+﻿l_russian:
+ improve_city_province_decision: "$improve_city_province_decision_name$"
+ improve_city_province_decision_name: "Расширить города"
+ improve_city_province_decision_desc: "Заплатите за строительство новых богатых кварталов в вашем городе"
+ improve_city_province_decision_confirm: "Начать расширение"
+ improve_city_province_decision_tooltip: "Вложите деньги, чтобы получить новые ячейки [Concept( 'building', 'зданий' )|E] в ваших [Concept( 'cities', 'городах' )|E]"
+ improve_city_province_decision_decision_no_effect: "Нет подходящих [Concept( 'cities', 'городов' )|E]"
+ improve_city_province_decision_at_least_one_city_tt: "Хотя бы в одном городе менее 5 ячеек зданий"
+  
+ fp2_secure_mediterranean.t: "Захватить Средиземное море"
+ fp2_secure_mediterranean.desc: "Ключевые острова Средиземного моря в наших руках и играют роль сторожевых башен. Теперь пора установить контроль над морем."
+ fp2_secure_mediterranean.tip: "Захватить власть над Средиземным морем"
+  
+ secure_iberian_foothold_decision_title: "Ритуальная точка опоры" #Машинный перевод 30.06.2023
+ secure_iberian_foothold_decision_desc: "Ослабевшие воюющие государства Расколотого Берега открыли двери побережья для захватчиков извне. Если бы кто-то мог объявить себя новым [ROOT.Char.GetFaith.GetReligion.GetAdjectiveNoTooltip] лидером региона или просто славным захватчиком, можно было бы многого добиться." #Машинный перевод 30.06.2023
+ secure_iberian_foothold_decision_tooltip: "Интегрировать часть Расколотого побережья" #Машинный перевод 30.06.2023
+ secure_iberian_foothold_decision_confirm: "Сильнейшему."
+ fp2_struggle_uninvolved_or_external_tt: "Ваш [capital|E] находится за пределами [GetGeographicalRegion('struggle_rite_wars_north').GetName] [region|E]" #Машинный перевод 30.06.2023
+ fp2_struggle_secure_iberian_foothold_empire_tt: "Вы [hold|E] [empire|E] [title|E], который не является [de_jure|E] в [GetGeographicalRegion('struggle_rite_wars_north').GetName] [region|E]" #Машинный перевод 30.06.2023
+  
+ fp2_struggle_phase_hostility_or_opportunity_tt: "Войны обрядов [struggle_phase|E] — это [struggle_phase_iberia_hostility|E] или [struggle_phase_iberia_opportunity|E] (Текущий: [GetStruggle('iberian_struggle').GetCurrentPhase.GetName])" #Машинный перевод 30.06.2023
+ fp2_struggle_secure_iberian_foothold_kingdom_iberian_tt: "Вы [hold|E] и [completely_control|E] [de_jure|E] [kingdom|E] в [GetGeographicalRegion('struggle_rite_wars_north').GetName] [region|E]" #Машинный перевод 30.06.2023
+  
+ fp2_struggle_secure_iberian_foothold_kingdom_faith_tt: "Не менее #Z [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_faith_target_percent_value')|0]%#! [de_jure|El] [Concept( 'counties', 'графств' )|E] этих [Concept( 'titlepossessive', 'титулов' )|E] #L [THIS.Char.GetFaith.GetName|l]ие#!"
+ fp2_struggle_secure_iberian_foothold_kingdom_border_tt: "Эти [title|E] границы занимают [de_jure|E] земли из [empire|E] вы [hold|E], которые не являются [de_jure|E] в [GetGeographicalRegion('struggle_rite_wars_north').GetName] [region|E]" #Машинный перевод 30.06.2023
+ fp2_struggle_secure_iberian_foothold_kingdom_held_tt: "Вы владели этим [Concept( 'title', 'титулом' )|E] не менее [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_years_value')|0Z] л."
+  
+ fp2_struggle_secure_iberian_foothold_religion_tt: "Вы [hold|E] по крайней мере #Z [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_religion_target_percent_value')|0]%#! из [THIS.Char.GetFaith.GetReligion.GetAdjective] [faith|E] [counties|E] в [GetGeographicalRegion('struggle_rite_wars_north').GetName] [region|E] (Текущий: [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_religion_percent_value')|1]%)\n" #Машинный перевод 30.06.2023
+ fp2_struggle_secure_iberian_foothold_outsider_tt: "Вы [hold|E] по крайней мере #Z [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_outsider_target_percent_value')|0]%#! из [counties|E] в [GetGeographicalRegion('struggle_rite_wars_north').GetName] [region|E] (Текущий: [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_outsider_percent_value')|0]%)\n" #Машинный перевод 30.06.2023
+  
+ fp2_struggle_secure_iberian_foothold_empire_held_effect_tt: "Каждое [de_jure|El] [kingdom|El] в империи [GetTitleByKey('e_spain').GetNameNoTier], удовлетворяющее нижеперечисленным условиям, станет [de_jure|El] частью державы [THIS.Char.GetPrimaryTitle.GetNameNoTier]"
+ fp2_struggle_secure_iberian_foothold_empire_dejure_effect_tt: "Каждое [de_jure|El] [kingdom|El] в империи [GetTitleByKey('e_spain').GetNameNoTier], удовлетворяющее нижеперечисленным условиям, станет [de_jure|El] частью [Concept( 'empire', 'империи' )|E] [THIS.Char.GetPrimaryTitle.GetDeJureLiege.GetNameNoTier]"
+  
+ fp2_struggle_secure_iberian_foothold_ends_the_struggle_tt: "[iberian_struggle|E] завершается"
+  
+ iberian_footholder_transfer_tt: "[THIS] [THIS.Title.GetName] [THIS.GetName]"
+  
+ fp2_other_decisions.1000.t: "$secure_iberian_foothold_decision_title$: [iberian_footholder.GetPrimaryTitle.GetAdjectiveNoTooltip]ая консолидация"
+ fp2_other_decisions.1000.involved_religion: "Войны раздробленных княжеств Расколотого Берега чуть не поставили на колени [ROOT.Char.GetFaith.GetReligion.GetAdjective] царств региона.\n\nБез нашего вмешательства [ROOT.Char.GetFaith.HighGodNamePossessive] правоверных в конце концов были бы изгнаны с побережья властными неверными.\n\n" #Машинный перевод 30.06.2023
+ fp2_other_decisions.1000.desc: "Разделенные веры и народы Расколотого Берега дали нам прекрасную возможность, слишком занятые борьбой друг с другом, чтобы противостоять вторжению [ROOT.Char.GetFaith.GetReligion.GetAdjective] на побережье." #Машинный перевод 30.06.2023
+ fp2_other_decisions.1000.involved_faith: "[ROOT.Char.GetFaith.GetAdherentNamePlural] запада видят в нас своих защитников и чувствуют себя в безопасности, зная, что их оберегает [ROOT.Char.GetPrimaryTitle.GetDefinitiveName]."
+ fp2_other_decisions.1000.uninvolved_faith: "Нашими усилиями [ROOT.Char.GetFaith.GetAdjective|l] распространится на эти земли. Под сенью державы [ROOT.Char.GetPrimaryTitle.GetDefinitiveName] на эти земли вернутся мир и процветание."
+ fp2_other_decisions.1000.closing: "\n\nСо временем они поймут, что время ложных богов кончилось, и будут радоваться, что [ROOT.Char.GetFaith.HighGodName] ведет державу [ROOT.Char.GetPrimaryTitle.GetDefinitiveName] по пути спасения региона."
+ fp2_other_decisions.1000.a: "На Расколотом Берегу требовалась новая кровь." #Машинный перевод 30.06.2023
+  
+ fp2_other_decisions.1001.involved_religion: "После столетий войн между Ритуалами нашей борьбой воспользовались властные [iberian_footholder.GetPrimaryTitle.GetAdjective] нарушители.\n\n" #Машинный перевод 30.06.2023
+ fp2_other_decisions.1001.desc: "Из-за рассеянности, зависти и небрежности мы, Шальволки, позволили нарушителям [iberian_footholder.GetPrimaryTitle.GetAdjective] использовать разделение нашей родины и вторгнуться в исторические королевства побережья." #Машинный перевод 30.06.2023
+ fp2_other_decisions.1001.involved_faith: "[iberian_footholder.GetTitledFirstName] объявил [iberian_footholder.GetHerselfHimself] законным [iberian_footholder.GetFaith.GetAdjectiveNoTooltip] лидером побережья, используя [iberian_footholder.GetHerHis] победы как доказательство легитимности [iberian_footholder.GetHerHis] над больными [iberian_footholder.GetFaith.GetReligion.GetAdjective] царствами Расколотого Берега." #Машинный перевод 30.06.2023
+ fp2_other_decisions.1001.same_uninvolved_faith: "Они утверждают, что наши неудачи были [ROOT.Char.GetFaith.HighGodNamePossessive] наказанием за отклонение от праведного пути [iberian_footholder.GetFaith.GetName], и что [iberian_footholder.GetTitledFirstName] является законным лидером [ROOT.Char.GetFaith.GetReligion.GetAdjective] Расколотого Берега..." #Машинный перевод 30.06.2023
+ fp2_other_decisions.1001.uninvolved_faith: "Имея в качестве доказательства [iberian_footholder.GetHerHis] побед, [iberian_footholder.GetTitledFirstName] провозгласил [iberian_footholder.GetHerHis] [iberian_footholder.GetFaith.GetAdjective] веру истинным [iberian_footholder.GetFaith.GetReligion.GetAdjective] путем; тот, который объединит все побережье под [iberian_footholder.GetFaith.HighGodName]." #Машинный перевод 30.06.2023
+ fp2_other_decisions.1001.closing: "\n\nПо мере того, как [iberian_footholder.GetTitledFirstName] укрепляет свои владения, былые различия между христианами и мусульманами меркнут на фоне #L [iberian_footholder.GetFaith.GetName|l]ой#! оккупации..."
+ fp2_other_decisions.1001.a: "Проклятые захватчики."

@@ -1,0 +1,184 @@
+﻿l_russian:
+  
+ # Combat Move Options 
+ single_combat_magic.0001.tier_0_magic_blast: "Кажется я как-то научился атаковать людей магией ..."
+ single_combat_magic.0001.tier_1_magic_blast: "Моя магия сотрёт эту улыбку с твоего лица!"
+ single_combat_magic.0001.tier_2_magic_blast: "Моя магия сотрёт тебя с лица Аэроса!"
+ single_combat_magic.0001.tier_3_magic_blast: "Моё могущество #EMP безгранично#!! Бегите, глупцы!"
+ single_combat_magic.0001.tier_0_ward: "Возможно, если как-то защитить себя магией, удастся выжить."
+ single_combat_magic.0001.tier_1_ward: "Мой щит выдержит твои атаки."
+ single_combat_magic.0001.tier_2_ward: "Тебе не сломить этот щит своими жалкими атаками, глупец!"
+ single_combat_magic.0001.tier_3_ward: "Я #EMP неуязвим#!! Ничему на Аэросе не сломить мои щиты!"
+  
+ ## Combat Move Option Tooltips 
+ single_combat_magic.0001.tier_0_magic_blast.tt: "Запустить небольшой магический заряд в [my_foe.GetFirstNameNoTooltip]."
+ single_combat_magic.0001.tier_1_magic_blast.tt: "Отправить средний магический заряд в [my_foe.GetFirstNameNoTooltip]."
+ single_combat_magic.0001.tier_2_magic_blast.tt: "Взорвать [my_foe.GetFirstNameNoTooltip] могущественной магией."
+ single_combat_magic.0001.tier_3_magic_blast.tt: "Уничтожить [my_foe.GetFirstNameNoTooltip] мощным магическим взрывом ."
+ single_combat_magic.0001.tier_0_ward.tt: "Постараться в попытке создать магический щит."
+ single_combat_magic.0001.tier_1_ward.tt: "Защитить себя средним магическим щитом."
+ single_combat_magic.0001.tier_2_ward.tt: "Обратить вспять [my_foe.GetFirstNameNoTooltip] атаки мощным магическим щитом."
+ single_combat_magic.0001.tier_3_ward.tt: "Отразить вражескую  атаку непробиваемым щитом."
+  
+  # Combat Descs 
+  ## Own Combat Move Feedback 
+ single_combat_magic.0001.desc.my_feedback.tier_0_generic_blast: "Я попытался взорвать [my_foe.GetFirstNameNoTooltip] своей магией, но сумел создать лишь слабое заклинание.."
+ single_combat_magic.0001.desc.my_feedback.tier_1_generic_blast: "Я воздел руки и запустил заклинание в [my_foe.GetFirstNameNoTooltip]."
+ single_combat_magic.0001.desc.my_feedback.tier_2_generic_blast: "Я собрался с силами и атаковал [my_foe.GetFirstNameNoTooltip] могущественным заклинанием."
+ single_combat_magic.0001.desc.my_feedback.tier_3_generic_blast: "Я обрушил на врага град магических атак, отнимающий у него почти всякие шансы на уклонение."
+ single_combat_magic.0001.desc.my_feedback.tier_0_ward: "Несмотря на все мои старания, я создал лишь слабый магический щит."
+ single_combat_magic.0001.desc.my_feedback.tier_1_ward: "Я создал щит не исключительный, но его должно хватить, чтобы сдержать [my_foe.GetFirstNameNoTooltip] атаки."
+ single_combat_magic.0001.desc.my_feedback.tier_2_ward: "Я в безопасности за моим мощным щитом, пока он защищает меня от всех атак [my_foe.GetFirstNameNoTooltip]."
+ single_combat_magic.0001.desc.my_feedback.tier_3_ward: "Я в безопасности за моим мастерским щитом, пока он отражает все атаки [my_foe.GetFirstNameNoTooltip]."
+  
+  ## Opponent Combat Move Feedback 
+ single_combat_magic.0001.desc.opponent_response.tier_0_generic_blast: "[my_foe.GetFirstNameNoTooltip] пытается атаковать меня магиней, но ему удаётся создать лишь слабое заклинание."
+ single_combat_magic.0001.desc.opponent_response.tier_1_generic_blast: "[my_foe.GetFirstNameNoTooltip] отправляет в меня заклинание."
+ single_combat_magic.0001.desc.opponent_response.tier_2_generic_blast: "[my_foe.GetFirstNameNoTooltip] поведя рукой, атакует меня мощным заклинанием."
+ single_combat_magic.0001.desc.opponent_response.tier_3_generic_blast: "[my_foe.GetFirstNameNoTooltip] запускает в меня град мощных заклинаний, оставляя мне мало шансов увернуться, или как-то помешать."
+ single_combat_magic.0001.desc.opponent_response.tier_0_ward: "[my_foe.GetFirstNameNoTooltip] пытается защитить [my_foe.GetHerselfHimself] слабым магическим щитом."
+ single_combat_magic.0001.desc.opponent_response.tier_1_ward: "[my_foe.GetFirstNameNoTooltip] создаёт магический щит, чтоб защитить [my_foe.GetHerselfHimself]."
+ single_combat_magic.0001.desc.opponent_response.tier_2_ward: "[my_foe.GetFirstNameNoTooltip] защитил [my_foe.GetHerselfHimself] мощным магическим щитом, уверенно отражая мои атаки."
+ single_combat_magic.0001.desc.opponent_response.tier_3_ward: "[my_foe.GetFirstNameNoTooltip] защитил [my_foe.GetHerselfHimself] магическим щитом неимоверной силы, уверенно защищаясь от моих атак."
+  
+  # Outcome Event: Loser 
+  ## Defender Lost, Own Combat Move Feedback 
+ single_combat_magic.0031.desc.sc_defender.tier_0_generic_blast: "Мой слабый магический удар ничего не достиг."
+ single_combat_magic.0031.desc.sc_defender.tier_1_generic_blast: "Противник отклонился от моего магического удара."
+ single_combat_magic.0031.desc.sc_defender.tier_2_generic_blast: "[my_foe.GetFirstNameNoTooltip] помешал сотворению заклинания до того, как я полностью подготовил своей магический удар."
+ single_combat_magic.0031.desc.sc_defender.tier_3_generic_blast: "Когда я уже был готов стереть [my_foe.GetFirstNameNoTooltip] всем своим могуществом, [my_foe.GetSheHe] помешал мне сотворить заклинание."
+ single_combat_magic.0031.desc.sc_defender.tier_0_ward: "[my_foe.GetFirstNameNoTooltip] атаки легко сокрушают мой жалкий щит."
+ single_combat_magic.0031.desc.sc_defender.tier_1_ward: "[my_foe.GetFirstNameNoTooltip] сумел подавить и уничтожить мой щит."
+ single_combat_magic.0031.desc.sc_defender.tier_2_ward: "Пока мой щит был ещё не до конца готов, [my_foe.GetFirstNameNoTooltip] сумел сломить его."
+ single_combat_magic.0031.desc.sc_defender.tier_3_ward: "Прежде чем я успел сотворить щит, [my_foe.GetFirstNameNoTooltip] сумел помешать моему колдоству."
+  
+  ## Defender Lost, Opponent Finishing Move Feedback 
+ single_combat_magic.0031.desc.opponent_response.tier_0_generic_blast: "Несмотря на невеликие его размеры, скорость [my_foe.GetFirstNameNoTooltip] магического заряда сумела застать меня врасплох"
+ single_combat_magic.0031.desc.opponent_response.tier_1_generic_blast: "Я замираю, когда [my_foe.GetFirstNameNoTooltip] магический заряд летит в меня."
+ single_combat_magic.0031.desc.opponent_response.tier_2_generic_blast: "Я бросаюсь, чтобы помешать [my_foe.GetFirstNameNoTooltip] сотворить заклинание, но не успеваю."
+ single_combat_magic.0031.desc.opponent_response.tier_3_generic_blast: "Я бросаюсь, чтобы помешать [my_foe.GetFirstNameNoTooltip] сотворить заклинание, но не успеваю."
+ single_combat_magic.0031.desc.opponent_response.tier_0_ward: "Я пытаюсь сокрушить [my_foe.GetFirstNameNoTooltip] жалкий щит, но тот каким-то чудом выдерживает и"
+ single_combat_magic.0031.desc.opponent_response.tier_1_ward: "Я пытаюсь продавить [my_foe.GetFirstNameNoTooltip] щит, но моя атака срывается и"
+ single_combat_magic.0031.desc.opponent_response.tier_2_ward: "Я бросаюсь вперёд в попытке ударить до того как [my_foe.GetFirstNameNoTooltip] сумеет завершить свой щит, но не успеваю."
+ single_combat_magic.0031.desc.opponent_response.tier_3_ward: "Я бросаюсь вперёд в попытке ударить до того как [my_foe.GetFirstNameNoTooltip] сумеет завершить свой щит, но не успеваю."
+  
+  ## Defender Lost, Opponent Finishing Move Injury 
+ single_combat_magic.0031.desc.opponent_response.tier_0_generic_blast.injury: "заряд попадает мне в шею. n/n/Я всхрипываю, и и отпускаю оружие, падая на землю. \n\n[my_foe.GetFirstNameNoTooltip] на несколько секунд недоумённо замирает, пока, сомневаясь, не наставляет на меня свой [sc_victor.GetHerHis] [sc_victor.Custom('signature_weapon')]. \n\n"С-сдавайся!""
+ single_combat_magic.0031.desc.opponent_response.tier_1_generic_blast.injury: "и ударяет мне прямо в живот, откидывая меня и валя на землю. n/n/[my_foe.GetFirstNameNoTooltip] холодно смотрит на меня, пока я, поверженный, лежу на земле."
+ single_combat_magic.0031.desc.opponent_response.tier_2_generic_blast.injury: "[sc_victor.GetFirstNameNoTooltip] завершает своё заклинание, откидывая меня. n/n/[my_foe.GetFirstNameNoTooltip] холодно смотрит на меня, пока я, поверженный, лежу на земле."
+ single_combat_magic.0031.desc.opponent_response.tier_3_generic_blast.injury: "Пусть ему и не хватает времени, чтобы завершить заклинание, в меня летит мощный магический заряд, отправляя меня в полёт. n/n/[my_foe.GetFirstNameNoTooltip] холодно смотрит на меня, пока я, поверженный, лежу на земле."
+ single_combat_magic.0031.desc.opponent_response.tier_0_ward.injury: "Я, не сумев удержать, выпускаю из рук [sc_loser.Custom('signature_weapon')], и он отлетает назад. n/n/[my_foe.GetFirstNameNoTooltip] неверя смотрит на результат своих действий, пока наконец не пользуется представившейся возможностью, направляя [sc_victor.GetHerHis] [sc_victor.Custom('signature_weapon')] на мою шею. \n\n"С-сдавайся!"."
+ single_combat_magic.0031.desc.opponent_response.tier_1_ward.injury: "Я, не сумев удержать, выпускаю из рук [sc_loser.Custom('signature_weapon')], и он отлетает назад. n/n/Я ещё не успеваю прийти в себя, как [my_foe.GetFirstNameNoTooltip] использует представившуюся возможность, бросаясь вперёд и готовясь [sc_victor.Custom('SignatureWeaponKillTypeFirstPersonFuture')] своим [sc_victor.GetHerHis] [sc_victor.Custom('signature_weapon')]."
+ single_combat_magic.0031.desc.opponent_response.tier_2_ward.injury: "Мой [sc_loser.Custom('signature_weapon')] отскакивает от [sc_victor.GetHerHis] завершённого счита, вылетая из моих рук. n/n/Я ещё не успеваю прийти в себя, как [my_foe.GetFirstNameNoTooltip] использует представившуюся возможность, бросаясь вперёд и готовясь [sc_victor.Custom('SignatureWeaponKillTypeFirstPersonFuture')] своим [sc_victor.GetHerHis] [sc_victor.Custom('signature_weapon')]."
+ single_combat_magic.0031.desc.opponent_response.tier_3_ward.injury: "Когда удар мой достигает [sc_victor.GetFirstNameNoTooltip] завершённого щита, мощь его отражается, отправляя меня в полёт.  n/n/[my_foe.GetFirstNameNoTooltip] холодно смотрит на меня, пока я, поверженный, лежу на земле."
+  
+  ## Defender Lost, Opponent Finishing Move Fatality 
+ single_combat_magic.0031.desc.opponent_response.tier_0_generic_blast.fatality: "заряд попадает мне в шею. n/n/  всхрипываю, и и отпускаю оружие, и ещё до того как я успеваю что-либо сделать [sc_victor.GetFirstNameNoTooltip] рвётся вперёд, готовый добить меня [sc_victor.Custom('SignatureWeaponAttemptedHeavy')] своего [sc_victor.GetHerHis] [sc_victor.Custom('signature_weapon')]."
+ single_combat_magic.0031.desc.opponent_response.tier_1_generic_blast.fatality: "и ударяет мне прямо в живот, откидывая меня и валя на землю. n/n/[my_foe.GetFirstNameNoTooltip] холодно смотрит на меня, пока я, поверженный, лежу на земле."
+ single_combat_magic.0031.desc.opponent_response.tier_2_generic_blast.fatality: "[sc_victor.GetFirstNameNoTooltip] завершает своё заклинание, откидывая меня. n/n/[my_foe.GetFirstNameNoTooltip] холодно смотрит на меня, пока я, поверженный, лежу на земле."
+ single_combat_magic.0031.desc.opponent_response.tier_3_generic_blast.fatality: "[sc_victor.GetFirstNameNoTooltip] завершает своё заклинание, выпускаю в меня его полную силу. Я чувствую огромную силу, направленную в меня, а потом -"
+ single_combat_magic.0031.desc.opponent_response.tier_0_ward.fatality: "Я, не сумев удержать, выпускаю из рук [sc_loser.Custom('signature_weapon')], что отправлен в полёт. n/n/Я неверяще смотрю на мой [sc_loser.Custom('signature_weapon')] пока тот падает прямо на мою шею, мгновенно убивая меня."
+ single_combat_magic.0031.desc.opponent_response.tier_1_ward.fatality: "Я, не сумев удержать, выпускаю из рук [sc_loser.Custom('signature_weapon')], что отправлен в полёт. n/n/Я неверяще смотрю на мой [sc_loser.Custom('signature_weapon')] пока тот падает прямо на мою шею, мгновенно убивая меня."
+ single_combat_magic.0031.desc.opponent_response.tier_2_ward.fatality: "Мой [sc_loser.Custom('signature_weapon')] отскакивает от [sc_victor.GetHerHis] завершённого счита, вылетая из моих рук. n/n/Я ещё не успеваю прийти в себя, как [my_foe.GetFirstNameNoTooltip]использует представившуюся возможность, бросаясь вперёд и готовясь [sc_victor.Custom('SignatureWeaponKillTypeFirstPersonFuture')] своим [sc_victor.GetHerHis] [sc_victor.Custom('signature_weapon')]."
+ single_combat_magic.0031.desc.opponent_response.tier_3_ward.fatality: "Когда удар мой достигает [sc_victor.GetFirstNameNoTooltip] завершённого щита, моя атака отражается прямо мне в грудь с огромной силой и летальным результатом."
+  
+  ## Aggressor Lost, Own Combat Move Feedback 
+ single_combat_magic.0031.desc.sc_attacker.tier_0_generic_blast: "Мой слабый могический удар ничего не достиает, когда [sc_victor.GetFirstNameNoTooltip] отклоняет его своим [sc_victor.GetHerHis] [sc_victor.Custom('signature_weapon')]."
+ single_combat_magic.0031.desc.sc_attacker.tier_1_generic_blast: "Противник уклоняется от моего магического удара, с удивительной скоростью бросается вперёд и"
+ single_combat_magic.0031.desc.sc_attacker.tier_2_generic_blast: "Не успел я ещё полностью подготовить свой магический удар, как [sc_victor.GetFirstNameNoTooltip] бросается вперёд с [sc_victor.Custom('SignatureWeaponAttemptedLight')],"
+ single_combat_magic.0031.desc.sc_attacker.tier_3_generic_blast: "Не успел я ещё полностью подготовить свой магический удар, как [sc_victor.GetFirstNameNoTooltip] бросается вперёд с [sc_victor.Custom('SignatureWeaponAttemptedLight')],"
+ single_combat_magic.0031.desc.sc_attacker.tier_0_ward: "Мой жалкий щит не может остановить [sc_victor.GetFirstNameNoTooltip] чей [sc_victor.Custom('SignatureWeaponAttemptedHeavy')] легко сокрушает его и"
+ single_combat_magic.0031.desc.sc_attacker.tier_1_ward: "Оказалось ошибкой пологаться на мой магический щиь. С огромным усилием мой соперник подготавливает сокрушающий [sc_victor.Custom('SignatureWeaponAttemptedHeavy')] что ломает мой щит"
+ single_combat_magic.0031.desc.sc_attacker.tier_2_ward: "Пока мой щит ещё не успел полностью материализоваться, [sc_victor.GetFirstNameNoTooltip] бросается вперёд, вмешиваясь в моё заклинание своим [sc_victor.Custom('SignatureWeaponAttemptedHeavy')]."
+ single_combat_magic.0031.desc.sc_attacker.tier_3_ward: "Пока мой щит ещё не успел полностью материализоваться, [sc_victor.GetFirstNameNoTooltip] бросается вперёд, вмешиваясь в моё заклинание шквалом [sc_victor.Custom('SignatureWeaponAttemptedLightPlural')]."
+  
+  ## Aggressor Lost, Own Combat Move Injury 
+ single_combat_magic.0031.desc.sc_attacker.tier_0_generic_blast.injury: "[sc_victor.GetFirstNameNoTooltip] бросается вперёд со своим [sc_victor.GetHerHis] [sc_winner.Custom('signature_weapon')] и сваливает меня мощным ударом."
+ single_combat_magic.0031.desc.sc_attacker.tier_1_generic_blast.injury: "приставляет [sc_victor.GetHerHis] [sc_winner.Custom('signature_weapon')] к моей шее."
+ single_combat_magic.0031.desc.sc_attacker.tier_2_generic_blast.injury: "не успеваю я ещё заврешить своё заклинание, как [sc_victor.GetHerHis] [sc_winner.Custom('signature_weapon')] уже прижат к моей шее."
+ single_combat_magic.0031.desc.sc_attacker.tier_3_generic_blast.injury: "не успеваю я ещё заврешить своё заклинание, как [sc_victor.GetHerHis] [sc_winner.Custom('signature_weapon')] уже прижат к моей шее."
+ single_combat_magic.0031.desc.sc_attacker.tier_0_ward.injury: "становится очевидно, что я не сумею увернуться, до того как он [sc_victor.Custom('SignatureWeaponKillTypeFirstPersonFuture')] меня."
+ single_combat_magic.0031.desc.sc_attacker.tier_1_ward.injury: "становится очевидно, что я не сумею увернуться, до того как он [sc_victor.Custom('SignatureWeaponKillTypeFirstPersonFuture')] меня"
+ single_combat_magic.0031.desc.sc_attacker.tier_2_ward.injury: "[sc_victor.Custom('SignatureWeaponAttemptedHeavy')] ударяет меня в голову, сваливая меня."
+ single_combat_magic.0031.desc.sc_attacker.tier_3_ward.injury: "Неспособного защититься от [sc_victor.GetFirstNameNoTooltip] нападения, [sc_victor.GetSheHe] сваливает меня и приставляет [sc_victor.GetHerHis] оружие к моей шее."
+  
+  ## Aggressor Lost, Own Combat Move Fatality 
+ single_combat_magic.0031.desc.sc_attacker.tier_0_generic_blast.fatality: "готовится провести смертельный [sc_victor.Custom('SignatureWeaponKillTypeFirstPersonFuture')] его [sc_victor.GetHerHis] [sc_victor.Custom('signature_weapon')]."
+ single_combat_magic.0031.desc.sc_attacker.tier_1_generic_blast.fatality: ",извлекая выгоду з моей ошибки, готовится нанести смертельный [sc_victor.Custom('SignatureWeaponKillTypeFirstPersonFuture')] его [sc_victor.GetHerHis] [sc_victor.Custom('signature_weapon')]"
+ single_combat_magic.0031.desc.sc_attacker.tier_2_generic_blast.fatality: "и до того, как я успеваю завершить своё заклинание, [sc_victor.GetSheHe] готовится сечь  [sc_victor.GetHerHis] [sc_winner.Custom('signature_weapon')] мою шею."
+ single_combat_magic.0031.desc.sc_attacker.tier_3_generic_blast.fatality: "и до того, как я успеваю завершить своё заклинание, [sc_victor.GetSheHe] prepares to drive [sc_victor.GetHerHis] [sc_winner.Custom('signature_weapon')] мою шею."
+ single_combat_magic.0031.desc.sc_attacker.tier_0_ward.fatality: "валит меня. И пусть я и успеваю подняться, [sc_victor.GetFirstNameNoTooltip] уже готов нанести смертельный [sc_victor.Custom('SignatureWeaponKillTypeGroinFirstPersonFuture')]."
+ single_combat_magic.0031.desc.sc_attacker.tier_1_ward.fatality: "валит меня. И пусть я и успеваю подняться, [sc_victor.GetFirstNameNoTooltip] уже готов нанести смертельный [sc_victor.Custom('SignatureWeaponKillTypeGroinFirstPersonFuture')]."
+ single_combat_magic.0031.desc.sc_attacker.tier_2_ward.fatality: "Я не успеваю среагировать, как понимаю, что [sc_victor.GetFirstNameNoTooltip] [sc_winner.Custom('signature_weapon')] у моей шеи"
+ single_combat_magic.0031.desc.sc_attacker.tier_3_ward.fatality: "Мне нечем защититься от яростных атак [sc_victor.GetFirstNameNoTooltip] и одна из них в итоге достигает моей шеи."
+  
+  # Outcome Event: Victor 
+  ## Defender Won, Own Combat Move Feedback 
+ single_combat_magic.0041.desc.sc_defender.tier_0_generic_blast: "Моё жалкое заклинание превосходит все ожидания."
+ single_combat_magic.0041.desc.sc_defender.tier_1_generic_blast: "Мой магический удар откидывает врага."
+ single_combat_magic.0041.desc.sc_defender.tier_2_generic_blast: "Мой враг не успевает ничего поделать, когда я завершаю заклинание, выпуская мощный удар."
+ single_combat_magic.0041.desc.sc_defender.tier_3_generic_blast: "Мой враг не может никак помешать мне, пока я обрушиваю на [my_foe.GetHerHim] град мощных заклинаний."
+ single_combat_magic.0041.desc.sc_defender.tier_0_ward: "Мой жалкий магический щит превосходит всякие ожидания."
+ single_combat_magic.0041.desc.sc_defender.tier_1_ward: "Щит держится, успешно защищая меня от атак."
+ single_combat_magic.0041.desc.sc_defender.tier_2_ward: "Я сумел завершить мой щит, что легко защищает меня от вражеский атак."
+ single_combat_magic.0041.desc.sc_defender.tier_3_ward: "Я завершаю свой щит, что с лёгкостью отражает вражеские атаки."
+  
+  ## Defender Won, Opponent Finishing Move Feedback 
+ single_combat_magic.0041.desc.opponent_response.tier_0_generic_blast: "Когда [sc_loser.GetFirstNameNoTooltip] выпускает слабейшее заклинание из всех, что мне доводилось видеть, я быстро отбиваю его своим [sc_victor.Custom('signature_weapon')]."
+ single_combat_magic.0041.desc.opponent_response.tier_1_generic_blast: "Когда соперник выпускает магический удар, я бысто уворачиваюсь, бросаясь в атаку,"
+ single_combat_magic.0041.desc.opponent_response.tier_2_generic_blast: "Когда [sc_loser.GetFirstNameNoTooltip] жестикулирует в попытке запустить, вероятно, могучее заклинание, я понимаю, что должен действовать быстро. Ещё до того как [sc_loser.GetSheHe] завершает [sc_loser.GetHerHis] заклинание, я бросаюсь вперёд и"
+ single_combat_magic.0041.desc.opponent_response.tier_3_generic_blast: "Когда [sc_loser.GetFirstNameNoTooltip] жестикулирует в попытке запустить, вероятно невоятно могущественное заклинание, я понимаю, что должен действовать быстро. Ещё до того как [sc_loser.GetSheHe] завершает [sc_loser.GetHerHis] заклинание, я бросаюсь вперёд и"
+ single_combat_magic.0041.desc.opponent_response.tier_0_ward: "Я смеюсь, когда[sc_loser.GetFirstNameNoTooltip] самый жалкий магический щит, что я когда либо видел и бросаюсь вперёд с разрушительным [sc_victor.Custom('SignatureWeaponAttemptedHeavy')] что легко сметает его."
+ single_combat_magic.0041.desc.opponent_response.tier_1_ward: "Когда [sc_loser.GetFirstNameNoTooltip] защищает [sc_loser.GetHerselfHimself] магическим щитом, я подготавливаю сокрушительный [sc_victor.Custom('SignatureWeaponAttemptedHeavy')] что разрушает [sc_loser.GetHerHis] щит."
+ single_combat_magic.0041.desc.opponent_response.tier_2_ward: "As [sc_loser.GetFirstNameNoTooltip] жестикулирует в попытке создать, должно быть, мощное защитное заклинание, я понимаю, что должен действовать быстро. Ещё до того как [sc_loser.GetSheHe] завершает [sc_loser.GetHerHis] заклинание, я бросаюсь вперёд и"
+ single_combat_magic.0041.desc.opponent_response.tier_3_ward: "As [sc_loser.GetFirstNameNoTooltip] жестикулирует в попытке создать, должно быть, неразрушимое защитное заклинание, я понимаю, что должен действовать быстро. Ещё до того как [sc_loser.GetSheHe] завершает [sc_loser.GetHerHis] заклинание, я бросаюсь вперёд и"
+  
+  ## Defender Won, Opponent Finishing Move Injury 
+ single_combat_magic.0041.desc.opponent_response.tier_0_generic_blast.injury: "Пока [sc_loser.GetFirstNameNoTooltip] не успевает среагировать, я бросаюсь вперёд, приставляя мой [sc_victor.Custom('signature_weapon')] к [sc_loser.GetHerHis] шее."
+ single_combat_magic.0041.desc.opponent_response.tier_1_generic_blast.injury: ", пока [sc_loser.GetSheHe] не успевает среагировать, я приставляю мой [sc_victor.Custom('signature_weapon')] к [sc_loser.GetHerHis] шее."
+ single_combat_magic.0041.desc.opponent_response.tier_2_generic_blast.injury: ", пока [sc_loser.GetFirstNameNoTooltip] не успевает заврешить [sc_loser.GetHerHis] заклинание, я приставляю мой [sc_victor.Custom('signature_weapon')] к [sc_loser.GetHerHis] шее."
+ single_combat_magic.0041.desc.opponent_response.tier_3_generic_blast.injury: ", пока [sc_loser.GetFirstNameNoTooltip] не успевает заврешить [sc_loser.GetHerHis] заклинание, я приставляю мой [sc_victor.Custom('signature_weapon')] к [sc_loser.GetHerHis] шее."
+ single_combat_magic.0041.desc.opponent_response.tier_0_ward.injury: "Когда я готовлюсь нанести следующий удар, становится очевидно, что [sc_loser.GetFirstNameNoTooltip] не сможет увернуться от моего второго [sc_victor.Custom('SignatureWeaponAttemptedHeavy')]."
+ single_combat_magic.0041.desc.opponent_response.tier_1_ward.injury: "Когда я готовлюсь нанести следующий удар, становится очевидно, что [sc_loser.GetFirstNameNoTooltip] не сможет увернуться от моего второго [sc_victor.Custom('SignatureWeaponAttemptedHeavy')]."
+ single_combat_magic.0041.desc.opponent_response.tier_2_ward.injury: ", до того как [sc_loser.GetFirstNameNoTooltip] успевает завершить [sc_loser.GetHerHis] заклинание, я приставляю мой [sc_victor.Custom('signature_weapon')] к [sc_loser.GetHerHis] шее."
+ single_combat_magic.0041.desc.opponent_response.tier_3_ward.injury: ", до того как [sc_loser.GetFirstNameNoTooltip] успевает завершить [sc_loser.GetHerHis] заклинание, я приставляю мой [sc_victor.Custom('signature_weapon')] к [sc_loser.GetHerHis] шее."
+  
+  ## Defender Lost, Opponent Finishing Move Fatality 
+ single_combat_magic.0041.desc.opponent_response.tier_0_generic_blast.fatality: "Пока [sc_loser.GetFirstNameNoTooltip] не успевает среагировать, я бросаюсь на него, готовясь нанести [sc_victor.Custom('SignatureWeaponKillTypeFirstPersonFuture')] моим [sc_victor.GetHerHis] [sc_victor.Custom('signature_weapon')]."
+ single_combat_magic.0041.desc.opponent_response.tier_1_generic_blast.fatality: "Пока [sc_loser.GetFirstNameNoTooltip] не успевает среагировать, я бросаюсь на него готовясь нанести смертельный [sc_victor.Custom('SignatureWeaponKillTypeFirstPersonFuture')] моим [sc_victor.GetHerHis] [sc_victor.Custom('signature_weapon')]."
+ single_combat_magic.0041.desc.opponent_response.tier_2_generic_blast.fatality: "Пока [sc_loser.GetSheHe] не успевает среагировать, я готовлюсь рассечь [sc_victor.GetHerHis] [sc_winner.Custom('signature_weapon')] [sc_loser.GetHerHis] шею."
+ single_combat_magic.0041.desc.opponent_response.tier_3_generic_blast.fatality: "Пока [sc_loser.GetSheHe] не успевает среагировать, я готовлюсь рассечь [sc_victor.GetHerHis] [sc_winner.Custom('signature_weapon')] [sc_loser.GetHerHis] шею."
+ single_combat_magic.0041.desc.opponent_response.tier_0_ward.fatality: "Я убиваю соперника и побеждаю в дуэли."
+ single_combat_magic.0041.desc.opponent_response.tier_1_ward.fatality: "Я убиваю соперника и побеждаю в дуэли."
+ single_combat_magic.0041.desc.opponent_response.tier_2_ward.fatality: ", пока [sc_loser.GetFirstNameNoTooltip] не успевает заврешить [sc_loser.GetHerHis] заклинание, я приставляю мой [sc_victor.Custom('signature_weapon')] к [sc_loser.GetHerHis] шее."
+ single_combat_magic.0041.desc.opponent_response.tier_3_ward.fatality: ", пока [sc_loser.GetFirstNameNoTooltip] не успевает заврешить [sc_loser.GetHerHis] заклинание, я приставляю мой [sc_victor.Custom('signature_weapon')] к [sc_loser.GetHerHis] шее."
+  
+ ## Aggressor Won, Own Combat Move Feedback 
+ single_combat_magic.0041.desc.sc_attacker.tier_0_generic_blast: "Каким-то чудом однако удивительная скорость моего жалкого заклинание сумела застать [sc_loser.GetFirstNameNoTooltip] в расплох"
+ single_combat_magic.0041.desc.sc_attacker.tier_1_generic_blast: "[sc_loser.GetFirstNameNoTooltip] замирает, пока моё заклинание летит в [sc_loser.GetHerHim]"
+ single_combat_magic.0041.desc.sc_attacker.tier_2_generic_blast: "Видя мою попытку сотворить опасное заклинание, [sc_loser.GetFirstNameNoTooltip] бросается на меня, но уже слишком поздно. До того как [sc_loser.GetFirstNameNoTooltip] успевает мне помешать, я запускаю в него могучее заклинание"
+ single_combat_magic.0041.desc.sc_attacker.tier_3_generic_blast: "Видя мою попытку сотворить опасное заклинание, [sc_loser.GetFirstNameNoTooltip] бросается на меня, но уже слишком поздно. До того как [sc_loser.GetFirstNameNoTooltip] успевает мне помешать, я запускаю в него могучее заклинание"
+ single_combat_magic.0041.desc.sc_attacker.tier_0_ward: "Несмотря на все старания [sc_loser.GetFirstNameNoTooltip], мой слабый щит выдерживает [sc_loser.GetHerHis] атаки,"
+ single_combat_magic.0041.desc.sc_attacker.tier_1_ward: "[sc_loser.GetFirstNameNoTooltip] пытается прорваться через мой щит мощным  [sc_loser.Custom('SignatureWeaponAttemptedHeavy')], но тот отскакивает"
+ single_combat_magic.0041.desc.sc_attacker.tier_2_ward: "Видя мои попытки защититься мощным заклинанием,[sc_loser.GetFirstNameNoTooltip] бросается вперёд с [sc_loser.Custom('SignatureWeaponAttemptedHeavy')], но слишком поздно. Я уже завершаю заклинание, когда удар достигает моего щита и"
+ single_combat_magic.0041.desc.sc_attacker.tier_3_ward: "Видя мои попытки защититься мощным заклинанием,[sc_loser.GetFirstNameNoTooltip] бросается вперёд с [sc_loser.Custom('SignatureWeaponAttemptedHeavy')], но слишком поздно. Я уже завершаю заклинание, когда удар достигает моего щита и"
+  
+ ## Aggressor Won, Own Combat Move Injury 
+ single_combat_magic.0041.desc.sc_attacker.tier_0_generic_blast.injury: "и попадает [sc_loser.GetHerHim] в шею. \n\n[sc_loser.GetFirstNameNoTooltip] всхрипывает и, в удивлении, роняет оружиеНедоумённо на это смотря, я понимаю, что это, возможно, мой шанс на победу, и смело направляю мой меч [sc_victor.Custom('signature_weapon')] в [sc_loser.GetFirstNameNoTooltip].\n\nС-сдавайся!""
+ single_combat_magic.0041.desc.sc_attacker.tier_1_generic_blast.injury: "и попадает [sc_loser.GetHerHim] прямо в живот, отправляя [sc_loser.GetHerHim] в полёт, завершающийся падением на землю."
+ single_combat_magic.0041.desc.sc_attacker.tier_2_generic_blast.injury: "Я направляю заклинание в [sc_loser.GetFirstNameNoTooltip], откидывая [sc_loser.GetHerHim] назад. Я холодно смотрю на [sc_loser.GetHerHim] когда [sc_loser.GetSheHe] лежит, поверженный, на земле."
+ single_combat_magic.0041.desc.sc_attacker.tier_3_generic_blast.injury: "Я направляю заклинание в [sc_loser.GetFirstNameNoTooltip], откидывая [sc_loser.GetHerHim] назад. Я холодно смотрю на [sc_loser.GetHerHim] когда [sc_loser.GetSheHe] лежит, поверженный, на земле."
+ single_combat_magic.0041.desc.sc_attacker.tier_0_ward.injury: "сопернику не удаётся удержать [sc_loser.GetHerHim] [sc_loser.Custom('signature_weapon')] n/n/ Пока [sc_loser.GetFirstNameNoTooltip] ещё не успел прийти в чувства, я быстро направляю мой [sc_victor.Custom('signature_weapon')] в [sc_loser.GetHerHis] шею. \n\n"С-сдавайся!"."
+ single_combat_magic.0041.desc.sc_attacker.tier_1_ward.injury: "и отлетает назад, когда [sc_loser.GetFirstNameNoTooltip] не сумел его удержать. n/n/ Пока [sc_loser.GetFirstNameNoTooltip] ещё не успел прийти в чувства, я бросаюсь вперёд, готовясь [sc_victor.Custom('SignatureWeaponKillTypeFirstPersonFuture')] [sc_loser.GetHerHim] своим [sc_victor.Custom('signature_weapon')]"
+ single_combat_magic.0041.desc.sc_attacker.tier_2_ward.injury: "[sc_loser.GetFirstNameNoTooltip] не сумел удержать [sc_loser.GetHerHis] [sc_victor.Custom('signature_weapon')], когда тот отскочил от моего щита и отправлися в полёт. n/n/ Я быстро извлекаю выгоду из ситуации, сжимая мой [sc_victor.Custom('signature_weapon')] и бросаясь вперёд с [sc_victor.Custom('SignatureWeaponKillTypeFirstPersonFuture')]."
+ single_combat_magic.0041.desc.sc_attacker.tier_3_ward.injury: "[sc_loser.GetFirstNameNoTooltip] не сумел удержать [sc_loser.GetHerHis] [sc_victor.Custom('signature_weapon')], когда тот отскочил от моего щита и отправлися в полёт. n/n/ Я быстро извлекаю выгоду из ситуации, сжимая мой [sc_victor.Custom('signature_weapon')] и бросаясь вперёд с  [sc_victor.Custom('SignatureWeaponKillTypeFirstPersonFuture')]."
+  
+ ## Aggressor Won, Own Combat Move Injury 
+ single_combat_magic.0041.desc.sc_attacker.tier_0_generic_blast.fatality: "и попадает [sc_loser.GetHerHim]  в шею. \n\n[sc_loser.GetFirstNameNoTooltip] всхрипывает и, в удивлении, роняет оружие. Недоумённо на это смотря, я понимаю, что это, возможно, мой шанс на победу и бросаюсь вперёд, готовясь ударить [sc_loser.GetFirstNameNoTooltip] своим [sc_victor.Custom('signature_weapon')]."
+ single_combat_magic.0041.desc.sc_attacker.tier_1_generic_blast.fatality: "и попадает [sc_loser.GetHerHim] прямо в живот, отправляя [sc_loser.GetHerHim] в полёт, завершающийся падением на землю."
+ single_combat_magic.0041.desc.sc_attacker.tier_2_generic_blast.fatality: "Я направляю заклинание в [sc_loser.GetFirstNameNoTooltip], откидывая [sc_loser.GetHerHim] назад. Я холодно смотрю на [sc_loser.GetHerHim] когда [sc_loser.GetSheHe] лежит, поверженный, на земле."
+ single_combat_magic.0041.desc.sc_attacker.tier_3_generic_blast.fatality: "Я направляю заклинание в [sc_loser.GetFirstNameNoTooltip], откидывая [sc_loser.GetHerHim] назад. Я холодно смотрю на [sc_loser.GetHerHim] когда [sc_loser.GetSheHe] лежит, поверженный, на земле."
+ single_combat_magic.0041.desc.sc_attacker.tier_0_ward.fatality: "сопернику не удаётся удержать [sc_loser.GetHerHis] [sc_loser.Custom('signature_weapon')], что полетел прямо вверх. И [sc_loser.GetFirstNameNoTooltip] и я неверяще смотрим на [sc_loser.Custom('signature_weapon')] когда тот падает прямо на [sc_loser.GetFirstNameNoTooltip]."
+ single_combat_magic.0041.desc.sc_attacker.tier_1_ward.fatality: "и взлетает прямо вверх, когда [sc_loser.GetFirstNameNoTooltip] не сумел его удержать. [sc_loser.GetFirstNameNoTooltip] и я неверяще смотрим на [sc_loser.Custom('signature_weapon')] когда тот падает прямо на [sc_loser.GetFirstNameNoTooltip].."
+ single_combat_magic.0041.desc.sc_attacker.tier_2_ward.fatality: "[sc_loser.GetFirstNameNoTooltip] не сумел удержать [sc_loser.GetHerHis] [sc_victor.Custom('signature_weapon')] когда тот отскочил от моего щита и отправлися в полёт. n/n/ Я быстро извлекаю выгоду из ситуации, сжимая мой [sc_victor.Custom('signature_weapon')], и бросаясь вперёд с [sc_victor.Custom('SignatureWeaponKillTypeFirstPersonFuture')]."
+ single_combat_magic.0041.desc.sc_attacker.tier_3_ward.fatality: "[sc_loser.GetFirstNameNoTooltip] не сумел удержать [sc_loser.GetHerHis] [sc_victor.Custom('signature_weapon')] когда тот отскочил от моего щита и отправлися в полёт. n/n/ Я быстро извлекаю выгоду из ситуации, сжимая мой [sc_victor.Custom('signature_weapon')], и бросаясь вперёд с [sc_victor.Custom('SignatureWeaponKillTypeFirstPersonFuture')]."

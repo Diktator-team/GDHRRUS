@@ -1,0 +1,77 @@
+﻿l_russian:
+  
+ #hubarism Loc 
+ hubarism_religion: "хабаризм"
+ hubarism_religion_adj: "Хубаризм"
+ hubarism_religion_adherent: "Хубаристы"
+ hubarism_religion_adherent_plural: "Хубаристы"
+ hubarism_religion_desc: "Хубаристы являются частью древней веры в [sarradon|E], которую исповедуют живые маги с тех пор, как была записана история. В центре веры - Солнце, источник всего сущего, чьи благословения нисходят на магов, как лучи света на посевы. Путешествуя по небу, Солнце переправляет души умерших в свое царство, где оно вершит суд в течение ночи. Антагонистом Солнца является Олюм, который посылает своего аватара Луну охотиться за Солнцем по ночам"
+ hubarism_high_god_name: "Шамсах"
+ hubarism_high_god_name_possessive: "Shamsah's"
+ hubarism_high_god_name_alternate: "Великое солнце"
+ hubarism_high_god_name_alternate_possessive: "The Great Sun's"
+ hubarism_devil_name: "$hubarism_death_deity_name$"
+ hubarism_devil_name_possessive: "$hubarism_death_deity_name_possessive$"
+ hubarism_death_deity_name: "Пустота"
+ hubarism_death_deity_name_possessive: "The Void's"
+  
+  
+  
+ hubarism_house_of_worship: "Храм"
+ hubarism_house_of_worship_plural: "Храмы"
+ hubarism_religious_symbol: "Сияние Солнца"
+ hubarism_religious_text: "Свитки Шамсы"
+  
+ hubarism_religious_head_title: "Лучезарный волхв-судья"
+ hubarism_religious_head_title_name: "Суд Великого Солнца"
+ hubarism_devotee_male: "Хабарист"
+ hubarism_devotee_male_plural: "Хубаристы"
+ hubarism_devotee_female: "Хубаристы"
+ hubarism_devotee_female_plural: "хабаристы"
+ hubarism_devotee_neuter: "Хабаристка"
+ hubarism_devotee_neuter_plural: "Хубаристы"
+ hubarism_priest_male: "Маг-судья"
+ hubarism_priest_male_plural: "Маги-судьи"
+ hubarism_priest_female: "Маг-судья"
+ hubarism_priest_female_plural: "Маги-судьи"
+ hubarism_priest_alternate: "Маг-судья"
+ hubarism_priest_alternate_plural: "Magi-Judges"
+ hubarism_bishop: "Блистательный волхв-судья"
+ hubarism_bishop_plural: "Блестящие маги-судьи"
+ hubarism_positive_afterlife: "Коллегия Шамса"
+ hubarism_negative_afterlife: "Пустота"
+  
+ hubarism_creator_god_name: "$hubarism_high_god_name$"
+ hubarism_creator_god_name_possessive: "$hubarism_high_god_name_possessive$"
+ hubarism_health_god_name: "$hubarism_high_god_name$"
+ hubarism_health_god_name_possessive: "$hubarism_fertility_god_name_possessive$"
+ hubarism_fertility_god_name: "$hubarism_high_god_name$"
+ hubarism_fertility_god_name_possessive: "$hubarism_high_god_name_possessive$"
+ hubarism_wealth_god_name: "$hubarism_high_god_name$"
+ hubarism_wealth_god_name_possessive: "$hubarism_high_god_name_possessive$"
+ hubarism_household_god_name: "$hubarism_high_god_name_alternate$"
+ hubarism_household_god_name_possessive: "$hubarism_high_god_name_alternate_possessive$"
+ hubarism_fate_god_name: "$hubarism_high_god_name$"
+ hubarism_fate_god_name_possessive: "$hubarism_high_god_name_possessive$"
+ hubarism_knowledge_god_name: "$hubarism_high_god_name$"
+ hubarism_knowledge_god_name_possessive: "$hubarism_high_god_name_possessive$"
+ hubarism_war_god_name: "$hubarism_high_god_name_alternate$"
+ hubarism_war_god_name_possessive: "$hubarism_high_god_name_alternate_possessive$""
+ hubarism_trickster_god_name: "$hubarism_death_deity_name$"
+ hubarism_trickster_god_name_possessive: "$hubarism_death_deity_name_possessive$"
+ hubarism_night_god_name: "$hubarism_trickster_god_name$"
+ hubarism_night_god_name_possessive: "$hubarism_trickster_god_name$"
+ hubarism_water_god_name: "$hubarism_high_god_name_alternate$"
+ hubarism_water_god_name_possessive: "$hubarism_high_god_name_alternate_possessive$"
+ hubarism_witch_god_name: "$hubarism_death_deity_name$" #Машинный перевод 30.06.2023
+ hubarism_witch_god_name_possessive: "$hubarism_death_deity_name_possessive$" #Машинный перевод 30.06.2023
+  
+  
+ #hubarism loc 
+ hubarism: "хабаризм"
+ hubarism_adj: "хабарит"
+ hubarism_adherent: "хабаристы"
+ hubarism_adherent_plural: "Хубаристы"
+ hubarism_desc: "Хубариты рассматривают волхвов, получавших свои дары от Солнца, как хранителей его воли и исполнителей закона. Эта система магов-судей была эффективной с незапамятных времен, но в последнее время ее судьба изменилась на противоположную. Столетия религиозных конфликтов с [варденитами|E], [ритуалистами|E] и, наконец, агонистами значительно уменьшили их власть, и теперь хубаристы - лишь тень того, чем они когда-то были."
+  
+ holy_order_mekter_netaru: "Мектер Нетару" #Машинный перевод 30.06.2023

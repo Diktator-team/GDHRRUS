@@ -1,0 +1,15 @@
+﻿l_russian:
+ kemsar_towers_modifier: "Возобновление Так'хана"
+ kemsar_towers_modifier_desc: "Мы предпринимаем всяческие меры, необходимые для возрождения древнего Так'хана по всему миру."
+  
+ county_adventure_creepy_graveyard_modifier: "Жуткое кладбище"
+ county_adventure_ancient_ruin_modifier: "Древние Руины"
+ county_adventure_Forboding_Temple_modifier: "Запретный Храм"
+ county_adventure_Abandoned_Dungeon_modifier: "Заброшенное подземелье"
+ county_adventure_Mysterious_Cave_modifier: "Таинственная пещера"
+ county_adventure_creepy_graveyard_modifier_desc: "Жуткое кладбище"
+ county_adventure_ancient_ruin_modifier_desc: "Древние Руины"
+ county_adventure_Forboding_Temple_modifier_desc: "Запретный Храм"
+ county_adventure_Abandoned_Dungeon_modifier_desc: "Заброшенное подземелье"
+ county_adventure_Mysterious_Cave_modifier_desc: "Таинственная пещера"
+ go_on_adeventure: "Отправится на поиски приключений"

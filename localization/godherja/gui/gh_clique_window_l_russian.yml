@@ -1,0 +1,15 @@
+﻿l_russian:
+ CLIQUES_BUTTON: "#T Cliques#!"
+ CLIQUES_VIEW_TITLE: "Cliques"
+ GUIDING_VALUES_TITLE: "Guiding Values"
+ GUIDING_VALUES_TOOLTIP: "#E Guiding Values#! abstractly represent the fundamental belief, tenets and overarching goals of a #E Clique#!. Characters will be vastly more likely to join a #E Clique#! that aligns with their own personal values, and will likewise have increased #E Internal Influence#! when within a fitting #E Clique#!."
+ OPPOSED_VALUES_TITLE: "Opposed Values"
+ OPPOSED_VALUES_TOOLTIP: "Having [traits|E] that run counter to the spirit of a #E Clique#! will reduce the likelihood of the character joining, and will likewise lower their #E Internal Influence#! if they do."
+ FAVORED_SKILLS_TITLE: "Favored Skills"
+ CLIQUE_ASPECTS_TITLE: "Aspects"
+ CLIQUE_INTERACTIONS_TITLE: "Interactions"
+ CLIQUE_LEADER: "Leader"
+ JOIN_CLIQUE: "Join"
+ LEAVE_CLIQUE: "Leave"
+  
+ UPGRADED_ORDER_NAME: "[old_clique_bearing_title.GetNameNoTierNoTooltip]"
