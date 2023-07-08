@@ -1,14 +1,14 @@
 ﻿l_russian:
- FAITH_MAMURAMAT: "Mamuramat"
- FAITH_MAMURAMAT_HEADING: "Mamurs"
- FAITH_WARDENITE_HIGH_JUDGES_HEADING: "High Court"
- MAMUR_NOT_RECOGNISED: "Not Recognised"
+ FAITH_MAMURAMAT: "Мамурамат"
+ FAITH_MAMURAMAT_HEADING: "Mамуры"
+ FAITH_WARDENITE_HIGH_JUDGES_HEADING: "Высокий суд"
+ MAMUR_NOT_RECOGNISED: "Не опознан"
   
  MAMURAMAT_SCHISM_NAME: "[GetPlayer.GetFirstNameNoTooltip]"
- MAMURAMAT_UNIFIED_NAME: "The Mamuramat"
- e_western_mamuramat_shorthand_name: "Western"
- e_central_mamuramat_shorthand_name: "Central"
- e_eastern_mamuramat_shorthand_name: "Eastern"
- e_far_eastern_mamuramat_shorthand_name: "Far Eastern"
- e_southern_mamuramat_shorthand_name: "Southern"
- e_continental_mamuramat_shorthand_name: "Континентальный" #Машинный перевод 30.06.2023
+ MAMURAMAT_UNIFIED_NAME: "Мамурамат"
+ e_western_mamuramat_shorthand_name: "Западный"
+ e_central_mamuramat_shorthand_name: "Центральный"
+ e_eastern_mamuramat_shorthand_name: "Восточный"
+ e_far_eastern_mamuramat_shorthand_name: "Дальневосточный"
+ e_southern_mamuramat_shorthand_name: "Южный"
+ e_continental_mamuramat_shorthand_name: "Континентальный" #Ручной перевод 08.07.2023 Ace_I

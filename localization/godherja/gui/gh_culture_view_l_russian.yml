@@ -1,2 +1,2 @@
 ﻿l_russian:
- CULTURE_WINDOW_COUNTIES: "[GuiScope.SetRoot( Culture.MakeScope ).ScriptValue('culture_size')|0] [counties|E] are of this culture"
+ CULTURE_WINDOW_COUNTIES: "[GuiScope.SetRoot( Culture.MakeScope ).ScriptValue('culture_size')|0] [counties|E] этой культуры"
