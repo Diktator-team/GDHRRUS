@@ -1,8 +1,8 @@
 ﻿l_russian:
  HUNTING_WINDOW_TITLE: "Бестиарий"
- HUNTING_WINDOW_MONSTERS: "[monsters]"
- HUNTING_WINDOW_BIOZONES: "Zones"
- OPEN_BESTIARY: "#T Open Bestiary#!\nСмотри, [Concept('monsters','монстры')|E] и #E зоны#! в бестиарии."
+ HUNTING_WINDOW_MONSTERS: "[monsters|E]"
+ HUNTING_WINDOW_BIOZONES: "Биомы"
+ OPEN_BESTIARY: "#T Open Bestiary#!\nИзучай [Concept('monsters','монстров')|E] и #E биомы#! в бестиарии."
   
  mundane_tier_color_prefix: "#color_white"
  low_tier_color_prefix: "#difficulty_easy"
